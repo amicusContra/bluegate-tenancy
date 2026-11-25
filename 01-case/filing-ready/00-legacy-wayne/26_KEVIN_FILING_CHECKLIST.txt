@@ -1,0 +1,197 @@
+===========================================================
+     KEVIN MOK v. SMITH — FILING CHECKLIST
+     Ingham County Circuit Court
+===========================================================
+
+     COURT ADDRESS:
+     Ingham County Circuit Court — Clerk's Office
+     313 W. Kalamazoo St, Lansing, MI 48933
+     (517) 483-6300
+     Hours: 8:00 AM – 5:00 PM, Monday – Friday
+
+     NOTE: Ingham County 30th Circuit does NOT accept e-filing.
+     No email. No fax. No MiFILE. Paper only.
+     You must file in person at the Clerk's window.
+     Filings received before 4:30 PM are stamped that day.
+
+     CASE TYPE CODE: CZ (General Civil)
+     MCR 8.119(C) requires case type code for new cases.
+
+===========================================================
+           BEFORE YOU LEAVE THE HOUSE
+===========================================================
+
+DOCUMENTS TO PRINT:
+
+    [ ] COMPLAINT (26_KEVIN_V_SHAYLA_COMPLAINT.txt)
+        Print 6 COPIES total:
+          1 — Court (original, signed and dated)
+          2 — Judge's copy
+          3 — Defendant Shayla Smith (service copy)
+          4 — Defendant Leon A. Smith (service copy)
+          5 — Defendant Marquita L. Smith (service copy)
+          6 — Defendant Simone Smith (service copy)
+
+    [ ] EXHIBIT A — Shayla's "overheard" admission
+        Print from her Answer (Case 26-108221-DC, Doc 1,
+        Factor b) — the excerpt where she admits to
+        "overhearing" conversations through children's
+        devices and attributes statements to DaSean.
+        Print 6 COPIES — staple behind each complaint copy.
+        This is her own sworn words proving Counts I and II.
+
+    [ ] COVERSHEET (26_KEVIN_COVERSHEET.txt)
+        Print 4 COPIES (one per service envelope)
+
+    [ ] MC 01 — SUMMONS AND COMPLAINT form
+        Download from: courts.michigan.gov/forms
+        Pre-fill:
+          Court:    Ingham County Circuit Court
+          Case No:  Leave blank (Clerk assigns)
+          Case Type: CZ
+          Plaintiff: Kevin Mok
+                     [REDACTED_ADDR_1] Dr
+                     Lansing, MI 48910
+                     [REDACTED_PHONE]
+          Defendant: Shayla Smith, Leon A. Smith,
+                     Marquita L. Smith, Simone Smith
+                     XXXXX Dresden St
+                     Detroit, MI 48205
+        Print 5 COPIES:
+          1 — Court (original)
+          2-5 — One per Defendant (for service)
+
+BRING TO COURTHOUSE:
+
+    [ ] Photo ID (driver's license)
+    [ ] $260 filing fee (WITH JURY DEMAND)
+          - $150 filing + $85 jury demand + $25 ESF
+          - Cash, check/money order (payable to "Circuit
+            Court Clerk"), or credit/debit card accepted
+          - Card payment has a nonrefundable convenience fee
+    [ ] Blue or black ink pen for signing
+
+===========================================================
+           AT THE CLERK'S WINDOW
+===========================================================
+
+    1. Hand the Clerk:
+       - The ORIGINAL signed complaint
+       - The Judge's copy
+       - All MC 01 copies
+       - The filing fee ($260 — includes jury demand)
+
+    2. The Clerk will:
+       - Assign a Case Number
+       - Issue Summons (stamp the MC 01 copies)
+       - File-stamp your complaint
+       - Return your service copies
+
+    3. ASK THE CLERK:
+       - "Which judge is assigned?"
+       - Write the Case Number and Judge's name on
+         ALL service copies immediately
+       - Confirm CZ (General Civil) is the correct
+         case type code
+
+    4. KEEP the file-stamped original for your records.
+
+===========================================================
+        AFTER FILING — SERVICE BY CERTIFIED MAIL
+===========================================================
+
+    Serve each Defendant SEPARATELY via USPS Certified Mail,
+    Return Receipt Requested. MCR 2.105(A)(2).
+
+    DO NOT USE RESTRICTED DELIVERY. We want anyone at
+    17370 Dresden to sign. Leon the mailman will see
+    every envelope. Every Smith under that roof will
+    know what's inside.
+
+    PREPARE 4 ENVELOPES:
+
+    ENVELOPE 1 — SHAYLA SMITH
+    [ ] File-stamped complaint copy
+    [ ] Summons (MC 01 copy with case number)
+    [ ] Coversheet
+    → Address: Shayla Smith
+               XXXXX Dresden St
+               Detroit, MI 48205
+
+    ENVELOPE 2 — LEON A. SMITH
+    [ ] File-stamped complaint copy
+    [ ] Summons (MC 01 copy with case number)
+    [ ] Coversheet
+    → Address: Leon A. Smith
+               XXXXX Dresden St
+               Detroit, MI 48205
+
+    ENVELOPE 3 — MARQUITA L. SMITH
+    [ ] File-stamped complaint copy
+    [ ] Summons (MC 01 copy with case number)
+    [ ] Coversheet
+    → Address: Marquita L. Smith
+               XXXXX Dresden St
+               Detroit, MI 48205
+
+    ENVELOPE 4 — SIMONE SMITH
+    [ ] File-stamped complaint copy
+    [ ] Summons (MC 01 copy with case number)
+    [ ] Coversheet
+    → Address: Simone Smith
+               XXXXX Dresden St
+               Detroit, MI 48205
+
+    POST OFFICE STEPS:
+    [ ] Buy 4 Certified Mail receipts (green card)
+    [ ] Keep all 4 tracking numbers
+    [ ] Photograph all 4 receipts immediately
+    [ ] Log tracking numbers in USPS_TRACKING.md
+
+    ESTIMATED POSTAGE PER ENVELOPE:
+    - First-Class letter (large envelope): ~$1.50
+    - Certified Mail fee: $4.15
+    - Return Receipt (green card): $3.55
+    - TOTAL PER ENVELOPE: ~$9.20
+    - TOTAL FOR 4: ~$36.80
+
+===========================================================
+         AFTER MAILING — PROOF OF SERVICE
+===========================================================
+
+    After green cards come back signed:
+
+    [ ] File Proof of Service (MC 104) with the Court
+        - One per Defendant (4 total)
+        - Attach the signed green card to each
+        - File within a reasonable time after service
+
+    [ ] If any Defendant does not respond within 21 days:
+        - File Request for Default (MC 105)
+        - Then Motion for Default Judgment
+
+===========================================================
+           TOTAL ESTIMATED COSTS
+===========================================================
+
+    Filing fee (w/ jury):      $260.00
+    Certified mail (x4):        $36.80
+    Copies/printing:             ~$5.00
+    ─────────────────────────────────
+    TOTAL:                    ~$301.80
+
+===========================================================
+            TIMELINE
+===========================================================
+
+    Day 0:   File complaint, get case number
+    Day 0:   Mail certified copies to all 4 Defendants
+    Day 3-5: Letters arrive at 17370 Dresden
+             Leon carries them to his own front door.
+    Day 21:  Response deadline for all Defendants
+    Day 22+: If no response → Request for Default
+    Day 30+: If still no response → Default Judgment
+             Judgment lien attaches to 17370 Dresden.
+
+===========================================================
+

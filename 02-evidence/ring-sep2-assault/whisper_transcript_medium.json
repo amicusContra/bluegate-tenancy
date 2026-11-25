@@ -1,0 +1,229 @@
+{
+  "text": " No Call the police call the police mom call the police call the police Yes, we're gonna call them man. We're gonna call them",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 1.3200000000000016,
+      "end": 2.06,
+      "text": " No",
+      "tokens": [
+        50364,
+        883,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43472298213413785,
+      "compression_ratio": 1.9076923076923078,
+      "no_speech_prob": 0.6473190784454346,
+      "words": [
+        {
+          "word": " No",
+          "start": 1.3200000000000016,
+          "end": 2.06,
+          "probability": 0.09143444150686264
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.0,
+      "end": 14.98,
+      "text": " Call the police call the police mom call the police call the police",
+      "tokens": [
+        50864,
+        7807,
+        264,
+        3804,
+        818,
+        264,
+        3804,
+        1225,
+        818,
+        264,
+        3804,
+        818,
+        264,
+        3804,
+        51088
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43472298213413785,
+      "compression_ratio": 1.9076923076923078,
+      "no_speech_prob": 0.6473190784454346,
+      "words": [
+        {
+          "word": " Call",
+          "start": 9.630000000000003,
+          "end": 10.000000000000002,
+          "probability": 0.5700962543487549
+        },
+        {
+          "word": " the",
+          "start": 10.000000000000002,
+          "end": 10.74,
+          "probability": 0.9927728772163391
+        },
+        {
+          "word": " police",
+          "start": 10.74,
+          "end": 11.4,
+          "probability": 0.9944719076156616
+        },
+        {
+          "word": " call",
+          "start": 11.4,
+          "end": 11.7,
+          "probability": 0.8613078594207764
+        },
+        {
+          "word": " the",
+          "start": 11.7,
+          "end": 11.9,
+          "probability": 0.9930398464202881
+        },
+        {
+          "word": " police",
+          "start": 11.9,
+          "end": 12.18,
+          "probability": 0.9966946840286255
+        },
+        {
+          "word": " mom",
+          "start": 12.18,
+          "end": 12.66,
+          "probability": 0.32633838057518005
+        },
+        {
+          "word": " call",
+          "start": 12.66,
+          "end": 13.1,
+          "probability": 0.8712311387062073
+        },
+        {
+          "word": " the",
+          "start": 13.1,
+          "end": 13.28,
+          "probability": 0.998404324054718
+        },
+        {
+          "word": " police",
+          "start": 13.28,
+          "end": 13.98,
+          "probability": 0.9989651441574097
+        },
+        {
+          "word": " call",
+          "start": 13.98,
+          "end": 14.36,
+          "probability": 0.6629722118377686
+        },
+        {
+          "word": " the",
+          "start": 14.36,
+          "end": 14.52,
+          "probability": 0.9953269958496094
+        },
+        {
+          "word": " police",
+          "start": 14.52,
+          "end": 14.98,
+          "probability": 0.9993383288383484
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.76,
+      "end": 18.62,
+      "text": " Yes, we're gonna call them man. We're gonna call them",
+      "tokens": [
+        51152,
+        1079,
+        11,
+        321,
+        434,
+        799,
+        818,
+        552,
+        587,
+        13,
+        492,
+        434,
+        799,
+        818,
+        552,
+        51295
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.43472298213413785,
+      "compression_ratio": 1.9076923076923078,
+      "no_speech_prob": 0.6473190784454346,
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 15.76,
+          "end": 16.44,
+          "probability": 0.332011878490448
+        },
+        {
+          "word": " we're",
+          "start": 16.44,
+          "end": 16.82,
+          "probability": 0.6985726207494736
+        },
+        {
+          "word": " gonna",
+          "start": 16.82,
+          "end": 16.98,
+          "probability": 0.7997756600379944
+        },
+        {
+          "word": " call",
+          "start": 16.98,
+          "end": 17.34,
+          "probability": 0.9776889085769653
+        },
+        {
+          "word": " them",
+          "start": 17.34,
+          "end": 17.6,
+          "probability": 0.5900468230247498
+        },
+        {
+          "word": " man.",
+          "start": 17.6,
+          "end": 17.86,
+          "probability": 0.26682817935943604
+        },
+        {
+          "word": " We're",
+          "start": 17.86,
+          "end": 18.16,
+          "probability": 0.9512309432029724
+        },
+        {
+          "word": " gonna",
+          "start": 18.16,
+          "end": 18.26,
+          "probability": 0.9080604314804077
+        },
+        {
+          "word": " call",
+          "start": 18.26,
+          "end": 18.6,
+          "probability": 0.975784420967102
+        },
+        {
+          "word": " them",
+          "start": 18.6,
+          "end": 18.97,
+          "probability": 0.6846538186073303
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

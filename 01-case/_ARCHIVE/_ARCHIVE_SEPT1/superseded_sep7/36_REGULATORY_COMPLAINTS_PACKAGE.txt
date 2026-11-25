@@ -1,0 +1,898 @@
+REGULATORY COMPLAINTS PACKAGE — BRIAN RODERICK BANKS
+Filed by: Kevin Mok
+Date prepared: August 30, 2026
+Date to submit: Monday, September 1, 2026
+
+=====================================================================
+FILING LOCATIONS AND PROCEDURES
+=====================================================================
+
+#1  STATE BAR OF MICHIGAN — UPL COMPLAINT
+    Address: 306 Townsend St, Lansing MI 48933
+    Email:   upl@michbar.org
+    Phone:   (517) 346-6305
+    Form:    michbar.org/file/public_resources/complaintform.pdf
+    Method:  Download PDF, fill out, print, mail with attachments
+             OR email completed form + attachments to upl@michbar.org
+    WALKABLE FROM LANSING — submit in person Monday
+
+#2  MICHIGAN DEPARTMENT OF EDUCATION — CERT VIOLATION
+    Address: 608 W. Allegan Street, P.O. Box 30008, Lansing MI 48909
+    Email:   MDE-EducatorHelp@Michigan.gov
+    Phone:   (517) 241-5000
+    Section: Educator Conduct and Professional Practices
+    Method:  Letter + supporting documents, mail or deliver in person
+    WALKABLE FROM LANSING — submit in person Monday
+
+#3  MICHIGAN ATTORNEY GENERAL — UPL PROSECUTION + CAMPAIGN FINANCE
+    Address: 525 W. Ottawa St, Lansing MI 48933
+    Phone:   (517) 335-7622
+    Method:  Letter + supporting documents, mail or deliver in person
+    WALKABLE FROM LANSING — submit in person Monday
+
+#4  JUDICIAL TENURE COMMISSION — JUDGE TENISHA YANCEY
+    Address: 3034 West Grand Blvd, Suite 8-350, Detroit MI 48202
+    Phone:   (313) 875-5110
+    Form:    jtc.courts.mi.gov (Request for Investigation form)
+    Method:  MUST BE ORIGINAL NOTARIZED SIGNATURE. Cannot be emailed.
+             Mail only. Get notarized at UPS Store or bank in Lansing,
+             then mail certified.
+    NOTE:    Detroit address — MAIL from Lansing Monday
+
+#5  JUDICIAL TENURE COMMISSION — JUDGE CYLENTHIA LaTOYE MILLER
+    Same address and procedure as #4. Separate form required for
+    each judge unless allegations are interrelated (these are
+    interrelated — both concern Banks). Can use one form if desired,
+    but separate forms are cleaner.
+
+#6  DPSCD OFFICE OF CHARTER SCHOOLS — AUTHORIZER COMPLAINT
+    Address: 3011 West Grand Blvd, Detroit MI 48202
+    Phone:   (313) 240-4377
+    Email:   dpscd.compliance@detroitk12.org
+    Method:  Letter + supporting documents
+    NOTE:    DPSCD is PCA's charter authorizer. They are responsible
+             for monitoring PCA's compliance with its charter contract
+             and all applicable laws. They collect a 3% authorization
+             fee (~$65K/yr) from PCA.
+    MAIL from Lansing Monday — or email to dpscd.compliance@detroitk12.org
+
+=====================================================================
+MONDAY ROUTE — LANSING (walking distance, all within ~1 mile)
+=====================================================================
+
+1. Print all documents at home or LCC library
+2. Get JTC forms notarized (UPS Store, bank, or LCC notary)
+3. Walk to State Bar (306 Townsend St) — deliver #1
+4. Walk to MDE (608 W. Allegan St) — deliver #2
+5. Walk to AG (525 W. Ottawa St) — deliver #3
+6. Mail JTC complaints (#4, #5) certified from USPS downtown
+   (315 W. Allegan St — same block as MDE)
+7. At USPS, also mail DPSCD complaint (#6) certified to:
+   DPSCD Office of Charter Schools
+   3011 West Grand Blvd, Detroit MI 48202
+   (OR email to dpscd.compliance@detroitk12.org Monday evening)
+
+Total: ~4 in-person stops + 1 mailing, all within walking distance of downtown Lansing
+
+=====================================================================
+ATTACHMENTS TO INCLUDE WITH ALL COMPLAINTS
+=====================================================================
+
+Print and include with each complaint:
+- This narrative (complaint-specific section)
+- BANKS_OSINT_BRIEF.md (comprehensive background)
+- LinkedIn screenshots (IMG_5794 through IMG_5817)
+- MacDowell Board of Directors page (macdowellprep.com screenshot)
+- PCA founder page (purposecharteracademy.com screenshot)
+- Purpose Group website (thepurposegroupmichigan.com screenshot)
+- Elrick articles (July 3, 2022 and Aug 27, 2023 — print from web)
+- Chalkbeat article (Sept 8, 2025 — print from web)
+- PCA Bash Authorization document (Kevin's copy)
+
+=====================================================================
+
+              COMPLAINT #1 — STATE BAR OF MICHIGAN
+              UNAUTHORIZED PRACTICE OF LAW COMPLAINT
+
+=====================================================================
+
+Complainant:
+  Kevin Mok
+  [REDACTED_ADDR_1]
+  [REDACTED_CITY]
+  [REDACTED_PHONE]
+
+Non-lawyer's name:
+  Brian Roderick Banks (also uses "Dr. Brian Banks, J.D., Ph.D.")
+  DOB: [date of birth withheld]
+
+Non-lawyer's address:
+  MacDowell Preparatory Academy
+  4201 W. Outer Drive, Detroit, MI 48221
+  bbanks@macdowellprep.com
+
+  Purpose Charter Academy
+  10101 E. Canfield Street, Detroit, MI 48214
+  info@purposecharteracademy.com
+
+DESCRIPTION OF COMPLAINT:
+
+On August 29, 2026, I attended the Purpose Charter Academy (PCA)
+Back to School Bash at 10101 E. Canfield Street, Detroit, MI 48214,
+as the authorized representative of DaSean Mitchell, the father of
+two minor children enrolled at PCA. Mr. Mitchell authorized me in
+writing to attend on his behalf because he was at work. The
+authorization referenced the active Wayne County Circuit Court
+custody case (Case No. 26-108221-DC, Hon. Regina Triplett) and
+included the children's names, dates of birth, and Mr. Mitchell's
+identification and contact information.
+
+Brian Banks, who introduced himself as "Dr. Banks," examined my
+authorization documents for approximately 10 seconds. He then told
+me: "I'm a lawyer."
+
+Banks used this false claim to deny me access to information about
+Mr. Mitchell's children at PCA. He evaluated the legal sufficiency
+of a parental authorization document, rendered a legal opinion that
+it was insufficient, and imposed a consequence — blocking a
+father's authorized representative from the school event. He did
+this while exercising institutional authority as the school's
+founder and administrator.
+
+Banks has never been licensed to practice law in Michigan. I have
+confirmed this through the State Bar of Michigan's attorney search.
+He has never been admitted to any state bar.
+
+PATTERN OF UPL:
+
+This is not an isolated incident. Banks has a documented 20-year
+pattern of falsely claiming to be an attorney:
+
+1. Approximately 2005-2012: Banks repeatedly claimed to be an
+   attorney to constituents and officials while serving as a
+   Michigan State Representative. (Source: M.L. Elrick, Detroit
+   Free Press, multiple articles 2012-2023)
+
+2. 2010: Banks fabricated pay stubs from "IHI Attorneys and
+   Consultants," a Farmington-based law firm that never employed
+   him, to obtain a fraudulent loan. He was charged and convicted.
+   (Source: Michigan Attorney General indictment, 2016; plea deal,
+   2017)
+
+3. 2012-2017: Banks listed "JD, Criminal Law" on his legislative
+   biography without disclosing he was unlicensed. (Source: Michigan
+   Department of Education records, cited by Elrick)
+
+4. 2019: "[Banks] has claimed in the past to be an attorney."
+   (Source: M.L. Elrick, Fox 2 Detroit / Detroit Free Press)
+
+5. 2023: Elrick reported Banks' continued false attorney claims.
+   (Source: Detroit Free Press, Aug 27, 2023)
+
+6. 2024-present: Banks' LinkedIn profile (created October 2024)
+   lists "Law" and "Criminal Law" as active skills. His consulting
+   firm "Banks Strategy & Consultants" advertises services including
+   "Advise, counsel, and develop strategic plans... including
+   licensing" and "Prepare proposals for licensing and procurement
+   of contracts for clients." These are legal services being
+   advertised by a non-lawyer. (Source: LinkedIn screenshots,
+   IMG_5805-5806, captured August 29, 2026)
+
+7. August 29, 2026: Banks told me "I'm a lawyer" at PCA while
+   evaluating a parental authorization document and denying a
+   father's representative access to the school.
+
+CRIMINAL HISTORY:
+
+Banks has 8 felony convictions (plea deal, 2017). He was originally
+charged by the Michigan Attorney General in 2016 as a habitual
+offender. His convictions include fraud-related offenses. These
+convictions would prevent him from passing the Character and Fitness
+review required for bar admission.
+
+Banks was also named as a "target subject" in an FBI wiretap
+application (2016) in connection with the investigation of towing
+company owner Gasper Fiore, who was convicted of bribery.
+
+INSTITUTIONAL POSITIONS:
+
+Banks currently holds the following positions:
+
+- Superintendent and Chief Academic Officer, MacDowell Preparatory
+  Academy (K-8 charter school, Detroit)
+- Founder, Purpose Charter Academy (K-8 charter school, Detroit)
+- Managing Member (presumed), The Purpose Group Michigan LLC
+  (charter management organization for PCA)
+
+His school website identifies him as "Dr. Brian Banks, J.D., Ph.D."
+The Pahara Institute fellowship directory lists him using "J.D."
+credentials. His school's "Our Founder" page describes his "Juris
+Doctor, with a concentration in Criminal Law, from Michigan State
+University College of Law" without disclosing his non-admission.
+
+HARM:
+
+Banks' false attorney claim on August 29, 2026, directly harmed:
+
+1. DaSean Mitchell — whose fundamental constitutional right to
+   participate in his children's education (Troxel v. Granville,
+   530 U.S. 57) was denied by a non-lawyer making an unauthorized
+   legal determination
+
+2. Kevin Mok (complainant) — whose lawful presence as an authorized
+   representative was blocked through fraud and institutional
+   authority
+
+3. The minor children — whose father's involvement in their
+   education was suppressed by a school administrator exercising
+   unauthorized legal authority
+
+REQUESTED ACTION:
+
+I request that the State Bar investigate Banks' ongoing unauthorized
+practice of law and refer the matter to the Michigan Attorney
+General for prosecution under MCL 450.681.
+
+SUPPORTING DOCUMENTS ATTACHED:
+
+- BANKS_OSINT_BRIEF.md (comprehensive OSINT analysis)
+- LinkedIn screenshots showing "Law" and "Criminal Law" skills
+  and consulting services advertisement
+- PCA Bash Parental Authorization (copy)
+- Elrick articles (July 3, 2022; Aug 27, 2023)
+
+Respectfully submitted,
+
+_________________________________
+Kevin Mok
+Date: September 1, 2026
+
+
+=====================================================================
+
+              COMPLAINT #2 — MICHIGAN DEPARTMENT OF EDUCATION
+              ADMINISTRATOR CERTIFICATE CONDITIONS VIOLATION
+
+=====================================================================
+
+Office of Educator Excellence
+Educator Conduct and Professional Practices
+Michigan Department of Education
+608 W. Allegan Street
+P.O. Box 30008
+Lansing, MI 48909
+MDE-EducatorHelp@Michigan.gov
+
+RE: Brian Roderick Banks — School Administrator Certificate
+    Violation of Certificate Conditions (Cash-Handling Prohibition)
+
+Dear Office of Educator Excellence:
+
+I am writing to report that Brian Roderick Banks, holder of a
+Michigan School Administrator Certificate issued August 7, 2023,
+is in active violation of the conditions placed on that certificate
+by the Michigan Department of Education.
+
+BACKGROUND:
+
+As reported by M.L. Elrick in the Detroit Free Press (August 27,
+2023), MDE State Superintendent Dr. Michael Rice issued Banks'
+administrator certificate with specific conditions, including a
+prohibition on handling cash. MDE spokesman Bill DiSessa confirmed
+the certificate conditions to Elrick.
+
+Banks holds this certificate and currently serves as Superintendent
+and Chief Academic Officer of MacDowell Preparatory Academy, a K-8
+public charter school at 4201 W. Outer Drive, Detroit, MI 48221.
+He is also the founder of Purpose Charter Academy, a K-8 charter
+school at 10101 E. Canfield Street, Detroit, MI 48214, managed by
+The Purpose Group Michigan LLC.
+
+EVIDENCE OF CASH-HANDLING VIOLATION:
+
+Banks exercises direct financial control over MacDowell Preparatory
+Academy's $5,896,918 in annual expenditures (FY2025 audited
+financial statements, Alan C. Young & Associates, P.C.):
+
+1. Budget authority: Banks' LinkedIn describes his MacDowell
+   Superintendent role as including "Ensure a positive year-end
+   fiscal balance" and "Advise on the annual budget development."
+   The school ran a $968,295 deficit in FY2025.
+
+2. Mid-year budget override: The Operations & Maintenance budget
+   was doubled mid-year from $362,000 (approved) to $762,000+
+   (actual) — a $400,000 increase requiring superintendent
+   authorization.
+
+3. Vendor selection: The MacDowell SpEd RFP (April 2024) directed
+   all proposals to "Dr. Brian Banks, Superintendent." He
+   personally selects vendors who receive public education funds.
+
+4. Hiring authority: The Purpose Group career fair (LinkedIn,
+   IMG_5817) shows Banks' management company hiring staff for PCA.
+   All public education money for PCA flows through The Purpose
+   Group — Banks' own entity.
+
+5. School Administration Services: The FY2025 audit shows $667,426
+   in "School Administration Services" — Banks' salary is embedded
+   in this line item, and he controls the budget category.
+
+6. Vehicle lease: MacDowell has a vehicle lease with Hoekstra
+   Leasing at $2,336/month ($28,032/year). The superintendent
+   would authorize this expenditure.
+
+7. Building loan: MacDowell has a building loan with Credit Union
+   ONE with a $719,737 balloon payment due June 2026. The
+   superintendent manages this debt obligation.
+
+8. Management company: The Purpose Group Michigan LLC manages PCA.
+   Banks is the presumed managing member. All state per-pupil
+   funding for PCA (~$2.16M in Year 1) flows through his company.
+
+The certificate condition's intent was to prevent Banks from having
+financial control over public education funds. He has exactly that
+control — across two schools and a management company — totaling
+approximately $7-8 million per year.
+
+ADDITIONAL CONCERNS:
+
+1. Unauthorized Practice of Law: On August 29, 2026, Banks told me
+   "I'm a lawyer" while evaluating a parental authorization document
+   at PCA. He has never been admitted to the Michigan Bar. This has
+   been reported separately to the State Bar of Michigan.
+
+2. His LinkedIn profile lists "Law" and "Criminal Law" as active
+   skills and his consulting firm advertises legal services.
+
+3. The Pahara Institute lists Banks as a fellow using "J.D."
+   credentials without disclosing his criminal history or
+   non-bar-admission.
+
+REQUESTED ACTION:
+
+I request that the Department:
+
+1. Conduct a compliance review of Banks' administrator certificate
+   conditions, specifically the cash-handling prohibition
+
+2. Determine whether Banks' exercise of financial control at
+   MacDowell, PCA, and The Purpose Group violates his certificate
+   conditions
+
+3. Take appropriate action to enforce the conditions, up to and
+   including certificate revocation
+
+SUPPORTING DOCUMENTS ATTACHED:
+
+- BANKS_OSINT_BRIEF.md (comprehensive OSINT analysis including
+  FY2025 audit data and entity web)
+- LinkedIn screenshots showing budget responsibilities
+- SpEd RFP showing Banks as vendor selector
+- Elrick articles (July 3, 2022; Aug 27, 2023)
+
+Respectfully submitted,
+
+_________________________________
+Kevin Mok
+[REDACTED_ADDR_1]
+[REDACTED_CITY]
+[REDACTED_PHONE]
+eco.primal@pm.me
+
+Date: September 1, 2026
+
+
+=====================================================================
+
+              COMPLAINT #3 — MICHIGAN ATTORNEY GENERAL
+              UPL PROSECUTION REFERRAL + CAMPAIGN FINANCE
+
+=====================================================================
+
+Michigan Attorney General
+525 W. Ottawa Street
+Lansing, MI 48933
+
+RE: Brian Roderick Banks — Referral for Prosecution
+    (1) Unauthorized Practice of Law — MCL 450.681
+    (2) Campaign Finance Violations — Follow-up to May 2022 Referral
+
+Dear Attorney General:
+
+I am writing to refer Brian Roderick Banks (DOB: [date of birth withheld]) for
+criminal prosecution under MCL 450.681 (Unauthorized Practice of
+Law) and to request a status update on the campaign finance referral
+made by the Michigan Secretary of State on May 12, 2022.
+
+Your office is familiar with Mr. Banks. In 2016, you indicted him
+on multiple felony counts as a habitual offender. He pled to a
+reduced charge in 2017 and received 8 felony convictions.
+
+I. UNAUTHORIZED PRACTICE OF LAW — NEW OFFENSE
+
+On August 29, 2026, at Purpose Charter Academy's Back to School
+Bash (10101 E. Canfield Street, Detroit, MI 48214), Banks told me
+"I'm a lawyer." He used this false claim to deny me access to
+information about two minor children on whose father's behalf I
+was authorized to act.
+
+Banks has never been admitted to the Michigan Bar. He has never
+passed the Bar Exam. His 8 felony convictions would prevent him
+from passing Character and Fitness review.
+
+This is not an isolated incident. Banks has a documented 20-year
+pattern of falsely claiming to be an attorney (see attached
+BANKS_OSINT_BRIEF.md for the complete pattern with citations).
+
+His LinkedIn profile (created October 2024) currently advertises
+legal services through "Banks Strategy & Consultants":
+- "Advise, counsel, and develop strategic plans... including
+  licensing"
+- "Prepare proposals for licensing and procurement of contracts"
+- Lists "Law" and "Criminal Law" as active skills
+
+This constitutes ongoing UPL under MCL 450.681 — both through
+direct false claims and through public advertisement of legal
+services by an unlicensed individual.
+
+MCL 450.681 classifies UPL as a felony punishable by up to 5 years
+imprisonment. With Banks' 8 prior felony convictions, the habitual
+offender statute (MCL 769.12) permits enhanced sentencing.
+
+I have filed a concurrent complaint with the State Bar of Michigan
+UPL Department.
+
+II. CAMPAIGN FINANCE — STATUS REQUEST
+
+On May 12, 2022, the Michigan Secretary of State referred the
+"Bank on Banks for Michigan" PAC to your office for investigation.
+As reported by M.L. Elrick (Detroit Free Press, July 3, 2022):
+
+- The PAC owes $14,500 in fines for failing to file campaign
+  finance reports
+- The PAC shares Banks' home mailing address
+- Its treasurer is Joseph Holland, Banks' longtime associate
+- Banks told the Secretary of State he has "no campaign accounts
+  that are registered to me with anything owed or outstanding"
+
+Additionally:
+- Banks bounced a $6,875 check to Outfront Media for Senate
+  campaign billboards (2018)
+- A consent judgment of $9,000 was entered (April 1, 2019)
+- Banks told the Secretary of State he paid Outfront Media and
+  closed his campaign account with a $0 balance
+- Outfront Media was never paid. The debt has grown to $17,000+
+- Banks was subpoenaed to appear with financial records on May 25,
+  2022, in Wayne County Circuit Court. He never appeared.
+
+This constitutes potential false reporting to the Secretary of
+State (MCL 169.215) and misuse of campaign funds (MCL 169.247).
+
+I request a status update on the May 2022 referral and ask that
+the new UPL offense be added to any pending investigation of
+Banks' activities.
+
+SUPPORTING DOCUMENTS ATTACHED:
+
+- BANKS_OSINT_BRIEF.md (comprehensive OSINT analysis)
+- LinkedIn screenshots (UPL advertising evidence)
+- Elrick articles (July 3, 2022; Aug 27, 2023)
+
+This complaint has also been filed with the State Bar of Michigan
+and the Michigan Department of Education.
+
+Respectfully submitted,
+
+_________________________________
+Kevin Mok
+[REDACTED_ADDR_1]
+[REDACTED_CITY]
+[REDACTED_PHONE]
+eco.primal@pm.me
+
+Date: September 1, 2026
+
+
+=====================================================================
+
+              COMPLAINT #4 — JUDICIAL TENURE COMMISSION
+              RE: JUDGE TENISHA R. YANCEY (36th District Court)
+
+=====================================================================
+
+NOTE: This complaint must be submitted on the official JTC Request
+for Investigation form with an ORIGINAL NOTARIZED SIGNATURE. The
+text below is the narrative for Part III of the form. Attach
+additional pages as needed.
+
+MAIL TO:
+  Judicial Tenure Commission
+  3034 West Grand Blvd., Suite 8-350
+  Detroit, MI 48202
+
+Get notarized at UPS Store or bank in Lansing Monday morning,
+then mail certified.
+
+---------------------------------------------------------------------
+
+REQUEST FOR INVESTIGATION — NARRATIVE (Part III)
+Judicial Officer: Hon. Tenisha R. Yancey
+Court: 36th District Court, Detroit, Michigan
+Courtroom: 335
+
+ALLEGATIONS:
+
+Judge Tenisha R. Yancey currently serves as Board Chair of
+MacDowell Preparatory Academy, a K-8 public charter school at
+4201 W. Outer Drive, Detroit, MI 48221, while simultaneously
+serving as a judge of the 36th District Court.
+
+The superintendent of MacDowell Preparatory Academy is Brian
+Roderick Banks, who has 8 felony convictions (plea deal, 2017),
+has never been admitted to the Michigan Bar despite claiming to
+be an attorney, is forbidden by his administrator certificate to
+handle cash, was named as a "target subject" in an FBI wiretap
+application (2016), owes $14,500 in campaign finance fines, and
+has an active $17,000+ judgment for a bounced check in Wayne
+County Circuit Court.
+
+Judge Yancey's relationship with Banks predates her judicial
+service. She succeeded Banks in Michigan House of Representatives
+District 1 after his February 2017 resignation. Wikipedia
+describes her as "a friend of Bank's" who he "volunteered" for
+during her campaign. She was elected to the special election in
+November 2017 and subsequently elected judge in November 2022.
+
+As Board Chair of MacDowell, Judge Yancey:
+
+1. Oversees a $5,896,918 budget controlled by a superintendent
+   with 8 felony convictions for financial fraud
+
+2. Approved (or failed to prevent) a $968,295 deficit in FY2025
+
+3. Approved (or failed to prevent) a doubling of the Operations
+   & Maintenance budget from $362,000 to $762,000+ mid-year
+
+4. Serves alongside two licensed attorneys (Kristine Longstreet,
+   Supervising Attorney, Neighborhood Defender Service; Verkeydia
+   Hall, Esq., Scarfone & Geen, P.C.) — none of whom have
+   publicly flagged Banks' certificate conditions, unauthorized
+   practice of law, or financial control issues
+
+5. Governs a school whose superintendent told me "I'm a lawyer"
+   on August 29, 2026, while denying a father's representative
+   access to the school — a felony under MCL 450.681
+
+This conduct raises concerns under:
+
+- Canon 2: "A judge should avoid impropriety and the appearance
+  of impropriety in all activities." A sitting judge chairing the
+  board of a school run by an 8-time convicted felon who falsely
+  claims to be an attorney creates, at minimum, the appearance of
+  impropriety.
+
+- Canon 4: A judge's extrajudicial activities shall not cast
+  reasonable doubt on the judge's capacity to act impartially.
+  Judge Yancey's personal friendship with Banks and her role
+  governing his school raise questions about her capacity to act
+  impartially in any matter involving Banks, charter schools, or
+  the parties connected to this network.
+
+I am not a litigant before Judge Yancey. I am filing this
+complaint as a concerned citizen who has directly witnessed Banks'
+unauthorized practice of law and who has documented his broader
+pattern of fraud and institutional capture through open-source
+intelligence research.
+
+SUPPORTING DOCUMENTS:
+
+- BANKS_OSINT_BRIEF.md (comprehensive background)
+- MacDowell Board of Directors page (macdowellprep.com)
+- Elrick articles (July 3, 2022; Aug 27, 2023)
+- FY2025 MacDowell audited financial data
+- Ballotpedia page for Judge Yancey
+
+Respectfully submitted,
+
+_________________________________
+Kevin Mok
+[REDACTED_ADDR_1], [REDACTED_CITY]
+[REDACTED_PHONE]
+
+NOTARIZED: _____________ (date)
+NOTARY: _________________ (signature and seal)
+
+
+=====================================================================
+
+              COMPLAINT #5 — JUDICIAL TENURE COMMISSION
+              RE: JUDGE CYLENTHIA LaTOYE MILLER (3rd Circuit Court)
+
+=====================================================================
+
+NOTE: Same procedure as #4. Official JTC form, original notarized
+signature, mail only. Can be combined with #4 on one form if
+allegations are interrelated (they are — both concern Banks).
+Separate forms are cleaner.
+
+---------------------------------------------------------------------
+
+REQUEST FOR INVESTIGATION — NARRATIVE (Part III)
+Judicial Officer: Hon. Cylenthia LaToye Miller
+Court: Third Judicial Circuit Court, Criminal Division, Detroit, MI
+
+ALLEGATIONS:
+
+Judge Cylenthia LaToye Miller served on the nine-member
+development team that founded Purpose Charter Academy (PCA), a
+K-8 public charter school at 10101 E. Canfield Street, Detroit,
+MI 48214.
+
+This was reported by Chalkbeat on September 8, 2025: "The nine-
+member development team behind Purpose Charter Academy includes
+Michigan Third Circuit Court Judge Cylenthia LaToye Miller,
+attorney Lamar Moreland, as well as educators, mental health
+practitioners, and civic leaders, said Board member Sherry
+Gay-Dagnogo."
+
+PCA was founded by Brian Roderick Banks, who has 8 felony
+convictions (plea deal, 2017), has never been admitted to the
+Michigan Bar despite claiming to be an attorney, is forbidden by
+his administrator certificate to handle cash, was named as a
+"target subject" in an FBI wiretap application (2016), and owes
+$14,500 in campaign finance fines.
+
+Judge Miller serves in the Criminal Division of the Third Circuit
+Court. She is a criminal division judge who helped a man with 8
+felony convictions for financial fraud found a charter school
+whose stated mission is to prepare students for careers in "law
+and public service."
+
+Judge Miller previously served on the 36th District Court from
+April 2006 through August 2019 — the same court where Judge
+Tenisha Yancey now sits. Judge Yancey separately serves as Board
+Chair of MacDowell Preparatory Academy, Banks' other school.
+
+Judge Miller's campaign endorsers (keepjudgemiller.com) include
+Wayne County Executive Warren Evans and Wayne County Treasurer
+Eric Sabree — the same officials who endorsed Banks' 2022 Wayne
+County Commission bid (per Elrick, Detroit Free Press, July 3,
+2022).
+
+On August 29, 2026, Banks told me "I'm a lawyer" at PCA — the
+school Judge Miller helped found — while denying a father's
+authorized representative access to the school. This is a felony
+under MCL 450.681.
+
+This conduct raises concerns under:
+
+- Canon 2: "A judge should avoid impropriety and the appearance
+  of impropriety in all activities." A criminal division judge
+  lending her name and judicial credibility to a charter school
+  development team led by a man with 8 felony convictions creates
+  the appearance of impropriety.
+
+- Canon 4: A judge's extrajudicial activities shall not cast
+  reasonable doubt on the judge's capacity to act impartially.
+  Judge Miller's affiliation with Banks' school raises questions
+  about her impartiality in matters involving Banks, charter
+  schools, or connected parties.
+
+Judge Miller is currently running for re-election to the Third
+Circuit Court in the November 3, 2026 general election.
+
+SUPPORTING DOCUMENTS:
+
+- BANKS_OSINT_BRIEF.md (comprehensive background)
+- Chalkbeat article (September 8, 2025) identifying Judge Miller
+  on PCA's development team
+- Elrick articles (July 3, 2022; Aug 27, 2023)
+- keepjudgemiller.com endorsement page
+- Ballotpedia page for Judge Miller
+
+Respectfully submitted,
+
+_________________________________
+Kevin Mok
+[REDACTED_ADDR_1], [REDACTED_CITY]
+[REDACTED_PHONE]
+
+NOTARIZED: _____________ (date)
+NOTARY: _________________ (signature and seal)
+
+
+=====================================================================
+
+              COMPLAINT #6 — DPSCD OFFICE OF CHARTER SCHOOLS
+              CHARTER AUTHORIZER — SCHOOL OPERATOR FITNESS
+
+=====================================================================
+
+DPSCD Office of Charter Schools
+3011 West Grand Blvd.
+Detroit, MI 48202
+dpscd.compliance@detroitk12.org
+
+RE: Purpose Charter Academy — Operator Fitness and Compliance
+    School Founder/Administrator: Brian Roderick Banks
+    Charter Contract Year: 1 (2025-2028)
+    School Location: 10101 E. Canfield Street, Detroit, MI 48214
+
+Dear Office of Charter Schools:
+
+I am writing to report serious concerns about the fitness of
+Brian Roderick Banks to operate Purpose Charter Academy (PCA),
+a charter school authorized by DPSCD under a three-year contract
+approved by the DPSCD Board in July 2025.
+
+I. THE INCIDENT
+
+On August 29, 2026, I attended PCA's Back to School Bash at
+10101 E. Canfield Street as the authorized representative of
+DaSean Mitchell, the father of two minor children enrolled at PCA.
+Mr. Mitchell authorized me in writing to attend on his behalf
+because he was at work. The authorization referenced the active
+Wayne County Circuit Court custody case (Case No. 26-108221-DC)
+and included the children's names, dates of birth, and
+Mr. Mitchell's identification and contact information.
+
+Brian Banks, who introduced himself as "Dr. Banks," reviewed
+my authorization for approximately ten seconds and stated:
+"I'm a lawyer."
+
+Banks used this false claim to initially deny me access to the
+school event. He evaluated a parental authorization document,
+rendered a legal opinion on its sufficiency, and imposed a
+consequence — blocking a father's authorized representative from
+the school.
+
+Banks has never been admitted to the Michigan Bar. He has never
+held a license to practice law in any jurisdiction.
+
+II. BANKS' CRIMINAL HISTORY AND CERTIFICATE CONDITIONS
+
+Banks pled guilty to eight (8) felony counts of fraud in Wayne
+County Circuit Court in 2017, arising from a Michigan Attorney
+General indictment in 2016. He was originally charged as a
+habitual offender.
+
+Despite this history, MDE issued Banks a School Administrator
+Certificate on August 7, 2023, with special conditions including
+a prohibition on handling cash. As detailed in a concurrent
+complaint I have filed with MDE, Banks is in active violation of
+this condition — he exercises direct financial control over
+approximately $7-8 million in annual public education funds
+across MacDowell Preparatory Academy, PCA, and The Purpose Group
+Michigan LLC.
+
+III. PATTERN OF FALSE ATTORNEY CLAIMS
+
+Banks' August 29, 2026 claim is not an isolated incident. He has
+a documented twenty-year pattern of falsely claiming to be an
+attorney:
+
+- 2005-2012: False attorney claims while serving as MI State Rep
+- 2010: Fabricated pay stubs from fictitious law firm
+- 2012-2017: "JD, Criminal Law" on legislative biography
+- 2019, 2023: Reported by M.L. Elrick (Detroit Free Press/Fox 2)
+- 2024-present: LinkedIn profile lists "Law" as active skill;
+  consulting firm advertises legal services
+- August 29, 2026: Told me "I'm a lawyer" at PCA
+
+IV. PARENTAL RIGHTS CONCERN
+
+Mr. Mitchell's children were enrolled at PCA by their mother,
+Defendant Shayla Smith, on July 22, 2026 — eight days after
+Mr. Mitchell filed a Counterclaim for Custody. Mr. Mitchell was
+never informed of the school's name or location. When his
+authorized representative arrived at PCA, Banks used false legal
+authority to deny access.
+
+MCL 380.1137 guarantees parental access to school records and
+information. A school administrator has no authority to render
+legal opinions on the validity of a parental authorization — and
+certainly no authority to do so while falsely claiming to be a
+lawyer.
+
+V. WHAT THIS MEANS FOR DPSCD
+
+DPSCD authorized PCA's charter. DPSCD appoints PCA's board
+members as public officials. DPSCD is responsible for monitoring
+PCA's compliance with its charter contract and all applicable laws.
+
+The man who founded PCA, who operates it through his management
+company (The Purpose Group Michigan LLC), and who runs its
+day-to-day operations has:
+- 8 felony convictions for financial fraud
+- A 20-year history of falsely claiming to be an attorney
+- An administrator certificate with a cash-handling prohibition
+  he is violating
+- Used false legal authority to deny a father's representative
+  access to the school
+
+DPSCD collects a 3% authorization fee from PCA (estimated
+~$65,000 in Year 1). This fee comes with an oversight obligation.
+
+VI. REQUESTED ACTION
+
+I request that DPSCD:
+
+1. Conduct a compliance review of PCA's charter contract
+2. Investigate Banks' fitness to operate a DPSCD-authorized school
+3. Review whether PCA's enrollment procedures comply with parental
+   rights under MCL 380.1137
+4. Determine whether the August 29, 2026 incident constitutes a
+   violation of the charter contract's requirements regarding
+   parent engagement and compliance with law
+5. Provide the results of its review to the undersigned
+
+VII. CONCURRENT FILINGS
+
+This complaint has been filed concurrently with:
+- State Bar of Michigan (UPL complaint)
+- Michigan Department of Education (certificate conditions violation)
+- Michigan Attorney General (UPL prosecution referral)
+- Judicial Tenure Commission (complaints re: Judge Yancey and
+  Judge Miller, both connected to Banks' schools)
+
+I am also preparing a civil lawsuit naming Banks, The Purpose
+Group Michigan LLC, and PCA as defendants in Ingham County
+Circuit Court for unauthorized practice of law, fraud, and
+interference with parental rights.
+
+SUPPORTING DOCUMENTS ATTACHED:
+
+- BANKS_OSINT_BRIEF.md (comprehensive OSINT analysis)
+- LinkedIn screenshots (IMG_5794-5817)
+- PCA Bash Parental Authorization (copy)
+- Elrick articles (July 3, 2022; Aug 27, 2023)
+- Chalkbeat article (September 8, 2025)
+
+Respectfully submitted,
+
+_________________________________
+Kevin Mok
+[REDACTED_ADDR_1]
+[REDACTED_CITY]
+[REDACTED_PHONE]
+eco.primal@pm.me
+
+Date: September 1, 2026
+
+
+=====================================================================
+CHECKLIST — MONDAY SEPTEMBER 1, 2026
+=====================================================================
+
+BEFORE LEAVING HOME:
+[ ] Print this entire document (all 6 complaints)
+[ ] Print BANKS_OSINT_BRIEF.md (6 copies — one for each complaint)
+[ ] Print LinkedIn screenshots IMG_5794-5817
+[ ] Print Elrick articles (July 3, 2022; Aug 27, 2023)
+[ ] Print Chalkbeat article (Sept 8, 2025)
+[ ] Print MacDowell board page screenshot
+[ ] Print PCA founder page screenshot
+[ ] Print Purpose Group website screenshot
+[ ] Print PCA Bash Authorization (Kevin's copy)
+[ ] Download State Bar UPL complaint form PDF, fill out, print
+[ ] Download JTC Request for Investigation form PDF (x2), fill out
+[ ] Bring valid ID for notary
+
+MORNING STOPS:
+[ ] 1. Notary (UPS Store / bank / LCC) — notarize both JTC forms
+[ ] 2. State Bar of Michigan (306 Townsend St) — deliver #1 + attachments
+[ ] 3. MDE (608 W. Allegan St) — deliver #2 + attachments
+[ ] 4. AG (525 W. Ottawa St) — deliver #3 + attachments
+[ ] 5. USPS downtown (315 W. Allegan St) — mail #4 and #5 certified
+       to JTC in Detroit (3034 West Grand Blvd, Suite 8-350, 48202)
+
+AFTER SUBMITTING:
+[ ] Photograph each delivery receipt / certified mail receipt
+[ ] Save all receipts in bluegate-tenancy/records/
+[ ] Update FILING_LOG.md with dates, addresses, tracking numbers
+[ ] Email copies to self for backup (eco.primal@pm.me)
+
+=====================================================================
+END OF COMPLAINTS PACKAGE
+=====================================================================
+

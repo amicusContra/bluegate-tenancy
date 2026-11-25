@@ -1,0 +1,1984 @@
+[
+  {
+    "source": "pubrecords",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "companies: Joseph Holland Jr",
+    "timestamp": "2026-09-02T08:49:25.318060",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "court_cases: Joseph Holland Jr",
+    "timestamp": "2026-09-02T08:49:25.496687",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "federal_spending: Joseph Holland Jr",
+    "timestamp": "2026-09-02T08:49:25.594167",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "companies: Purpose Foundation",
+    "timestamp": "2026-09-02T08:49:25.689413",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "federal_spending: Purpose Foundation",
+    "timestamp": "2026-09-02T08:49:25.783667",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "dockets: Joseph Holland Jr",
+    "timestamp": "2026-09-02T08:49:25.874583",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "John Joseph Holland, Jr and Mirtha Morejon Holland",
+        "court": "United States Bankruptcy Court, M.D. Florida",
+        "court_citation": "Bankr. M.D. Fla.",
+        "date_filed": "2021-05-07",
+        "docket_number": "8:21-bk-02381",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Joseph H. Holland, Jr.",
+        "court": "United States Bankruptcy Court, D. Rhode Island",
+        "court_citation": "Bankr. D.R.I.",
+        "date_filed": "2026-07-29",
+        "docket_number": "1:26-bk-10706",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Joseph Holland, Jr.",
+        "court": "United States Bankruptcy Court, E.D. Michigan",
+        "court_citation": "Bankr. E.D. Mich.",
+        "date_filed": "2014-07-15",
+        "docket_number": "14-51632",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Joseph Holland, Jr.",
+        "court": "United States Bankruptcy Court, E.D. Michigan",
+        "court_citation": "Bankr. E.D. Mich.",
+        "date_filed": "2014-04-13",
+        "docket_number": "14-46410",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Holland C. Morefield, Jr.",
+        "court": "United States Bankruptcy Court, N.D. Illinois",
+        "court_citation": "Bankr. N.D. Ill.",
+        "date_filed": "2025-06-11",
+        "docket_number": "25-80774",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Joseph Michael Holland, Jr",
+        "court": "United States Bankruptcy Court, N.D. Alabama",
+        "court_citation": "Bankr. N.D. Ala.",
+        "date_filed": "2021-03-04",
+        "docket_number": "21-80399",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "United States v. Holland",
+        "court": "District Court, D. South Carolina",
+        "court_citation": "D.S.C.",
+        "date_filed": "2024-07-16",
+        "docket_number": "1:24-cr-00565",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "United States v. Holland",
+        "court": "District Court, D. South Carolina",
+        "court_citation": "D.S.C.",
+        "date_filed": "2024-07-16",
+        "docket_number": "1:24-cr-00565",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Holland J Fittinger",
+        "court": "United States Bankruptcy Court, D. Colorado",
+        "court_citation": "Bankr.D. Colo.",
+        "date_filed": "2025-12-12",
+        "docket_number": "25-18160",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Erin Elizabeth Holland",
+        "court": "United States Bankruptcy Court, D. Colorado",
+        "court_citation": "Bankr.D. Colo.",
+        "date_filed": "2026-01-30",
+        "docket_number": "26-10582",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Robert Lewis Holland and Margaret Holland",
+        "court": "United States Bankruptcy Court, D. Colorado",
+        "court_citation": "Bankr.D. Colo.",
+        "date_filed": "2024-11-15",
+        "docket_number": "24-16847",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Joseph E. Holland, III",
+        "court": "United States Bankruptcy Court, D. New Jersey",
+        "court_citation": "Bankr. D.N.J.",
+        "date_filed": "2020-05-04",
+        "docket_number": "20-16206",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Charlotte Anne Holland",
+        "court": "United States Bankruptcy Court, D. New Jersey",
+        "court_citation": "Bankr. D.N.J.",
+        "date_filed": "2024-02-21",
+        "docket_number": "24-11634",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Anthony Curtis Holland",
+        "court": "United States Bankruptcy Court, D. New Jersey",
+        "court_citation": "Bankr. D.N.J.",
+        "date_filed": "2023-09-20",
+        "docket_number": "23-18208",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Bobby Dean Holland, Jr. and Christina Louise Holland",
+        "court": "United States Bankruptcy Court, D. Idaho",
+        "court_citation": "Bankr. D. Idaho",
+        "date_filed": "2020-10-30",
+        "docket_number": "20-20541",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "JACKSON v. HOLLAND",
+        "court": "District Court, E.D. Pennsylvania",
+        "court_citation": "E.D. Pa.",
+        "date_filed": "2020-10-19",
+        "docket_number": "5:20-cv-05207",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Holland v. Northwest Repossession, LLC",
+        "court": "District Court, N.D. Illinois",
+        "court_citation": "N.D. Ill.",
+        "date_filed": "2023-11-15",
+        "docket_number": "1:23-cv-15987",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Joseph Michael Holland, Jr",
+        "court": "United States Bankruptcy Court, N.D. Alabama",
+        "court_citation": "Bankr. N.D. Ala.",
+        "date_filed": "2015-06-19",
+        "docket_number": "15-81668",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Brenda D Holland",
+        "court": "United States Bankruptcy Court, D. Colorado",
+        "court_citation": "Bankr.D. Colo.",
+        "date_filed": "2022-09-23",
+        "docket_number": "22-13681",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Joseph Nathan Holland,, Jr. and Diana Hale-Holland",
+        "court": "United States Bankruptcy Court, E.D. Missouri",
+        "court_citation": "Bankr. E.D. Mo.",
+        "date_filed": "2016-08-30",
+        "docket_number": "16-46249",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "people: Joseph Holland Jr",
+    "timestamp": "2026-09-02T08:49:30.482953",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "EIN: 33-3537910",
+    "timestamp": "2026-09-02T08:49:30.965923",
+    "hit_count": 1,
+    "hits": [
+      {
+        "ein": 333537910,
+        "name": "Purpose Foundation",
+        "address": "1968 SEVERN RD",
+        "city": "Grosse Pt Wds",
+        "state": "MI",
+        "zipcode": "48236-1961",
+        "ntee_code": "B90",
+        "ruling_date": "2025-11-01",
+        "tax_period": null,
+        "asset_amount": null,
+        "income_amount": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "search: Joseph Holland Jr",
+    "timestamp": "2026-09-02T08:49:31.107126",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "ein_proxy: 33-3537910",
+    "timestamp": "2026-09-02T08:49:31.514401",
+    "hit_count": 5,
+    "hits": [
+      {
+        "raw_line": "website belongs to an official government organization in the United States."
+      },
+      {
+        "raw_line": "Governments and tax-exempt bonds"
+      },
+      {
+        "raw_line": "Apply for an Employer ID Number (EIN)"
+      },
+      {
+        "raw_line": "Governments and tax-exempt bonds"
+      },
+      {
+        "raw_line": "Apply for an Employer ID Number (EIN)"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "entity/agent: Joseph Holland Jr",
+    "timestamp": "2026-09-02T08:49:38.415751",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare",
+        "proxy_used": "direct",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Joseph Holland Jr"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "lara_mirror: Joseph Holland Jr",
+    "timestamp": "2026-09-02T08:50:23.767799",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/joseph-holland-jr/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "companiesmi: Joseph Holland Jr",
+    "timestamp": "2026-09-02T08:50:25.349478",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "lara_mirror: Purpose Foundation",
+    "timestamp": "2026-09-02T08:50:25.429194",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/purpose-foundation/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "companies: Tracey D. Ellis",
+    "timestamp": "2026-09-02T08:50:26.972096",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "court_cases: Tracey D. Ellis",
+    "timestamp": "2026-09-02T08:50:27.112316",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "federal_spending: Tracey D. Ellis",
+    "timestamp": "2026-09-02T08:50:27.208827",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "companies: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T08:50:27.285751",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "federal_spending: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T08:50:27.378908",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "companies: Yecart L.L.C.",
+    "timestamp": "2026-09-02T08:50:27.455273",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "federal_spending: Yecart L.L.C.",
+    "timestamp": "2026-09-02T08:50:27.545745",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "dockets: Tracey D. Ellis",
+    "timestamp": "2026-09-02T08:50:27.642577",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "Tracey Lynn Ellis",
+        "court": "United States Bankruptcy Court, E.D. Washington",
+        "court_citation": "Bankr. E.D. Wash.",
+        "date_filed": "2026-07-10",
+        "docket_number": "26-01383",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Lynn Ellis",
+        "court": "United States Bankruptcy Court, W.D. Pennsylvania",
+        "court_citation": "Bankr. W.D. Pa.",
+        "date_filed": "2024-03-25",
+        "docket_number": "24-20700",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Bernard Ellis",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2022-02-14",
+        "docket_number": "22-40167",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Rudolph C Hicks and Tracey D Ellis- Hicks",
+        "court": "United States Bankruptcy Court, N.D. Illinois",
+        "court_citation": "Bankr. N.D. Ill.",
+        "date_filed": "2009-05-11",
+        "docket_number": "09-17096",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Astin",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2025-01-30",
+        "docket_number": "25-50954",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Lacole Hunter",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2024-12-10",
+        "docket_number": "24-63077",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Steven Ellis Rovinsky and Tracey Lynne Rovinsky",
+        "court": "United States Bankruptcy Court, N.D. Texas",
+        "court_citation": "Bankr. N.D. Tex.",
+        "date_filed": "2022-07-29",
+        "docket_number": "22-41687",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Anne Kirkham",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2025-04-01",
+        "docket_number": "25-53611",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Lee Hill",
+        "court": "United States Bankruptcy Court, W.D. Washington",
+        "court_citation": "Bankr. W.D. Wash.",
+        "date_filed": "2024-03-28",
+        "docket_number": "24-40683",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey D Ellis",
+        "court": "United States Bankruptcy Court, W.D. Washington",
+        "court_citation": "Bankr. W.D. Wash.",
+        "date_filed": "2011-07-19",
+        "docket_number": "11-18551",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Ann Berry",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2024-07-01",
+        "docket_number": "24-56828",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Lauren Mercado",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2023-12-06",
+        "docket_number": "23-41798",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Derek Tyler Ellis",
+        "court": "United States Bankruptcy Court, E.D. Kentucky",
+        "court_citation": "Bankr. E.D. Ky.",
+        "date_filed": "2023-04-20",
+        "docket_number": "23-50423",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Thomas Weyman Ellis and Angela Renay Ellis",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2022-10-18",
+        "docket_number": "22-41280",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Michelle Flowers",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2023-01-25",
+        "docket_number": "23-50758",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Rodney Dale Ellis",
+        "court": "United States Bankruptcy Court, E.D. Kentucky",
+        "court_citation": "Bankr. E.D. Ky.",
+        "date_filed": "2023-10-05",
+        "docket_number": "23-51165",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Charles Ellis",
+        "court": "United States Bankruptcy Court, E.D. Kentucky",
+        "court_citation": "Bankr. E.D. Ky.",
+        "date_filed": "2020-09-16",
+        "docket_number": "20-51304",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Kristopher C Ellis and Bridgett M Ellis",
+        "court": "United States Bankruptcy Court, E.D. Kentucky",
+        "court_citation": "Bankr. E.D. Ky.",
+        "date_filed": "2022-10-31",
+        "docket_number": "22-10144",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Ellis Withrow and Terressa N. Withrow",
+        "court": "United States Bankruptcy Court, E.D. Kentucky",
+        "court_citation": "Bankr. E.D. Ky.",
+        "date_filed": "2019-06-18",
+        "docket_number": "19-51223",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tracey Dylan Burns",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2020-11-06",
+        "docket_number": "20-41711",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "people: Tracey D. Ellis",
+    "timestamp": "2026-09-02T08:50:29.053927",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "search: Tracey D. Ellis",
+    "timestamp": "2026-09-02T08:50:29.810796",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "lara",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "entity/agent: Tracey D. Ellis",
+    "timestamp": "2026-09-02T08:50:29.943912",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare",
+        "proxy_used": "direct",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Tracey D. Ellis"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "LARA ID: 801438906",
+    "timestamp": "2026-09-02T08:50:31.502169",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "801438906",
+        "manual_action": "Search entity ID 801438906 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "lara_mirror: Tracey D. Ellis",
+    "timestamp": "2026-09-02T08:50:31.502492",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/tracey-d-ellis/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "companiesmi: Tracey D. Ellis",
+    "timestamp": "2026-09-02T08:50:33.057205",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "lara_mirror: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T08:50:33.148802",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/yecart-accounting-services-llc/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "lara_mirror: Yecart L.L.C.",
+    "timestamp": "2026-09-02T08:51:18.501897",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/yecart-llc/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "companies: Todd Perkins",
+    "timestamp": "2026-09-02T08:51:20.058874",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "court_cases: Todd Perkins",
+    "timestamp": "2026-09-02T08:51:20.133672",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "federal_spending: Todd Perkins",
+    "timestamp": "2026-09-02T08:51:20.227534",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "companies: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T08:51:20.320515",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "federal_spending: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T08:51:20.419332",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "dockets: Todd Perkins",
+    "timestamp": "2026-09-02T08:51:20.498830",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "Brian Todd Perkins",
+        "court": "United States Bankruptcy Court, E.D. Kentucky",
+        "court_citation": "Bankr. E.D. Ky.",
+        "date_filed": "2026-07-14",
+        "docket_number": "26-61113",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Christopher Todd Perkins",
+        "court": "United States Bankruptcy Court, W.D. Arkansas",
+        "court_citation": "Bankr. W.D. Ark.",
+        "date_filed": "2024-06-21",
+        "docket_number": "2:24-bk-71013",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Todd Mitchell Perkins",
+        "court": "United States Bankruptcy Court, S.D. Ohio",
+        "court_citation": "Bankr. S.D. Ohio",
+        "date_filed": "2026-04-21",
+        "docket_number": "2:26-bk-51839",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Kevin Scott Perkins and Mary Todd Perkins",
+        "court": "United States Bankruptcy Court, C.D. California",
+        "court_citation": "Bankr. C.D. Cal.",
+        "date_filed": "2018-05-17",
+        "docket_number": "2:18-bk-15692",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Harison Todd Perkins",
+        "court": "United States Bankruptcy Court, W.D. Virginia",
+        "court_citation": "Bankr. W.D. Va.",
+        "date_filed": "2014-02-26",
+        "docket_number": "14-60344",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Samuel Todd Perkins and Amy Michelle Perkins",
+        "court": "United States Bankruptcy Court, W.D. Kentucky",
+        "court_citation": "Bankr. W.D. Ky.",
+        "date_filed": "2016-12-21",
+        "docket_number": "16-11139",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "David Todd Perkins",
+        "court": "United States Bankruptcy Court, W.D. Louisiana",
+        "court_citation": "Bankr. W.D. La.",
+        "date_filed": "2011-12-28",
+        "docket_number": "11-13407",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "MICHAEL TODD WILSON and SHARON DENISE PERKINS",
+        "court": "United States Bankruptcy Court, D. Nevada",
+        "court_citation": "Bankr. D. Nev.",
+        "date_filed": "2026-01-16",
+        "docket_number": "26-10288",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Lana Brooke Perkins and Jason Scott Perkins",
+        "court": "United States Bankruptcy Court, N.D. Mississippi",
+        "court_citation": "Bankr. N.D. Miss.",
+        "date_filed": "2026-03-24",
+        "docket_number": "26-11020",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Todd J. Perkins and Diane C. Perkins",
+        "court": "United States Bankruptcy Court, E.D. Michigan",
+        "court_citation": "Bankr. E.D. Mich.",
+        "date_filed": "2022-06-30",
+        "docket_number": "22-45209",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Ashley Perkins",
+        "court": "United States Bankruptcy Court, N.D. Mississippi",
+        "court_citation": "Bankr. N.D. Miss.",
+        "date_filed": "2025-12-30",
+        "docket_number": "25-14393",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Chautebriand Perkins",
+        "court": "United States Bankruptcy Court, N.D. Mississippi",
+        "court_citation": "Bankr. N.D. Miss.",
+        "date_filed": "2025-02-28",
+        "docket_number": "25-10667",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Todd Randall Perkins",
+        "court": "United States Bankruptcy Court, D. Kansas",
+        "court_citation": "Bankr. D. Kan.",
+        "date_filed": "2018-05-15",
+        "docket_number": "18-40537",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Jimmie James Perkins and Vickie Harris Perkins",
+        "court": "United States Bankruptcy Court, N.D. Mississippi",
+        "court_citation": "Bankr. N.D. Miss.",
+        "date_filed": "2024-03-04",
+        "docket_number": "24-10628",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Sean Christopher Perkins",
+        "court": "United States Bankruptcy Court, C.D. California",
+        "court_citation": "Bankr. C.D. Cal.",
+        "date_filed": "2024-08-30",
+        "docket_number": "6:24-bk-15166",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Perkins v. The Procter & Gamble Company",
+        "court": "District Court, S.D. California",
+        "court_citation": "S.D. Cal.",
+        "date_filed": "2025-05-21",
+        "docket_number": "3:25-cv-01305",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Todd R. Perkins and Lynn A. Perkins",
+        "court": "United States Bankruptcy Court, D. Rhode Island",
+        "court_citation": "Bankr. D.R.I.",
+        "date_filed": "2019-03-29",
+        "docket_number": "1:19-bk-10491",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Perkins v. FirstSource Advantage, LLC",
+        "court": "District Court, S.D. California",
+        "court_citation": "S.D. Cal.",
+        "date_filed": "2024-02-02",
+        "docket_number": "3:24-cv-00226",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Jo LeDonna Perkins",
+        "court": "United States Bankruptcy Court, N.D. Mississippi",
+        "court_citation": "Bankr. N.D. Miss.",
+        "date_filed": "2022-12-29",
+        "docket_number": "22-13398",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Todd Allen Perkins",
+        "court": "United States Bankruptcy Court, E.D. Tennessee",
+        "court_citation": "Bankr. E.D. Tenn.",
+        "date_filed": "2015-04-20",
+        "docket_number": "3:15-bk-31258",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "people: Todd Perkins",
+    "timestamp": "2026-09-02T08:51:23.712489",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "search: Todd Perkins",
+    "timestamp": "2026-09-02T08:51:23.967019",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "lara",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "entity/agent: Perkins Law Group",
+    "timestamp": "2026-09-02T08:51:24.122142",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare",
+        "proxy_used": "direct",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Perkins Law Group"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "state_bar_mi",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "attorney: Todd Perkins",
+    "timestamp": "2026-09-02T08:51:25.707877",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No attorney found matching 'Todd Perkins'",
+        "conclusion": "NOT LICENSED in Michigan"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "lara_mirror: Todd Perkins",
+    "timestamp": "2026-09-02T08:51:26.259084",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/todd-perkins/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "companiesmi: Todd Perkins",
+    "timestamp": "2026-09-02T08:51:27.764480",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "lara_mirror: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T08:51:27.844774",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/perkins-law-group-pllc/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "companies: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T08:51:29.446668",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "court_cases: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T08:51:29.590711",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "federal_spending: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T08:51:29.684171",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "dockets: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T08:51:29.779307",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "Tamika Nicole Stallworth",
+        "court": "United States Bankruptcy Court, M.D. Alabama",
+        "court_citation": "Bankr. M.D. Ala.",
+        "date_filed": "2021-11-08",
+        "docket_number": "21-31982",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "STALLWORTH v. 3M COMPANY",
+        "court": "District Court, N.D. Florida",
+        "court_citation": "N.D. Fla.",
+        "date_filed": "2021-10-07",
+        "docket_number": "7:21-cv-61529",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Joel Stallworth v. Nike Retail Services, Inc.",
+        "court": "District Court, C.D. California",
+        "court_citation": "C.D. Cal.",
+        "date_filed": "2020-07-04",
+        "docket_number": "2:20-cv-05985",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Mobley v. International Preparatory Academy",
+        "court": "District Court, E.D. Michigan",
+        "court_citation": "E.D. Mich.",
+        "date_filed": "2015-01-29",
+        "docket_number": "2:15-cv-10397",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "United States v. Barnes",
+        "court": "District Court, E.D. Wisconsin",
+        "court_citation": "E.D. Wis.",
+        "date_filed": "2023-06-21",
+        "docket_number": "2:23-cr-00113",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Keith Winterbower v. Wells Fargo Bank NA",
+        "court": "District Court, C.D. California",
+        "court_citation": "C.D. Cal.",
+        "date_filed": "2013-02-28",
+        "docket_number": "8:13-cv-00360",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Symphony Society of San Antonio",
+        "court": "United States Bankruptcy Court, W.D. Texas",
+        "court_citation": "Bankr. W.D. Tex.",
+        "date_filed": "2022-06-16",
+        "docket_number": "22-50656",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Campbell v. Remington's Prime Ocala, LLC",
+        "court": "District Court, M.D. Florida",
+        "court_citation": "M.D. Fla.",
+        "date_filed": "2025-11-18",
+        "docket_number": "5:25-cv-00739",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "State of Texas A.G.'s Office v. Haaland",
+        "court": "District Court, W.D. Texas",
+        "court_citation": "W.D. Tex.",
+        "date_filed": "2024-09-23",
+        "docket_number": "7:24-cv-00233",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Perry v. Halliburton Energy Services, Inc.",
+        "court": "District Court, S.D. Texas",
+        "court_citation": "S.D. Tex.",
+        "date_filed": "2023-11-24",
+        "docket_number": "4:23-cv-04441",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Miller v. Leidos, Inc.",
+        "court": "District Court, E.D. Virginia",
+        "court_citation": "E.D. Va.",
+        "date_filed": "2024-05-31",
+        "docket_number": "1:24-cv-00931",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "City of Detroit, Michigan",
+        "court": "United States Bankruptcy Court, E.D. Michigan",
+        "court_citation": "Bankr. E.D. Mich.",
+        "date_filed": "2013-07-18",
+        "docket_number": "13-53846",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Former BL Stores, Inc.",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation": "Bankr. D. Del.",
+        "date_filed": "2024-09-09",
+        "docket_number": "24-11967",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Mi Familia Vota v. Fontes",
+        "court": "District Court, D. Arizona",
+        "court_citation": "D. Ariz.",
+        "date_filed": "2022-03-31",
+        "docket_number": "2:22-cv-00509",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Grazioso v. Islamic Emirate of Afghanistan",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2022-02-11",
+        "docket_number": "1:22-cv-01188",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Janvier v. Florida Department of Agriculture and Consumer Services Division of Licensing",
+        "court": "District Court, M.D. Florida",
+        "court_citation": "M.D. Fla.",
+        "date_filed": "2024-10-29",
+        "docket_number": "6:24-cv-01949",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "In Re Aqueous Film-Forming Foams Products Liability Litigation MDL 2873",
+        "court": "District Court, D. South Carolina",
+        "court_citation": "D.S.C.",
+        "date_filed": "2018-12-07",
+        "docket_number": "2:18-mn-02873",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "O'Neal v. Centene Management Company, LLC",
+        "court": "District Court, D. Kansas",
+        "court_citation": "D. Kan.",
+        "date_filed": "2017-03-23",
+        "docket_number": "2:17-cv-02172",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Austin v. Houston Community College System <b><font color=\"red\">CASE SEVERED AS TO DEMEITA JOHNSON 4:25-cv-06069</font></b>",
+        "court": "District Court, S.D. Texas",
+        "court_citation": "S.D. Tex.",
+        "date_filed": "2021-03-02",
+        "docket_number": "4:21-cv-00686",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "SMARTMATIC USA CORP. v. LINDELL",
+        "court": "District Court, District of Columbia",
+        "court_citation": "D.D.C.",
+        "date_filed": "2023-07-28",
+        "docket_number": "1:23-mc-00073",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "people: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T08:51:32.732247",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "search: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T08:51:33.045772",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "lara",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "entity/agent: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T08:51:33.166899",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare",
+        "proxy_used": "direct",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Nicole Wells Stallworth"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "payee: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T08:52:17.449343",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Nicole Wells Stallworth'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "payee: Nicole Stallworth",
+    "timestamp": "2026-09-02T08:52:17.829057",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Nicole Stallworth'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "payee: Nicole Wells",
+    "timestamp": "2026-09-02T08:52:18.212291",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Nicole Wells'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "payee: Tommy Stallworth",
+    "timestamp": "2026-09-02T08:52:18.657059",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Tommy Stallworth'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "lara_mirror: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T08:52:19.013255",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "companiesmi: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T08:52:47.302906",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "companies: Gary Perlmuter",
+    "timestamp": "2026-09-02T08:52:47.429880",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "court_cases: Gary Perlmuter",
+    "timestamp": "2026-09-02T08:52:47.549401",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "federal_spending: Gary Perlmuter",
+    "timestamp": "2026-09-02T08:52:47.628765",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "dockets: Gary Perlmuter",
+    "timestamp": "2026-09-02T08:52:47.705640",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "Champion Salt, LLC v. Arthofer",
+        "court": "District Court, E.D. Missouri",
+        "court_citation": "E.D. Mo.",
+        "date_filed": "2021-06-22",
+        "docket_number": "4:21-cv-00755",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Gary E. Perlmuter",
+        "court": "United States Bankruptcy Court, E.D. Michigan",
+        "court_citation": "Bankr. E.D. Mich.",
+        "date_filed": "2009-08-11",
+        "docket_number": "09-64903",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Sandercock v. Big Greek's Gyro, LLC",
+        "court": "District Court, N.D. Ohio",
+        "court_citation": "N.D. Ohio",
+        "date_filed": "2015-09-14",
+        "docket_number": "1:15-cv-01870",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Stardock Systems, Inc. v. Paul Reiche III",
+        "court": "District Court, N.D. California",
+        "court_citation": "N.D. Cal.",
+        "date_filed": "2017-12-08",
+        "docket_number": "4:17-cv-07025",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Orion Healthcorp, Inc. v. Ehrenberg",
+        "court": "District Court, E.D. New York",
+        "court_citation": "E.D.N.Y",
+        "date_filed": "2024-05-03",
+        "docket_number": "2:24-cv-03330",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Motors Liquidation Company",
+        "court": "United States Bankruptcy Court, S.D. New York",
+        "court_citation": "Bankr. S.D.N.Y.",
+        "date_filed": "2009-06-01",
+        "docket_number": "09-50026",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Konica Minolta Business Solutions USA Inc v. Allied Office Products Inc",
+        "court": "District Court, S.D. Ohio",
+        "court_citation": "S.D. Ohio",
+        "date_filed": "2006-01-30",
+        "docket_number": "2:06-cv-00071",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Taylor v. City of East Cleveland",
+        "court": "District Court, N.D. Ohio",
+        "court_citation": "N.D. Ohio",
+        "date_filed": "2020-04-13",
+        "docket_number": "1:20-cv-00785",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Sound Shore Medical Center of Westchester",
+        "court": "United States Bankruptcy Court, S.D. New York",
+        "court_citation": "Bankr. S.D.N.Y.",
+        "date_filed": "2013-05-29",
+        "docket_number": "13-22840",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "American Trash Management, Inc.",
+        "court": "United States Bankruptcy Court, N.D. California",
+        "court_citation": "Bankr. N.D. Cal.",
+        "date_filed": "2025-09-15",
+        "docket_number": "25-30743",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Weiss v. National Westminster Bank",
+        "court": "District Court, E.D. New York",
+        "court_citation": "E.D.N.Y",
+        "date_filed": "2005-09-29",
+        "docket_number": "1:05-cv-04622",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "IN RE: Paragard IUD Products Liability Litigation",
+        "court": "District Court, N.D. Georgia",
+        "court_citation": "N.D. Ga.",
+        "date_filed": "2020-12-16",
+        "docket_number": "1:20-md-02974",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Cohen v. Facebook, Inc.",
+        "court": "District Court, E.D. New York",
+        "court_citation": "E.D.N.Y",
+        "date_filed": "2016-08-10",
+        "docket_number": "1:16-cv-04453",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "FORCE v. Facebook Inc.",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2016-07-10",
+        "docket_number": "1:16-cv-05490",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "JB Booksellers, Inc., a Kentucky corporation",
+        "court": "United States Bankruptcy Court, E.D. Kentucky",
+        "court_citation": "Bankr. E.D. Ky.",
+        "date_filed": "2010-11-11",
+        "docket_number": "10-53593",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "The New York Times Company v. Microsoft Corporation",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2023-12-27",
+        "docket_number": "1:23-cv-11195",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tribune Media Company",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation": "Bankr. D. Del.",
+        "date_filed": "2008-12-08",
+        "docket_number": "08-13141",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "KServicing Wind Down Corp.",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation": "Bankr. D. Del.",
+        "date_filed": "2022-10-03",
+        "docket_number": "22-10951",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Stephens v. American Arbitration Association Incorporated",
+        "court": "District Court, D. Arizona",
+        "court_citation": "D. Ariz.",
+        "date_filed": "2025-05-15",
+        "docket_number": "2:25-cv-01650",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "DPH Holdings Corp., et al.",
+        "court": "United States Bankruptcy Court, S.D. New York",
+        "court_citation": "Bankr. S.D.N.Y.",
+        "date_filed": "2005-10-08",
+        "docket_number": "05-44481",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "people: Gary Perlmuter",
+    "timestamp": "2026-09-02T08:52:49.405824",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "search: Gary Perlmuter",
+    "timestamp": "2026-09-02T08:52:49.673174",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "lara",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "entity/agent: Gary Perlmuter",
+    "timestamp": "2026-09-02T08:52:49.846646",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "state_bar_mi",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "attorney: Gary Perlmuter",
+    "timestamp": "2026-09-02T08:53:13.337453",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No attorney found matching 'Gary Perlmuter'",
+        "conclusion": "NOT LICENSED in Michigan"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "lara_mirror: Gary Perlmuter",
+    "timestamp": "2026-09-02T08:53:13.564738",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/gary-perlmuter/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "companiesmi: Gary Perlmuter",
+    "timestamp": "2026-09-02T08:53:58.912909",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "companies: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T08:53:58.986977",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "court_cases: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T08:53:59.115059",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "federal_spending: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T08:53:59.197022",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "dockets: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T08:53:59.279308",
+    "hit_count": 6,
+    "hits": [
+      {
+        "case_name": "Brooks v. Detroit, City of",
+        "court": "District Court, E.D. Michigan",
+        "court_citation": "E.D. Mich.",
+        "date_filed": "2026-04-06",
+        "docket_number": "2:26-cv-11120",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Agee, Jr. v. Benson",
+        "court": "District Court, W.D. Michigan",
+        "court_citation": "W.D. Mich.",
+        "date_filed": "2022-03-23",
+        "docket_number": "1:22-cv-00272",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Johnson v. Michigan Board of State Canvassers",
+        "court": "District Court, E.D. Michigan",
+        "court_citation": "E.D. Mich.",
+        "date_filed": "2022-06-06",
+        "docket_number": "2:22-cv-11232",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Courser v. Allard",
+        "court": "District Court, W.D. Michigan",
+        "court_citation": "W.D. Mich.",
+        "date_filed": "2018-08-06",
+        "docket_number": "1:18-cv-00874",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Priorities USA v. Nessel",
+        "court": "District Court, E.D. Michigan",
+        "court_citation": "E.D. Mich.",
+        "date_filed": "2020-01-27",
+        "docket_number": "4:20-cv-10211",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "WISCONSIN VOTERS ALLIANCE v. PENCE",
+        "court": "District Court, District of Columbia",
+        "court_citation": "D.D.C.",
+        "date_filed": "2020-12-22",
+        "docket_number": "1:20-cv-03791",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "people: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T08:54:00.116679",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "search: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T08:54:00.377389",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "payee: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T08:54:00.618665",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/payee/sherry-gay-dagnogo",
+        "payee_name": "Sherry Gay Dagnogo",
+        "total_amount": "10",
+        "amounts_found": [
+          "10"
+        ],
+        "dates_found": [
+          "07/20/2026"
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "payee: Sherry Gay Dagnogo",
+    "timestamp": "2026-09-02T08:54:00.771426",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/payee/sherry-gay-dagnogo",
+        "payee_name": "Sherry Gay Dagnogo",
+        "total_amount": "10",
+        "amounts_found": [
+          "10"
+        ],
+        "dates_found": [
+          "07/20/2026"
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "payee: Sherry Dagnogo",
+    "timestamp": "2026-09-02T08:54:00.894972",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Sherry Dagnogo'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "committee: Sherry Gay Dagnogo Strong Women Lead PAC",
+    "timestamp": "2026-09-02T08:54:01.274438",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "lara_mirror: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T08:54:01.388860",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/sherry-gay-dagnogo/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "companiesmi: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T08:54:03.110150",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  }
+]

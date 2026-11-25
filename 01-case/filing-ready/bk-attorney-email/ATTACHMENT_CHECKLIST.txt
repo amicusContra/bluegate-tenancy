@@ -1,0 +1,32 @@
+EVIDENCE ATTACHMENTS FOR BK ATTORNEY EMAIL
+============================================
+
+ATTACH THESE FILES TO THE EMAIL:
+
+FROM THIS FOLDER (already staged):
+[ ] EXHIBIT_1_Schedule_AB_Zero_Real_Estate.pdf  — Marquita's $0 real estate declaration
+[ ] EXHIBIT_2_Petition_Roseville_Address.pdf     — Sworn address: Bowman St, Roseville (NOT Dresden)
+[ ] EXHIBIT_3_SOFA_Address_History.pdf            — Prior addresses: SCS 2022-2026, never Dresden
+[ ] EXHIBIT_6_MC302_Mok_v_Smith.pdf              — Ingham County complaint cover (Case 4301)
+[ ] EXHIBIT_8a-8d_StreetView_*.jpg               — Dresden lot absorption 2013-2026 (4 images)
+
+WAYNE ROD DOCS (staged):
+[✓] WAYNE_ROD_QCD_Doc2025200597_Dresden.pdf      — QCD: Leon → Leon + Marquita (Jun 24, 2025)
+[✓] WAYNE_ROD_MTG_Doc2025201292_LakeTrust68K.pdf — Mortgage: Leon + Marquita → Lake Trust $68K (Jun 24, 2025)
+
+REMOVED (keeping Banks silo separate):
+  X  Banks attachment — DROPPED
+
+CONTACT INFO (filled in EMAIL_BODY.txt):
+[✓] Phone: [REDACTED_PHONE]
+[✓] Email: eco.primal@pm.me
+[✓] BCC Shayla: smith.shayla2013@yahoo.com
+[✓] BCC Kevin: eco.primal@pm.me
+
+BEFORE YOU SEND:
+[ ] Review email one final time
+[ ] SEND
+[ ] Screenshot the sent email
+[ ] Save screenshot to evidence folder
+[ ] Forward to AUSA Cowley with brief cover note
+[ ] Log date/time sent

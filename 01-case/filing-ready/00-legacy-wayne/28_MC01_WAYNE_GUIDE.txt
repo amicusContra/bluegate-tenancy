@@ -1,0 +1,170 @@
+=========================================================
+DEANNA MITCHELL — WAYNE COUNTY FILING GUIDE
+=========================================================
+
+COURT: Wayne County 3rd Circuit Court
+ADDRESS: 2 Woodward Ave (CAYMC), Detroit, MI 48226
+PHONE: (313) 224-5261
+
+KEY DIFFERENCE FROM INGHAM: Wayne County uses MiFILE
+for e-filing. Deanna can file from home.
+
+=========================================================
+OPTION A: E-FILE VIA MIFILE (RECOMMENDED)
+=========================================================
+
+Website: https://mifile.courts.michigan.gov
+
+1. Create a MiFILE account for Deanna
+   - Name: Deanna Mitchell
+   - Email: (Deanna's email)
+   - Role: Self-Represented (Pro Se)
+
+2. Select: "File a New Case"
+   - Court: Wayne County Circuit Court (3rd Circuit)
+   - Case Type: CZ (General Civil)
+
+3. Upload documents:
+   - Complaint (28_DEANNA_V_SHAYLA_COMPLAINT.txt → save as PDF)
+   - MC 01 Summons (filled out for Deanna)
+
+4. Event code:
+   - With jury demand: "Complaint Case Filing & Jury Trial
+     Fee – Paid ($260.00)"
+   - Without jury: "Complaint Case Filing Fee – Paid ($175.00)"
+   RECOMMEND: File WITH jury demand = $260 total
+
+5. Pay online: credit/debit card
+
+6. Add Deanna as a "service contact" — REQUIRED by court
+
+7. MiFILE assigns:
+   - Case number
+   - Judge
+   - Returns file-stamped copies electronically
+
+=========================================================
+OPTION B: FILE IN PERSON (PAPER)
+=========================================================
+
+Location: Frank Murphy Hall of Justice
+          2 Woodward Ave, Detroit, MI 48226
+          Civil Division — Clerk's Office
+
+Hours: 8:00 AM — 4:30 PM, Monday — Friday
+
+Bring:
+  - MC 01 form (filled, 6 copies — same as Kevin's)
+  - Complaint (6 copies)
+  - Payment: $260 (with jury) or $175 (without)
+
+=========================================================
+MC 01 FORM — HOW TO FILL OUT FOR DEANNA
+=========================================================
+
+Download: https://www.courts.michigan.gov/siteassets/
+          forms/scao-approved/mc01.pdf
+
+Court name:     Circuit Court
+Judicial Circuit: 3rd
+County:         Wayne
+Court address:  2 Woodward Ave, Detroit, MI 48226
+Phone:          (313) 224-5261
+
+Plaintiff:      Deanna Mitchell
+Address:        XXXX Cornerstone Blvd, Detroit, MI 48201
+Phone:          (Deanna's phone number)
+
+Defendant 1:    Shayla Smith
+Defendant 2:    Leon A. Smith
+Defendant 3:    Marquita L. Smith
+Defendant 4:    Simone Smith
+All at:         XXXXX Dresden St, Detroit, MI 48205
+
+Case No:        (LEAVE BLANK — clerk/MiFILE assigns)
+Judge:          (LEAVE BLANK — clerk/MiFILE assigns)
+
+Attorney:       (LEAVE BLANK)
+Bar No:         (LEAVE BLANK)
+
+Signature:      Deanna Mitchell, Plaintiff, In Pro Per
+
+Check: "There is no other pending or resolved civil
+action arising out of the same transaction or occurrence
+alleged in the complaint"
+
+NOTE: Kevin's Ingham case is a DIFFERENT transaction
+(eavesdropping, mail interception) by a DIFFERENT
+plaintiff. Deanna's case is about her labor and EBT.
+These are separate causes of action.
+
+=========================================================
+FILING FEES
+=========================================================
+
+| Filing type | Fee |
+|-------------|-----|
+| Civil complaint (no jury) | $175 |
+| Civil complaint + jury demand | $260 |
+| Jury demand fee alone | $85 |
+| Motions (later) | $20 |
+| Subpoenas (later) | $15 |
+
+RECOMMEND: $260 with jury demand upfront.
+
+FEE WAIVER: Deanna may qualify under MCR 2.002 as an
+indigent party (Section 8 housing, limited income). If
+she qualifies, ALL fees are waived — filing fee,
+electronic fee, jury fee. Petition the Chief Judge
+(7th Floor, CAYMC) or e-file the waiver request via
+MiFILE using event code "Fee Waiver Request & Order,
+Signed and Filed." File the fee waiver SEPARATELY from
+the complaint.
+
+=========================================================
+SERVICE
+=========================================================
+
+After filing, Deanna must serve all 4 defendants.
+
+Option 1: Process server (same as Kevin's — can share
+the same server if filing close in time)
+
+Option 2: Wayne County Sheriff Civil Process
+   Phone: (313) 224-2260
+   Location: CAYMC, Room 1711
+   Cheaper but slower
+
+All 4 defendants at 17370 Dresden — one trip.
+
+DO NOT use certified mail given the mail interception.
+The Smiths have demonstrated they intercept restricted
+delivery mail at the post office.
+
+=========================================================
+TIMELINE
+=========================================================
+
+| Step | When | Method |
+|------|------|--------|
+| File complaint | Sep 8-12 | MiFILE (from home) |
+| Receive case number | Same day (electronic) | MiFILE |
+| Send service packets to process server | Sep 8-12 | Email PDFs |
+| Service at Dresden | Sep 12-15 | Process server |
+| Defendants' response deadline | 21 days after service | — |
+| If no response | File motion for default | MiFILE |
+| If response | Discovery opens | — |
+
+=========================================================
+WHAT DEANNA NEEDS TO DO
+=========================================================
+
+[ ] Sign the complaint (physical signature, scan)
+[ ] Provide her phone number for the MC 01
+[ ] Review the complaint for accuracy
+[ ] Create MiFILE account (Kevin can help)
+[ ] File (Kevin can walk her through MiFILE)
+[ ] Pay $260 (or file fee waiver if eligible)
+
+=========================================================
+

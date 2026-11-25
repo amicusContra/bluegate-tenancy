@@ -1,0 +1,336 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF WAYNE
+
+SHAYLA SMITH,
+    Plaintiff,
+
+v.                                          Case No. 26-108221-DC
+                                            Hon. Regina Triplett
+DaSEAN MITCHELL,
+    Defendant/Counter-Plaintiff.
+__________________________________________/
+
+DEFENDANT'S THIRD SUPPLEMENTAL MOTION FOR
+NON-PARTY DISCOVERY SUBPOENAS
+(MAIL INTERCEPTION AND COMMUNICATIONS EVIDENCE)
+
+    Defendant DaSean Mitchell, appearing pro se, respectfully
+moves this Court pursuant to MCR 2.305(A)(1) to authorize
+issuance of discovery subpoenas to the following non-party
+record holders, and states as follows:
+
+BASIS
+
+1. MCR 2.305(A)(1) provides that an unrepresented party may
+move the court for issuance of non-party discovery subpoenas.
+
+2. Defendant has previously filed three motions for non-party
+discovery subpoenas: (1) individual non-parties, (2) institutional
+record holders, and (3) financial institutions. This third
+supplemental motion is necessitated by NEW EVIDENCE discovered
+on August 25, 2026, after the previous motions were prepared.
+
+3. On August 25, 2026, Defendant's designated representative
+Kevin Mok received return receipt cards (PS Form 3811) for five
+pieces of Certified Mail Restricted Delivery sent on August 18,
+2026, to members of Plaintiff's family. The return receipts
+reveal that Plaintiff's mother, Marquita L. Smith, signed for
+and collected Restricted Delivery mail addressed to THREE
+different family members — Plaintiff Shayla Smith (x2) and
+non-party Leon A. Smith — at the Harper Woods, Michigan post
+office on August 21, 2026.
+
+4. Under USPS Restricted Delivery service, ONLY the named
+addressee or a formally authorized agent (via PS Form 3801 or
+written letter to the Postmaster) may sign for and receive the
+mail piece. Marquita L. Smith signed under the addressees'
+names — not her own — and no authorization documents are
+believed to exist.
+
+5. On August 25, 2026, Defendant attempted to contact Leon A.
+Smith about this matter. Leon A. Smith gave his phone to
+Plaintiff Shayla Smith, who responded through Leon's device:
+"Listen very carefully, for as long as an adult sign for it,
+it's legal. When no one is home to sign, you can use an
+authorized person to sign, otherwise no one will receive it.
+You guys are not that smart, but continue, God don't like ugly."
+
+6. Plaintiff's statement is factually false as a matter of
+federal postal regulation. Her response (a) admits knowledge
+of the mail interception, (b) confirms no formal authorization
+exists, (c) demonstrates that she controls communications
+through Leon A. Smith's device, and (d) constitutes intimidation
+directed at Defendant and his representative during active
+contested litigation.
+
+7. This evidence is directly relevant to the custody case
+because it demonstrates: (a) a pattern of communication
+interception and control by Plaintiff and her family, (b) the
+suppression of legal correspondence intended to facilitate
+resolution of this custody dispute, (c) Plaintiff's willingness
+to provide false legal information to Defendant, and (d) the
+inability of Defendant to communicate with Plaintiff's family
+without Plaintiff's interference — directly relevant to
+MCL 722.23(j).
+
+PROPOSED NON-PARTY SUBPOENAS
+
+A. UNITED STATES POSTAL SERVICE — HARPER WOODS POST OFFICE
+   Custodian of Records / Postmaster
+   Harper Woods Post Office
+   19545 Kelly Rd, Harper Woods, MI 48225
+
+   Documents sought:
+   (1) All records of Restricted Delivery mail pickups at the
+       Harper Woods post office on August 21, 2026, including
+       sign-in logs, identification records, and any
+       documentation presented by the person(s) who collected
+       the mail;
+   (2) Any PS Form 3801 (Standing Delivery Order) on file at
+       this facility naming Marquita L. Smith (XXXXX Dresden St,
+       Detroit, MI 48205) as an authorized agent for any of the
+       following individuals: Shayla Smith, Leon A. Smith, or
+       Simone Smith;
+   (3) Any written letter to the Postmaster on file at this
+       facility from Shayla Smith, Leon A. Smith, or Simone Smith
+       authorizing Marquita L. Smith to receive their Restricted
+       Delivery mail;
+   (4) Security camera footage from August 21, 2026, covering
+       the service counter area during the time period
+       surrounding the Restricted Delivery pickups (USPS tracking
+       shows delivery at 5:03-5:04 PM);
+   (5) All records of Restricted Delivery mail pickups at this
+       facility by any person presenting as or on behalf of any
+       Smith family member (Shayla Smith, Leon A. Smith, Marquita
+       L. Smith, Simone Smith) from January 1, 2026 through the
+       present — to establish whether the August 21 interception
+       is part of a PATTERN.
+
+   Relevance: The mail intercepted on August 21 contained legal
+   correspondence related to this custody dispute. Whether
+   Marquita L. Smith was authorized to pick up Restricted
+   Delivery mail for other family members — and whether she has
+   done so before — is directly relevant to the pattern of
+   communication suppression that prevents Defendant from
+   resolving this case through direct family engagement. The
+   absence of any PS Form 3801 or authorization letter on file
+   confirms that the interception was unauthorized. Security
+   footage will confirm the identity of the person who presented
+   at the counter.
+
+B. UNITED STATES POSTAL SERVICE — CHANGE OF ADDRESS RECORDS
+   USPS National Customer Support Center
+   Custodian of Records
+
+   Documents sought:
+   (1) All Change of Address (COA) filings associated with
+       Shayla Smith from January 1, 2025 through the present,
+       including: origin address, destination address, date
+       filed, method of filing (online, in-person, or mail),
+       date effective, and date expired or cancelled;
+   (2) All COA filings associated with XXXXX Bradford Dr,
+       Apt 214, Sterling Heights, MI 48312 from January 1, 2025
+       through the present;
+   (3) All COA filings associated with XXXXX Dresden St,
+       Detroit, MI 48205 from January 1, 2025 through the
+       present;
+   (4) Any COA filings associated with XXXXX Virginia Ave,
+       Eastpointe, MI 48021 from January 1, 2025 through the
+       present.
+
+   Relevance: Plaintiff submitted her own USPS COA records as
+   Exhibit P-9 in this case, showing mail redirection from
+   Bradford Dr to Dresden St while she was residing at neither
+   address. The complete COA history will establish: (a) the
+   exact timeline of mail redirection, (b) whether Plaintiff
+   filed additional COAs not disclosed in her exhibits, and
+   (c) whether mail redirection was used to control the flow of
+   government correspondence — including MDHHS benefits notices
+   — to addresses controlled by Plaintiff's parents rather than
+   Defendant. This is relevant to Plaintiff's credibility, her
+   pattern of address misrepresentation, and the stability of the
+   children's residence under MCL 722.23(d).
+
+C. WIRELESS PHONE CARRIER — LEON A. SMITH
+   Custodian of Records
+   [Carrier to be identified: AT&T, Verizon, T-Mobile, or other]
+
+   Documents sought:
+   (1) Call detail records (CDR) for the phone number associated
+       with Leon A. Smith at XXXXX Dresden St, Detroit, MI 48205,
+       for August 25, 2026, including all incoming and outgoing
+       calls and text messages, with timestamps and recipient/
+       sender numbers;
+   (2) If available, any records indicating whether multiple
+       users accessed the device on August 25, 2026 (e.g.,
+       device handoff, SIM change, or login activity).
+
+   Relevance: On August 25, 2026, Defendant attempted to contact
+   Leon A. Smith via phone/text about the mail interception.
+   Defendant reports that "I think he gave Shayla the phone and
+   this is what I got back" — followed by Plaintiff's response
+   through Leon's device. Phone records will confirm: (a) that
+   Defendant initiated contact with Leon's number, (b) the
+   timestamp of the response, and (c) the pattern of
+   communication through Leon's device. This is directly relevant
+   to MCL 722.23(j) — Plaintiff's willingness to facilitate
+   communication — because it demonstrates that Plaintiff
+   intercepts and controls Defendant's communications with her
+   own father, preventing independent engagement between
+   Defendant and the children's grandfather.
+
+D. LAKE TRUST CREDIT UNION (Supplemental — Compliance Records)
+   Custodian of Records
+   4605 S Old US Highway 23, Brighton, MI 48114
+
+   NOTE: This supplements the employment subpoena in Defendant's
+   Supplemental Motion for Non-Party Discovery Subpoenas
+   (Institutional) and the financial account subpoena in
+   Defendant's Second Supplemental Motion (Financial).
+
+   Additional documents sought:
+   (1) All compliance training records for Shayla Smith,
+       including but not limited to: Bank Secrecy Act (BSA)
+       training, USA PATRIOT Act training, Know Your Customer
+       (KYC) training, anti-money laundering (AML) training,
+       identity verification training, and suspicious activity
+       reporting (SAR) training — including dates of completion,
+       course content descriptions, and certifications;
+   (2) All records related to the mortgage or refinancing of
+       XXXXX Dresden St, Detroit, MI 48205 (Wayne County parcel)
+       originated or serviced by Lake Trust Credit Union,
+       including but not limited to: the mortgage application,
+       underwriting documentation, closing documents, the
+       identity of the loan officer or originator, whether any
+       Lake Trust employee was involved in processing or
+       approving the loan, and any disclosures required under
+       NCUA Regulation 701.21 (member business loans) or NCUA
+       Regulation 701.22 (insider lending);
+   (3) Any internal disclosures, conflict-of-interest filings,
+       or compliance reports filed by or regarding Shayla Smith
+       in connection with the Dresden mortgage or any other
+       transaction involving a family member of an employee.
+
+   Relevance: Plaintiff is employed at the financial institution
+   that holds the mortgage on the property where the children
+   reside during Plaintiff's parenting time. Whether Plaintiff
+   participated in originating, processing, or approving her own
+   parents' mortgage raises NCUA regulatory concerns that bear
+   directly on Plaintiff's employment stability, credibility, and
+   the financial security of the children's home under
+   MCL 722.23(d).
+
+   Plaintiff's compliance training records are relevant because
+   Plaintiff provided false legal information about USPS
+   Restricted Delivery rules through Leon A. Smith's phone on
+   August 25, 2026. As a banking professional trained in identity
+   verification and federal compliance, Plaintiff's training
+   establishes that her misrepresentation was knowing — not
+   ignorant — which is directly relevant to Plaintiff's
+   credibility and pattern of deception under MCL 722.23(h)
+   (reasonable inference of the truth or falsity of evidence).
+
+E. NATIONAL CREDIT UNION ADMINISTRATION (NCUA)
+   Office of General Counsel or Office of Examination and Insurance
+   1775 Duke St, Alexandria, VA 22314
+
+   Documents sought:
+   (1) Any regulatory filings, examination reports, or
+       enforcement actions related to Lake Trust Credit Union's
+       handling of employee-family member lending transactions,
+       particularly any involving Shayla Smith or the property
+       at XXXXX Dresden St, Detroit, MI 48205;
+   (2) Any complaints filed with or investigations initiated by
+       NCUA regarding insider lending or self-dealing at Lake
+       Trust Credit Union from January 1, 2024 through the
+       present.
+
+   Relevance: If Plaintiff facilitated her own parents' mortgage
+   through her employer, NCUA regulations on insider lending were
+   potentially violated. The regulatory status of the mortgage
+   bearing on the children's home is directly relevant to the
+   stability and permanence of their living arrangement under
+   MCL 722.23(d). An NCUA enforcement action against Lake Trust
+   could affect Plaintiff's employment — and by extension, her
+   capacity to provide for the children under MCL 722.23(b).
+
+COMPLIANCE
+
+8. The Harper Woods Post Office is located in Wayne County. USPS
+National Customer Support Center maintains records centrally.
+Leon A. Smith's wireless carrier maintains records at its
+corporate offices (location to be determined upon carrier
+identification). Lake Trust Credit Union maintains offices in
+Livingston County (Brighton, MI). NCUA maintains offices in
+Alexandria, VA. Compliance would occur through production of
+records by each custodian.
+
+9. Defendant requests that the phone carrier subpoena be issued
+upon identification of Leon A. Smith's carrier, which may be
+obtained through Leon A. Smith's deposition (authorized in
+Defendant's first Motion for Non-Party Discovery Subpoenas) or
+through records produced by other subpoenas.
+
+10. Defendant will provide copies of all documents received to
+Plaintiff upon request and payment of reasonable copying costs,
+as required by MCR 2.305(A)(7).
+
+11. Defendant will serve a copy of each subpoena on Plaintiff on
+the date of issuance, as required by MCR 2.305(A)(5).
+
+RELIEF REQUESTED
+
+WHEREFORE, Defendant respectfully requests:
+
+A. That this Court authorize issuance of Subpoenas Duces Tecum
+   to the following non-parties for the documents identified
+   above:
+   (1) United States Postal Service — Harper Woods Post Office,
+       Harper Woods, MI (Postmaster / Custodian of Records);
+   (2) United States Postal Service — National Customer Support
+       Center (Custodian of Records — Change of Address);
+   (3) Wireless phone carrier for Leon A. Smith (Custodian of
+       Records — to be identified);
+   (4) Lake Trust Credit Union, Brighton, MI (Custodian of
+       Records — supplemental compliance and mortgage records);
+   (5) National Credit Union Administration, Alexandria, VA
+       (Office of General Counsel / Custodian of Records);
+
+B. That the subpoenas provide fourteen (14) days for compliance;
+
+C. That Defendant be authorized to issue the phone carrier
+   subpoena upon identification of Leon A. Smith's wireless
+   carrier through deposition or other discovery;
+
+D. Such other and further relief as this Court deems just and
+   equitable.
+
+Respectfully submitted,
+
+
+_________________________________
+DaSean Mitchell, Defendant/Counter-Plaintiff
+[REDACTED_ADDR_2]
+[REDACTED_CITY]
+(313) 458-6982
+daseanmitchell1991@gmail.com
+
+Date: _______________
+
+
+CERTIFICATE OF SERVICE
+
+I certify that on ________________, 2026, I caused to be served
+a copy of this Motion on Plaintiff Shayla Smith by United States
+Certified Mail, Restricted Delivery, Return Receipt Requested,
+at XXXXX Dresden St, Detroit, MI 48205.
+
+USPS Tracking No.: ________________________________
+
+
+_________________________________
+Kevin Mok, on behalf of DaSean Mitchell
+Designated agent for service
+
+Date: _______________
+

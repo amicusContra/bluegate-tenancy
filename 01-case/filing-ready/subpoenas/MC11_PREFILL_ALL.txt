@@ -1,0 +1,507 @@
+MC 11 SUBPOENA PRE-FILL GUIDE -- PRINT AND HANDWRITE
+All subpoenas: Mok v. Banks, 2026-4349-CZ, Ingham County
+================================================================
+
+TWO CASES -- TWO SETS OF FORMS
+================================================================
+
+You have TWO active cases. Each subpoena must list the
+correct case number and defendants. Print two batches.
+
+---------- BATCH A: SMITH CASE ----------
+
+  Case Number:  2026-4301-CZ
+  Plaintiff:    [x] Kevin Mok
+  Civil:        [x] checked
+  Defendant(s): Shayla Smith, Leon A. Smith,
+                Marquita L. Smith, Simone Smith
+                [fill in whoever is named in your Smith complaint]
+
+  USE FOR: #01 Shayla phone, #05 Leon phone,
+           #07 USPS (Leon employment + Marquita mail fraud),
+           #08 Simone trustee, #18 Crowder, #19 Guidance Center,
+           #20 NHA (defensive)
+
+---------- BATCH B: BANKS CASE ----------
+
+  Case Number:  2026-4349-CZ
+  Plaintiff:    [x] Kevin Mok
+  Civil:        [x] checked
+  Defendant(s): Brian Roderick Banks, The Purpose Group
+                Michigan LLC, Joseph Holland Jr.,
+                Purpose Foundation, Tracey D. Ellis
+
+  USE FOR: #02 Banks phone, #03 Lake Trust, #04 PCA,
+           #06 PSCU, #09 DPSCD, #10 MDE, #11 Perkins,
+           #12 Perlmuter, #13 Ellis, #14 Yancey Campaign,
+           #15 PSCU Yancey, #16 MacDowell, #17 Wayne Clerk
+
+---------- SAME ON ALL FORMS (both cases) ----------
+
+  Top left:     30th Judicial Circuit, Ingham County
+  Civil:        [x] checked
+  Criminal:     [ ] unchecked
+
+  Check box:    [x] 3. Produce copies of the following items:
+                     "See attached schedule"
+                [x] Permit inspection or copying:
+                     "See attached schedule"
+
+PAGE 2 -- FIELD 8 (same on all):
+  Person requesting subpoena: Kevin Mok
+  Telephone: [REDACTED_PHONE]
+  Address: [REDACTED_ADDR_1]
+  City: Lansing  State: MI  Zip: 48910
+
+FIELD 9: Sign and date each one.
+
+================================================================
+WHAT YOU HANDWRITE ON EACH FORM:
+================================================================
+
+Print 7 copies of the MC 11 form with the above pre-filled.
+Then handwrite ONLY the "TO:" field and the date for each:
+
+----------------------------------------------------------------
+SUBPOENA #01 -- SHAYLA'S PHONE  [SMITH CASE 4301]
+----------------------------------------------------------------
+"In the Name of the People of the State of Michigan. TO:"
+
+  [CARRIER -- get from DaSean]
+  Legal Compliance Department
+  [CARRIER ADDRESS -- see below]
+
+  T-Mobile:  4 Sylvan Way, Parsippany, NJ 07054
+  AT&T:      P.O. Box 24679, West Palm Beach, FL 33416
+  Verizon:   180 Washington Valley Rd, Bedminster, NJ 07921
+
+Box 3 write: "See attached schedule -- phone records
+              Shayla Smith, Aug 29 - Sep 3, 2026"
+
+ATTACH: SUBPOENA_01_SHAYLA_PHONE.txt
+
+----------------------------------------------------------------
+SUBPOENA #02 -- BANKS' PHONE  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  [CARRIER -- reverse lookup Banks' number from DaSean's
+   call log, 3 calls Sep 1/2/3]
+  Legal Compliance Department
+  [CARRIER ADDRESS]
+
+Box 3 write: "See attached schedule -- phone records
+              Brian Roderick Banks, Aug 29 - Sep 3, 2026"
+
+ATTACH: SUBPOENA_02_BANKS_PHONE.txt
+
+----------------------------------------------------------------
+SUBPOENA #03 -- LAKE TRUST CREDIT UNION  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Lake Trust Credit Union
+  Attn: Legal/Compliance Department
+  3000 Atrium Way
+  Mt. Clemens, MI 48043
+
+Box 3 write: "See attached schedule -- employment records,
+              mortgage file, account records"
+
+ATTACH: SUBPOENA_03_LAKE_TRUST.txt
+
+----------------------------------------------------------------
+SUBPOENA #04 -- PURPOSE CHARTER ACADEMY  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Purpose Charter Academy
+  c/o Brian Roderick Banks, Superintendent
+  10101 E. Canfield St.
+  Detroit, MI 48214
+
+Box 3 write: "See attached schedule -- student records,
+              attendance, communications, phone logs"
+
+ATTACH: SUBPOENA_04_PCA_RECORDS.txt
+
+SERVICE NOTE: Give to ABC process server. Serve Banks
+personally -- he is a named defendant.
+
+----------------------------------------------------------------
+SUBPOENA #05 -- LEON'S PHONE  [SMITH CASE 4301]
+----------------------------------------------------------------
+TO:
+  [CARRIER -- get from DaSean, Leon's number from
+   Aug 29 texts]
+  Legal Compliance Department
+  [CARRIER ADDRESS]
+
+Box 3 write: "See attached schedule -- phone records
+              Leon A. Smith, Aug 29 - Sep 3, 2026"
+
+ATTACH: SUBPOENA_05_LEON_PHONE.txt
+
+----------------------------------------------------------------
+SUBPOENA #06 -- PUBLIC SERVICE CREDIT UNION  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Public Service Credit Union
+  Attn: Legal/Compliance Department
+  7665 Merriman Rd
+  Romulus, MI 48174
+
+Box 3 write: "See attached schedule -- employment records,
+              mortgage files, membership records, insider
+              lending disclosures"
+
+ATTACH: SUBPOENA_06_PSCU.txt
+
+----------------------------------------------------------------
+SUBPOENA #07 -- USPS HARPER WOODS  [SMITH CASE 4301]
+----------------------------------------------------------------
+TO:
+  United States Postal Service
+  Harper Woods Post Office
+  Attn: Postmaster
+  XXXXX Harper Ave
+  Harper Woods, MI 48225
+
+Box 3 write: "See attached schedule -- employment records
+              Leon A. Smith, mail delivery records,
+              restricted delivery handling Aug 2026"
+
+ATTACH: SUBPOENA_07_USPS.txt
+
+SERVICE NOTE: Also send a copy to USPS OIG:
+  USPS Office of Inspector General
+  1735 N Lynn St
+  Arlington, VA 22209-2020
+  Ref: Complaint #202990
+
+================================================================
+WAVE 2: INSTITUTIONS & TRUSTEES (Sep 8-10)
+================================================================
+
+Print 6 more MC 11 forms. Same pre-fill as above.
+
+----------------------------------------------------------------
+SUBPOENA #08 -- SIMONE SMITH BANKRUPTCY TRUSTEE  [SMITH CASE 4301]
+----------------------------------------------------------------
+TO:
+  [TRUSTEE NAME -- get from PACER docket]
+  [TRUSTEE ADDRESS -- get from PACER docket]
+  Re: In re Simone Smith, E.D. Michigan (Aug 24, 2026)
+
+Box 3 write: "See attached schedule -- complete bankruptcy
+              schedules, prior filing history"
+
+ATTACH: SUBPOENA_08_SIMONE_TRUSTEE.txt
+NOTE: Need PACER to get trustee name/address.
+
+----------------------------------------------------------------
+SUBPOENA #09 -- DPSCD (CHARTER AUTHORIZER)  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Detroit Public Schools Community District
+  Office of the General Counsel
+  3011 W. Grand Blvd, 14th Floor
+  Detroit, MI 48202
+
+Box 3 write: "See attached schedule -- PCA charter file,
+              Banks background check, compliance reports"
+
+ATTACH: SUBPOENA_09_DPSCD.txt
+
+----------------------------------------------------------------
+SUBPOENA #10 -- MDE (BANKS CERT FILE)  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Michigan Department of Education
+  Office of Educator Excellence
+  608 W. Allegan St.
+  Lansing, MI 48933
+
+Box 3 write: "See attached schedule -- administrator
+              cert file, approval chain, background check"
+
+ATTACH: SUBPOENA_10_MDE.txt
+NOTE: MDE is in Lansing -- WALK THIS IN.
+
+================================================================
+WAVE 3: ATTORNEYS & ELLIS (Sep 8-10, after Labor Day)
+================================================================
+
+Print 3 more MC 11 forms.
+
+----------------------------------------------------------------
+SUBPOENA #11 -- TODD PERKINS, ESQ.  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Todd J. Perkins, Esq.
+  [ADDRESS -- check State Bar directory]
+
+Box 3 write: "See attached schedule -- communications with
+              Banks, retainer agreements, invoices, court
+              appearances"
+
+ATTACH: SUBPOENA_11_PERKINS.txt
+SERVICE: Process server -- serve personally.
+
+----------------------------------------------------------------
+SUBPOENA #12 -- GARY PERLMUTER, ESQ.  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Gary J. Perlmuter, Esq.
+  [ADDRESS -- check State Bar directory]
+
+Box 3 write: "See attached schedule -- communications with
+              Banks, retainer agreements, invoices, court
+              appearances"
+
+ATTACH: SUBPOENA_12_PERLMUTER.txt
+SERVICE: Process server -- serve personally.
+
+----------------------------------------------------------------
+SUBPOENA #13 -- TRACEY ELLIS (PURPOSE FOUNDATION CFO)  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Tracey D. Ellis
+  c/o Purpose Foundation
+  1968 Severn Rd.
+  Grosse Pointe Woods, MI 48236
+
+Box 3 write: "See attached schedule -- Purpose Foundation
+              financials, 990s, personal financial
+              relationship with Banks"
+
+ATTACH: SUBPOENA_13_ELLIS.txt
+SERVICE: Certified mail to Severn (already served there).
+
+================================================================
+WAVE 4: JUDGES' NETWORK (Sep 8-10, after Labor Day)
+================================================================
+
+Print 4 more MC 11 forms.
+
+----------------------------------------------------------------
+SUBPOENA #14 -- YANCEY CAMPAIGN COMMITTEE  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Committee to Elect Tenisha Yancey
+  Attn: Campaign Treasurer
+  [ADDRESS -- check MI SOS campaign finance filings]
+
+Box 3 write: "See attached schedule -- all expenditure
+              records, bank statements, vendor contracts"
+
+ATTACH: SUBPOENA_14_YANCEY_CAMPAIGN.txt
+NOTE: Get treasurer name from MI SOS.
+
+----------------------------------------------------------------
+SUBPOENA #15 -- PSCU (YANCEY MORTGAGE)  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Public Service Credit Union
+  Legal/Compliance Department
+  7665 Merriman Rd
+  Romulus, MI 48174
+
+Box 3 write: "See attached schedule -- Yancey mortgage file,
+              referral documentation, SUPPLEMENTAL to #06"
+
+ATTACH: SUBPOENA_15_PSCU_YANCEY.txt
+NOTE: Can bundle with #06 in same envelope.
+
+----------------------------------------------------------------
+SUBPOENA #16 -- MACDOWELL PREP ACADEMY  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  MacDowell Preparatory Academy
+  [ADDRESS -- check LARA or Rita's research]
+
+Box 3 write: "See attached schedule -- board records,
+              check register, Banks credit card charges,
+              charter docs"
+
+ATTACH: SUBPOENA_16_MACDOWELL.txt
+NOTE: Need address from LARA/Rita.
+
+----------------------------------------------------------------
+SUBPOENA #17 -- WAYNE COUNTY CLERK  [BANKS CASE 4349]
+----------------------------------------------------------------
+TO:
+  Wayne County Clerk
+  Court Records Division
+  2 Woodward Ave, Suite 201
+  Detroit, MI 48226
+
+Box 3 write: "See attached schedule -- case assignment
+              methodology, records for 26-108221-DC"
+
+ATTACH: SUBPOENA_17_WAYNE_CLERK.txt
+
+================================================================
+WAVE 5: CROWDER NETWORK (Sep 10-12)
+================================================================
+
+Print 2 more MC 11 forms.
+
+----------------------------------------------------------------
+SUBPOENA #18 -- TUNEZHA CROWDER, LCSW  [SMITH CASE 4301]
+----------------------------------------------------------------
+TO:
+  Tunezha Crowder
+  XXXXX Virginia Ave
+  Eastpointe, MI 48021
+
+Box 3 write: "See attached schedule -- professional
+              relationship with Shayla Smith, referrals
+              to PCA, credentials"
+
+ATTACH: SUBPOENA_18_CROWDER.txt
+
+----------------------------------------------------------------
+SUBPOENA #19 -- THE GUIDANCE CENTER  [SMITH CASE 4301]
+----------------------------------------------------------------
+TO:
+  The Guidance Center
+  Legal/Compliance Department
+  13101 Allen Rd
+  Southgate, MI 48195
+
+Box 3 write: "See attached schedule -- Crowder employment
+              records, referral agreements with PCA/Banks"
+
+ATTACH: SUBPOENA_19_GUIDANCE_CENTER.txt
+
+================================================================
+WAVE 6: DEFENSIVE (Sep 10-12)
+================================================================
+
+Print 1 more MC 11 form.
+
+----------------------------------------------------------------
+SUBPOENA #20 -- NHA (ENROLLMENT RECORDS)  [SMITH CASE 4301]
+----------------------------------------------------------------
+TO:
+  National Heritage Academies
+  Legal Department
+  3850 Broadmoor Ave SE, Suite 201
+  Grand Rapids, MI 49512
+
+Box 3 write: "See attached schedule -- enrollment records
+              for Mitchell children, parental consent"
+
+ATTACH: SUBPOENA_20_NHA.txt
+NOTE: Confirm specific school name with DaSean first.
+
+================================================================
+MAILING CHECKLIST
+================================================================
+
+For each subpoena, your envelope contains:
+  [ ] MC 11 form (signed, dated)
+  [ ] Attached schedule (the SUBPOENA_XX document)
+  [ ] Copy of everything for YOUR records
+
+Mail via USPS Certified Mail, Return Receipt Requested:
+  [ ] Green card (PS Form 3811) -- this is your proof of service
+  [ ] Keep tracking numbers
+
+Cost per envelope: ~$8-10 certified mail
+
+================================================================
+FULL MAILING CHECKLIST (20 SUBPOENAS)
+================================================================
+
+--- SMITH CASE (4301) MC 11 FORMS ---
+  [ ] #01 Shayla carrier        [NEED: carrier name/address]
+  [ ] #05 Leon carrier          [NEED: carrier name/address]
+  [ ] #07 USPS Harper Woods     XXXXX Harper Ave, Harper Woods
+  [ ] #08 Simone trustee        [NEED: trustee from PACER]
+  [ ] #18 Crowder               XXXXX Virginia Ave, Eastpointe
+  [ ] #19 Guidance Center       13101 Allen Rd, Southgate
+  [ ] #20 NHA                   3850 Broadmoor SE, Grand Rapids
+
+--- BANKS CASE (4349) MC 11 FORMS ---
+  [ ] #02 Banks carrier         [NEED: carrier name/address]
+  [ ] #03 Lake Trust CU         3000 Atrium Way, Mt. Clemens
+  [ ] #04 PCA -- GIVE TO ABC    10101 E. Canfield, Detroit
+  [ ] #06 PSCU                  7665 Merriman Rd, Romulus
+  [ ] #09 DPSCD                 3011 W. Grand Blvd, Detroit
+  [ ] #10 MDE -- WALK IN        608 W. Allegan, Lansing
+  [ ] #11 Perkins               [NEED: State Bar address]
+  [ ] #12 Perlmuter             [NEED: State Bar address]
+  [ ] #13 Ellis                 1968 Severn Rd, GPW (certified)
+  [ ] #14 Yancey Campaign       [NEED: MI SOS treasurer addr]
+  [ ] #15 PSCU (Yancey supp.)   7665 Merriman Rd, Romulus
+  [ ] #16 MacDowell Prep        [NEED: address from LARA/Rita]
+  [ ] #17 Wayne County Clerk    2 Woodward Ave #201, Detroit
+
+--- COURTESY COPIES (no case number needed) ---
+  [ ] #07b USPS OIG             1735 N Lynn St, Arlington VA
+
+================================================================
+TOTALS
+================================================================
+
+  READY TO MAIL NOW:    7 envelopes (#01-07 + OIG copy)
+  AFTER LABOR DAY:     13 envelopes (#08-20)
+  PROCESS SERVER:       3 (PCA #04, Perkins #11, Perlmuter #12)
+
+  Certified mail:  ~17 x $10 = $170
+  Process server:  ~3 x $50  = $150
+  TOTAL:                       ~$320
+
+================================================================
+WHAT YOU NEED BEFORE MAILING
+================================================================
+
+FROM DASEAN:
+  [ ] Shayla's phone carrier and number
+  [ ] Leon's phone carrier and number
+  [ ] Banks' phone number (from Sep 1/2/3 calls)
+  [ ] Confirm which NHA school the girls enrolled in
+
+FROM PACER:
+  [ ] Simone Smith's bankruptcy trustee name and address
+
+FROM STATE BAR DIRECTORY (zeekbeek/reliaguide):
+  [ ] Todd Perkins' office address
+  [ ] Gary Perlmuter's office address
+
+FROM MI SOS CAMPAIGN FINANCE:
+  [ ] Yancey Campaign Committee treasurer and address
+
+FROM LARA / RITA:
+  [ ] MacDowell Prep Academy physical address
+
+================================================================
+PRINT ORDER
+================================================================
+
+PHASE 1 (today/weekend -- Waves 1-2):
+  1. Print 10 blank MC 11 forms (2 pages each = 20 pages)
+  2. Pre-fill common fields on all 10
+  3. Print 10 attachment documents (SUBPOENA_01 thru 10)
+  4. Get carrier info from DaSean
+  5. Handwrite TO fields on carriers (#01, #02, #05)
+  6. Sign and date all 10
+  7. Make copies of everything
+  8. Stuff envelopes #03, #04, #06, #07
+  9. Post office Tuesday for Wave 1
+  10. Walk #10 (MDE) in to 608 W. Allegan
+
+PHASE 2 (next week -- Waves 3-6):
+  1. Print 10 more MC 11 forms
+  2. Pre-fill common fields
+  3. Print 10 attachment documents (SUBPOENA_11 thru 20)
+  4. Fill in addresses (State Bar, MI SOS, PACER)
+  5. Sign and date
+  6. Give #11 and #12 to process server
+  7. Mail everything else certified
+  8. Walk #10 (MDE) in if not done already
+
+BY SEP 12: All 20 subpoenas served or mailed.
+BY SEP 19: First compliance deadlines hit.
+BY SEP 26: Phone records, financials start arriving.
+================================================================
+

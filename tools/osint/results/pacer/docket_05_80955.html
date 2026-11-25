@@ -1,0 +1,479 @@
+<html><head><link rel="shortcut icon"  href="/favicon.ico"/><title>CM/ECF - U.S. District Court:mied</title>
+<script type="text/javascript">var default_base_path = "/"; </script><script type="text/javascript">if (top!=self) {top.location.replace(location.href);}</script><link rel="stylesheet" type="text/css" href="/css/default.css"><script type="text/javascript" src="/lib/core.js"></script><link rel="stylesheet" type="text/css" href="/css/print.css" media="print"><script type="text/javascript" src="/cgi-bin/menu.pl?id=-1"></script></head><body BGCOLOR=FFFFFF TEXT=000000 onLoad='SetFocus()'>        <div id="topmenu" class="yuimenubar">
+				<div class="bd"><img src="/graphics/logo-cmecf-sm.png" class="cmecfLogo" id="cmecfLogo" alt="CM/ECF" title="" />
+				<ul class="first-of-type">
+<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href='/cgi-bin/iquery.pl'><u>Q</u>uery</a></li>
+<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href='/cgi-bin/DisplayMenu.pl?Reports'>Reports <div class='spritedownarrow'></div></a></li>
+<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href='/cgi-bin/DisplayMenu.pl?Utilities'><u>U</u>tilities <div class='spritedownarrow'></div></a></li>
+				<li class="yuimenubaritem">
+				<a class="yuimenubaritemlabel" onClick="CMECF.MainMenu.showHelpPage(); return false" >Help</a></li>
+				
+<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href='/cgi-bin/login.pl?logout'>Log Out</a></li></ul><hr class="hrmenuseparator"></div></div></div><script type="text/javascript">if (navigator.appVersion.indexOf("MSIE")==-1){window.setTimeout(CMECF.MainMenu.createMenu, 0);}else{CMECF.util.Event.addListener(window, "load", CMECF.MainMenu.createMenu);}</script>  <div id="cmecfMainContent"><input type="hidden" id="cmecfMainContentScroll" value="0"><SCRIPT LANGUAGE="JavaScript">
+		var IsForm = false;
+		var FirstField;
+		function SetFocus() {
+			if(IsForm) {
+				if(FirstField) {
+					var ind = FirstField.indexOf('document.',0);
+					if(ind == 0)
+					{
+						eval(FirstField);
+					}
+					else
+					{
+						var Code = "document.forms[0]."+FirstField+".focus();";
+						eval(Code);
+					}
+				} else {
+					var Cnt = 0;
+					while(document.forms[0].elements[Cnt] != null) {
+						try {
+							if(document.forms[0].elements[Cnt].type != "hidden" &&
+									!document.forms[0].elements[Cnt].disabled &&
+									!document.forms[0].elements[Cnt].readOnly) {
+								document.forms[0].elements[Cnt].focus();
+								break;
+							}
+						}
+						catch(e) {}
+						Cnt += 1;
+					}
+				}
+			}
+			return(true);
+		}
+		</SCRIPT>
+ <FORM ENCTYPE='multipart/form-data' method=POST action="../cgi-bin/DktRpt.pl?85726882474765-L_1_0-1" >
+<!-ShowPage(DktRpt.htm)-> 
+
+<!-- RPM Packages: ao-dcecf-web-* -->
+<!-- RPM Permissions: 750 -->
+<!-- RPM Owner: ecf_web -->
+<!-- RPM Group: ecf_web -->
+<!-- RPM Flags: configure -->
+
+	<input type="hidden" id="view_comb_doc_text" name="view_comb_doc_text" style="background-color:lightblue">
+<script src="/lib/DateLib.js" language="Javascript"></script>
+
+<SCRIPT LANGUAGE="JavaScript">
+var mon_array="31/28/31/30/31/30/31/31/30/31/30/31";
+var MON;
+MON = mon_array.split("/");
+var G_yr, G_mn, G_dy;
+function GetNWDData() {
+	return("MNYR2026MN010103041011171819242531MN02010708141516212228MN03010708141521222829MN040405111218192526MN050203091016172324253031MN06060713141920212728MN07030405111218192526MN0801020809151622232930MN09050607121319202627MN1003041011121718242531MN110107081114152122262829MN12050612131920252627MNYR2027MN01010203091016171823243031MN02060713141520212728MN030607131420212728MN040304101117182425MN050102080915162223293031MN06050612131819202627MN0703040510111718242531MN08010708141521222829MN09040506111218192526MN100203091011161723243031MN1106071113142021252728MN12040511121819242526");
+}
+</SCRIPT>
+ <script src="/lib/CommonLib.js" language="Javascript"></script>
+    <SCRIPT>
+    function ValidateAllOnSubmit(function_name,form_num) {
+        if(form_num == null) form_num = 0; // default if not provided
+        var f = document.forms[form_num];  // f is the form object
+
+	// anticipate programmer errors - if no quotes around 1st param, its a function reference
+	if(typeof(function_name) == "function")
+	    function_name = function_name.toString().match(/function\s+([^\(]+)/)[1];
+
+	// iterate through all the elements of the form
+	for(var i=0; i<f.length; i++)   {
+	    var e=f.elements[i];
+	    if (e.type=="text"  || e.type=="textarea") {
+		// adding foo on to onchange property of form element[i]
+		// because cant be null for pattern match
+		var msg=(e.onchange)+"foo";
+
+		// if the onchange attribute matches the function name (and optionally an arg list)
+		re = new RegExp(function_name+"(\\s*\\([^)]+\\))?"); // think of each \\ as \
+		var match = msg.match(re);
+		if  (match) {
+                    function_call = match[0];
+
+		    // Execute validation function in question and see if it failed
+                    function_call = function_call.replace(/this/g
+                                           , "document.forms["+form_num+"].elements["+i+"]");
+                    if(! eval(function_call)) {
+			e.focus();
+			return(false);
+		    }
+		}
+	    }
+	}
+	return(1);
+    }
+    </SCRIPT>
+    		
+<BASEFONT SIZE=3>
+<FONT FACE="arial,helvetica" COLOR="#0000cc" SIZE=4><b>Docket Sheet</b>
+</FONT>
+<br>
+<br>
+			
+<tr><td><b>Case number</b> </td><input type='hidden' id='all_case_ids' name='all_case_ids' style='background-color:lightblue'><span id="case_number_area">
+&nbsp;
+<input type="text" id="case_number_text_area_0"><input type="button" id="case_number_show_button_0" style='display:none'><input type="button" id="case_number_hide_button_0" style='display:none'><input type="button" id="case_number_find_button_0" style='display:none'></span><script language="javascript">setTimeout(function(){new CMECF.CaseNumberSelect('cookie', '')},0)</script>
+
+		<div id="view_comb_doc_div" style="display:none">
+			<input type="checkbox" name="view_comb_doc_checkbox" id="view_comb_doc_checkbox" value="on" onclick="if(document.getElementById('view_comb_doc_checkbox').checked){document.forms[0].view_comb_doc_text.value='yes';}else{document.forms[0].view_comb_doc_text.value='';}" >
+			View Combined Docket Report
+		</div>
+				
+
+		<script language="Javascript">
+			function view_comb_doc_hide_clear() {
+				document.getElementById("view_comb_doc_div").style.display = "none";
+				document.getElementById("view_comb_doc_checkbox").checked = false;
+				document.forms[0].view_comb_doc_text.value='';
+			}
+			function view_comb_doc_case_number_changed() {
+				if ((document.getElementById("all_case_ids").value).match(',')) {
+				document.getElementById("view_comb_doc_div").style.display = "block";
+				} else {
+				view_comb_doc_hide_clear();
+				}
+			}
+			function view_comb_doc_key_pressed(e) {
+				if (e.keyCode != 13) { view_comb_doc_hide_clear(); }
+			}
+			function add_case_number_listener() {
+				var case_number_box = document.getElementById("case_number_text_area_0");
+				if (case_number_box) {
+				CMECF.util.Event.addListener(document, "click", view_comb_doc_case_number_changed);
+				CMECF.util.Event.addListener(document.getElementById("case_number_text_area_0"), "keydown", view_comb_doc_key_pressed);
+				CMECF.util.Event.addListener(document.getElementById("case_number_text_area_0"), "paste", view_comb_doc_hide_clear);
+				}
+				else {
+					window.setTimeout(add_case_number_listener, 100);
+				}
+			}
+			window.onload = add_case_number_listener;
+		</script>
+			<TABLE BORDER=0 CELLSPACING=10>
+				<TR>
+					<TH VALIGN=CENTER ALIGN=LEFT>
+						<span style='white-space:nowrap'><INPUT TYPE="radio" NAME="date_range_type" VALUE="Filed"
+checked						
+						><b>Filed</b></span>
+							<BR>
+						<span style='white-space:nowrap'><INPUT TYPE="radio" NAME="date_range_type" VALUE="Entered"
+						
+							><b>Entered</B></span>
+					</TH>
+					<TD><INPUT TYPE="TEXT" NAME="date_from" SIZE=10 Maxlength=10 ONCHANGE="if(CheckDate(this.value,0,this)==0){this.focus();this.select();}else{return true}" VALUE='' >
+						<B>to</B>
+						<INPUT TYPE="TEXT" NAME="date_to" SIZE=10 Maxlength=10 ONCHANGE="if(CheckDate(this.value,0,this)==0){this.focus();this.select();}else{return true}" VALUE='' >
+					</TD>
+				</TR>
+			</TABLE>
+			<TABLE CELLSPACING=0>
+				<TR>
+					<TD ALIGN = left>
+						&nbsp; &nbsp; &nbsp;<b>Documents</b>&nbsp;<INPUT TYPE="TEXT" NAME="documents_numbered_from_" SIZE=6 MAXLENGTH=6 ONCHANGE="if(CheckNumber(this.value,0)==0){this.focus();this.select();}else{return true}" value='' >
+						<b>to</b> <INPUT TYPE="TEXT" NAME="documents_numbered_to_" SIZE=6 MAXLENGTH=6 ONCHANGE="if(CheckNumber(this.value,0)==0){this.focus();this.select();}else{return true}" value='' >
+					</TD>
+				</TR>
+			</TABLE>
+
+				<TABLE CELLSPACING=0>
+					<TR>
+						<TD ALIGN = left>
+						<br>
+							&nbsp; &nbsp; &nbsp;<b>Go to Document</b>&nbsp;<INPUT TYPE="TEXT" NAME="document_number" ID="document_number" SIZE=6 MAXLENGTH=6 ONCHANGE="if(CheckNumber(this.value,0)==0){this.focus();this.select();}else{return true}" value='' >
+							<b>&nbsp; or &nbsp; PageID</b>&nbsp;<INPUT TYPE="TEXT" NAME="display_pageid" ID="display_pageid" SIZE=6 MAXLENGTH=6 ONCHANGE="if(CheckNumber(this.value,0)==0){this.focus();this.select();}else{return true}" value='' ></b>
+						</TD>
+					</TR>
+				</TABLE>
+			
+			<script language="JavaScript">
+        var document_number_changed = function() {
+				  var pageid_number_box = document.getElementById("display_pageid");
+					if (pageid_number_box) {
+						pageid_number_box.value = '';
+					}
+        }
+				var pageid_changed = function() {
+					var document_number_box = document.getElementById("document_number");
+          if (document_number_box) {
+						document_number_box.value = '';
+					}
+        }
+        var add_document_or_pageid_listener = function() {
+		      var document_number_box = document.getElementById("document_number");
+					var pageid_number_box = document.getElementById("display_pageid");
+          if (document_number_box) {
+            CMECF.util.Event.addListener(document_number_box, 'keydown', document_number_changed);
+						CMECF.util.Event.addListener(document_number_box, 'change', document_number_changed);
+						CMECF.util.Event.addListener(document_number_box, 'click', document_number_changed);
+          }
+					if (pageid_number_box) {
+						CMECF.util.Event.addListener(pageid_number_box, 'keydown', pageid_changed);
+						CMECF.util.Event.addListener(pageid_number_box, 'change', pageid_changed);
+						CMECF.util.Event.addListener(pageid_number_box, 'click', pageid_changed);
+					}
+        }
+        add_document_or_pageid_listener();
+      </script>
+					
+			<TABLE>
+<table><tr><td valign=top><b>Include:</b><br><INPUT TYPE='checkbox' NAME='list_of_parties_and_counsel' id='list_of_parties_and_counsel' value='on' CHECKED>Parties and counsel<br>
+<INPUT TYPE='checkbox' NAME='terminated_parties' id='terminated_parties' value='on' CHECKED>Terminated parties<br>
+<INPUT TYPE='checkbox' NAME='list_of_member_cases' id='list_of_member_cases' value='on'>List of member cases<br>
+</td><td>&nbsp; &nbsp;</td>
+<td valign=top>
+		<script language="JavaScript">
+			var show_formats = function (action) {
+				var disable = false;
+				if (action == true) {
+					// Disable.
+					disable = true;
+				}
+				else if (action == false) {
+					// Enable.
+					disable = false;
+				}
+				else {
+					// Called by an event.
+					if (document.forms[0].schedule_id) {
+						disable = document.forms[0].schedule_id.value;
+					}
+					else {
+						disable = false;
+					}
+				}
+				var output_format=document.getElementById('output_format_radio_buttons');
+				if (output_format) {
+					document.forms[0].output_format[0].checked=true;
+					output_format.style.display=(disable ? 'none': 'inline');
+				}
+			}
+			CMECF.util.Event.addListener('schedule_id', 'change', show_formats);
+			CMECF.util.Event.addListener(window, 'load', show_formats);
+
+			var show_hide_vaa = function () {
+				var vmd = document.getElementById("view_multi_docs");
+				var vmd_vaa = document.getElementById("vmd_vaa");
+
+				if (vmd_vaa) { vmd_vaa.style.display = 'none'; }
+				if (vmd && vmd.checked) {
+					if (vmd_vaa) { vmd_vaa.style.display = 'inline'; }
+				}
+			}
+			CMECF.util.Event.addListener(window, 'load', show_hide_vaa);
+		</script>
+	<b>Document options:</b><br><INPUT TYPE='checkbox' NAME='view_multi_docs' id='view_multi_docs' value='on' onClick="Disable_Tied_Checkbox('view_multi_docs','create_abridged_docket_report');Disable_Tied_Checkbox('view_multi_docs','create_roa');Disable_Tied_Checkbox('view_multi_docs','create_appendix');show_formats(this.checked);show_hide_vaa(); ">View multiple documents<br>
+<div style='margin-left: 20px;display: none;' id='vmd_vaa'>
+<INPUT TYPE='checkbox' NAME='view_all_attachments' id='view_all_attachments' value='on'>View all attachments - <i>Selecting this option may result in a higher fee if additional data is returned</i><br>
+</div>
+<div style='height:0.5em'></div>
+			<span id='output_format_radio_buttons' style='display:inline'>
+				<b>Format:</b><br>
+				<input name='output_format' value='html' type='radio' checked="checked"> HTML (unpaginated)<br>
+				<input name='output_format' value='pdf'  type='radio'  > PDF (paginated)
+			</span>
+		</tr></table>
+
+		<input type='hidden' id='PreResetField' name='PreResetField' style='background-color:lightblue' value= >
+		<input type='hidden' id='PreResetFields' name='PreResetFields' style='background-color:lightblue' value= >
+	
+		<script language="JavaScript">
+			var Rest_Seal_Entries = function (action) {
+			 if (action == true) {
+				if (document.getElementById("restricted_entries")) {
+					document.getElementById("restricted_entries").checked = true;
+				}
+				if (document.getElementById("sealed_entries")) {
+					document.getElementById("sealed_entries").checked = true;
+				}
+			 }
+			 if (action == false) {
+				if (document.getElementById("restricted_entries")) {
+					document.getElementById("restricted_entries").checked = false;
+				}
+				if (document.getElementById("sealed_entries")) {
+					document.getElementById("sealed_entries").checked = false;
+				}
+			 }
+			}
+
+			function PreResetProc() {
+				if (document.getElementById("vmd_vaa")) { document.getElementById("vmd_vaa").style.display = 'none'; }
+				if (document.getElementById("PreResetField").value === 'create_roa') {
+					document.getElementById('create_roa').checked = true;
+					document.getElementById('create_roa').disabled = false;
+					Disable_Tied_Checkbox('create_roa','create_appendix');
+					Disable_Tied_Checkbox('create_roa','create_abridged_docket_report');
+					Disable_Tied_Checkbox('create_roa','view_multi_docs');
+					show_roa(true);
+					show_appendix(false);
+					show_formats(true);
+					if (document.getElementById("court_user_roa")) {
+						Rest_Seal_Entries(false);
+					}
+				} else if(document.getElementById("PreResetField").value === 'create_appendix') {
+					document.getElementById('create_appendix').checked = true;
+					document.getElementById('create_appendix').disabled = false;
+					Disable_Tied_Checkbox('create_appendix','create_roa');
+					Disable_Tied_Checkbox('create_appendix','create_abridged_docket_report');
+					Disable_Tied_Checkbox('create_appendix','view_multi_docs');
+					if (document.getElementById('create_roa')) show_roa(false);
+					show_appendix(true);
+					show_formats(true);
+					if (document.getElementById("court_user")) {
+						Rest_Seal_Entries(false);
+					}
+				} else if(document.getElementById("PreResetField").value === 'view_multi_docs') {
+					document.getElementById('view_multi_docs').checked = true;
+					document.getElementById('view_multi_docs').disabled = false;
+					document.getElementById('pdf_header').disabled = false;
+					Disable_Tied_Checkbox('view_multi_docs','create_abridged_docket_report');
+					Disable_Tied_Checkbox('view_multi_docs','create_roa');
+					Disable_Tied_Checkbox('view_multi_docs','create_appendix');
+					show_formats(true);
+					if (document.getElementById('create_appendix')) show_appendix(false);
+					if (document.getElementById('create_roa'))  show_roa(false);
+					if (document.getElementById("vmd_vaa")) { document.getElementById("vmd_vaa").style.display = 'inline'; }
+				} else if(document.getElementById("PreResetField").value === 'create_abridged_docket_report') {
+					document.getElementById('create_abridged_docket_report').checked = true;
+					document.getElementById('create_abridged_docket_report').disabled = false;
+					document.getElementById('pdf_header').disabled = false;
+					Disable_Tied_Checkbox('create_abridged_docket_report', 'view_multi_docs');
+					Disable_Tied_Checkbox('create_abridged_docket_report', 'create_roa');
+					Disable_Tied_Checkbox('create_abridged_docket_report', 'create_appendix');
+					show_formats(true);
+					if (document.getElementById('create_appendix')) show_appendix(false);
+					if (document.getElementById('create_roa'))  show_roa(false);
+				} else {
+					if ((document.getElementById("PreResetFields").value).match('restricted_entries')) {
+						if (document.getElementById("restricted_entries")) {
+							document.getElementById("restricted_entries").checked = true;
+							document.getElementById("restricted_entries").disabled = false;
+						}
+					}
+					if ((document.getElementById("PreResetFields").value).match('sealed_entries')) {
+						if (document.getElementById("sealed_entries")) {
+							document.getElementById("sealed_entries").checked = true;
+							document.getElementById("sealed_entries").disabled = false;
+						}
+					}
+					if (document.getElementById('create_roa')) {
+						document.getElementById('create_roa').disabled = false;
+						show_roa(false);
+					}
+					if (document.getElementById('create_appendix')) {
+						document.getElementById('create_appendix').disabled = false;
+						show_appendix(false);
+					}
+					if (document.getElementById('pdf_header')) document.getElementById('pdf_header').disabled = false;
+					if (document.getElementById('view_multi_docs')) document.getElementById('view_multi_docs').disabled = false;
+					if (document.getElementById('create_abridged_docket_report')) document.getElementById('create_abridged_docket_report').disabled = false;
+					show_formats(false);
+				}
+			}
+
+			function PreResetlist() {
+				CMECF.util.Event.addListener(document.getElementsByName("reset"), "click", PreResetProc);
+				add_case_number_listener();
+				if (document.getElementById("create_roa")) {
+					if ((document.getElementById("create_roa").checked) && (document.getElementById("court_user_roa").checked) && (document.getElementById("ex_parte_roa").checked) && (document.getElementById("applicable_party_roa").checked)) {
+						Rest_Seal_Entries(false);
+					}
+					CMECF.util.Event.addListener(document.getElementById("create_roa"), "click", Rest_Seal_Entries_roa);
+					CMECF.util.Event.addListener(document.getElementById("court_user_roa"), "click", Rest_Seal_Entries_roa);
+					CMECF.util.Event.addListener(document.getElementById("ex_parte_roa"), "click", Rest_Seal_Entries_roa);
+					CMECF.util.Event.addListener(document.getElementById("applicable_party_roa"), "click", Rest_Seal_Entries_roa);
+				}
+				if (document.getElementById("create_appendix")) {
+					if ((document.getElementById("create_appendix").checked) && (document.getElementById("court_user").checked) && (document.getElementById("ex_parte").checked) && (document.getElementById("applicable_party").checked)) {
+						Rest_Seal_Entries(false);
+					}
+					CMECF.util.Event.addListener(document.getElementById("create_appendix"), "click", Rest_Seal_Entries_appendix);
+					CMECF.util.Event.addListener(document.getElementById("court_user"), "click", Rest_Seal_Entries_appendix);
+					CMECF.util.Event.addListener(document.getElementById("ex_parte"), "click", Rest_Seal_Entries_appendix);
+					CMECF.util.Event.addListener(document.getElementById("applicable_party"), "click", Rest_Seal_Entries_appendix);
+				}
+			}
+			window.onload = PreResetlist;
+			</script>
+					
+			</TABLE>
+			<TABLE>
+				<TR>
+					<TD ALIGN=LEFT><B>Sort by</B></TD>
+					<TD ALIGN=LEFT>
+
+<select name='sort1'>
+
+<option value='oldest date first' selected>Oldest date first</option>
+<option value='most recent date first'>Most recent date first</option>
+<option value='document number'>Document number</option>
+</select>
+						
+					</TD>
+				</TR>
+			</TABLE>
+			
+			
+
+			
+<input name="button1" value='Run Report' type="button" onclick="ProcessForm()">&nbsp;<input name="reset" type="reset" value="Clear"></form>			
+<SCRIPT LANGUAGE="JavaScript">
+		var timerId;
+		var BeenHere = 0;
+		IsForm  = true;
+		function empty(s) {
+			var whitespace = " \t\n\r";
+			if(s == null || s.length == 0) {
+				return(true);
+			}
+		    // Is s only whitespace characters?
+		    for (var i = 0; i < s.length; i++) {
+		        var c = s.charAt(i);
+       			 if (whitespace.indexOf(c) == -1) return false;
+		    }
+			return(true);
+		}
+		function ClearTimer() {
+			BeenHere = 0;
+			clearTimeout(timerId);
+			return(true);
+		}
+		var FormId = 0;
+		function ProcessForm() {
+			if(BeenHere == 1) {
+				alert("Submission already made, please wait for response from server");
+				return(false);
+			}
+			BeenHere = 1;
+			timerId=setTimeout("ClearTimer()",5000);
+if( ! ValidateAllOnSubmit("CheckDate", 0) ) {ClearTimer();return false;}
+if( ! ValidateAllOnSubmit("CheckNumber", 0) ) {ClearTimer();return false;}
+document.forms[FormId].submit();return true
+}
+
+function RunAfterClear() {
+	
+}
+</SCRIPT>
+
+<script language="JavaScript">
+var AssignResetButtonTimeout;
+function AssignResetButton() {
+	if (AssignResetButtonTimeout)
+		window.clearTimeout(AssignResetButtonTimeout);
+
+	var resetButton = document.forms[0].reset;
+	if (resetButton && resetButton.value) {
+		var oldHandler = resetButton.onclick;
+		var newHandler = function() {setTimeout("RunAfterClear()", 100)};
+		resetButton.onclick = function() {
+			if (oldHandler) {
+				oldHandler();
+			}
+			newHandler();
+		}
+	}
+	else
+		AssignResetButtonTimeout = window.setTimeout(AssignResetButton, 1);
+}
+AssignResetButton();
+</script>
+</div></body></html>

@@ -1,0 +1,62 @@
+[
+  {
+    "source": "lara",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "LARA ID: 802070120",
+    "timestamp": "2026-09-02T06:55:21.927233",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "802070120",
+        "manual_action": "Search entity ID 802070120 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "entity/agent: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:55:21.927250",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare",
+        "proxy_used": "direct",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Banks Strategy & Consultants, LLC"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "lara_mirror: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:56:07.373890",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/banks-strategy-consultants-llc/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "companiesmi: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:56:08.968457",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  }
+]

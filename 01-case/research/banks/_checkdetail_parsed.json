@@ -1,0 +1,2124 @@
+{
+  "transaction_count": 190,
+  "total_disbursements": 418417.05,
+  "unique_payees": 162,
+  "top_payees": [
+    {
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "total": 51807.96,
+      "count": 7
+    },
+    {
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "total": 35314.85,
+      "count": 8
+    },
+    {
+      "payee": "0000420792 DTE Energy ID: 0000420792 PPD",
+      "total": 25262.1,
+      "count": 3
+    },
+    {
+      "payee": "ABM Invoice:18957538-Replacment",
+      "total": 10350.0,
+      "count": 1
+    },
+    {
+      "payee": ", 113769",
+      "total": 10088.0,
+      "count": 1
+    },
+    {
+      "payee": "9018512607 Industry Specific Solutions ID: 9018512607",
+      "total": 10054.2,
+      "count": 1
+    },
+    {
+      "payee": "1033 Brian Banks Staff gifts cards",
+      "total": 9945.0,
+      "count": 1
+    },
+    {
+      "payee": "9018349029 Industry Specific Solutions ID: 9018349029",
+      "total": 9786.4,
+      "count": 1
+    },
+    {
+      "payee": ",114044 Industry Specific Solutions Invoice #113917,114044",
+      "total": 9661.6,
+      "count": 1
+    },
+    {
+      "payee": ", 117850",
+      "total": 9651.53,
+      "count": 1
+    },
+    {
+      "payee": ", 113455",
+      "total": 9276.8,
+      "count": 1
+    },
+    {
+      "payee": ", 118194",
+      "total": 8933.6,
+      "count": 1
+    },
+    {
+      "payee": "310-0185.301 DETROIT WATER AND SEWERAGE",
+      "total": 8558.95,
+      "count": 1
+    },
+    {
+      "payee": "9018138680 Industry Specific Solutions ID: 9018138680",
+      "total": 7982.0,
+      "count": 1
+    },
+    {
+      "payee": "R -7,503.60",
+      "total": 7503.6,
+      "count": 1
+    },
+    {
+      "payee": ", 116205",
+      "total": 6780.8,
+      "count": 1
+    },
+    {
+      "payee": ", 116552",
+      "total": 6572.8,
+      "count": 1
+    },
+    {
+      "payee": ", 117123",
+      "total": 6572.8,
+      "count": 1
+    },
+    {
+      "payee": "1510372554 Comcast Business Acct x7350 Internet",
+      "total": 6515.88,
+      "count": 1
+    },
+    {
+      "payee": ", #18537",
+      "total": 6325.0,
+      "count": 1
+    },
+    {
+      "payee": "Echols Landscaping and Home",
+      "total": 5450.0,
+      "count": 2
+    },
+    {
+      "payee": "Gregory M. Meihn 2024 Attorney Retainer Fee",
+      "total": 5000.0,
+      "count": 1
+    },
+    {
+      "payee": "5420234980 EMC Insurance Company",
+      "total": 4850.64,
+      "count": 1
+    },
+    {
+      "payee": "1046 Water Work Plumbing Plumber",
+      "total": 4816.0,
+      "count": 1
+    },
+    {
+      "payee": "4888242 Comcast Business Acct x0806 ID:4888242",
+      "total": 4711.6,
+      "count": 2
+    },
+    {
+      "payee": "1510372554 Comcast Business Acct x7350 ID: 1510372554",
+      "total": 4679.69,
+      "count": 3
+    },
+    {
+      "payee": "1024 Hoekstra Leasing, LLC Invoice #13501001136",
+      "total": 4672.0,
+      "count": 1
+    },
+    {
+      "payee": "R -4,368.00",
+      "total": 4368.0,
+      "count": 1
+    },
+    {
+      "payee": "200065749132 Restaurant Equippers Warehouse",
+      "total": 4366.34,
+      "count": 1
+    },
+    {
+      "payee": "DTE Energy",
+      "total": 4130.45,
+      "count": 1
+    },
+    {
+      "payee": "Orkin Invoice:268487636",
+      "total": 4000.0,
+      "count": 1
+    },
+    {
+      "payee": "R -3,840.20",
+      "total": 3840.2,
+      "count": 1
+    },
+    {
+      "payee": "Imperial Dade 740 - DET Invoice/ Order 90045448-00",
+      "total": 3327.89,
+      "count": 1
+    },
+    {
+      "payee": "0000420792 DTE Energy",
+      "total": 3227.32,
+      "count": 1
+    },
+    {
+      "payee": "1023 Sabrina Jackson Enterprises Professional development",
+      "total": 3000.0,
+      "count": 1
+    },
+    {
+      "payee": "9004213932 Industry Specific Solutions ID: 9004213932",
+      "total": 2558.4,
+      "count": 1
+    },
+    {
+      "payee": "R -2,500.00",
+      "total": 2500.0,
+      "count": 1
+    },
+    {
+      "payee": "Evelyn Madih",
+      "total": 2500.0,
+      "count": 1
+    },
+    {
+      "payee": "LaQuiesha Daniels",
+      "total": 2500.0,
+      "count": 1
+    },
+    {
+      "payee": "1004 Chef JA Catering",
+      "total": 2492.0,
+      "count": 1
+    },
+    {
+      "payee": "EMC Insurance Company",
+      "total": 2424.26,
+      "count": 1
+    },
+    {
+      "payee": "1045 People's Restaurant STEAM tables",
+      "total": 2399.99,
+      "count": 1
+    },
+    {
+      "payee": "16804590 DETROIT WATER AND SEWERAGE",
+      "total": 2394.23,
+      "count": 1
+    },
+    {
+      "payee": "0000213249 Comcast Business Acct x0806",
+      "total": 2300.0,
+      "count": 1
+    },
+    {
+      "payee": "mpa-001 ThirtyOne LLC 2024-Administrative Assistant",
+      "total": 2000.0,
+      "count": 1
+    },
+    {
+      "payee": "Brian Banks Staff Gift Cards",
+      "total": 1890.0,
+      "count": 1
+    },
+    {
+      "payee": "Bouncing Off The Walls",
+      "total": 1825.0,
+      "count": 1
+    },
+    {
+      "payee": "1013 Blake's Big Apple",
+      "total": 1806.0,
+      "count": 1
+    },
+    {
+      "payee": "1007 Non Profit Enterprise at Work",
+      "total": 1800.0,
+      "count": 1
+    },
+    {
+      "payee": "1005 Just Bouncin",
+      "total": 1780.0,
+      "count": 1
+    },
+    {
+      "payee": "M80065032762 GoTo Communications, Inc. ID: M80065032762",
+      "total": 1586.25,
+      "count": 1
+    },
+    {
+      "payee": "1052 Wanda Jones Caterer (Black History Program)",
+      "total": 1540.0,
+      "count": 1
+    },
+    {
+      "payee": "IN7102544012 GoTo Communications, Inc. Invoice: IN7102544012",
+      "total": 1530.97,
+      "count": 1
+    },
+    {
+      "payee": "1034 John Arnold Caterer",
+      "total": 1525.0,
+      "count": 1
+    },
+    {
+      "payee": "1911718107 GoTo Communications, Inc. ID: M80127065318",
+      "total": 1515.87,
+      "count": 1
+    },
+    {
+      "payee": "IN7102470456 GoTo Communications, Inc. Invoice: IN7102470456",
+      "total": 1515.87,
+      "count": 1
+    },
+    {
+      "payee": "Brian Banks",
+      "total": 1470.0,
+      "count": 1
+    },
+    {
+      "payee": "M80270513249 GoTo Communications, Inc. ID: M80270513249",
+      "total": 1444.89,
+      "count": 1
+    },
+    {
+      "payee": "1911718107 GoTo Communications, Inc. ID: 1911718107-M80482041208",
+      "total": 1440.26,
+      "count": 1
+    },
+    {
+      "payee": "C.J. Barrymores Invoice:8421",
+      "total": 1400.0,
+      "count": 2
+    },
+    {
+      "payee": "1911718107 GoTo Communications, Inc. ID: 1911718107",
+      "total": 1379.91,
+      "count": 1
+    },
+    {
+      "payee": "980000157 US Bank",
+      "total": 1378.83,
+      "count": 1
+    },
+    {
+      "payee": "M80383322200 GoTo Communications, Inc. ID: M80383322200",
+      "total": 1365.54,
+      "count": 1
+    },
+    {
+      "payee": "80005673406 GoTo Communications, Inc. ID: 80005673406",
+      "total": 1349.83,
+      "count": 1
+    },
+    {
+      "payee": "M80323716591 GoTo Communications, Inc. ID: M80323716591",
+      "total": 1330.36,
+      "count": 1
+    },
+    {
+      "payee": "GoTo Communications, Inc.",
+      "total": 1323.77,
+      "count": 1
+    },
+    {
+      "payee": "1911718107 GoTo Communications, Inc.",
+      "total": 1323.77,
+      "count": 1
+    },
+    {
+      "payee": "John Arnold",
+      "total": 1240.0,
+      "count": 2
+    },
+    {
+      "payee": "0213249 Comcast Business Acct x0806",
+      "total": 1167.25,
+      "count": 1
+    },
+    {
+      "payee": "John Arnold Caterer- Teacher Appreciation",
+      "total": 1120.0,
+      "count": 1
+    },
+    {
+      "payee": "7860843596 Republic Services # 241 waste removal",
+      "total": 1089.31,
+      "count": 1
+    },
+    {
+      "payee": "1016 Instructional Coaching Group Registration for 10 -1,049.00",
+      "total": 1049.0,
+      "count": 1
+    },
+    {
+      "payee": "1040 Rafeal Camper Prayers to you and your fam",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "payee": "John Arnold PD Caterer",
+      "total": 991.0,
+      "count": 1
+    },
+    {
+      "payee": "1010 Detroit Athletic Club",
+      "total": 948.0,
+      "count": 1
+    },
+    {
+      "payee": "John Arnold Caterer",
+      "total": 940.0,
+      "count": 1
+    },
+    {
+      "payee": "1032 Great Lakes Fence Co. Inc. Invoices",
+      "total": 905.0,
+      "count": 1
+    },
+    {
+      "payee": "1027 KJ Investment Group Whack-Words Scholars (?)",
+      "total": 900.0,
+      "count": 1
+    },
+    {
+      "payee": "1012 John Arnold",
+      "total": 895.0,
+      "count": 1
+    },
+    {
+      "payee": "1041 John Arnold Caterer",
+      "total": 850.0,
+      "count": 1
+    }
+  ],
+  "network_flagged": [
+    {
+      "payee": "1033 Brian Banks Staff gifts cards",
+      "total": 9945.0,
+      "count": 1
+    },
+    {
+      "payee": "Gregory M. Meihn 2024 Attorney Retainer Fee",
+      "total": 5000.0,
+      "count": 1
+    },
+    {
+      "payee": "Brian Banks Staff Gift Cards",
+      "total": 1890.0,
+      "count": 1
+    },
+    {
+      "payee": "Brian Banks",
+      "total": 1470.0,
+      "count": 1
+    },
+    {
+      "payee": "1040 Rafeal Camper Prayers to you and your fam",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "payee": "1026 Brian Banks Gift cards for travel",
+      "total": 400.0,
+      "count": 1
+    },
+    {
+      "payee": "1035 Brian Banks Reimbursement",
+      "total": 265.0,
+      "count": 1
+    }
+  ],
+  "gift_card_lines": [
+    {
+      "date": "08/08/2023",
+      "type": "Check",
+      "check_num": "10056",
+      "payee": "Brian Banks Staff Gift Cards",
+      "memo": "Staff Gift Cards 1,890.00",
+      "amount": 1890.0
+    },
+    {
+      "date": "11/20/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1026 Brian Banks Gift cards for travel",
+      "memo": "---PAGE 31--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   31/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT Gift cards for travel 400.00",
+      "amount": 400.0
+    },
+    {
+      "date": "12/20/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1033 Brian Banks Staff gifts cards",
+      "memo": "Staff gifts cards 9,945.00",
+      "amount": 9945.0
+    },
+    {
+      "date": "01/24/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1040 Rafeal Camper Prayers to you and your fam",
+      "memo": "Prayers to you and your fam 1,000.00",
+      "amount": 1000.0
+    },
+    {
+      "date": "03/22/2024",
+      "type": "Check",
+      "check_num": "10002",
+      "payee": "Chalcee Norwood Reimbursement for Gift",
+      "memo": "Cards/Easter Egg Hunt R -245.00",
+      "amount": 245.0
+    },
+    {
+      "date": "06/24/2024",
+      "type": "Check",
+      "check_num": "10044",
+      "payee": "Brian Banks",
+      "memo": "Staff Gift Cards for NCSC24 1,470.00",
+      "amount": 1470.0
+    }
+  ],
+  "unusual_memos": [
+    {
+      "date": "08/08/2023",
+      "type": "Check",
+      "check_num": "10056",
+      "payee": "Brian Banks Staff Gift Cards",
+      "memo": "Staff Gift Cards 1,890.00",
+      "amount": 1890.0
+    },
+    {
+      "date": "09/23/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1011 Ricardo Silva",
+      "memo": "Costco Reimbursement 201.60",
+      "amount": 201.6
+    },
+    {
+      "date": "11/20/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1026 Brian Banks Gift cards for travel",
+      "memo": "---PAGE 31--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   31/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT Gift cards for travel 400.00",
+      "amount": 400.0
+    },
+    {
+      "date": "12/20/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1033 Brian Banks Staff gifts cards",
+      "memo": "Staff gifts cards 9,945.00",
+      "amount": 9945.0
+    },
+    {
+      "date": "01/11/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1035 Brian Banks Reimbursement",
+      "memo": "Reimbursement 265.00",
+      "amount": 265.0
+    },
+    {
+      "date": "01/24/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1040 Rafeal Camper Prayers to you and your fam",
+      "memo": "Prayers to you and your fam 1,000.00",
+      "amount": 1000.0
+    },
+    {
+      "date": "03/22/2024",
+      "type": "Check",
+      "check_num": "10002",
+      "payee": "Chalcee Norwood Reimbursement for Gift",
+      "memo": "Cards/Easter Egg Hunt R -245.00",
+      "amount": 245.0
+    },
+    {
+      "date": "04/19/2024",
+      "type": "Check",
+      "check_num": "10010",
+      "payee": "Cameron Cole Reimbursement :Check 10010",
+      "memo": "Pizza Party Reimbursement 199.25",
+      "amount": 199.25
+    },
+    {
+      "date": "04/19/2024",
+      "type": "Check",
+      "check_num": "10009",
+      "payee": "Tasha White Reimbursement",
+      "memo": "Reimbursement- 8th Grade Snooky Cookies 112.00",
+      "amount": 112.0
+    },
+    {
+      "date": "05/03/2024",
+      "type": "Check",
+      "check_num": "10013",
+      "payee": "Cameron Cole Ice Cream Reimbursement",
+      "memo": "Ice Cream Reimbursement 65.98",
+      "amount": 65.98
+    },
+    {
+      "date": "06/04/2024",
+      "type": "Check",
+      "check_num": "10034",
+      "payee": "Chiquita McKenzie",
+      "memo": "Reimbursement for Henry Ford Field Trip 336.00",
+      "amount": 336.0
+    },
+    {
+      "date": "06/24/2024",
+      "type": "Check",
+      "check_num": "10044",
+      "payee": "Brian Banks",
+      "memo": "Staff Gift Cards for NCSC24 1,470.00",
+      "amount": 1470.0
+    }
+  ],
+  "categories": {
+    "Utilities & telecom": 173001.02,
+    "Other / unclassified": 164570.21,
+    "Insurance & banking fees": 45389.48,
+    "Self-dealing / operator (Brian Banks)": 13970.0,
+    "Facilities / maintenance / IT": 10875.0,
+    "Legal counsel": 5000.0,
+    "Food / events / misc vendors": 4366.34,
+    "Gift cards / personal": 1245.0
+  },
+  "all_entries": [
+    {
+      "date": "05/05/2024",
+      "type": "Expenditure",
+      "check_num": "358632",
+      "payee": "GFL Environment INC",
+      "memo": "GFL Charge Back 5/07/24 2.12 100.3750- Bills (B of A)",
+      "amount": 2.12
+    },
+    {
+      "date": "07/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "Intuit QBO - June 2023",
+      "memo": "QBO - July 2023 85.00",
+      "amount": 85.0
+    },
+    {
+      "date": "07/06/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "DTE Energy",
+      "memo": "Electricity 4,130.45",
+      "amount": 4130.45
+    },
+    {
+      "date": "07/12/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "GoTo Communications, Inc.",
+      "memo": "1,323.77",
+      "amount": 1323.77
+    },
+    {
+      "date": "08/01/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company",
+      "memo": "August Insurance Payment 4,850.64",
+      "amount": 4850.64
+    },
+    {
+      "date": "08/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "000756346 Intuit QBO - June 2023",
+      "memo": "QBO - August 2023 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "08/07/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy",
+      "memo": "Electricity 3,227.32",
+      "amount": 3227.32
+    },
+    {
+      "date": "08/08/2023",
+      "type": "Check",
+      "check_num": "10056",
+      "payee": "Brian Banks Staff Gift Cards",
+      "memo": "Staff Gift Cards 1,890.00",
+      "amount": 1890.0
+    },
+    {
+      "date": "08/09/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1510372554 Comcast Business Acct x7350 Internet",
+      "memo": "6,515.88",
+      "amount": 6515.88
+    },
+    {
+      "date": "08/14/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1911718107 GoTo Communications, Inc.",
+      "memo": "August 1,323.77",
+      "amount": 1323.77
+    },
+    {
+      "date": "08/15/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "980000157 US Bank",
+      "memo": "August 1,378.83",
+      "amount": 1378.83
+    },
+    {
+      "date": "09/01/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "Liability insurance 2,424.27",
+      "amount": 2424.27
+    },
+    {
+      "date": "09/01/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "200065749132 Restaurant Equippers Warehouse",
+      "memo": "Stores ID: 200065749132",
+      "amount": 4366.34
+    },
+    {
+      "date": "09/05/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0514029 Intuit ID: 0514029",
+      "memo": "QBO for September 2023 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "09/06/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "---PAGE 6--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   6/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT Electricity 3,625.94",
+      "amount": 3625.94
+    },
+    {
+      "date": "09/06/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1510372554 Comcast Business Acct x7350 ID: 1510372554",
+      "memo": "2,379.69",
+      "amount": 2379.69
+    },
+    {
+      "date": "09/08/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9004213932 Industry Specific Solutions ID: 9004213932",
+      "memo": "Invoice 112307 2,558.40",
+      "amount": 2558.4
+    },
+    {
+      "date": "09/12/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "80005673406 GoTo Communications, Inc. ID: 80005673406",
+      "memo": "1,349.83",
+      "amount": 1349.83
+    },
+    {
+      "date": "09/22/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9018138680 Industry Specific Solutions ID: 9018138680",
+      "memo": "September 7,982.00",
+      "amount": 7982.0
+    },
+    {
+      "date": "09/22/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5683845 Comcast Business Acct x0806 ID: 5683845",
+      "memo": "219.35",
+      "amount": 219.35
+    },
+    {
+      "date": "10/02/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "EMC Insurance Company",
+      "memo": "October Insurance 2,424.26",
+      "amount": 2424.26
+    },
+    {
+      "date": "10/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "8799938 Intuit ID: 8799938",
+      "memo": "QBO for October 2023 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "10/05/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "Electricity 4,643.12",
+      "amount": 4643.12
+    },
+    {
+      "date": "10/06/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9018349029 Industry Specific Solutions ID: 9018349029",
+      "memo": "October 9,786.40",
+      "amount": 9786.4
+    },
+    {
+      "date": "10/12/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "M80065032762 GoTo Communications, Inc. ID: M80065032762",
+      "memo": "1,586.25",
+      "amount": 1586.25
+    },
+    {
+      "date": "10/20/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9018512607 Industry Specific Solutions ID: 9018512607",
+      "memo": "October 10,054.20",
+      "amount": 10054.2
+    },
+    {
+      "date": "10/23/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "4497390 Comcast Business Acct x0806 ID: 4497390",
+      "memo": "105.79",
+      "amount": 105.79
+    },
+    {
+      "date": "10/24/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1510372554 Comcast Business Acct x7350 ID: 1510372554",
+      "memo": "1,150.00",
+      "amount": 1150.0
+    },
+    {
+      "date": "11/01/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "November Insurance 15,640.25",
+      "amount": 15640.25
+    },
+    {
+      "date": "11/03/2023",
+      "type": "Expenditure",
+      "check_num": "113292",
+      "payee": ", 113455",
+      "memo": "November 9,276.80",
+      "amount": 9276.8
+    },
+    {
+      "date": "11/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "Electricity 4,603.91",
+      "amount": 4603.91
+    },
+    {
+      "date": "11/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000756346 Intuit ID: 7771450",
+      "memo": "QBO for November 2023 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "11/14/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1911718107 GoTo Communications, Inc. ID: M80127065318",
+      "memo": "November 1,515.87",
+      "amount": 1515.87
+    },
+    {
+      "date": "11/17/2023",
+      "type": "Expenditure",
+      "check_num": "113611",
+      "payee": ", 113769",
+      "memo": "November 10,088.00",
+      "amount": 10088.0
+    },
+    {
+      "date": "11/22/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1510372554 Comcast Business Acct x7350 ID: 1510372554",
+      "memo": "November Internet 1,150.00",
+      "amount": 1150.0
+    },
+    {
+      "date": "11/22/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000213249 Comcast Business Acct x0806 ID: 0000213249",
+      "memo": "November Telephone 106.50",
+      "amount": 106.5
+    },
+    {
+      "date": "12/01/2023",
+      "type": "Expenditure",
+      "check_num": "113917",
+      "payee": ",114044 Industry Specific Solutions Invoice #113917,114044",
+      "memo": "For week 11/19/23 7,342.40 For week 11/26/23 2,319.20",
+      "amount": 9661.6
+    },
+    {
+      "date": "12/01/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "IN7102470456 GoTo Communications, Inc. Invoice: IN7102470456",
+      "memo": "---PAGE 13--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   13/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT December 1,515.87",
+      "amount": 1515.87
+    },
+    {
+      "date": "12/04/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "Electricity 7,399.68",
+      "amount": 7399.68
+    },
+    {
+      "date": "12/04/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000756346 Intuit ID: 6997002",
+      "memo": "QBO for December 2023 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "12/15/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9800000157 US Bank ID: 9800000157",
+      "memo": "607.26",
+      "amount": 607.26
+    },
+    {
+      "date": "12/22/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000213249 Comcast Business Acct x0806 ID: 0000213249",
+      "memo": "Confirmation No: 16937824973 R -106.50",
+      "amount": 106.5
+    },
+    {
+      "date": "01/02/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "5420234980 2,424.25",
+      "amount": 2424.25
+    },
+    {
+      "date": "01/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "Electricity 9,497.25",
+      "amount": 9497.25
+    },
+    {
+      "date": "01/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "6345528 Intuit ID: 6345528",
+      "memo": "QBO for January 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "01/12/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "IN7102544012 GoTo Communications, Inc. Invoice: IN7102544012",
+      "memo": "January 2024 1,530.97",
+      "amount": 1530.97
+    },
+    {
+      "date": "01/16/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9800000157 US Bank ID: 9800000157",
+      "memo": "Contract payment 151.61",
+      "amount": 151.61
+    },
+    {
+      "date": "01/22/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "2209176 Comcast Business Acct x0806 ID: 2209176",
+      "memo": "January 2024 Telephone 111.64",
+      "amount": 111.64
+    },
+    {
+      "date": "02/01/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "5420234980 3,326.01",
+      "amount": 3326.01
+    },
+    {
+      "date": "02/05/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5828637 Intuit ID: 5828637",
+      "memo": "QBO for February 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "02/07/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "Electricity 9,925.32",
+      "amount": 9925.32
+    },
+    {
+      "date": "02/13/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "M80270513249 GoTo Communications, Inc. ID: M80270513249",
+      "memo": "January 2024 1,444.89",
+      "amount": 1444.89
+    },
+    {
+      "date": "02/22/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1485208 Comcast Business Acct x0806 ID: 1485208",
+      "memo": "111.60",
+      "amount": 111.6
+    },
+    {
+      "date": "03/01/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "ID: 5420234980 2,875.06",
+      "amount": 2875.06
+    },
+    {
+      "date": "03/04/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "4868798 Intuit ID: 4868798",
+      "memo": "QBO for March 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "03/08/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "Electricity 12,112.74",
+      "amount": 12112.74
+    },
+    {
+      "date": "03/12/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "M80323716591 GoTo Communications, Inc. ID: M80323716591",
+      "memo": "March 2024 1,330.36 ---PAGE 21--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   21/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT",
+      "amount": 1330.36
+    },
+    {
+      "date": "03/15/2024",
+      "type": "Expenditure",
+      "check_num": "116020",
+      "payee": ", 116205",
+      "memo": "Invoices: 116020, 116205 6,780.80",
+      "amount": 6780.8
+    },
+    {
+      "date": "03/22/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0681666 Comcast Business Acct x0806 ID: 0681666",
+      "memo": "111.60",
+      "amount": 111.6
+    },
+    {
+      "date": "03/29/2024",
+      "type": "Expenditure",
+      "check_num": "116382",
+      "payee": ", 116552",
+      "memo": "Invoices: 116382, 116552 6,572.80",
+      "amount": 6572.8
+    },
+    {
+      "date": "04/01/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "ID: 5420234980 2,875.02",
+      "amount": 2875.02
+    },
+    {
+      "date": "04/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000756346 Intuit ID: 0000756346",
+      "memo": "QBO for April 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "04/04/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792 PPD",
+      "memo": "---PAGE 23--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   23/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT PPD Electricity 9,616.35",
+      "amount": 9616.35
+    },
+    {
+      "date": "04/05/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "4888242 Comcast Business Acct x0806 ID:4888242",
+      "memo": "111.60",
+      "amount": 111.6
+    },
+    {
+      "date": "04/05/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "4888242 Comcast Business Acct x0806 ID:4888242",
+      "memo": "4,600.00",
+      "amount": 4600.0
+    },
+    {
+      "date": "04/12/2024",
+      "type": "Expenditure",
+      "check_num": "116770",
+      "payee": "R -4,368.00",
+      "memo": "Invoices: 116770 4,368.00",
+      "amount": 4368.0
+    },
+    {
+      "date": "04/12/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "M80383322200 GoTo Communications, Inc. ID: M80383322200",
+      "memo": "April 2024 1,365.54",
+      "amount": 1365.54
+    },
+    {
+      "date": "04/25/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "162H8374 Bank Of America- Bank Fees ID:162H8374 Check Order",
+      "memo": "Checks 124.49",
+      "amount": 124.49
+    },
+    {
+      "date": "04/26/2024",
+      "type": "Expenditure",
+      "check_num": "116937",
+      "payee": ", 117123",
+      "memo": "Invoices: 116937, 117123 6,572.80",
+      "amount": 6572.8
+    },
+    {
+      "date": "05/01/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "ID: 5420234980 2,875.00",
+      "amount": 2875.0
+    },
+    {
+      "date": "05/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000756346 Intuit ID: 0000756346",
+      "memo": "QBO for May 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "05/06/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792 PPD",
+      "memo": "Electricity 10,291.29",
+      "amount": 10291.29
+    },
+    {
+      "date": "05/08/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "310-0185.301 DETROIT WATER AND SEWERAGE",
+      "memo": "DEPARTMENT Account #310-0185.301 03/07/24-04/07/24 R -8,558.95",
+      "amount": 8558.95
+    },
+    {
+      "date": "05/08/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "mpa-001 ThirtyOne LLC 2024-Administrative Assistant",
+      "memo": "Consulting R -2,000.00",
+      "amount": 2000.0
+    },
+    {
+      "date": "05/10/2024",
+      "type": "Expenditure",
+      "check_num": "117488",
+      "payee": "R -7,503.60",
+      "memo": "117488 3,946.80 117305 3,556.80",
+      "amount": 7503.6
+    },
+    {
+      "date": "05/14/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1911718107 GoTo Communications, Inc. ID: 1911718107",
+      "memo": "May 2024 1,379.91",
+      "amount": 1379.91
+    },
+    {
+      "date": "05/14/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "7860843596 Republic Services # 241 waste removal",
+      "memo": "waste removal: 05/14/24 1,089.31",
+      "amount": 1089.31
+    },
+    {
+      "date": "05/15/2024",
+      "type": "Expenditure",
+      "check_num": "117670",
+      "payee": ", 117850",
+      "memo": "117670 3,453.11 117850 6,198.42",
+      "amount": 9651.53
+    },
+    {
+      "date": "05/15/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9800000157 US Bank 9800000157",
+      "memo": "Copier contract payment 556.72 Property damage surcharge 105.31",
+      "amount": 662.03
+    },
+    {
+      "date": "05/22/2024",
+      "type": "Check",
+      "check_num": "10269",
+      "payee": "Ann Arbor Hands-On Museum Deposit- Field Trip 06/04/24-",
+      "memo": "#1165794 R -150.00",
+      "amount": 150.0
+    },
+    {
+      "date": "05/22/2024",
+      "type": "Check",
+      "check_num": "10270",
+      "payee": "Fireproof Authentics Inv- 1786 T-Shirts Staff Basketball",
+      "memo": "---PAGE 27--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   27/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT Inv- 1786 T-Shirts Staff Basketball 582.00",
+      "amount": 582.0
+    },
+    {
+      "date": "05/22/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000213249 Comcast Business Acct x0806 ID: 0000213249",
+      "memo": "111.36",
+      "amount": 111.36
+    },
+    {
+      "date": "05/23/2024",
+      "type": "Check",
+      "check_num": "10271",
+      "payee": "Imperial Dade 740 - DET Invoice/ Order 90045448-00",
+      "memo": "Floor Maintenace Supplies 3,327.89",
+      "amount": 3327.89
+    },
+    {
+      "date": "05/28/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000213249 Comcast Business Acct x0806",
+      "memo": "2,300.00",
+      "amount": 2300.0
+    },
+    {
+      "date": "06/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "3378609 Intuit ID: 0000756346",
+      "memo": "QBO for June 90.00",
+      "amount": 90.0
+    },
+    {
+      "date": "06/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "ID: 5420234980 2,874.99",
+      "amount": 2874.99
+    },
+    {
+      "date": "06/07/2024",
+      "type": "Expenditure",
+      "check_num": "118031",
+      "payee": ", 118194",
+      "memo": "118031, 118194 8,933.60",
+      "amount": 8933.6
+    },
+    {
+      "date": "06/07/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792 PPD",
+      "memo": "Electricity 5,354.46",
+      "amount": 5354.46
+    },
+    {
+      "date": "06/10/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "16804590 DETROIT WATER AND SEWERAGE",
+      "memo": "DEPARTMENT June 2024 Water -T386004606 WEB R -2,394.23",
+      "amount": 2394.23
+    },
+    {
+      "date": "06/12/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1911718107 GoTo Communications, Inc. ID: 1911718107-M80482041208",
+      "memo": "June 2024 1,440.26",
+      "amount": 1440.26
+    },
+    {
+      "date": "06/21/2024",
+      "type": "Expenditure",
+      "check_num": "118318",
+      "payee": "R -3,840.20",
+      "memo": "118318 3,840.20",
+      "amount": 3840.2
+    },
+    {
+      "date": "06/24/2024",
+      "type": "Expenditure",
+      "check_num": "213249",
+      "payee": "Comcast Business Acct x0806",
+      "memo": "111.36",
+      "amount": 111.36
+    },
+    {
+      "date": "06/26/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0213249 Comcast Business Acct x0806",
+      "memo": "1,167.25",
+      "amount": 1167.25
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1001 Phyliss Taylor",
+      "memo": "Back to School FEstival 425.00",
+      "amount": 425.0
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1002 Motor City Gamers and More",
+      "memo": "Game Bus - BTS 479.00",
+      "amount": 479.0
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1003 Sandys Land",
+      "memo": "Face Painting - BTS 220.00",
+      "amount": 220.0
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1004 Chef JA Catering",
+      "memo": "PD Food for Staff 2,492.00",
+      "amount": 2492.0
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1005 Just Bouncin",
+      "memo": "Bouncers - BTS 1,780.00",
+      "amount": 1780.0
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1006 Ivory Forest",
+      "memo": "Building Clean Up 500.00 ---PAGE 30--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   30/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT",
+      "amount": 500.0
+    },
+    {
+      "date": "09/06/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1007 Non Profit Enterprise at Work",
+      "memo": "Strategic Planning 1,800.00",
+      "amount": 1800.0
+    },
+    {
+      "date": "09/06/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1008 DBCFSN",
+      "memo": "Food Warrior 120.00",
+      "amount": 120.0
+    },
+    {
+      "date": "09/18/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1009 Cordarryl Smith",
+      "memo": "Plumbing Invoice 400.00",
+      "amount": 400.0
+    },
+    {
+      "date": "09/23/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1010 Detroit Athletic Club",
+      "memo": "",
+      "amount": 948.0
+    },
+    {
+      "date": "09/23/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1011 Ricardo Silva",
+      "memo": "Costco Reimbursement 201.60",
+      "amount": 201.6
+    },
+    {
+      "date": "09/27/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1012 John Arnold",
+      "memo": "895.00",
+      "amount": 895.0
+    },
+    {
+      "date": "10/03/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1013 Blake's Big Apple",
+      "memo": "Student activities 1,806.00",
+      "amount": 1806.0
+    },
+    {
+      "date": "10/04/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1014 Woods Trophies 2023-1803",
+      "memo": "2023-1803 387.50",
+      "amount": 387.5
+    },
+    {
+      "date": "10/09/2023",
+      "type": "Check",
+      "check_num": "18536",
+      "payee": ", #18537",
+      "memo": "Invoice #18536, #18537 6,325.00",
+      "amount": 6325.0
+    },
+    {
+      "date": "10/20/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1016 Instructional Coaching Group Registration for 10 -1,049.00",
+      "memo": "Registration for 10 1,049.00",
+      "amount": 1049.0
+    },
+    {
+      "date": "10/20/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1019 Wayne State University Planetarium field trip",
+      "memo": "Planetarium field trip 150.00",
+      "amount": 150.0
+    },
+    {
+      "date": "11/01/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1018 Lifetouch Student pictures",
+      "memo": "Student pictures 341.01",
+      "amount": 341.01
+    },
+    {
+      "date": "11/03/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1023 Sabrina Jackson Enterprises Professional development",
+      "memo": "Professional development 3,000.00",
+      "amount": 3000.0
+    },
+    {
+      "date": "11/09/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1024 Hoekstra Leasing, LLC Invoice #13501001136",
+      "memo": "Invoice #13501001136 4,672.00",
+      "amount": 4672.0
+    },
+    {
+      "date": "11/20/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1026 Brian Banks Gift cards for travel",
+      "memo": "---PAGE 31--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   31/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT Gift cards for travel 400.00",
+      "amount": 400.0
+    },
+    {
+      "date": "11/20/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1027 KJ Investment Group Whack-Words Scholars (?)",
+      "memo": "Whack-Words Scholars (?) 900.00",
+      "amount": 900.0
+    },
+    {
+      "date": "12/01/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1028 Detroit Athletic Club SB1692",
+      "memo": "SB1692 746.30",
+      "amount": 746.3
+    },
+    {
+      "date": "12/13/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1030 Seed Time & Harvest Productions 48 scholars @ $12 each",
+      "memo": "48 scholars @ $12 each 576.00",
+      "amount": 576.0
+    },
+    {
+      "date": "12/15/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1031 State of Michigan Bus plates",
+      "memo": "Bus plates 13.00",
+      "amount": 13.0
+    },
+    {
+      "date": "12/20/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1032 Great Lakes Fence Co. Inc. Invoices",
+      "memo": "#23205B $205 #23223A $700 R -905.00",
+      "amount": 905.0
+    },
+    {
+      "date": "12/20/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1033 Brian Banks Staff gifts cards",
+      "memo": "Staff gifts cards 9,945.00",
+      "amount": 9945.0
+    },
+    {
+      "date": "12/22/2023",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1034 John Arnold Caterer",
+      "memo": "Caterer 1,525.00",
+      "amount": 1525.0
+    },
+    {
+      "date": "01/11/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1035 Brian Banks Reimbursement",
+      "memo": "Reimbursement 265.00",
+      "amount": 265.0
+    },
+    {
+      "date": "01/18/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1037 Reginald Olds Tree memorial",
+      "memo": "Tree memorial 248.76",
+      "amount": 248.76
+    },
+    {
+      "date": "01/22/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1038 Fred's Key Shop Locks",
+      "memo": "Locks 355.00",
+      "amount": 355.0
+    },
+    {
+      "date": "01/22/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1039 Dominion Ground Enterprise, LLC Bathroom repair",
+      "memo": "Bathroom repair 400.00 ---PAGE 32--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   32/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT",
+      "amount": 400.0
+    },
+    {
+      "date": "01/24/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1040 Rafeal Camper Prayers to you and your fam",
+      "memo": "Prayers to you and your fam 1,000.00",
+      "amount": 1000.0
+    },
+    {
+      "date": "01/26/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1041 John Arnold Caterer",
+      "memo": "Caterer 850.00",
+      "amount": 850.0
+    },
+    {
+      "date": "01/26/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1042 Water Work Plumbing Plumbing",
+      "memo": "Plumbing 99.00",
+      "amount": 99.0
+    },
+    {
+      "date": "01/30/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1044 Janitorial Services Over Counter Check #1044",
+      "memo": "Janitorial Services 500.00",
+      "amount": 500.0
+    },
+    {
+      "date": "02/01/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1043 Dominion Ground Enterprise, LLC",
+      "memo": "750.00",
+      "amount": 750.0
+    },
+    {
+      "date": "02/07/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1047 Dominion Ground Enterprise, LLC",
+      "memo": "750.00",
+      "amount": 750.0
+    },
+    {
+      "date": "02/08/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1046 Water Work Plumbing Plumber",
+      "memo": "Plumber 4,816.00",
+      "amount": 4816.0
+    },
+    {
+      "date": "02/09/2024",
+      "type": "Check",
+      "check_num": "379956",
+      "payee": "R -2,500.00",
+      "memo": "Inv #379956 2,500.00",
+      "amount": 2500.0
+    },
+    {
+      "date": "02/16/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1049 Dominion Ground Enterprise, LLC Electrical",
+      "memo": "Electrical 600.00",
+      "amount": 600.0
+    },
+    {
+      "date": "02/27/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1050 Great Lakes Fence Co. Inc.",
+      "memo": "365.70",
+      "amount": 365.7
+    },
+    {
+      "date": "02/27/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1052 Wanda Jones Caterer (Black History Program)",
+      "memo": "Caterer (Black History Program) 1,540.00",
+      "amount": 1540.0
+    },
+    {
+      "date": "02/28/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1053 Party Dreams Rental Chairs (Black History Program)",
+      "memo": "Chairs (Black History Program) 704.20",
+      "amount": 704.2
+    },
+    {
+      "date": "03/07/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1045 People's Restaurant STEAM tables",
+      "memo": "2,399.99",
+      "amount": 2399.99
+    },
+    {
+      "date": "03/07/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1055 Wanda Jones Caterer for Davis family",
+      "memo": "Caterer for Davis family 250.00",
+      "amount": 250.0
+    },
+    {
+      "date": "03/08/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1057 Water Work Plumbing Plumber deposit",
+      "memo": "Plumber deposit 99.00",
+      "amount": 99.0
+    },
+    {
+      "date": "03/08/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1056 Greater Metropolitan Youth Sports BB Team",
+      "memo": "---PAGE 33--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   33/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT BB Team 300.00",
+      "amount": 300.0
+    },
+    {
+      "date": "03/12/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1051 Over Counter Check Over Counter Check #1051",
+      "memo": "Over Counter Check 42.29",
+      "amount": 42.29
+    },
+    {
+      "date": "03/12/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1058 Phase Two Properties Humphrey family",
+      "memo": "Humphrey family 600.00",
+      "amount": 600.0
+    },
+    {
+      "date": "03/12/2024",
+      "type": "Check",
+      "check_num": "82806",
+      "payee": "R -210.59",
+      "memo": "Plumber #82806 210.59",
+      "amount": 210.59
+    },
+    {
+      "date": "03/12/2024",
+      "type": "Check",
+      "check_num": "",
+      "payee": "1059 Kyle Simth",
+      "memo": "Flower for Dans Funeral 75.00",
+      "amount": 75.0
+    },
+    {
+      "date": "03/15/2024",
+      "type": "Check",
+      "check_num": "10000",
+      "payee": "John Arnold PD Caterer",
+      "memo": "PD Caterer 991.00",
+      "amount": 991.0
+    },
+    {
+      "date": "03/15/2024",
+      "type": "Check",
+      "check_num": "10001",
+      "payee": "Wyatt Jones 3/15 PD Facilitator",
+      "memo": "3/15 PD Facilitator 600.00",
+      "amount": 600.0
+    },
+    {
+      "date": "03/22/2024",
+      "type": "Check",
+      "check_num": "10002",
+      "payee": "Chalcee Norwood Reimbursement for Gift",
+      "memo": "Cards/Easter Egg Hunt R -245.00",
+      "amount": 245.0
+    },
+    {
+      "date": "04/09/2024",
+      "type": "Check",
+      "check_num": "10004",
+      "payee": "John Arnold Invoice:76",
+      "memo": "Student Breakfast 495.00",
+      "amount": 495.0
+    },
+    {
+      "date": "04/11/2024",
+      "type": "Check",
+      "check_num": "10007",
+      "payee": "People's Restaurant Invoice:0090412",
+      "memo": "Chafer Cover, Lift-off/Stainer 119.92",
+      "amount": 119.92
+    },
+    {
+      "date": "04/11/2024",
+      "type": "Check",
+      "check_num": "10006",
+      "payee": "Echols Landscaping and Home",
+      "memo": "Services LLC Lawn Service Replacement Check",
+      "amount": 2500.0
+    },
+    {
+      "date": "04/16/2024",
+      "type": "Check",
+      "check_num": "10008",
+      "payee": "C.J. Barrymores Invoice:8421",
+      "memo": "Deposit: School Field Trip-June 3rd 500.00",
+      "amount": 500.0
+    },
+    {
+      "date": "04/19/2024",
+      "type": "Check",
+      "check_num": "10010",
+      "payee": "Cameron Cole Reimbursement :Check 10010",
+      "memo": "Pizza Party Reimbursement 199.25",
+      "amount": 199.25
+    },
+    {
+      "date": "04/19/2024",
+      "type": "Check",
+      "check_num": "10009",
+      "payee": "Tasha White Reimbursement",
+      "memo": "Reimbursement- 8th Grade Snooky Cookies 112.00",
+      "amount": 112.0
+    },
+    {
+      "date": "04/24/2024",
+      "type": "Check",
+      "check_num": "10003",
+      "payee": "Kingdom Donuts Invoice: 10020",
+      "memo": "Donuts for Students 107.00 ---PAGE 34--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   34/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT",
+      "amount": 107.0
+    },
+    {
+      "date": "04/24/2024",
+      "type": "Check",
+      "check_num": "10005",
+      "payee": "Michigan Science Center 7th Grade Field Trip",
+      "memo": "7th Grade Field Trip 434.00",
+      "amount": 434.0
+    },
+    {
+      "date": "04/26/2024",
+      "type": "Check",
+      "check_num": "10011",
+      "payee": "John Arnold Caterer",
+      "memo": "Caterer- Teacher Appreciation 940.00",
+      "amount": 940.0
+    },
+    {
+      "date": "04/30/2024",
+      "type": "Check",
+      "check_num": "10012",
+      "payee": "Dominion Ground Enterprise, LLC",
+      "memo": "Electrical Work 375.00",
+      "amount": 375.0
+    },
+    {
+      "date": "05/03/2024",
+      "type": "Check",
+      "check_num": "10014",
+      "payee": "ABM Invoice:18957538-Replacment",
+      "memo": "Check R -10,350.00",
+      "amount": 10350.0
+    },
+    {
+      "date": "05/03/2024",
+      "type": "Check",
+      "check_num": "10015",
+      "payee": "Convergent Technology Partners, LLC Invoice 18200- Replacement Check",
+      "memo": "Invoice 18200- Replacement Check 525.00",
+      "amount": 525.0
+    },
+    {
+      "date": "05/03/2024",
+      "type": "Check",
+      "check_num": "10016",
+      "payee": "Deluxe Inv 9004031851-Replacement",
+      "memo": "Check R -466.71",
+      "amount": 466.71
+    },
+    {
+      "date": "05/03/2024",
+      "type": "Check",
+      "check_num": "10013",
+      "payee": "Cameron Cole Ice Cream Reimbursement",
+      "memo": "Ice Cream Reimbursement 65.98",
+      "amount": 65.98
+    },
+    {
+      "date": "05/06/2024",
+      "type": "Check",
+      "check_num": "10017",
+      "payee": "Water Work Plumbing Invoice 84492-Plumbing Staff",
+      "memo": "Bathroom R -268.00",
+      "amount": 268.0
+    },
+    {
+      "date": "05/07/2024",
+      "type": "Check",
+      "check_num": "10018",
+      "payee": "John Arnold Caterer- Teacher Appreciation",
+      "memo": "Caterer- Teacher Appreciation 1,120.00",
+      "amount": 1120.0
+    },
+    {
+      "date": "05/10/2024",
+      "type": "Check",
+      "check_num": "10020",
+      "payee": "John Arnold Caterer for 5/15/24- Meting",
+      "memo": "Caterer for 5/15/24- Meeting 248.00",
+      "amount": 248.0
+    },
+    {
+      "date": "05/10/2024",
+      "type": "Check",
+      "check_num": "10022",
+      "payee": "Exclusive Flowers By Terry",
+      "memo": "Arrangement for Ms. Roquemore's Fathers Funeral 75.00",
+      "amount": 75.0
+    },
+    {
+      "date": "05/10/2024",
+      "type": "Check",
+      "check_num": "10021",
+      "payee": "John Arnold Caterer- Teacher Appreciation -",
+      "memo": "Luncheon R -845.00",
+      "amount": 845.0
+    },
+    {
+      "date": "05/14/2024",
+      "type": "Check",
+      "check_num": "10023",
+      "payee": "Exclusive Flowers By Terry",
+      "memo": "Arrangement Mr. Jackson's 75.00 ---PAGE 35--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   35/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT Grandfathers Funeral",
+      "amount": 75.0
+    },
+    {
+      "date": "05/21/2024",
+      "type": "Check",
+      "check_num": "10024",
+      "payee": "Exclusive Flowers By Terry",
+      "memo": "Arrangement for Mrs. Olds Mother's Funeral 75.00",
+      "amount": 75.0
+    },
+    {
+      "date": "05/22/2024",
+      "type": "Check",
+      "check_num": "10025",
+      "payee": "Michigan Science Center 1st Grade Field Trip",
+      "memo": "1st Grade Field Trip 440.00",
+      "amount": 440.0
+    },
+    {
+      "date": "05/30/2024",
+      "type": "Check",
+      "check_num": "10026",
+      "payee": "Bouncing Off The Walls",
+      "memo": "Field Day 1,825.00",
+      "amount": 1825.0
+    },
+    {
+      "date": "05/30/2024",
+      "type": "Check",
+      "check_num": "10027",
+      "payee": "C.J. Barrymores Invoice:8421",
+      "memo": "School Field Trip-June 3rd 900.00",
+      "amount": 900.0
+    },
+    {
+      "date": "05/30/2024",
+      "type": "Check",
+      "check_num": "10028",
+      "payee": "Motor City Gamers and More -769.00",
+      "memo": "Field Day 769.00",
+      "amount": 769.0
+    },
+    {
+      "date": "05/30/2024",
+      "type": "Check",
+      "check_num": "10029",
+      "payee": "Echols Landscaping and Home",
+      "memo": "Services LLC May 2024 Landscaping",
+      "amount": 2950.0
+    },
+    {
+      "date": "05/30/2024",
+      "type": "Check",
+      "check_num": "10030",
+      "payee": "Greater Emmanuel Institutional COGIC",
+      "memo": "8th Grade Graduation 500.00",
+      "amount": 500.0
+    },
+    {
+      "date": "06/03/2024",
+      "type": "Check",
+      "check_num": "10031",
+      "payee": "Robert Moore",
+      "memo": "Microphone Cords 79.47",
+      "amount": 79.47
+    },
+    {
+      "date": "06/04/2024",
+      "type": "Check",
+      "check_num": "10032",
+      "payee": "Ann Arbor Hands-On Museum 4th Grade Field Trip",
+      "memo": "4th Grade Field Trip 474.00",
+      "amount": 474.0
+    },
+    {
+      "date": "06/04/2024",
+      "type": "Expenditure",
+      "check_num": "10035",
+      "payee": "John Arnold",
+      "memo": "8th Grade Dinner 680.00",
+      "amount": 680.0
+    },
+    {
+      "date": "06/04/2024",
+      "type": "Check",
+      "check_num": "10034",
+      "payee": "Chiquita McKenzie",
+      "memo": "Reimbursement for Henry Ford Field Trip 336.00",
+      "amount": 336.0
+    },
+    {
+      "date": "06/04/2024",
+      "type": "Expenditure",
+      "check_num": "10033",
+      "payee": "Exclusive Flowers By Terry",
+      "memo": "Flower for Faith & Hope Lowerys Mother's Funeral 75.00",
+      "amount": 75.0
+    },
+    {
+      "date": "06/05/2024",
+      "type": "Check",
+      "check_num": "10036",
+      "payee": "Ingrid Walton",
+      "memo": "8th Grade Graduation 350.00",
+      "amount": 350.0
+    },
+    {
+      "date": "06/07/2024",
+      "type": "Expenditure",
+      "check_num": "10037",
+      "payee": "John Arnold",
+      "memo": "Staff End Of Year Continental Breakfast Invoice #80 560.00 ---PAGE 36--- MacDowell Preparatory Academy Check Detail July 2023 - June 2024 Monday, February 10, 2025 05:42 PM GMT-05:00   36/36 DATE TRANSACTION TYPE NUM NAME MEMO/DESCRIPTION CLR AMOUNT",
+      "amount": 560.0
+    },
+    {
+      "date": "06/07/2024",
+      "type": "Check",
+      "check_num": "10038",
+      "payee": "Evelyn Madih",
+      "memo": "31A- Mentor- SpED 2,500.00",
+      "amount": 2500.0
+    },
+    {
+      "date": "06/07/2024",
+      "type": "Check",
+      "check_num": "10039",
+      "payee": "LaQuiesha Daniels",
+      "memo": "31a Mentor- SpEd 2,500.00",
+      "amount": 2500.0
+    },
+    {
+      "date": "06/13/2024",
+      "type": "Check",
+      "check_num": "10042",
+      "payee": "Cotton Stanton & Associates",
+      "memo": "Investment Group R -500.00",
+      "amount": 500.0
+    },
+    {
+      "date": "06/21/2024",
+      "type": "Expenditure",
+      "check_num": "10043",
+      "payee": "Dominion Ground Enterprise, LLC Invoice # 6102024",
+      "memo": "Kitchen Electrical Work 700.00",
+      "amount": 700.0
+    },
+    {
+      "date": "06/24/2024",
+      "type": "Expenditure",
+      "check_num": "10045",
+      "payee": "Motor City Gamers and More Replacement Check 06/24/24",
+      "memo": "Replacement Check- Field Day 769.00",
+      "amount": 769.0
+    },
+    {
+      "date": "06/24/2024",
+      "type": "Check",
+      "check_num": "10044",
+      "payee": "Brian Banks",
+      "memo": "Staff Gift Cards for NCSC24 1,470.00",
+      "amount": 1470.0
+    },
+    {
+      "date": "06/26/2024",
+      "type": "Check",
+      "check_num": "10046",
+      "payee": "Gregory M. Meihn 2024 Attorney Retainer Fee",
+      "memo": "Attorney Retainer Fee 5,000.00",
+      "amount": 5000.0
+    },
+    {
+      "date": "06/27/2024",
+      "type": "Check",
+      "check_num": "10047",
+      "payee": "Orkin Invoice:268487636",
+      "memo": "EOY Pest Control 4,000.00",
+      "amount": 4000.0
+    }
+  ]
+}

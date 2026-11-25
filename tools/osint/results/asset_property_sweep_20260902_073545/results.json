@@ -1,0 +1,284 @@
+[
+  {
+    "source": "property_browser",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "owner: Brian Roderick Banks (Wayne)",
+    "timestamp": "2026-09-02T07:32:04.842486",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "address: 1968 Severn Rd, Grosse Pointe Woods",
+    "timestamp": "2026-09-02T07:32:19.838004",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "owner: Joseph Holland Jr (Wayne)",
+    "timestamp": "2026-09-02T07:32:31.270094",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "address: 1968 Severn Rd, Grosse Pointe Woods",
+    "timestamp": "2026-09-02T07:32:42.689897",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "owner: Tenisha R. Yancey (Wayne)",
+    "timestamp": "2026-09-02T07:32:54.123147",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "address: 21406 Broadstone, Harper Woods",
+    "timestamp": "2026-09-02T07:33:05.542879",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "owner: Cylenthia LaToye Miller (Wayne, Monroe)",
+    "timestamp": "2026-09-02T07:33:16.960757",
+    "hit_count": 2,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      },
+      {
+        "county": "Monroe",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/monroe-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "owner: Nicole Wells Stallworth (Wayne)",
+    "timestamp": "2026-09-02T07:33:39.704225",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "leon_smith",
+    "target_name": "Leon A. Smith",
+    "query": "owner: Leon A. Smith (Wayne)",
+    "timestamp": "2026-09-02T07:33:51.121842",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "leon_smith",
+    "target_name": "Leon A. Smith",
+    "query": "address: XXXXX Dresden St, Detroit",
+    "timestamp": "2026-09-02T07:34:02.563056",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "marquita_smith",
+    "target_name": "Marquita L. Smith",
+    "query": "owner: Marquita L. Smith (Wayne)",
+    "timestamp": "2026-09-02T07:34:14.018900",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "marquita_smith",
+    "target_name": "Marquita L. Smith",
+    "query": "address: XXXXX Dresden St, Detroit",
+    "timestamp": "2026-09-02T07:34:25.425900",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "owner: Shayla Smith (Wayne, Macomb)",
+    "timestamp": "2026-09-02T07:34:36.851400",
+    "hit_count": 2,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      },
+      {
+        "county": "Macomb",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/macomb-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "address: XXXXX Dresden St, Detroit",
+    "timestamp": "2026-09-02T07:34:59.588985",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "address: XXXXX Virginia Ave, Eastpointe",
+    "timestamp": "2026-09-02T07:35:11.037616",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Macomb",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/macomb-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "address: 37055 Bradford Apt 214, Sterling Heights",
+    "timestamp": "2026-09-02T07:35:22.460234",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Macomb",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/macomb-county-mi"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "property_browser",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "owner: Simone Smith (Wayne)",
+    "timestamp": "2026-09-02T07:35:33.883136",
+    "hit_count": 1,
+    "hits": [
+      {
+        "county": "Wayne",
+        "note": "Search failed: Locator.wait_for: Timeout 8000ms exceeded.\nCall log:\n  - waiting for locator(\"input[type='text'], input[type='search'], input[placeholder*='search' i], input[placeholder*='name' i], input[placeholder*='address' i]\").first to be visible\n    19 \u00d7 locator resolved to hidden <input type=\"search\" id=\"ModalMunicipalitySearch\" placeholder=\"Enter Municipality\" class=\"placeholder-active search-input form-control\"/>\n",
+        "url": "https://bsaonline.com/Error?aspxerrorpath=/wayne-county-mi"
+      }
+    ],
+    "error": null
+  }
+]

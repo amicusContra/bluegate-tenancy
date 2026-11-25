@@ -1,0 +1,74 @@
+{
+  "2026_cbc": {
+    "url": "https://www.eventbrite.com/e/tickets-at-the-door-michigan-cbc-reception-party-tickets-at-the-door-tickets-1998927506983",
+    "has_next_data": true,
+    "event_keys": null,
+    "name": null,
+    "description": null,
+    "summary": null,
+    "start": null,
+    "end": null,
+    "venue": null,
+    "tickets": []
+  },
+  "2024_cbc": {
+    "url": "https://www.eventbrite.com/e/michigan-cbc-party-sold-out-limited-tickets-at-the-door-tickets-999744000217",
+    "has_next_data": true,
+    "event_keys": null,
+    "name": null,
+    "description": null,
+    "summary": null,
+    "start": null,
+    "end": null,
+    "venue": null,
+    "tickets": []
+  },
+  "2023_cbc": {
+    "url": "https://www.eventbrite.com/e/michigan-cbc-party-wchubb-rock-tickets-available-at-the-door-tickets-712493987697",
+    "has_next_data": true,
+    "event_keys": null,
+    "name": null,
+    "description": null,
+    "summary": null,
+    "start": null,
+    "end": null,
+    "venue": null,
+    "tickets": []
+  },
+  "2025_cbc": {
+    "url": "https://www.eventbrite.com/e/michigans-cbc-after-glow-party-gen-admission-tickets-only-at-door-tickets-1646216841889",
+    "has_next_data": true,
+    "event_keys": null,
+    "name": null,
+    "description": null,
+    "summary": null,
+    "start": null,
+    "end": null,
+    "venue": null,
+    "tickets": []
+  },
+  "pca_gala": {
+    "url": "https://www.eventbrite.com/e/inaugural-black-tie-gala-purpose-charter-academy-school-for-law-pub-svc-tickets-1979571244882",
+    "has_next_data": true,
+    "event_keys": null,
+    "name": null,
+    "description": null,
+    "summary": null,
+    "start": null,
+    "end": null,
+    "venue": null,
+    "tickets": []
+  },
+  "monday_praise": {
+    "url": "https://www.eventbrite.com/e/monday-night-praise-tickets-available-at-the-door-tickets-1985098248298",
+    "has_next_data": true,
+    "event_keys": null,
+    "name": null,
+    "description": null,
+    "summary": null,
+    "start": null,
+    "end": null,
+    "venue": null,
+    "tickets": []
+  }
+}

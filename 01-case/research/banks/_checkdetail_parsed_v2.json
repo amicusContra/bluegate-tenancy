@@ -1,0 +1,2432 @@
+{
+  "transaction_count": 197,
+  "total_disbursements": 615868.79,
+  "meihn_total": 7894.23,
+  "brian_banks_total": 112575.0,
+  "gift_card_cluster_total": 111840.0,
+  "top_payees": [
+    {
+      "payee": "US Bank R -662.03 -662.03 08/01/2023 Expenditure 5420234980 EMC Insurance Company R -4,850.64 August Insurance Payment 4,850.64 08/03/2023 Expenditure 000756346 Intuit QBO - June 2023 R -90.00 QBO - August 2023 90.00 08/07/2023 Expenditure 0000420792 DTE Energy R -3,227.32 Electricity 3,227.32 08/08/2023 Check 10056 Brian Banks Staff Gift Cards R -1,890.00 Staff Gift Cards 1,890.00 08/09/2023 Expenditure 1510372554 Comcast Business Acct x7350 Internet R -6,515.88 6,515.88 08/14/2023 Expenditure 1911718107 GoTo Communications, Inc. R -1,323.77 August 1,323.77 08/15/2023 Expenditure 980000157 US Bank R -1,378.83 August 1,378.83 08/16/2023 Bill Payment (Check) 10057 Michigan Recreational Construction Inc.",
+      "total": 89225.0,
+      "count": 1
+    },
+    {
+      "payee": "EMC Insurance Company -2,434.25 -2,434.25 10/24/2023 Bill Payment (Check) 10118 GUARDIAN ALARM R -156.60 -156.60 10/24/2023 Bill Payment (Check) 10119 LifeLine Incorporated R -2,967.00 -2,967.00 10/24/2023 Bill Payment (Check) 10120 Mighty Green Lawn Service R -2,500.00 -2,500.00 10/24/2023 Bill Payment (Check) 10121 ODP Business Solutions, LLC R -613.91 -613.91 10/24/2023 Bill Payment (Check) 10122 Pitney Bowes - Purchase Power R -35.00 -35.00 10/24/2023 Bill Payment (Check) 10123 PowerVac Service Pro R -305.00 -305.00 10/24/2023 Bill Payment (Check) 10124 Presidio Network Solution Group LLC R - 121,152.75 - 121,152.75 10/24/2023 Bill Payment (Check) 10125 School Specialty R - 193,436.96 - 193,436.96 10/24/2023 Bill Payment (Check) 10127 Studies Weekly -6,009.60 -6,009.60 10/24/2023 Bill Payment (Check) 10128 The Detroit Institute for Children R -269.13 -269.13 10/24/2023 Bill Payment (Check) 10129 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 10/24/2023 Expenditure 1510372554 Comcast Business Acct x7350 ID: 1510372554 R -1,150.00 1,150.00 10/25/2023 Bill Payment (Check) 10130 The Detroit Institute for Children R -21,990.25 -21,990.25 10/25/2023 Bill Payment (Check) 10131 Alan C. Young & Assoc. R -5,000.00 -5,000.00 11/01/2023 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -15,640.25 November Insurance 15,640.25 11/03/2023 Expenditure 9200502236 Industry Specific Solutions Invoices: 113292, 113455 R -9,276.80 November 9,276.80 11/03/2023 Expenditure 0000420792 DTE Energy ID: 0000420792 R -4,603.91 Electricity 4,603.91 11/03/2023 Expenditure 0000756346 Intuit ID: 7771450 R -90.00 QBO for November 2023 90.00 11/14/2023 Expenditure 1911718107 GoTo Communications, Inc. ID: M80127065318 R -1,515.87 November 1,515.87 11/17/2023 Expenditure 9018875244 Industry Specific Solutions Invoices: 113611, 113769 R -10,088.00 November 10,088.00 11/22/2023 Expenditure 1510372554 Comcast Business Acct x7350 ID: 1510372554 R -1,150.00 November Internet 1,150.00 11/22/2023 Expenditure 0000213249 Comcast Business Acct x0806 ID: 0000213249 R -106.50 November Telephone 106.50 11/27/2023 Bill Payment (Check) 10132 ABM R -10,350.00 -10,350.00 11/27/2023 Bill Payment (Check) 10133 Alan C. Young & Assoc. R -10,725.00 -10,725.00 11/27/2023 Bill Payment (Check) 10134 Applied Innovation R -842.99 -842.99 11/27/2023 Bill Payment 10135 Fireproof Authentics R -596.00 (Check) -596.00 11/27/2023 Bill Payment (Check) 10136 Kendall Hunt Publishing Company R -3,454.48 -3,454.48 11/27/2023 Bill Payment (Check) 10137 Lorilyn K. Coggins R -2,000.00 -2,000.00 11/27/2023 Bill Payment (Check) 10138 Macro Connect, Inc. R -6,448.00 -6,448.00 11/27/2023 Bill Payment (Check) 10139 Michigan Recreational Construction Inc.",
+      "total": 83975.0,
+      "count": 1
+    },
+    {
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "total": 51807.96,
+      "count": 7
+    },
+    {
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "total": 35314.85,
+      "count": 8
+    },
+    {
+      "payee": "0000420792 DTE Energy ID: 0000420792 PPD",
+      "total": 25262.1,
+      "count": 3
+    },
+    {
+      "payee": "Macro Connect, Inc. R -24,267.16 -24,267.16 08/16/2023 Bill Payment (Check) 10059 Applied Innovation -141.43 -141.43 08/16/2023 Bill Payment (Check) 10060 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 08/16/2023 Bill Payment (Check) 10061 Houghton Mifflin Harcourt R -5,500.00 -5,500.00 08/16/2023 Bill Payment (Check) 10062 Imagine Learning LLC R -26,500.00 -26,500.00 08/16/2023 Bill Payment (Check) 10063 Macro Connect, Inc.- 0 Monthly Serv R -6,163.70 -6,163.70 08/16/2023 Bill Payment (Check) 10064 Macro Connect, Inc.- 4 ERATE Projects",
+      "total": 11874.53,
+      "count": 1
+    },
+    {
+      "payee": "9018875244 Industry Specific Solutions Invoices: 113611, 113769",
+      "total": 10088.0,
+      "count": 1
+    },
+    {
+      "payee": "9018512607 Industry Specific Solutions ID: 9018512607",
+      "total": 10054.2,
+      "count": 1
+    },
+    {
+      "payee": "Brian Banks Staff gifts cards",
+      "total": 9945.0,
+      "count": 1
+    },
+    {
+      "payee": "9018349029 Industry Specific Solutions ID: 9018349029",
+      "total": 9786.4,
+      "count": 1
+    },
+    {
+      "payee": "113917,114044 Industry Specific Solutions Invoice #113917,114044",
+      "total": 9661.6,
+      "count": 1
+    },
+    {
+      "payee": "9200502236 Industry Specific Solutions Invoices: 117670, 117850",
+      "total": 9651.53,
+      "count": 1
+    },
+    {
+      "payee": "ABM R -10,350.00 -10,350.00 06/20/2024 Bill Payment (Check) 10285 Macro Connect, Inc. R -6,573.18 -6,573.18 06/20/2024 Bill Payment (Check) 10286 Macro Connect, Inc.- 0 Monthly Serv R -6,867.80 -6,867.80 06/20/2024 Bill Payment (Check) 10287 National Charter Schools Institute R -1,150.00 -1,150.00 06/20/2024 Bill Payment (Check) 10288 Pens.com R -184.91 -184.91 06/20/2024 Bill Payment (Check) 10289 POWERSCHOOL GROUP LLC R -5,529.66 -5,529.66 06/20/2024 Bill Payment (Check) 10290 The Detroit Institute for Children R -37,886.50 -37,886.50 06/21/2024 Expenditure 9200502236 Industry Specific Solutions Invoices: 118318 R -3,840.20 118318 3,840.20 06/24/2024 Expenditure 213249 Comcast Business Acct x0806 R -111.36 111.36 06/26/2024 Bill Payment (Check) 10291 Belair Luxury R -300.00 -300.00 06/26/2024 Expenditure 0213249 Comcast Business Acct x0806 R -1,167.25 1,167.25 06/28/2024 Bill Payment (Check) 1568945001 TRUGREEN R -540.00 -540.00 100.5000 Credit Union One - Operations 1620 08/25/2023 Check 1001 Phyliss Taylor R -425.00 Back to School FEstival 425.00 08/25/2023 Check 1002 Motor City Gamers and More R -479.00 Game Bus - BTS 479.00 08/25/2023 Check 1003 Sandys Land R -220.00 Face Painting - BTS 220.00 08/25/2023 Check 1004 Chef JA Catering R -2,492.00 PD Food for Staff 2,492.00 08/25/2023 Check 1005 Just Bouncin R -1,780.00 Bouncers - BTS 1,780.00 08/25/2023 Check 1006 Ivory Forest R -500.00 Building Clean Up 500.00 09/06/2023 Check 1007 Non Profit Enterprise at Work R -1,800.00 Strategic Planning 1,800.00 09/06/2023 Check 1008 DBCFSN R -120.00 Food Warrior 120.00 09/18/2023 Check 1009 Cordarryl Smith R -400.00 Plumbing Invoice 400.00 09/23/2023 Check 1010 Detroit Athletic Club R -948.00 10/05/2023 948.00 09/23/2023 Check 1011 Ricardo Silva R -201.60 Costco Reimbursement 201.60 09/27/2023 Check 1012 John Arnold R -895.00 895.00 10/03/2023 Check 1013 Blake's Big Apple R -1,806.00 Student activities 1,806.00 10/04/2023 Check 1014 Woods Trophies 2023-1803 R -387.50 2023-1803 387.50 10/09/2023 Check 1015 GM Equity Development Invoice #18536, #18537 R -6,325.00 Invoice #18536, #18537 6,325.00 10/20/2023 Check 1016 Instructional Coaching Group Registration for 10 -1,049.00 Registration for 10 1,049.00 10/20/2023 Check 1019 Wayne State University Planetarium field trip R -150.00 Planetarium field trip 150.00 10/24/2023 Bill Payment (Check) 10126 Student Transportation Services R -11,870.08 -11,870.08 11/01/2023 Check 1018 Lifetouch Student pictures R -341.01 Student pictures 341.01 11/03/2023 Check 1023 Sabrina Jackson Enterprises Professional development R -3,000.00 Professional development 3,000.00 11/09/2023 Check 1024 Hoekstra Leasing, LLC Invoice #13501001136 R -4,672.00 Invoice #13501001136 4,672.00 11/20/2023 Check 1026 Brian Banks Gift cards for travel R -400.00 Gift cards for travel 400.00 11/20/2023 Check 1027 KJ Investment Group Whack-Words Scholars (?) R -900.00 Whack-Words Scholars (?) 900.00 12/01/2023 Bill Payment (Check) 1025 DHT Transportation R -260.00 -260.00 12/01/2023 Check 1028 Detroit Athletic Club SB1692 R -746.30 SB1692 746.30 12/01/2023 Bill Payment (Check) 1029 Matrix Mechanical LLC Invoices: MPAJUN2023, MPANOV2023",
+      "total": 9380.0,
+      "count": 1
+    },
+    {
+      "payee": "9200502236 Industry Specific Solutions Invoices: 113292, 113455",
+      "total": 9276.8,
+      "count": 1
+    },
+    {
+      "payee": "9021470703 Industry Specific Solutions Invoices: 118031, 118194",
+      "total": 8933.6,
+      "count": 1
+    },
+    {
+      "payee": "Echols Landscaping and Home Services LLC -2,500.00 -2,500.00 04/03/2024 Bill Payment (Check) 10233 Hoekstra Leasing, LLC R -2,336.00 -2,336.00 04/03/2024 Bill Payment (Check) 10234 Lorilyn K. Coggins R -2,000.00 -2,000.00 04/03/2024 Bill Payment (Check) 10235 Macro Connect, Inc.- 0 Monthly Serv R -403.75 -403.75 04/03/2024 Bill Payment (Check) 10236 MAPSA R -2,148.00 -2,148.00 04/03/2024 Bill Payment (Check) 10237 Matrix Mechanical LLC R -4,690.00 -4,690.00 04/03/2024 Bill Payment (Check) 10228 ODP Business Solutions, LLC R -1,241.49 -1,241.49 04/03/2024 Bill Payment (Check) 10227 Scholastic Book Fairs - 15 R -2,206.21 -2,206.21 04/03/2024 Bill Payment (Check) 10229 School Specialty R -1,441.28 -1,441.28 04/03/2024 Bill Payment (Check) 10230 The Detroit Institute for Children R -39,911.00 -39,911.00 04/03/2024 Bill Payment (Check) 10231 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 04/03/2024 Expenditure 0000756346 Intuit ID: 0000756346 R -90.00 QBO for April 90.00 04/04/2024 Expenditure 0000420792 DTE Energy ID: 0000420792 PPD R -9,616.35 PPD Electricity 9,616.35 04/05/2024 Expenditure 4888242 Comcast Business Acct x0806 ID:4888242 R -111.60 111.60 04/05/2024 Expenditure 4888242 Comcast Business Acct x0806 ID:4888242 R -4,600.00 4,600.00 04/12/2024 Expenditure 9200502236 Industry Specific Solutions Invoices: 116770 R -4,368.00 Invoices: 116770 4,368.00 04/12/2024 Expenditure M80383322200 GoTo Communications, Inc. ID: M80383322200 R -1,365.54 April 2024 1,365.54 04/25/2024 Bill Payment (Check) 10239 Monica Morgan Photography R -5,813.68 -5,813.68 04/25/2024 Bill Payment (Check) 10240 Non Profit Enterprise at Work R -1,950.00 -1,950.00 04/25/2024 Bill Payment (Check) 10241 Matrix Mechanical LLC R -4,690.00 -4,690.00 04/25/2024 Bill Payment (Check) 10242 Fireproof Authentics R -570.00 -570.00 04/25/2024 Bill Payment (Check) 10243 ABM R -10,350.00 -10,350.00 04/25/2024 Bill Payment (Check) 10244 Houghton Mifflin Harcourt R -4,150.00 -4,150.00 04/25/2024 Bill Payment (Check) 10245 Macro Connect, Inc. R -38,584.38 -38,584.38 04/25/2024 Bill Payment (Check) 10246 Macro Connect, Inc.- 0 Monthly Serv R -11,318.80 -11,318.80 04/25/2024 Bill Payment 10247 ODP Business Solutions, LLC R -925.59 (Check) -925.59 04/25/2024 Bill Payment (Check) 10248 POWERSCHOOL GROUP LLC R -6,000.00 -6,000.00 04/25/2024 Bill Payment (Check) 10249 Convergent Technology Partners, LLC R -525.00 -525.00 04/25/2024 Bill Payment (Check) 9493 Exotic Zoo R -995.00 -995.00 04/25/2024 Bill Payment (Check) 9494 School Specialty R -51.64 -51.64 04/25/2024 Bill Payment (Check) 9495 Applied Innovation R -1,060.62 -1,060.62 04/25/2024 Expenditure 162H8374 Bank Of America- Bank Fees ID:162H8374 Check Order R -124.49 Checks 124.49 04/26/2024 Expenditure 9020898160 Industry Specific Solutions Invoices: 116937, 117123 R -6,572.80 Invoices: 116937, 117123 6,572.80 05/01/2024 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -2,875.00 ID: 5420234980 2,875.00 05/03/2024 Expenditure 0000756346 Intuit ID: 0000756346 R -90.00 QBO for May 90.00 05/06/2024 Expenditure 0000420792 DTE Energy ID: 0000420792 PPD R -10,291.29 Electricity 10,291.29 05/08/2024 Expenditure 310-0185.301 DETROIT WATER AND SEWERAGE DEPARTMENT Account #310-0185.301 03/07/24-04/07/24",
+      "total": 8558.95,
+      "count": 1
+    },
+    {
+      "payee": "9018138680 Industry Specific Solutions ID: 9018138680",
+      "total": 7982.0,
+      "count": 1
+    },
+    {
+      "payee": "9200502236 Industry Specific Solutions Invoices: 117488",
+      "total": 7503.6,
+      "count": 1
+    },
+    {
+      "payee": "9020353599 Industry Specific Solutions Invoices: 116020, 116205",
+      "total": 6780.8,
+      "count": 1
+    },
+    {
+      "payee": "9020499727 Industry Specific Solutions Invoices: 116382, 116552",
+      "total": 6572.8,
+      "count": 1
+    },
+    {
+      "payee": "9020898160 Industry Specific Solutions Invoices: 116937, 117123",
+      "total": 6572.8,
+      "count": 1
+    },
+    {
+      "payee": "1510372554 Comcast Business Acct x7350 Internet",
+      "total": 6515.88,
+      "count": 1
+    },
+    {
+      "payee": "GM Equity Development Invoice #18536, #18537",
+      "total": 6325.0,
+      "count": 1
+    },
+    {
+      "payee": "Savvas Learning Company LLC R -2,386.80 -2,386.80 09/13/2023 Bill Payment (Check) 10094 School Specialty R -4,338.07 -4,338.07 09/13/2023 Bill Payment (Check) 10095 Studies Weekly R -6,009.60 -6,009.60 09/13/2023 Bill Payment (Check) 10096 US Bank R -1,378.83 -1,378.83 09/13/2023 Bill Payment (Check) 10097 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 09/22/2023 Expenditure 9018138680 Industry Specific Solutions ID: 9018138680 R -7,982.00 September 7,982.00 09/22/2023 Expenditure 5683845 Comcast Business Acct x0806 ID: 5683845 R -219.35 219.35 09/28/2023 Bill Payment (Check) 10099 ABM R -10,350.00 -10,350.00 09/28/2023 Bill Payment (Check) 10100 Applied Innovation R -550.23 -550.23 09/28/2023 Bill Payment (Check) 10101 Arch Environmental Group, Inc. R -400.00 -400.00 09/28/2023 Bill Payment (Check) 10102 GM Equity Development R -11,450.00 -11,450.00 09/28/2023 Bill Payment (Check) 10103 Good Works Restoration LLC R -550.00 -550.00 09/28/2023 Bill Payment (Check) 10104 Kendall Hunt Publishing Company R -10,000.00 -10,000.00 09/28/2023 Bill Payment (Check) 10105 Kiddom Inc R -3,400.00 -3,400.00 09/28/2023 Bill Payment (Check) 10106 Lorilyn K. Coggins R -2,000.00 -2,000.00 09/28/2023 Bill Payment (Check) 10107 Macro Connect, Inc. R -137.50 -137.50 09/28/2023 Bill Payment (Check) 10108 Matrix Mechanical LLC R -4,690.00 -4,690.00 09/28/2023 Bill Payment (Check) 10109 Michigan Association of School Boards R -1,520.39 -1,520.39 09/28/2023 Bill Payment (Check) 10110 ODP Business Solutions, LLC R -1,045.01 -1,045.01 09/28/2023 Bill Payment (Check) 10111 Pitney Bowes - Purchase Power R -398.25 -398.25 09/28/2023 Bill Payment (Check) 10112 Savvas Learning Company LLC R -69.00 -69.00 09/28/2023 Bill Payment (Check) 10113 Student Transportation Services R -11,472.00 -11,472.00 10/02/2023 Expenditure EMC Insurance Company R -2,424.26 October Insurance 2,424.26 10/03/2023 Expenditure 8799938 Intuit ID: 8799938 R -90.00 QBO for October 2023 90.00 10/04/2023 Bill Payment (Check) 10078 The Detroit Institute for Children R -18,265.08 -18,265.08 10/05/2023 Expenditure 0000420792 DTE Energy ID: 0000420792 R -4,643.12 Electricity 4,643.12 10/06/2023 Expenditure 9018349029 Industry Specific Solutions ID: 9018349029 R -9,786.40 October 9,786.40 10/12/2023 Expenditure M80065032762 GoTo Communications, Inc. ID: M80065032762 R -1,586.25 1,586.25 10/20/2023 Expenditure 9018512607 Industry Specific Solutions ID: 9018512607 R -10,054.20 October 10,054.20 10/23/2023 Expenditure 4497390 Comcast Business Acct x0806 ID: 4497390 R -105.79 105.79 10/24/2023 Bill Payment (Check) 10114 Applied Innovation R -1,002.76 -1,002.76 10/24/2023 Bill Payment (Check) 10115 Convergent Technology Partners, LLC R -525.00 -525.00 10/24/2023 Bill Payment (Check) 10116 DETROIT WATER AND SEWERAGE DEPARTMENT",
+      "total": 6251.27,
+      "count": 1
+    },
+    {
+      "payee": "Gregory M. Meihn 2024 Attorney Retainer Fee",
+      "total": 5000.0,
+      "count": 1
+    },
+    {
+      "payee": "5420234980 EMC Insurance Company",
+      "total": 4850.64,
+      "count": 1
+    },
+    {
+      "payee": "Water Work Plumbing Plumber",
+      "total": 4816.0,
+      "count": 1
+    },
+    {
+      "payee": "4888242 Comcast Business Acct x0806 ID:4888242",
+      "total": 4711.6,
+      "count": 2
+    },
+    {
+      "payee": "1510372554 Comcast Business Acct x7350 ID: 1510372554",
+      "total": 4679.69,
+      "count": 3
+    },
+    {
+      "payee": "Hoekstra Leasing, LLC Invoice #13501001136",
+      "total": 4672.0,
+      "count": 1
+    },
+    {
+      "payee": "Student Transportation Services R -979.80 -979.80 07/18/2023 Bill Payment (Check) 10037 Macro Connect, Inc. R -27,023.75 -27,023.75 07/18/2023 Bill Payment (Check) 10038 POWERSCHOOL GROUP LLC R -5,119.81 -5,119.81 07/18/2023 Bill Payment (Check) 10039 Convergent Technology Partners, LLC R -95.00 -95.00 07/18/2023 Bill Payment (Check) 10040 Great Minds R -9,959.40 -9,959.40 08/01/2023 Bill Payment (Check) 10042 American Leak Detection, Inc R -695.00 -695.00 08/01/2023 Bill Payment (Check) 10043 Applied Innovation R -141.43 -141.43 08/01/2023 Bill Payment (Check) 10044 City Of Detroit-Property Tax R -33,015.15 -33,015.15 08/01/2023 Bill Payment (Check) 10045 GM Equity Development R -10,850.00 -10,850.00 08/01/2023 Bill Payment (Check) 10046 GoGuardian R -6,620.00 -6,620.00 08/01/2023 Bill Payment (Check) 10047 GUARDIAN ALARM R -313.20 -313.20 08/01/2023 Bill Payment (Check) 10048 Imagine Learning LLC R -40,680.46 -40,680.46 08/01/2023 Bill Payment (Check) 10049 Lorilyn K. Coggins R -2,000.00 -2,000.00 08/01/2023 Bill Payment (Check) 10050 Martin Luna R -34,666.66 -34,666.66 08/01/2023 Bill Payment (Check) 10051 Matrix Mechanical LLC R -9,380.00 -9,380.00 08/01/2023 Bill Payment (Check) 10052 Mighty Green Lawn Service R -2,500.00 -2,500.00 08/01/2023 Bill Payment (Check) 10053 The Detroit Institute for Children R -5,919.91 -5,919.91 08/01/2023 Bill Payment (Check) 10054 The Urban Academy of Greater Pittsburgh Charter School",
+      "total": 4540.98,
+      "count": 1
+    },
+    {
+      "payee": "9200502236 Industry Specific Solutions Invoices: 116770",
+      "total": 4368.0,
+      "count": 1
+    },
+    {
+      "payee": "DTE Energy",
+      "total": 4130.45,
+      "count": 1
+    },
+    {
+      "payee": "Integrity Business Solutions 451890 R -1,174.75 -1,174.75 08/16/2023 Bill Payment (Check) 10066 The Party Source, LLC R -848.99 -848.99 08/16/2023 Bill Payment (Check) 10067 National Charter Schools Institute R -1,150.00 -1,150.00 08/16/2023 Bill Payment (Check) 10068 Rita's of Farmington R -869.65 -869.65 08/16/2023 Bill Payment (Check) 10069 Tyrell Gladney, Bottrash & Dumpsters R -800.00 -800.00 08/16/2023 Bill Payment (Check) 10070 Detroit Regional Chamber R -4,207.50 -4,207.50 08/30/2023 Bill Payment (Check) 10071 Applied Innovation R -247.68 -247.68 08/30/2023 Bill Payment (Check) 251 Comcast Business Acct x7350 -1,229.69 -1,229.69 08/30/2023 Bill Payment (Check) 10073 Pitney Bowes - Purchase Power R -357.98 -357.98 08/30/2023 Bill Payment (Check) 10074 Martin Luna R -35,666.68 -35,666.68 08/30/2023 Bill Payment (Check) 10075 Matrix Mechanical LLC R -4,690.00 -4,690.00 08/30/2023 Bill Payment (Check) 10076 Mighty Green Lawn Service R -2,500.00 -2,500.00 08/30/2023 Bill Payment (Check) 10077 ABM R -10,350.00 -10,350.00 09/01/2023 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -2,424.27 Liability insurance 2,424.27 09/01/2023 Expenditure 200065749132 Restaurant Equippers Warehouse Stores ID: 200065749132 R -4,366.34 Payment for fridge 4,366.34 09/01/2023 Bill Payment (Check) 10098 The Detroit Institute for Children R -18,265.08 -18,265.08 09/05/2023 Expenditure 0514029 Intuit ID: 0514029 R -90.00 QBO for September 2023 90.00 09/06/2023 Expenditure 0000420792 DTE Energy ID: 0000420792 R -3,625.94 Electricity 3,625.94 09/06/2023 Expenditure 1510372554 Comcast Business Acct x7350 ID: 1510372554 R -2,379.69 2,379.69 09/08/2023 Expenditure 9004213932 Industry Specific Solutions ID: 9004213932 R -2,558.40 Invoice 112307 2,558.40 09/12/2023 Expenditure 80005673406 GoTo Communications, Inc. ID: 80005673406 R -1,349.83 1,349.83 09/13/2023 Bill Payment (Check) 10079 ABM R -10,350.00 -10,350.00 09/13/2023 Bill Payment (Check) 10080 Bildon Parts & Service R -4,307.37 -4,307.37 09/13/2023 Bill Payment (Check) 10081 Cintas Fire Protection R -582.30 -582.30 09/13/2023 Bill Payment (Check) 10082 Convergent Technology Partners, LLC R -905.00 -905.00 09/13/2023 Bill Payment (Check) 10083 DETROIT WATER AND SEWERAGE DEPARTMENT",
+      "total": 4084.7,
+      "count": 1
+    },
+    {
+      "payee": "Orkin Invoice:268487636",
+      "total": 4000.0,
+      "count": 1
+    },
+    {
+      "payee": "9200502236 Industry Specific Solutions Invoices: 118318",
+      "total": 3840.2,
+      "count": 1
+    },
+    {
+      "payee": "Imperial Dade 740 - DET Invoice/ Order 90045448-00",
+      "total": 3327.89,
+      "count": 1
+    },
+    {
+      "payee": "John Arnold Caterer",
+      "total": 3315.0,
+      "count": 3
+    },
+    {
+      "payee": "0000420792 DTE Energy",
+      "total": 3227.32,
+      "count": 1
+    },
+    {
+      "payee": "Kendall Hunt Publishing Company R -35,518.36 -35,518.36 07/18/2023 Bill Payment (Check) 10032 Raymond Ankrum R -1,847.67 -1,847.67 07/18/2023 Bill Payment (Check) 10033 GM Equity Development R -3,400.00 -3,400.00 07/18/2023 Bill Payment (Check) 10034 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 07/18/2023 Bill Payment (Check) 10035 DETROIT WATER AND SEWERAGE DEPARTMENT",
+      "total": 3024.17,
+      "count": 1
+    },
+    {
+      "payee": "Sabrina Jackson Enterprises Professional development",
+      "total": 3000.0,
+      "count": 1
+    },
+    {
+      "payee": "School Specialty R -1,012.68 -1,012.68 03/07/2024 Bill Payment (Check) 10216 The Detroit Institute for Children R -2,155.21 -2,155.21 03/07/2024 Bill Payment (Check) 10217 US Bank R -565.19 -565.19 03/07/2024 Bill Payment (Check) 10218 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 03/08/2024 Expenditure 0000420792 DTE Energy ID: 0000420792 R -12,112.74 Electricity 12,112.74 03/12/2024 Expenditure M80323716591 GoTo Communications, Inc. ID: M80323716591 R -1,330.36 March 2024 1,330.36 03/15/2024 Expenditure 9020353599 Industry Specific Solutions Invoices: 116020, 116205 R -6,780.80 Invoices: 116020, 116205 6,780.80 03/22/2024 Bill Payment (Check) 68 Fred's Key Shop -255.00 -255.00 03/22/2024 Bill Payment (Check) 69 Orkin 28389379 -129.99 -129.99 03/22/2024 Bill Payment (Check) 70 School Specialty -152.69 -152.69 03/22/2024 Bill Payment (Check) 1 ABM -10,350.00 -10,350.00 03/22/2024 Bill Payment (Check) 2 Jones School Supply Co., Inc. -1,143.45 -1,143.45 03/22/2024 Bill Payment (Check) 67 Applied Innovation -821.81 -821.81 03/22/2024 Expenditure 0681666 Comcast Business Acct x0806 ID: 0681666 R -111.60 111.60 03/29/2024 Expenditure 9020499727 Industry Specific Solutions Invoices: 116382, 116552 R -6,572.80 Invoices: 116382, 116552 6,572.80 04/01/2024 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -2,875.02 ID: 5420234980 2,875.02 04/03/2024 Bill Payment (Check) 10225 Bianco Tours, Inc. R -7,441.00 -7,441.00 04/03/2024 Bill Payment (Check) 10238 Deluxe R -466.71 -466.71 04/03/2024 Bill Payment (Check) 10226 DETROIT WATER AND SEWERAGE DEPARTMENT",
+      "total": 2642.58,
+      "count": 1
+    },
+    {
+      "payee": "9004213932 Industry Specific Solutions ID: 9004213932",
+      "total": 2558.4,
+      "count": 1
+    },
+    {
+      "payee": "POWERSCHOOL GROUP LLC Inv #379956",
+      "total": 2500.0,
+      "count": 1
+    },
+    {
+      "payee": "Evelyn Madih",
+      "total": 2500.0,
+      "count": 1
+    },
+    {
+      "payee": "LaQuiesha Daniels",
+      "total": 2500.0,
+      "count": 1
+    },
+    {
+      "payee": "Chef JA Catering",
+      "total": 2492.0,
+      "count": 1
+    },
+    {
+      "payee": "EMC Insurance Company",
+      "total": 2424.26,
+      "count": 1
+    },
+    {
+      "payee": "People's Restaurant STEAM tables",
+      "total": 2399.99,
+      "count": 1
+    },
+    {
+      "payee": "Arch Environmental Group, Inc. Check #10166 R -650.00 -650.00 01/17/2024 Bill Payment (Check) 10167 Loving Guidance LLC Check #10167 R -5,070.00 -5,070.00 01/17/2024 Bill Payment (Check) 10168 ABM Check #10168 R -20,700.00 -20,700.00 01/17/2024 Bill Payment (Check) 10169 Lorilyn K. Coggins Check #10169 R -2,000.00 -2,000.00 01/17/2024 Bill Payment (Check) 10170 Great Lakes Fence Co. Inc. Check #10170 R -700.00 -700.00 01/17/2024 Bill Payment (Check) 10171 Mighty Green Lawn Service Check #10171 R -1,500.00 -1,500.00 01/17/2024 Bill Payment (Check) 10172 DR4 Technologies, Inc Check #10172 R -26,480.00 -26,480.00 01/17/2024 Bill Payment (Check) 10173 Gregory M. Meihn R -4,000.00 -4,000.00 01/17/2024 Bill Payment (Check) 10174 Applied Innovation Check #10174 R -1,543.69 -1,543.69 01/17/2024 Bill Payment (Check) 10175 DETROIT WATER AND SEWERAGE DEPARTMENT Check #10175 R -4,018.95 -4,018.95 01/17/2024 Bill Payment (Check) 10176 Integrity Business Solutions Check #10176 R -839.80 -839.80 01/17/2024 Bill Payment (Check) 10177 GUARDIAN ALARM Check #10177 R -159.60 -159.60 01/17/2024 Bill Payment (Check) 10178 US Bank Check #10178 R -758.87 -758.87 01/17/2024 Bill Payment (Check) 10179 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 01/17/2024 Bill Payment (Check) 10180 The Detroit Institute for Children Check #10180 R -39,716.70 -39,716.70 01/17/2024 Bill Payment (Check) 10181 Macro Connect, Inc.- 0 Monthly Serv Check #10181 R -12,884.60 -12,884.60 01/17/2024 Bill Payment (Check) 10182 Macro Connect, Inc. Check #10182 R -2,350.00 -2,350.00 01/17/2024 Bill Payment (Check) 10183 Matrix Mechanical LLC Check #10183 R -4,690.00 -4,690.00 01/22/2024 Expenditure 2209176 Comcast Business Acct x0806 ID: 2209176 R -111.64 January 2024 Telephone 111.64 02/01/2024 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -3,326.01 5420234980 3,326.01 02/02/2024 Bill Payment (Check) ACH Industry Specific Solutions Invoices #115002, 115168 R -7,962.40 -7,962.40 02/05/2024 Expenditure 5828637 Intuit ID: 5828637 R -90.00 QBO for February 90.00 02/07/2024 Expenditure 0000420792 DTE Energy ID: 0000420792 R -9,925.32 Electricity 9,925.32 02/13/2024 Bill Payment (Check) 10184 Lorilyn K. Coggins R -2,000.00 -2,000.00 02/13/2024 Bill Payment (Check) 10185 National Charter Schools Institute -1,150.00 -1,150.00 02/13/2024 Bill Payment (Check) 10186 Mighty Green Lawn Service R -1,500.00 -1,500.00 02/13/2024 Bill Payment (Check) 10187 Convergent Technology Partners, LLC -525.00 -525.00 02/13/2024 Bill Payment (Check) 10188 Houghton Mifflin Harcourt R -3,951.00 -3,951.00 02/13/2024 Bill Payment (Check) 10189 Bildon Parts & Service R -1,276.05 -1,276.05 02/13/2024 Bill Payment (Check) 10190 Hoekstra Leasing, LLC R -4,672.00 -4,672.00 02/13/2024 Bill Payment (Check) 10191 ODP Business Solutions, LLC R -2,081.62 -2,081.62 02/13/2024 Bill Payment (Check) 10192 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 02/13/2024 Bill Payment (Check) 10193 DETROIT WATER AND SEWERAGE DEPARTMENT",
+      "total": 2394.23,
+      "count": 1
+    },
+    {
+      "payee": "Applied Innovation R -2,201.99 -2,201.99 05/29/2024 Bill Payment (Check) 10273 Cintas Fire Protection R -797.00 -797.00 05/29/2024 Bill Payment (Check) 10274 GUARDIAN ALARM R -172.13 -172.13 05/29/2024 Bill Payment (Check) 10275 Jones School Supply Co., Inc. R -1,143.45 -1,143.45 05/29/2024 Bill Payment (Check) 10276 Lorilyn K. Coggins R -2,000.00 -2,000.00 05/29/2024 Bill Payment (Check) 10277 Matrix Mechanical LLC R -4,690.00 -4,690.00 05/29/2024 Bill Payment (Check) 10278 Michigan Association of School Boards R -1,555.09 -1,555.09 05/29/2024 Bill Payment (Check) 10279 Midwest Graphics & Award Inc. R -8,968.45 -8,968.45 05/29/2024 Bill Payment (Check) 10280 Non Profit Enterprise at Work R -3,900.00 -3,900.00 05/29/2024 Bill Payment 10281 POWERSCHOOL GROUP LLC R -22,821.95 (Check) -22,821.95 05/29/2024 Bill Payment (Check) 10282 School Specialty R -10,311.54 -10,311.54 05/29/2024 Bill Payment (Check) 10283 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 06/03/2024 Expenditure 3378609 Intuit ID: 0000756346 R -90.00 QBO for June 90.00 06/03/2024 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -2,874.99 ID: 5420234980 2,874.99 06/07/2024 Expenditure 9021470703 Industry Specific Solutions Invoices: 118031, 118194 R -8,933.60 118031, 118194 8,933.60 06/07/2024 Expenditure 0000420792 DTE Energy ID: 0000420792 PPD R -5,354.46 Electricity 5,354.46 06/10/2024 Expenditure 16804590 DETROIT WATER AND SEWERAGE DEPARTMENT June 2024 Water -T386004606 WEB",
+      "total": 2394.23,
+      "count": 1
+    },
+    {
+      "payee": "0000213249 Comcast Business Acct x0806",
+      "total": 2300.0,
+      "count": 1
+    },
+    {
+      "payee": "ABM R -10,350.00 -10,350.00 02/13/2024 Expenditure M80270513249 GoTo Communications, Inc. ID: M80270513249 R -1,444.89 January 2024 1,444.89 02/16/2024 Bill Payment (Check) ACH Industry Specific Solutions Invoices #115332, 115504 R -8,195.20 -8,195.20 02/22/2024 Expenditure 1485208 Comcast Business Acct x0806 ID: 1485208 R -111.60 111.60 03/01/2024 Bill Payment (Check) ACH Industry Specific Solutions R -4,160.00 -4,160.00 03/01/2024 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -2,875.06 ID: 5420234980 2,875.06 03/04/2024 Expenditure 4868798 Intuit ID: 4868798 R -90.00 QBO for March 90.00 03/07/2024 Bill Payment (Check) 10203 Applied Innovation R -846.71 -846.71 03/07/2024 Bill Payment (Check) 10204 DETROIT WATER AND SEWERAGE DEPARTMENT",
+      "total": 2270.05,
+      "count": 1
+    },
+    {
+      "payee": "Brian Banks Staff Gift Cards",
+      "total": 1890.0,
+      "count": 1
+    },
+    {
+      "payee": "Dominion Ground Enterprise, LLC",
+      "total": 1875.0,
+      "count": 3
+    },
+    {
+      "payee": "Bouncing Off The Walls",
+      "total": 1825.0,
+      "count": 1
+    },
+    {
+      "payee": "Blake's Big Apple",
+      "total": 1806.0,
+      "count": 1
+    },
+    {
+      "payee": "Non Profit Enterprise at Work",
+      "total": 1800.0,
+      "count": 1
+    },
+    {
+      "payee": "Just Bouncin",
+      "total": 1780.0,
+      "count": 1
+    },
+    {
+      "payee": "M80065032762 GoTo Communications, Inc. ID: M80065032762",
+      "total": 1586.25,
+      "count": 1
+    },
+    {
+      "payee": "Wanda Jones Caterer (Black History Program)",
+      "total": 1540.0,
+      "count": 1
+    },
+    {
+      "payee": "IN7102544012 GoTo Communications, Inc. Invoice: IN7102544012",
+      "total": 1530.97,
+      "count": 1
+    },
+    {
+      "payee": "1911718107 GoTo Communications, Inc. ID: M80127065318",
+      "total": 1515.87,
+      "count": 1
+    },
+    {
+      "payee": "IN7102470456 GoTo Communications, Inc. Invoice: IN7102470456",
+      "total": 1515.87,
+      "count": 1
+    },
+    {
+      "payee": "Brian Banks",
+      "total": 1470.0,
+      "count": 1
+    },
+    {
+      "payee": "M80270513249 GoTo Communications, Inc. ID: M80270513249",
+      "total": 1444.89,
+      "count": 1
+    },
+    {
+      "payee": "1911718107 GoTo Communications, Inc. ID: 1911718107-M80482041208",
+      "total": 1440.26,
+      "count": 1
+    },
+    {
+      "payee": "C.J. Barrymores Invoice:8421",
+      "total": 1400.0,
+      "count": 2
+    },
+    {
+      "payee": "1911718107 GoTo Communications, Inc. ID: 1911718107",
+      "total": 1379.91,
+      "count": 1
+    },
+    {
+      "payee": "980000157 US Bank",
+      "total": 1378.83,
+      "count": 1
+    },
+    {
+      "payee": "Integrity Business Solutions 451890 R -3,149.25 -3,149.25 05/14/2024 Bill Payment (Check) 10252 Lorilyn K. Coggins R -2,000.00 -2,000.00 05/14/2024 Bill Payment (Check) 10253 Cintas Fire Protection R -2,960.51 -2,960.51 05/14/2024 Bill Payment (Check) 10254 National Charter Schools Institute R -1,150.00 -1,150.00 05/14/2024 Bill Payment (Check) 10255 Echols Landscaping and Home Services LLC",
+      "total": 1375.0,
+      "count": 1
+    },
+    {
+      "payee": "M80383322200 GoTo Communications, Inc. ID: M80383322200",
+      "total": 1365.54,
+      "count": 1
+    },
+    {
+      "payee": "80005673406 GoTo Communications, Inc. ID: 80005673406",
+      "total": 1349.83,
+      "count": 1
+    },
+    {
+      "payee": "M80323716591 GoTo Communications, Inc. ID: M80323716591",
+      "total": 1330.36,
+      "count": 1
+    },
+    {
+      "payee": "GoTo Communications, Inc.",
+      "total": 1323.77,
+      "count": 1
+    },
+    {
+      "payee": "1911718107 GoTo Communications, Inc.",
+      "total": 1323.77,
+      "count": 1
+    },
+    {
+      "payee": "0213249 Comcast Business Acct x0806",
+      "total": 1167.25,
+      "count": 1
+    },
+    {
+      "payee": "John Arnold Caterer- Teacher Appreciation",
+      "total": 1120.0,
+      "count": 1
+    },
+    {
+      "payee": "7860843596 Republic Services # 241 waste removal",
+      "total": 1089.31,
+      "count": 1
+    },
+    {
+      "payee": "Rafeal Camper Prayers to you and your fam",
+      "total": 1000.0,
+      "count": 1
+    },
+    {
+      "payee": "John Arnold PD Caterer",
+      "total": 991.0,
+      "count": 1
+    },
+    {
+      "payee": "Mighty Green Lawn Service R -2,500.00 -2,500.00 11/27/2023 Bill Payment (Check) 10141 ODP Business Solutions, LLC R -5,288.23 -5,288.23 11/27/2023 Bill Payment (Check) 10142 Pitney Bowes - Purchase Power R -281.37 -281.37 11/27/2023 Bill Payment (Check) 10143 School Specialty R -9,885.02 -9,885.02 11/27/2023 Bill Payment (Check) 10144 Student Transportation Services R -3,824.00 -3,824.00 11/27/2023 Bill Payment (Check) 10145 Yecart Accounting Services, LLC 11/27/2023-November Invoice R -5,000.00 -5,000.00 12/01/2023 Expenditure 113917,114044 Industry Specific Solutions Invoice #113917,114044 R -9,661.60 For week 11/19/23 7,342.40 For week 11/26/23 2,319.20 12/01/2023 Expenditure IN7102470456 GoTo Communications, Inc. Invoice: IN7102470456 R -1,515.87 December 1,515.87 12/04/2023 Expenditure 0000420792 DTE Energy ID: 0000420792 R -7,399.68 Electricity 7,399.68 12/04/2023 Expenditure 0000756346 Intuit ID: 6997002 R -90.00 QBO for December 2023 90.00 12/04/2023 Bill Payment (Check) 4 EMC Insurance Company R -2,424.25 -2,424.25 12/15/2023 Bill Payment (Check) ACH Industry Specific Solutions Invoices: 114163, 114318 R -10,608.00 -10,608.00 12/15/2023 Expenditure 9800000157 US Bank ID: 9800000157 R -607.26 607.26 12/19/2023 Bill Payment (Check) 10146 ABM R -10,350.00 -10,350.00 12/19/2023 Bill Payment (Check) 10147 Applied Innovation R -235.12 -235.12 12/19/2023 Bill Payment (Check) 10148 DETROIT WATER AND SEWERAGE DEPARTMENT",
+      "total": 972.8,
+      "count": 1
+    },
+    {
+      "payee": "Detroit Athletic Club",
+      "total": 948.0,
+      "count": 1
+    },
+    {
+      "payee": "Credit Union One Voided R 0.00 0.00 12/20/2023 Check 1032 Great Lakes Fence Co. Inc. Invoices #23205B $205 #23223A $700",
+      "total": 905.0,
+      "count": 1
+    },
+    {
+      "payee": "KJ Investment Group Whack-Words Scholars (?)",
+      "total": 900.0,
+      "count": 1
+    },
+    {
+      "payee": "John Arnold",
+      "total": 895.0,
+      "count": 1
+    },
+    {
+      "payee": "10045 Motor City Gamers and More Replacement Check 06/24/24",
+      "total": 769.0,
+      "count": 1
+    },
+    {
+      "payee": "9800000157 US Bank ID: 9800000157",
+      "total": 758.87,
+      "count": 2
+    },
+    {
+      "payee": "Detroit Athletic Club SB1692",
+      "total": 746.3,
+      "count": 1
+    },
+    {
+      "payee": "Party Dreams Rental Chairs (Black History Program)",
+      "total": 704.2,
+      "count": 1
+    },
+    {
+      "payee": "10043 Dominion Ground Enterprise, LLC Invoice # 6102024",
+      "total": 700.0,
+      "count": 1
+    },
+    {
+      "payee": "10035 John Arnold",
+      "total": 680.0,
+      "count": 1
+    },
+    {
+      "payee": "9800000157 US Bank 9800000157",
+      "total": 662.03,
+      "count": 1
+    },
+    {
+      "payee": "Dominion Ground Enterprise, LLC Electrical",
+      "total": 600.0,
+      "count": 1
+    },
+    {
+      "payee": "Phase Two Properties Humphrey family",
+      "total": 600.0,
+      "count": 1
+    },
+    {
+      "payee": "Wyatt Jones 3/15 PD Facilitator",
+      "total": 600.0,
+      "count": 1
+    },
+    {
+      "payee": "Fireproof Authentics Inv- 1786 T-Shirts Staff Basketball",
+      "total": 582.0,
+      "count": 1
+    },
+    {
+      "payee": "Seed Time & Harvest Productions 48 scholars @ $12 each",
+      "total": 576.0,
+      "count": 1
+    },
+    {
+      "payee": "10037 John Arnold",
+      "total": 560.0,
+      "count": 1
+    },
+    {
+      "payee": "Convergent Technology Partners, LLC Invoice 18200- Replacement Check",
+      "total": 525.0,
+      "count": 1
+    },
+    {
+      "payee": "Ivory Forest",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "payee": "Janitorial Services Over Counter Check #1044",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "payee": "Greater Emmanuel Institutional COGIC",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "payee": "Hoekstra Leasing, LLC R -4,672.00 -4,672.00 06/13/2024 Bill Payment (Check) 10040 Gregory M. Meihn R -647.20 -647.20 06/13/2024 Check 10042 Cotton Stanton & Associates Investment Group",
+      "total": 500.0,
+      "count": 1
+    },
+    {
+      "payee": "John Arnold Invoice:76",
+      "total": 495.0,
+      "count": 1
+    },
+    {
+      "payee": "Motor City Gamers and More",
+      "total": 479.0,
+      "count": 1
+    },
+    {
+      "payee": "Ann Arbor Hands-On Museum 4th Grade Field Trip",
+      "total": 474.0,
+      "count": 1
+    },
+    {
+      "payee": "Michigan Science Center 1st Grade Field Trip",
+      "total": 440.0,
+      "count": 1
+    },
+    {
+      "payee": "Michigan Science Center 7th Grade Field Trip",
+      "total": 434.0,
+      "count": 1
+    },
+    {
+      "payee": "Phyliss Taylor",
+      "total": 425.0,
+      "count": 1
+    },
+    {
+      "payee": "Cordarryl Smith",
+      "total": 400.0,
+      "count": 1
+    },
+    {
+      "payee": "Brian Banks Gift cards for travel",
+      "total": 400.0,
+      "count": 1
+    },
+    {
+      "payee": "Dominion Ground Enterprise, LLC Bathroom repair",
+      "total": 400.0,
+      "count": 1
+    },
+    {
+      "payee": "Woods Trophies 2023-1803",
+      "total": 387.5,
+      "count": 1
+    },
+    {
+      "payee": "Great Lakes Fence Co. Inc.",
+      "total": 365.7,
+      "count": 1
+    },
+    {
+      "payee": "Fred's Key Shop Locks",
+      "total": 355.0,
+      "count": 1
+    },
+    {
+      "payee": "Ingrid Walton",
+      "total": 350.0,
+      "count": 1
+    },
+    {
+      "payee": "Lifetouch Student pictures",
+      "total": 341.01,
+      "count": 1
+    },
+    {
+      "payee": "Chiquita McKenzie",
+      "total": 336.0,
+      "count": 1
+    },
+    {
+      "payee": "Greater Metropolitan Youth Sports BB Team",
+      "total": 300.0,
+      "count": 1
+    },
+    {
+      "payee": "Public Consulting Group R -170.00 -170.00 07/18/2023 Bill Payment (Check) 10030 Pitney Bowes Global Financial Services LLC.",
+      "total": 281.37,
+      "count": 1
+    },
+    {
+      "payee": "GUARDIAN ALARM R -156.60 -156.60 09/13/2023 Bill Payment (Check) 10085 Houghton Mifflin Harcourt R -1,183.20 -1,183.20 09/13/2023 Bill Payment (Check) 10086 Kendall Hunt Publishing Company R -1,350.00 -1,350.00 09/13/2023 Bill Payment (Check) 10087 Lorilyn K. Coggins R -2,000.00 -2,000.00 09/13/2023 Bill Payment 10088 Macro Connect, Inc. R -9,525.65 (Check) -9,525.65 09/13/2023 Bill Payment (Check) 10089 Curriculum Associates R -17,912.00 -17,912.00 09/13/2023 Bill Payment (Check) 10092 Midwest Graphics & Award Inc. R -3,596.74 -3,596.74 09/13/2023 Bill Payment (Check) 10090 ODP Business Solutions, LLC R -2,838.17 -2,838.17 09/13/2023 Bill Payment (Check) 10091 Pitney Bowes Global Financial Services LLC.",
+      "total": 281.37,
+      "count": 1
+    },
+    {
+      "payee": "DR4 Technologies, Inc R -23,325.00 -23,325.00 12/19/2023 Bill Payment (Check) 10150 GUARDIAN ALARM R -156.60 -156.60 12/19/2023 Bill Payment (Check) 10151 Hoekstra Leasing, LLC R -2,336.00 -2,336.00 12/19/2023 Bill Payment (Check) 10152 Integrity Business Solutions Account #451890 R -2,224.50 -2,224.50 12/19/2023 Bill Payment 10153 Lorilyn K. Coggins R -2,000.00 (Check) -2,000.00 12/19/2023 Bill Payment (Check) 10154 Macro Connect, Inc. R -11,286.72 -11,286.72 12/19/2023 Bill Payment (Check) 10155 Matrix Mechanical LLC R -4,690.00 -4,690.00 12/19/2023 Bill Payment (Check) 10156 Midwest Graphics & Award Inc. R -4,444.98 -4,444.98 12/19/2023 Bill Payment (Check) 10157 Mighty Green Lawn Service R -1,500.00 -1,500.00 12/19/2023 Bill Payment (Check) 10158 NWEA R -4,525.00 -4,525.00 12/19/2023 Bill Payment (Check) 10159 Pitney Bowes Global Financial Services LLC.",
+      "total": 281.37,
+      "count": 1
+    },
+    {
+      "payee": "GUARDIAN ALARM R -222.13 -222.13 03/07/2024 Bill Payment (Check) 10206 Hoekstra Leasing, LLC -2,336.00 -2,336.00 03/07/2024 Bill Payment (Check) 10207 Lorilyn K. Coggins R -2,000.00 -2,000.00 03/07/2024 Bill Payment (Check) 10208 Macro Connect, Inc.- 0 Monthly Serv R -6,476.70 -6,476.70 03/07/2024 Bill Payment (Check) 10209 Matrix Mechanical LLC R -4,690.00 -4,690.00 03/07/2024 Bill Payment (Check) 10210 Microsoft R -23.32 -23.32 03/07/2024 Bill Payment (Check) 10211 Mighty Green Lawn Service R -1,500.00 -1,500.00 03/07/2024 Bill Payment (Check) 10212 National Charter Schools Conference R -7,275.00 -7,275.00 03/07/2024 Bill Payment (Check) 10213 ODP Business Solutions, LLC R -1,053.21 -1,053.21 03/07/2024 Bill Payment (Check) 10214 Pitney Bowes Global Financial Services LLC.",
+      "total": 281.37,
+      "count": 1
+    },
+    {
+      "payee": "Brian Banks Reimbursement",
+      "total": 265.0,
+      "count": 1
+    },
+    {
+      "payee": "Wanda Jones Caterer for Davis family",
+      "total": 250.0,
+      "count": 1
+    },
+    {
+      "payee": "Reginald Olds Tree memorial",
+      "total": 248.76,
+      "count": 1
+    },
+    {
+      "payee": "John Arnold Caterer for 5/15/24- Meting",
+      "total": 248.0,
+      "count": 1
+    },
+    {
+      "payee": "Exclusive Flowers By Terry",
+      "total": 225.0,
+      "count": 3
+    },
+    {
+      "payee": "Sandys Land",
+      "total": 220.0,
+      "count": 1
+    },
+    {
+      "payee": "5683845 Comcast Business Acct x0806 ID: 5683845",
+      "total": 219.35,
+      "count": 1
+    },
+    {
+      "payee": "0000213249 Comcast Business Acct x0806 ID: 0000213249",
+      "total": 217.86,
+      "count": 2
+    },
+    {
+      "payee": "Water Work Plumbing Plumber #82806",
+      "total": 210.59,
+      "count": 1
+    },
+    {
+      "payee": "Ricardo Silva",
+      "total": 201.6,
+      "count": 1
+    },
+    {
+      "payee": "Cameron Cole Reimbursement :Check 10010",
+      "total": 199.25,
+      "count": 1
+    },
+    {
+      "payee": "0000756346 Intuit ID: 0000756346",
+      "total": 180.0,
+      "count": 2
+    },
+    {
+      "payee": "Wayne State University Planetarium field trip",
+      "total": 150.0,
+      "count": 1
+    },
+    {
+      "payee": "Yecart Accounting Services, LLC R -5,000.00 -5,000.00 05/14/2024 Bill Payment (Check) 10257 The Detroit Institute for Children R -23,946.00 -23,946.00 05/14/2024 Bill Payment (Check) 10258 TRUGREEN R -270.00 -270.00 05/14/2024 Bill Payment (Check) 10259 Urban Academy R -18,900.00 -18,900.00 05/14/2024 Bill Payment (Check) 10260 ODP Business Solutions, LLC R -3,822.53 -3,822.53 05/14/2024 Bill Payment (Check) 10261 All- City Mechanical and Refrigeration R -190.00 -190.00 05/14/2024 Bill Payment (Check) 10262 Hoekstra Leasing, LLC R -2,336.00 -2,336.00 05/14/2024 Bill Payment (Check) 10263 School Specialty R -39.60 -39.60 05/14/2024 Bill Payment (Check) 10264 GUARDIAN ALARM R -172.13 -172.13 05/14/2024 Bill Payment (Check) 10265 US Bank R -662.03 -662.03 05/14/2024 Bill Payment (Check) 10266 Wayne RESA R -367.81 -367.81 05/14/2024 Bill Payment (Check) 10267 Macro Connect, Inc.- 0 Monthly Serv R -12,551.16 -12,551.16 05/14/2024 Bill Payment (Check) 10268 ABM R -10,350.00 -10,350.00 05/14/2024 Expenditure 1911718107 GoTo Communications, Inc. ID: 1911718107 R -1,379.91 May 2024 1,379.91 05/14/2024 Expenditure 7860843596 Republic Services # 241 waste removal R -1,089.31 waste removal: 05/14/24 1,089.31 05/15/2024 Expenditure 9200502236 Industry Specific Solutions Invoices: 117670, 117850 R -9,651.53 117670 3,453.11 117850 6,198.42 05/15/2024 Expenditure 9800000157 US Bank 9800000157 R -662.03 Copier contract payment 556.72 Property damage surcharge 105.31 05/22/2024 Check 10269 Ann Arbor Hands-On Museum Deposit- Field Trip 06/04/24- #1165794",
+      "total": 150.0,
+      "count": 1
+    },
+    {
+      "payee": "GUARDIAN ALARM R -172.13 -172.13 02/13/2024 Bill Payment (Check) 10195 US Bank R -662.03 -662.03 02/13/2024 Bill Payment (Check) 10196 Applied Innovation R -235.12 -235.12 02/13/2024 Bill Payment (Check) 10197 Macro Connect, Inc. R -150.00 -150.00 02/13/2024 Bill Payment (Check) 10198 School Specialty R -1,328.79 -1,328.79 02/13/2024 Bill Payment (Check) 10199 Matrix Mechanical LLC R -4,690.00 -4,690.00 02/13/2024 Bill Payment (Check) 10200 Macro Connect, Inc.- 0 Monthly Serv R -6,452.00 -6,452.00 02/13/2024 Bill Payment (Check) 10201 Macro Connect, Inc.- 4 ERATE Projects",
+      "total": 125.0,
+      "count": 1
+    },
+    {
+      "payee": "162H8374 Bank Of America- Bank Fees ID:162H8374 Check Order",
+      "total": 124.49,
+      "count": 1
+    },
+    {
+      "payee": "DBCFSN",
+      "total": 120.0,
+      "count": 1
+    },
+    {
+      "payee": "People's Restaurant Invoice:0090412",
+      "total": 119.92,
+      "count": 1
+    },
+    {
+      "payee": "Tasha White Reimbursement",
+      "total": 112.0,
+      "count": 1
+    },
+    {
+      "payee": "2209176 Comcast Business Acct x0806 ID: 2209176",
+      "total": 111.64,
+      "count": 1
+    },
+    {
+      "payee": "1485208 Comcast Business Acct x0806 ID: 1485208",
+      "total": 111.6,
+      "count": 1
+    },
+    {
+      "payee": "0681666 Comcast Business Acct x0806 ID: 0681666",
+      "total": 111.6,
+      "count": 1
+    },
+    {
+      "payee": "213249 Comcast Business Acct x0806",
+      "total": 111.36,
+      "count": 1
+    },
+    {
+      "payee": "Kingdom Donuts Invoice: 10020",
+      "total": 107.0,
+      "count": 1
+    },
+    {
+      "payee": "POWERSCHOOL GROUP LLC R -1,249.99 -1,249.99 12/19/2023 Bill Payment (Check) 10161 Public Consulting Group R -8,843.40 -8,843.40 12/19/2023 Bill Payment (Check) 10162 The Detroit Institute for Children R -14,840.25 -14,840.25 12/19/2023 Bill Payment (Check) 10163 US Bank R -607.26 -607.26 12/19/2023 Bill Payment (Check) 10164 Wayne RESA R -868.80 -868.80 12/19/2023 Bill Payment 10165 Yecart Accounting Services, LLC R -5,000.00 (Check) -5,000.00 12/22/2023 Expenditure 0000213249 Comcast Business Acct x0806 ID: 0000213249 Confirmation No: 16937824973",
+      "total": 106.5,
+      "count": 1
+    },
+    {
+      "payee": "4497390 Comcast Business Acct x0806 ID: 4497390",
+      "total": 105.79,
+      "count": 1
+    },
+    {
+      "payee": "Water Work Plumbing Plumbing",
+      "total": 99.0,
+      "count": 1
+    },
+    {
+      "payee": "Water Work Plumbing Plumber deposit",
+      "total": 99.0,
+      "count": 1
+    },
+    {
+      "payee": "000756346 Intuit QBO - June 2023",
+      "total": 90.0,
+      "count": 1
+    },
+    {
+      "payee": "0514029 Intuit ID: 0514029",
+      "total": 90.0,
+      "count": 1
+    },
+    {
+      "payee": "8799938 Intuit ID: 8799938",
+      "total": 90.0,
+      "count": 1
+    },
+    {
+      "payee": "0000756346 Intuit ID: 7771450",
+      "total": 90.0,
+      "count": 1
+    },
+    {
+      "payee": "0000756346 Intuit ID: 6997002",
+      "total": 90.0,
+      "count": 1
+    },
+    {
+      "payee": "6345528 Intuit ID: 6345528",
+      "total": 90.0,
+      "count": 1
+    },
+    {
+      "payee": "5828637 Intuit ID: 5828637",
+      "total": 90.0,
+      "count": 1
+    },
+    {
+      "payee": "4868798 Intuit ID: 4868798",
+      "total": 90.0,
+      "count": 1
+    },
+    {
+      "payee": "3378609 Intuit ID: 0000756346",
+      "total": 90.0,
+      "count": 1
+    },
+    {
+      "payee": "Intuit QBO - June 2023",
+      "total": 85.0,
+      "count": 1
+    },
+    {
+      "payee": "Robert Moore",
+      "total": 79.47,
+      "count": 1
+    },
+    {
+      "payee": "Kyle Simth",
+      "total": 75.0,
+      "count": 1
+    },
+    {
+      "payee": "10033 Exclusive Flowers By Terry",
+      "total": 75.0,
+      "count": 1
+    },
+    {
+      "payee": "Cameron Cole Ice Cream Reimbursement",
+      "total": 65.98,
+      "count": 1
+    },
+    {
+      "payee": "Over Counter Check Over Counter Check #1051",
+      "total": 42.29,
+      "count": 1
+    },
+    {
+      "payee": "State of Michigan Bus plates",
+      "total": 13.0,
+      "count": 1
+    },
+    {
+      "payee": "358632 GFL Environment INC",
+      "total": 2.12,
+      "count": 1
+    }
+  ],
+  "all_entries": [
+    {
+      "date": "08/08/2023",
+      "type": "Check",
+      "check_num": "10056",
+      "payee": "Brian Banks Staff Gift Cards",
+      "memo": "",
+      "amount": 1890.0
+    },
+    {
+      "date": "05/22/2024",
+      "type": "Check",
+      "check_num": "10270",
+      "payee": "Fireproof Authentics Inv- 1786 T-Shirts Staff Basketball",
+      "memo": "",
+      "amount": 582.0
+    },
+    {
+      "date": "05/23/2024",
+      "type": "Check",
+      "check_num": "10271",
+      "payee": "Imperial Dade 740 - DET Invoice/ Order 90045448-00",
+      "memo": "",
+      "amount": 3327.89
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "1001",
+      "payee": "Phyliss Taylor",
+      "memo": "",
+      "amount": 425.0
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "1002",
+      "payee": "Motor City Gamers and More",
+      "memo": "",
+      "amount": 479.0
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "1003",
+      "payee": "Sandys Land",
+      "memo": "",
+      "amount": 220.0
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "1004",
+      "payee": "Chef JA Catering",
+      "memo": "",
+      "amount": 2492.0
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "1005",
+      "payee": "Just Bouncin",
+      "memo": "",
+      "amount": 1780.0
+    },
+    {
+      "date": "08/25/2023",
+      "type": "Check",
+      "check_num": "1006",
+      "payee": "Ivory Forest",
+      "memo": "",
+      "amount": 500.0
+    },
+    {
+      "date": "09/06/2023",
+      "type": "Check",
+      "check_num": "1007",
+      "payee": "Non Profit Enterprise at Work",
+      "memo": "",
+      "amount": 1800.0
+    },
+    {
+      "date": "09/06/2023",
+      "type": "Check",
+      "check_num": "1008",
+      "payee": "DBCFSN",
+      "memo": "",
+      "amount": 120.0
+    },
+    {
+      "date": "09/18/2023",
+      "type": "Check",
+      "check_num": "1009",
+      "payee": "Cordarryl Smith",
+      "memo": "",
+      "amount": 400.0
+    },
+    {
+      "date": "09/23/2023",
+      "type": "Check",
+      "check_num": "1010",
+      "payee": "Detroit Athletic Club",
+      "memo": "",
+      "amount": 948.0
+    },
+    {
+      "date": "09/23/2023",
+      "type": "Check",
+      "check_num": "1011",
+      "payee": "Ricardo Silva",
+      "memo": "",
+      "amount": 201.6
+    },
+    {
+      "date": "09/27/2023",
+      "type": "Check",
+      "check_num": "1012",
+      "payee": "John Arnold",
+      "memo": "",
+      "amount": 895.0
+    },
+    {
+      "date": "10/03/2023",
+      "type": "Check",
+      "check_num": "1013",
+      "payee": "Blake's Big Apple",
+      "memo": "",
+      "amount": 1806.0
+    },
+    {
+      "date": "10/04/2023",
+      "type": "Check",
+      "check_num": "1014",
+      "payee": "Woods Trophies 2023-1803",
+      "memo": "",
+      "amount": 387.5
+    },
+    {
+      "date": "10/09/2023",
+      "type": "Check",
+      "check_num": "1015",
+      "payee": "GM Equity Development Invoice #18536, #18537",
+      "memo": "",
+      "amount": 6325.0
+    },
+    {
+      "date": "10/20/2023",
+      "type": "Check",
+      "check_num": "1019",
+      "payee": "Wayne State University Planetarium field trip",
+      "memo": "",
+      "amount": 150.0
+    },
+    {
+      "date": "11/01/2023",
+      "type": "Check",
+      "check_num": "1018",
+      "payee": "Lifetouch Student pictures",
+      "memo": "",
+      "amount": 341.01
+    },
+    {
+      "date": "11/03/2023",
+      "type": "Check",
+      "check_num": "1023",
+      "payee": "Sabrina Jackson Enterprises Professional development",
+      "memo": "",
+      "amount": 3000.0
+    },
+    {
+      "date": "11/09/2023",
+      "type": "Check",
+      "check_num": "1024",
+      "payee": "Hoekstra Leasing, LLC Invoice #13501001136",
+      "memo": "",
+      "amount": 4672.0
+    },
+    {
+      "date": "11/20/2023",
+      "type": "Check",
+      "check_num": "1026",
+      "payee": "Brian Banks Gift cards for travel",
+      "memo": "",
+      "amount": 400.0
+    },
+    {
+      "date": "11/20/2023",
+      "type": "Check",
+      "check_num": "1027",
+      "payee": "KJ Investment Group Whack-Words Scholars (?)",
+      "memo": "",
+      "amount": 900.0
+    },
+    {
+      "date": "12/01/2023",
+      "type": "Check",
+      "check_num": "1028",
+      "payee": "Detroit Athletic Club SB1692",
+      "memo": "",
+      "amount": 746.3
+    },
+    {
+      "date": "12/13/2023",
+      "type": "Check",
+      "check_num": "1030",
+      "payee": "Seed Time & Harvest Productions 48 scholars @ $12 each",
+      "memo": "",
+      "amount": 576.0
+    },
+    {
+      "date": "12/15/2023",
+      "type": "Check",
+      "check_num": "1031",
+      "payee": "State of Michigan Bus plates",
+      "memo": "",
+      "amount": 13.0
+    },
+    {
+      "date": "12/20/2023",
+      "type": "Check",
+      "check_num": "1033",
+      "payee": "Brian Banks Staff gifts cards",
+      "memo": "",
+      "amount": 9945.0
+    },
+    {
+      "date": "12/22/2023",
+      "type": "Check",
+      "check_num": "1034",
+      "payee": "John Arnold Caterer",
+      "memo": "",
+      "amount": 1525.0
+    },
+    {
+      "date": "01/11/2024",
+      "type": "Check",
+      "check_num": "1035",
+      "payee": "Brian Banks Reimbursement",
+      "memo": "",
+      "amount": 265.0
+    },
+    {
+      "date": "01/18/2024",
+      "type": "Check",
+      "check_num": "1037",
+      "payee": "Reginald Olds Tree memorial",
+      "memo": "",
+      "amount": 248.76
+    },
+    {
+      "date": "01/22/2024",
+      "type": "Check",
+      "check_num": "1038",
+      "payee": "Fred's Key Shop Locks",
+      "memo": "",
+      "amount": 355.0
+    },
+    {
+      "date": "01/22/2024",
+      "type": "Check",
+      "check_num": "1039",
+      "payee": "Dominion Ground Enterprise, LLC Bathroom repair",
+      "memo": "",
+      "amount": 400.0
+    },
+    {
+      "date": "01/24/2024",
+      "type": "Check",
+      "check_num": "1040",
+      "payee": "Rafeal Camper Prayers to you and your fam",
+      "memo": "",
+      "amount": 1000.0
+    },
+    {
+      "date": "01/26/2024",
+      "type": "Check",
+      "check_num": "1041",
+      "payee": "John Arnold Caterer",
+      "memo": "",
+      "amount": 850.0
+    },
+    {
+      "date": "01/26/2024",
+      "type": "Check",
+      "check_num": "1042",
+      "payee": "Water Work Plumbing Plumbing",
+      "memo": "",
+      "amount": 99.0
+    },
+    {
+      "date": "01/30/2024",
+      "type": "Check",
+      "check_num": "1044",
+      "payee": "Janitorial Services Over Counter Check #1044",
+      "memo": "",
+      "amount": 500.0
+    },
+    {
+      "date": "02/01/2024",
+      "type": "Check",
+      "check_num": "1043",
+      "payee": "Dominion Ground Enterprise, LLC",
+      "memo": "",
+      "amount": 750.0
+    },
+    {
+      "date": "02/07/2024",
+      "type": "Check",
+      "check_num": "1047",
+      "payee": "Dominion Ground Enterprise, LLC",
+      "memo": "",
+      "amount": 750.0
+    },
+    {
+      "date": "02/08/2024",
+      "type": "Check",
+      "check_num": "1046",
+      "payee": "Water Work Plumbing Plumber",
+      "memo": "",
+      "amount": 4816.0
+    },
+    {
+      "date": "02/09/2024",
+      "type": "Check",
+      "check_num": "1048",
+      "payee": "POWERSCHOOL GROUP LLC Inv #379956",
+      "memo": "",
+      "amount": 2500.0
+    },
+    {
+      "date": "02/16/2024",
+      "type": "Check",
+      "check_num": "1049",
+      "payee": "Dominion Ground Enterprise, LLC Electrical",
+      "memo": "",
+      "amount": 600.0
+    },
+    {
+      "date": "02/27/2024",
+      "type": "Check",
+      "check_num": "1050",
+      "payee": "Great Lakes Fence Co. Inc.",
+      "memo": "",
+      "amount": 365.7
+    },
+    {
+      "date": "02/27/2024",
+      "type": "Check",
+      "check_num": "1052",
+      "payee": "Wanda Jones Caterer (Black History Program)",
+      "memo": "",
+      "amount": 1540.0
+    },
+    {
+      "date": "02/28/2024",
+      "type": "Check",
+      "check_num": "1053",
+      "payee": "Party Dreams Rental Chairs (Black History Program)",
+      "memo": "",
+      "amount": 704.2
+    },
+    {
+      "date": "03/07/2024",
+      "type": "Check",
+      "check_num": "1045",
+      "payee": "People's Restaurant STEAM tables",
+      "memo": "",
+      "amount": 2399.99
+    },
+    {
+      "date": "03/07/2024",
+      "type": "Check",
+      "check_num": "1055",
+      "payee": "Wanda Jones Caterer for Davis family",
+      "memo": "",
+      "amount": 250.0
+    },
+    {
+      "date": "03/08/2024",
+      "type": "Check",
+      "check_num": "1057",
+      "payee": "Water Work Plumbing Plumber deposit",
+      "memo": "",
+      "amount": 99.0
+    },
+    {
+      "date": "03/08/2024",
+      "type": "Check",
+      "check_num": "1056",
+      "payee": "Greater Metropolitan Youth Sports BB Team",
+      "memo": "",
+      "amount": 300.0
+    },
+    {
+      "date": "03/12/2024",
+      "type": "Check",
+      "check_num": "1051",
+      "payee": "Over Counter Check Over Counter Check #1051",
+      "memo": "",
+      "amount": 42.29
+    },
+    {
+      "date": "03/12/2024",
+      "type": "Check",
+      "check_num": "1058",
+      "payee": "Phase Two Properties Humphrey family",
+      "memo": "",
+      "amount": 600.0
+    },
+    {
+      "date": "03/12/2024",
+      "type": "Check",
+      "check_num": "1060",
+      "payee": "Water Work Plumbing Plumber #82806",
+      "memo": "",
+      "amount": 210.59
+    },
+    {
+      "date": "03/12/2024",
+      "type": "Check",
+      "check_num": "1059",
+      "payee": "Kyle Simth",
+      "memo": "",
+      "amount": 75.0
+    },
+    {
+      "date": "03/15/2024",
+      "type": "Check",
+      "check_num": "10000",
+      "payee": "John Arnold PD Caterer",
+      "memo": "",
+      "amount": 991.0
+    },
+    {
+      "date": "03/15/2024",
+      "type": "Check",
+      "check_num": "10001",
+      "payee": "Wyatt Jones 3/15 PD Facilitator",
+      "memo": "",
+      "amount": 600.0
+    },
+    {
+      "date": "04/09/2024",
+      "type": "Check",
+      "check_num": "10004",
+      "payee": "John Arnold Invoice:76",
+      "memo": "",
+      "amount": 495.0
+    },
+    {
+      "date": "04/11/2024",
+      "type": "Check",
+      "check_num": "10007",
+      "payee": "People's Restaurant Invoice:0090412",
+      "memo": "",
+      "amount": 119.92
+    },
+    {
+      "date": "04/16/2024",
+      "type": "Check",
+      "check_num": "10008",
+      "payee": "C.J. Barrymores Invoice:8421",
+      "memo": "",
+      "amount": 500.0
+    },
+    {
+      "date": "04/19/2024",
+      "type": "Check",
+      "check_num": "10010",
+      "payee": "Cameron Cole Reimbursement :Check 10010",
+      "memo": "",
+      "amount": 199.25
+    },
+    {
+      "date": "04/19/2024",
+      "type": "Check",
+      "check_num": "10009",
+      "payee": "Tasha White Reimbursement",
+      "memo": "",
+      "amount": 112.0
+    },
+    {
+      "date": "04/24/2024",
+      "type": "Check",
+      "check_num": "10003",
+      "payee": "Kingdom Donuts Invoice: 10020",
+      "memo": "",
+      "amount": 107.0
+    },
+    {
+      "date": "04/24/2024",
+      "type": "Check",
+      "check_num": "10005",
+      "payee": "Michigan Science Center 7th Grade Field Trip",
+      "memo": "",
+      "amount": 434.0
+    },
+    {
+      "date": "04/26/2024",
+      "type": "Check",
+      "check_num": "10011",
+      "payee": "John Arnold Caterer",
+      "memo": "",
+      "amount": 940.0
+    },
+    {
+      "date": "04/30/2024",
+      "type": "Check",
+      "check_num": "10012",
+      "payee": "Dominion Ground Enterprise, LLC",
+      "memo": "",
+      "amount": 375.0
+    },
+    {
+      "date": "05/03/2024",
+      "type": "Check",
+      "check_num": "10015",
+      "payee": "Convergent Technology Partners, LLC Invoice 18200- Replacement Check",
+      "memo": "",
+      "amount": 525.0
+    },
+    {
+      "date": "05/03/2024",
+      "type": "Check",
+      "check_num": "10013",
+      "payee": "Cameron Cole Ice Cream Reimbursement",
+      "memo": "",
+      "amount": 65.98
+    },
+    {
+      "date": "05/07/2024",
+      "type": "Check",
+      "check_num": "10018",
+      "payee": "John Arnold Caterer- Teacher Appreciation",
+      "memo": "",
+      "amount": 1120.0
+    },
+    {
+      "date": "05/10/2024",
+      "type": "Check",
+      "check_num": "10020",
+      "payee": "John Arnold Caterer for 5/15/24- Meting",
+      "memo": "",
+      "amount": 248.0
+    },
+    {
+      "date": "05/10/2024",
+      "type": "Check",
+      "check_num": "10022",
+      "payee": "Exclusive Flowers By Terry",
+      "memo": "",
+      "amount": 75.0
+    },
+    {
+      "date": "05/14/2024",
+      "type": "Check",
+      "check_num": "10023",
+      "payee": "Exclusive Flowers By Terry",
+      "memo": "",
+      "amount": 75.0
+    },
+    {
+      "date": "05/21/2024",
+      "type": "Check",
+      "check_num": "10024",
+      "payee": "Exclusive Flowers By Terry",
+      "memo": "",
+      "amount": 75.0
+    },
+    {
+      "date": "05/22/2024",
+      "type": "Check",
+      "check_num": "10025",
+      "payee": "Michigan Science Center 1st Grade Field Trip",
+      "memo": "",
+      "amount": 440.0
+    },
+    {
+      "date": "05/30/2024",
+      "type": "Check",
+      "check_num": "10026",
+      "payee": "Bouncing Off The Walls",
+      "memo": "",
+      "amount": 1825.0
+    },
+    {
+      "date": "05/30/2024",
+      "type": "Check",
+      "check_num": "10027",
+      "payee": "C.J. Barrymores Invoice:8421",
+      "memo": "",
+      "amount": 900.0
+    },
+    {
+      "date": "05/30/2024",
+      "type": "Check",
+      "check_num": "10030",
+      "payee": "Greater Emmanuel Institutional COGIC",
+      "memo": "",
+      "amount": 500.0
+    },
+    {
+      "date": "06/03/2024",
+      "type": "Check",
+      "check_num": "10031",
+      "payee": "Robert Moore",
+      "memo": "",
+      "amount": 79.47
+    },
+    {
+      "date": "06/04/2024",
+      "type": "Check",
+      "check_num": "10032",
+      "payee": "Ann Arbor Hands-On Museum 4th Grade Field Trip",
+      "memo": "",
+      "amount": 474.0
+    },
+    {
+      "date": "06/04/2024",
+      "type": "Check",
+      "check_num": "10034",
+      "payee": "Chiquita McKenzie",
+      "memo": "",
+      "amount": 336.0
+    },
+    {
+      "date": "06/05/2024",
+      "type": "Check",
+      "check_num": "10036",
+      "payee": "Ingrid Walton",
+      "memo": "",
+      "amount": 350.0
+    },
+    {
+      "date": "06/07/2024",
+      "type": "Check",
+      "check_num": "10038",
+      "payee": "Evelyn Madih",
+      "memo": "",
+      "amount": 2500.0
+    },
+    {
+      "date": "06/07/2024",
+      "type": "Check",
+      "check_num": "10039",
+      "payee": "LaQuiesha Daniels",
+      "memo": "",
+      "amount": 2500.0
+    },
+    {
+      "date": "06/24/2024",
+      "type": "Check",
+      "check_num": "10044",
+      "payee": "Brian Banks",
+      "memo": "",
+      "amount": 1470.0
+    },
+    {
+      "date": "06/26/2024",
+      "type": "Check",
+      "check_num": "10046",
+      "payee": "Gregory M. Meihn 2024 Attorney Retainer Fee",
+      "memo": "",
+      "amount": 5000.0
+    },
+    {
+      "date": "06/27/2024",
+      "type": "Check",
+      "check_num": "10047",
+      "payee": "Orkin Invoice:268487636",
+      "memo": "",
+      "amount": 4000.0
+    },
+    {
+      "date": "07/18/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10029",
+      "payee": "Public Consulting Group R -170.00 -170.00 07/18/2023 Bill Payment  (Check) 10030 Pitney Bowes Global Financial  Services LLC.",
+      "memo": "",
+      "amount": 281.37
+    },
+    {
+      "date": "07/18/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10031",
+      "payee": "Kendall Hunt Publishing Company R -35,518.36 -35,518.36 07/18/2023 Bill Payment  (Check) 10032 Raymond Ankrum R -1,847.67 -1,847.67 07/18/2023 Bill Payment  (Check) 10033 GM Equity Development R -3,400.00 -3,400.00 07/18/2023 Bill Payment  (Check) 10034 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 07/18/2023 Bill Payment  (Check) 10035 DETROIT WATER AND SEWERAGE  DEPARTMENT",
+      "memo": "",
+      "amount": 3024.17
+    },
+    {
+      "date": "07/18/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10036",
+      "payee": "Student Transportation Services R -979.80 -979.80 07/18/2023 Bill Payment  (Check) 10037 Macro Connect, Inc. R -27,023.75 -27,023.75 07/18/2023 Bill Payment  (Check) 10038 POWERSCHOOL GROUP LLC R -5,119.81 -5,119.81 07/18/2023 Bill Payment  (Check) 10039 Convergent Technology Partners, LLC R -95.00 -95.00 07/18/2023 Bill Payment  (Check) 10040 Great Minds R -9,959.40 -9,959.40 08/01/2023 Bill Payment  (Check) 10042 American Leak Detection, Inc R -695.00 -695.00 08/01/2023 Bill Payment  (Check) 10043 Applied Innovation R -141.43 -141.43 08/01/2023 Bill Payment  (Check) 10044 City Of Detroit-Property Tax R -33,015.15 -33,015.15 08/01/2023 Bill Payment  (Check) 10045 GM Equity Development R -10,850.00 -10,850.00 08/01/2023 Bill Payment  (Check) 10046 GoGuardian R -6,620.00 -6,620.00 08/01/2023 Bill Payment  (Check) 10047 GUARDIAN ALARM R -313.20 -313.20 08/01/2023 Bill Payment  (Check) 10048 Imagine Learning LLC R -40,680.46 -40,680.46 08/01/2023 Bill Payment  (Check) 10049 Lorilyn K. Coggins R -2,000.00 -2,000.00 08/01/2023 Bill Payment  (Check) 10050 Martin Luna R -34,666.66 -34,666.66 08/01/2023 Bill Payment  (Check) 10051 Matrix Mechanical LLC R -9,380.00 -9,380.00 08/01/2023 Bill Payment  (Check) 10052 Mighty Green Lawn Service R -2,500.00 -2,500.00 08/01/2023 Bill Payment  (Check) 10053 The Detroit Institute for Children R -5,919.91 -5,919.91 08/01/2023 Bill Payment  (Check) 10054 The Urban Academy of Greater  Pittsburgh Charter School",
+      "memo": "",
+      "amount": 4540.98
+    },
+    {
+      "date": "08/01/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10055",
+      "payee": "US Bank R -662.03 -662.03 08/01/2023 Expenditure 5420234980 EMC Insurance Company R -4,850.64 August Insurance Payment 4,850.64 08/03/2023 Expenditure 000756346 Intuit QBO - June 2023 R -90.00 QBO - August 2023 90.00 08/07/2023 Expenditure 0000420792 DTE Energy R -3,227.32 Electricity 3,227.32 08/08/2023 Check 10056 Brian Banks Staff Gift Cards R -1,890.00 Staff Gift Cards 1,890.00 08/09/2023 Expenditure 1510372554 Comcast Business Acct x7350 Internet R -6,515.88 6,515.88 08/14/2023 Expenditure 1911718107 GoTo Communications, Inc. R -1,323.77 August 1,323.77 08/15/2023 Expenditure 980000157 US Bank R -1,378.83 August 1,378.83 08/16/2023 Bill Payment  (Check) 10057 Michigan Recreational Construction  Inc.",
+      "memo": "",
+      "amount": 89225.0
+    },
+    {
+      "date": "08/16/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10058",
+      "payee": "Macro Connect, Inc. R -24,267.16 -24,267.16 08/16/2023 Bill Payment  (Check) 10059 Applied Innovation -141.43 -141.43 08/16/2023 Bill Payment  (Check) 10060 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 08/16/2023 Bill Payment  (Check) 10061 Houghton Mifflin Harcourt R -5,500.00 -5,500.00 08/16/2023 Bill Payment  (Check) 10062 Imagine Learning LLC R -26,500.00 -26,500.00 08/16/2023 Bill Payment  (Check) 10063 Macro Connect, Inc.- 0 Monthly Serv R -6,163.70 -6,163.70 08/16/2023 Bill Payment  (Check) 10064 Macro Connect, Inc.- 4 ERATE  Projects",
+      "memo": "",
+      "amount": 11874.53
+    },
+    {
+      "date": "08/16/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10065",
+      "payee": "Integrity Business Solutions 451890 R -1,174.75 -1,174.75 08/16/2023 Bill Payment  (Check) 10066 The Party Source, LLC R -848.99 -848.99 08/16/2023 Bill Payment  (Check) 10067 National Charter Schools Institute R -1,150.00 -1,150.00 08/16/2023 Bill Payment  (Check) 10068 Rita's of Farmington R -869.65 -869.65 08/16/2023 Bill Payment  (Check) 10069 Tyrell Gladney, Bottrash & Dumpsters R -800.00 -800.00 08/16/2023 Bill Payment  (Check) 10070 Detroit Regional Chamber R -4,207.50 -4,207.50 08/30/2023 Bill Payment  (Check) 10071 Applied Innovation R -247.68 -247.68 08/30/2023 Bill Payment  (Check) 251 Comcast Business Acct x7350 -1,229.69 -1,229.69 08/30/2023 Bill Payment  (Check) 10073 Pitney Bowes - Purchase Power R -357.98 -357.98 08/30/2023 Bill Payment  (Check) 10074 Martin Luna R -35,666.68 -35,666.68 08/30/2023 Bill Payment  (Check) 10075 Matrix Mechanical LLC R -4,690.00 -4,690.00 08/30/2023 Bill Payment  (Check) 10076 Mighty Green Lawn Service R -2,500.00 -2,500.00 08/30/2023 Bill Payment  (Check) 10077 ABM R -10,350.00 -10,350.00 09/01/2023 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -2,424.27 Liability insurance 2,424.27 09/01/2023 Expenditure 200065749132 Restaurant Equippers Warehouse  Stores ID: 200065749132 R -4,366.34 Payment for fridge 4,366.34 09/01/2023 Bill Payment  (Check) 10098 The Detroit Institute for Children R -18,265.08 -18,265.08 09/05/2023 Expenditure 0514029 Intuit ID: 0514029 R -90.00 QBO for September 2023 90.00 09/06/2023 Expenditure 0000420792 DTE Energy ID: 0000420792 R -3,625.94 Electricity 3,625.94 09/06/2023 Expenditure 1510372554 Comcast Business Acct x7350 ID: 1510372554 R -2,379.69 2,379.69 09/08/2023 Expenditure 9004213932 Industry Specific Solutions ID: 9004213932 R -2,558.40 Invoice 112307 2,558.40 09/12/2023 Expenditure 80005673406 GoTo Communications, Inc. ID: 80005673406 R -1,349.83 1,349.83 09/13/2023 Bill Payment  (Check) 10079 ABM R -10,350.00 -10,350.00 09/13/2023 Bill Payment  (Check) 10080 Bildon Parts & Service R -4,307.37 -4,307.37 09/13/2023 Bill Payment  (Check) 10081 Cintas Fire Protection R -582.30 -582.30 09/13/2023 Bill Payment  (Check) 10082 Convergent Technology Partners, LLC R -905.00 -905.00 09/13/2023 Bill Payment  (Check) 10083 DETROIT WATER AND SEWERAGE  DEPARTMENT",
+      "memo": "",
+      "amount": 4084.7
+    },
+    {
+      "date": "09/13/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10084",
+      "payee": "GUARDIAN ALARM R -156.60 -156.60 09/13/2023 Bill Payment  (Check) 10085 Houghton Mifflin Harcourt R -1,183.20 -1,183.20 09/13/2023 Bill Payment  (Check) 10086 Kendall Hunt Publishing Company R -1,350.00 -1,350.00 09/13/2023 Bill Payment  (Check) 10087 Lorilyn K. Coggins R -2,000.00 -2,000.00 09/13/2023 Bill Payment 10088 Macro Connect, Inc. R -9,525.65 (Check) -9,525.65 09/13/2023 Bill Payment  (Check) 10089 Curriculum Associates R -17,912.00 -17,912.00 09/13/2023 Bill Payment  (Check) 10092 Midwest Graphics & Award Inc. R -3,596.74 -3,596.74 09/13/2023 Bill Payment  (Check) 10090 ODP Business Solutions, LLC R -2,838.17 -2,838.17 09/13/2023 Bill Payment  (Check) 10091 Pitney Bowes Global Financial  Services LLC.",
+      "memo": "",
+      "amount": 281.37
+    },
+    {
+      "date": "09/13/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10093",
+      "payee": "Savvas Learning Company LLC R -2,386.80 -2,386.80 09/13/2023 Bill Payment  (Check) 10094 School Specialty R -4,338.07 -4,338.07 09/13/2023 Bill Payment  (Check) 10095 Studies Weekly R -6,009.60 -6,009.60 09/13/2023 Bill Payment  (Check) 10096 US Bank R -1,378.83 -1,378.83 09/13/2023 Bill Payment  (Check) 10097 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 09/22/2023 Expenditure 9018138680 Industry Specific Solutions ID: 9018138680 R -7,982.00 September 7,982.00 09/22/2023 Expenditure 5683845 Comcast Business Acct x0806 ID: 5683845 R -219.35 219.35 09/28/2023 Bill Payment  (Check) 10099 ABM R -10,350.00 -10,350.00 09/28/2023 Bill Payment  (Check) 10100 Applied Innovation R -550.23 -550.23 09/28/2023 Bill Payment  (Check) 10101 Arch Environmental Group, Inc. R -400.00 -400.00 09/28/2023 Bill Payment  (Check) 10102 GM Equity Development R -11,450.00 -11,450.00 09/28/2023 Bill Payment  (Check) 10103 Good Works Restoration LLC R -550.00 -550.00 09/28/2023 Bill Payment  (Check) 10104 Kendall Hunt Publishing Company R -10,000.00 -10,000.00 09/28/2023 Bill Payment  (Check) 10105 Kiddom Inc R -3,400.00 -3,400.00 09/28/2023 Bill Payment  (Check) 10106 Lorilyn K. Coggins R -2,000.00 -2,000.00 09/28/2023 Bill Payment  (Check) 10107 Macro Connect, Inc. R -137.50 -137.50 09/28/2023 Bill Payment  (Check) 10108 Matrix Mechanical LLC R -4,690.00 -4,690.00 09/28/2023 Bill Payment  (Check) 10109 Michigan Association of School Boards R -1,520.39 -1,520.39 09/28/2023 Bill Payment  (Check) 10110 ODP Business Solutions, LLC R -1,045.01 -1,045.01 09/28/2023 Bill Payment  (Check) 10111 Pitney Bowes - Purchase Power R -398.25 -398.25 09/28/2023 Bill Payment  (Check) 10112 Savvas Learning Company LLC R -69.00 -69.00 09/28/2023 Bill Payment  (Check) 10113 Student Transportation Services R -11,472.00 -11,472.00 10/02/2023 Expenditure EMC Insurance Company R -2,424.26 October Insurance 2,424.26 10/03/2023 Expenditure 8799938 Intuit ID: 8799938 R -90.00 QBO for October 2023 90.00 10/04/2023 Bill Payment  (Check) 10078 The Detroit Institute for Children R -18,265.08 -18,265.08 10/05/2023 Expenditure 0000420792 DTE Energy ID: 0000420792 R -4,643.12 Electricity 4,643.12 10/06/2023 Expenditure 9018349029 Industry Specific Solutions ID: 9018349029 R -9,786.40 October 9,786.40 10/12/2023 Expenditure M80065032762 GoTo Communications, Inc. ID: M80065032762 R -1,586.25 1,586.25 10/20/2023 Expenditure 9018512607 Industry Specific Solutions ID: 9018512607 R -10,054.20 October 10,054.20 10/23/2023 Expenditure 4497390 Comcast Business Acct x0806 ID: 4497390 R -105.79 105.79 10/24/2023 Bill Payment  (Check) 10114 Applied Innovation R -1,002.76 -1,002.76 10/24/2023 Bill Payment  (Check) 10115 Convergent Technology Partners, LLC R -525.00 -525.00 10/24/2023 Bill Payment  (Check) 10116 DETROIT WATER AND SEWERAGE  DEPARTMENT",
+      "memo": "",
+      "amount": 6251.27
+    },
+    {
+      "date": "10/24/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10117",
+      "payee": "EMC Insurance Company -2,434.25 -2,434.25 10/24/2023 Bill Payment  (Check) 10118 GUARDIAN ALARM R -156.60 -156.60 10/24/2023 Bill Payment  (Check) 10119 LifeLine Incorporated R -2,967.00 -2,967.00 10/24/2023 Bill Payment  (Check) 10120 Mighty Green Lawn Service R -2,500.00 -2,500.00 10/24/2023 Bill Payment  (Check) 10121 ODP Business Solutions, LLC R -613.91 -613.91 10/24/2023 Bill Payment  (Check) 10122 Pitney Bowes - Purchase Power R -35.00 -35.00 10/24/2023 Bill Payment  (Check) 10123 PowerVac Service Pro R -305.00 -305.00 10/24/2023 Bill Payment  (Check) 10124 Presidio Network Solution Group LLC R - 121,152.75 - 121,152.75 10/24/2023 Bill Payment  (Check) 10125 School Specialty R - 193,436.96 - 193,436.96 10/24/2023 Bill Payment  (Check) 10127 Studies Weekly -6,009.60 -6,009.60 10/24/2023 Bill Payment  (Check) 10128 The Detroit Institute for Children R -269.13 -269.13 10/24/2023 Bill Payment  (Check) 10129 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 10/24/2023 Expenditure 1510372554 Comcast Business Acct x7350 ID: 1510372554 R -1,150.00 1,150.00 10/25/2023 Bill Payment  (Check) 10130 The Detroit Institute for Children R -21,990.25 -21,990.25 10/25/2023 Bill Payment  (Check) 10131 Alan C. Young & Assoc. R -5,000.00 -5,000.00 11/01/2023 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -15,640.25 November Insurance 15,640.25 11/03/2023 Expenditure 9200502236 Industry Specific Solutions Invoices: 113292, 113455 R -9,276.80 November 9,276.80 11/03/2023 Expenditure 0000420792 DTE Energy ID: 0000420792 R -4,603.91 Electricity 4,603.91 11/03/2023 Expenditure 0000756346 Intuit ID: 7771450 R -90.00 QBO for November 2023 90.00 11/14/2023 Expenditure 1911718107 GoTo Communications, Inc. ID: M80127065318 R -1,515.87 November 1,515.87 11/17/2023 Expenditure 9018875244 Industry Specific Solutions Invoices: 113611, 113769 R -10,088.00 November 10,088.00 11/22/2023 Expenditure 1510372554 Comcast Business Acct x7350 ID: 1510372554 R -1,150.00 November Internet 1,150.00 11/22/2023 Expenditure 0000213249 Comcast Business Acct x0806 ID: 0000213249 R -106.50 November Telephone 106.50 11/27/2023 Bill Payment  (Check) 10132 ABM R -10,350.00 -10,350.00 11/27/2023 Bill Payment  (Check) 10133 Alan C. Young & Assoc. R -10,725.00 -10,725.00 11/27/2023 Bill Payment  (Check) 10134 Applied Innovation R -842.99 -842.99 11/27/2023 Bill Payment 10135 Fireproof Authentics R -596.00 (Check) -596.00 11/27/2023 Bill Payment  (Check) 10136 Kendall Hunt Publishing Company R -3,454.48 -3,454.48 11/27/2023 Bill Payment  (Check) 10137 Lorilyn K. Coggins R -2,000.00 -2,000.00 11/27/2023 Bill Payment  (Check) 10138 Macro Connect, Inc. R -6,448.00 -6,448.00 11/27/2023 Bill Payment  (Check) 10139 Michigan Recreational Construction  Inc.",
+      "memo": "",
+      "amount": 83975.0
+    },
+    {
+      "date": "11/27/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10140",
+      "payee": "Mighty Green Lawn Service R -2,500.00 -2,500.00 11/27/2023 Bill Payment  (Check) 10141 ODP Business Solutions, LLC R -5,288.23 -5,288.23 11/27/2023 Bill Payment  (Check) 10142 Pitney Bowes - Purchase Power R -281.37 -281.37 11/27/2023 Bill Payment  (Check) 10143 School Specialty R -9,885.02 -9,885.02 11/27/2023 Bill Payment  (Check) 10144 Student Transportation Services R -3,824.00 -3,824.00 11/27/2023 Bill Payment  (Check) 10145 Yecart Accounting Services, LLC 11/27/2023-November Invoice R -5,000.00 -5,000.00 12/01/2023 Expenditure 113917,114044 Industry Specific Solutions Invoice #113917,114044 R -9,661.60 For week 11/19/23 7,342.40 For week 11/26/23 2,319.20 12/01/2023 Expenditure IN7102470456 GoTo Communications, Inc. Invoice: IN7102470456 R -1,515.87 December 1,515.87 12/04/2023 Expenditure 0000420792 DTE Energy ID: 0000420792 R -7,399.68 Electricity 7,399.68 12/04/2023 Expenditure 0000756346 Intuit ID: 6997002 R -90.00 QBO for December 2023 90.00 12/04/2023 Bill Payment  (Check) 4 EMC Insurance Company R -2,424.25 -2,424.25 12/15/2023 Bill Payment  (Check) ACH Industry Specific Solutions Invoices: 114163, 114318 R -10,608.00 -10,608.00 12/15/2023 Expenditure 9800000157 US Bank ID: 9800000157 R -607.26 607.26 12/19/2023 Bill Payment  (Check) 10146 ABM R -10,350.00 -10,350.00 12/19/2023 Bill Payment  (Check) 10147 Applied Innovation R -235.12 -235.12 12/19/2023 Bill Payment  (Check) 10148 DETROIT WATER AND SEWERAGE  DEPARTMENT",
+      "memo": "",
+      "amount": 972.8
+    },
+    {
+      "date": "12/19/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10149",
+      "payee": "DR4 Technologies, Inc R -23,325.00 -23,325.00 12/19/2023 Bill Payment  (Check) 10150 GUARDIAN ALARM R -156.60 -156.60 12/19/2023 Bill Payment  (Check) 10151 Hoekstra Leasing, LLC R -2,336.00 -2,336.00 12/19/2023 Bill Payment  (Check) 10152 Integrity Business Solutions Account #451890 R -2,224.50 -2,224.50 12/19/2023 Bill Payment 10153 Lorilyn K. Coggins R -2,000.00 (Check) -2,000.00 12/19/2023 Bill Payment  (Check) 10154 Macro Connect, Inc. R -11,286.72 -11,286.72 12/19/2023 Bill Payment  (Check) 10155 Matrix Mechanical LLC R -4,690.00 -4,690.00 12/19/2023 Bill Payment  (Check) 10156 Midwest Graphics & Award Inc. R -4,444.98 -4,444.98 12/19/2023 Bill Payment  (Check) 10157 Mighty Green Lawn Service R -1,500.00 -1,500.00 12/19/2023 Bill Payment  (Check) 10158 NWEA R -4,525.00 -4,525.00 12/19/2023 Bill Payment  (Check) 10159 Pitney Bowes Global Financial  Services LLC.",
+      "memo": "",
+      "amount": 281.37
+    },
+    {
+      "date": "12/19/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "10160",
+      "payee": "POWERSCHOOL GROUP LLC R -1,249.99 -1,249.99 12/19/2023 Bill Payment  (Check) 10161 Public Consulting Group R -8,843.40 -8,843.40 12/19/2023 Bill Payment  (Check) 10162 The Detroit Institute for Children R -14,840.25 -14,840.25 12/19/2023 Bill Payment  (Check) 10163 US Bank R -607.26 -607.26 12/19/2023 Bill Payment  (Check) 10164 Wayne RESA R -868.80 -868.80 12/19/2023 Bill Payment 10165 Yecart Accounting Services, LLC R -5,000.00 (Check) -5,000.00 12/22/2023 Expenditure 0000213249 Comcast Business Acct x0806 ID: 0000213249 Confirmation No: 16937824973",
+      "memo": "",
+      "amount": 106.5
+    },
+    {
+      "date": "01/05/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10166",
+      "payee": "Arch Environmental Group, Inc. Check #10166 R -650.00 -650.00 01/17/2024 Bill Payment  (Check) 10167 Loving Guidance LLC Check #10167 R -5,070.00 -5,070.00 01/17/2024 Bill Payment  (Check) 10168 ABM Check #10168 R -20,700.00 -20,700.00 01/17/2024 Bill Payment  (Check) 10169 Lorilyn K. Coggins Check #10169 R -2,000.00 -2,000.00 01/17/2024 Bill Payment  (Check) 10170 Great Lakes Fence Co. Inc. Check #10170 R -700.00 -700.00 01/17/2024 Bill Payment  (Check) 10171 Mighty Green Lawn Service Check #10171 R -1,500.00 -1,500.00 01/17/2024 Bill Payment  (Check) 10172 DR4 Technologies, Inc Check #10172 R -26,480.00 -26,480.00 01/17/2024 Bill Payment  (Check) 10173 Gregory M. Meihn R -4,000.00 -4,000.00 01/17/2024 Bill Payment  (Check) 10174 Applied Innovation Check #10174 R -1,543.69 -1,543.69 01/17/2024 Bill Payment  (Check) 10175 DETROIT WATER AND SEWERAGE  DEPARTMENT Check #10175 R -4,018.95 -4,018.95 01/17/2024 Bill Payment  (Check) 10176 Integrity Business Solutions Check #10176 R -839.80 -839.80 01/17/2024 Bill Payment  (Check) 10177 GUARDIAN ALARM Check #10177 R -159.60 -159.60 01/17/2024 Bill Payment  (Check) 10178 US Bank Check #10178 R -758.87 -758.87 01/17/2024 Bill Payment  (Check) 10179 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 01/17/2024 Bill Payment  (Check) 10180 The Detroit Institute for Children Check #10180 R -39,716.70 -39,716.70 01/17/2024 Bill Payment  (Check) 10181 Macro Connect, Inc.- 0 Monthly Serv Check #10181 R -12,884.60 -12,884.60 01/17/2024 Bill Payment  (Check) 10182 Macro Connect, Inc. Check #10182 R -2,350.00 -2,350.00 01/17/2024 Bill Payment  (Check) 10183 Matrix Mechanical LLC Check #10183 R -4,690.00 -4,690.00 01/22/2024 Expenditure 2209176 Comcast Business Acct x0806 ID: 2209176 R -111.64 January 2024 Telephone 111.64 02/01/2024 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -3,326.01 5420234980 3,326.01 02/02/2024 Bill Payment  (Check) ACH Industry Specific Solutions Invoices #115002, 115168 R -7,962.40 -7,962.40 02/05/2024 Expenditure 5828637 Intuit ID: 5828637 R -90.00 QBO for February 90.00 02/07/2024 Expenditure 0000420792 DTE Energy ID: 0000420792 R -9,925.32 Electricity 9,925.32 02/13/2024 Bill Payment  (Check) 10184 Lorilyn K. Coggins R -2,000.00 -2,000.00 02/13/2024 Bill Payment  (Check) 10185 National Charter Schools Institute -1,150.00 -1,150.00 02/13/2024 Bill Payment  (Check) 10186 Mighty Green Lawn Service R -1,500.00 -1,500.00 02/13/2024 Bill Payment  (Check) 10187 Convergent Technology Partners, LLC -525.00 -525.00 02/13/2024 Bill Payment  (Check) 10188 Houghton Mifflin Harcourt R -3,951.00 -3,951.00 02/13/2024 Bill Payment  (Check) 10189 Bildon Parts & Service R -1,276.05 -1,276.05 02/13/2024 Bill Payment  (Check) 10190 Hoekstra Leasing, LLC R -4,672.00 -4,672.00 02/13/2024 Bill Payment  (Check) 10191 ODP Business Solutions, LLC R -2,081.62 -2,081.62 02/13/2024 Bill Payment  (Check) 10192 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 02/13/2024 Bill Payment  (Check) 10193 DETROIT WATER AND SEWERAGE  DEPARTMENT",
+      "memo": "",
+      "amount": 2394.23
+    },
+    {
+      "date": "02/13/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10194",
+      "payee": "GUARDIAN ALARM R -172.13 -172.13 02/13/2024 Bill Payment  (Check) 10195 US Bank R -662.03 -662.03 02/13/2024 Bill Payment  (Check) 10196 Applied Innovation R -235.12 -235.12 02/13/2024 Bill Payment  (Check) 10197 Macro Connect, Inc. R -150.00 -150.00 02/13/2024 Bill Payment  (Check) 10198 School Specialty R -1,328.79 -1,328.79 02/13/2024 Bill Payment  (Check) 10199 Matrix Mechanical LLC R -4,690.00 -4,690.00 02/13/2024 Bill Payment  (Check) 10200 Macro Connect, Inc.- 0 Monthly Serv R -6,452.00 -6,452.00 02/13/2024 Bill Payment  (Check) 10201 Macro Connect, Inc.- 4 ERATE  Projects",
+      "memo": "",
+      "amount": 125.0
+    },
+    {
+      "date": "02/13/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10202",
+      "payee": "ABM R -10,350.00 -10,350.00 02/13/2024 Expenditure M80270513249 GoTo Communications, Inc. ID: M80270513249 R -1,444.89 January 2024 1,444.89 02/16/2024 Bill Payment  (Check) ACH Industry Specific Solutions Invoices #115332, 115504 R -8,195.20 -8,195.20 02/22/2024 Expenditure 1485208 Comcast Business Acct x0806 ID: 1485208 R -111.60 111.60 03/01/2024 Bill Payment  (Check) ACH Industry Specific Solutions R -4,160.00 -4,160.00 03/01/2024 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -2,875.06 ID: 5420234980 2,875.06 03/04/2024 Expenditure 4868798 Intuit ID: 4868798 R -90.00 QBO for March 90.00 03/07/2024 Bill Payment  (Check) 10203 Applied Innovation R -846.71 -846.71 03/07/2024 Bill Payment  (Check) 10204 DETROIT WATER AND SEWERAGE  DEPARTMENT",
+      "memo": "",
+      "amount": 2270.05
+    },
+    {
+      "date": "03/07/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10205",
+      "payee": "GUARDIAN ALARM R -222.13 -222.13 03/07/2024 Bill Payment  (Check) 10206 Hoekstra Leasing, LLC -2,336.00 -2,336.00 03/07/2024 Bill Payment  (Check) 10207 Lorilyn K. Coggins R -2,000.00 -2,000.00 03/07/2024 Bill Payment  (Check) 10208 Macro Connect, Inc.- 0 Monthly Serv R -6,476.70 -6,476.70 03/07/2024 Bill Payment  (Check) 10209 Matrix Mechanical LLC R -4,690.00 -4,690.00 03/07/2024 Bill Payment  (Check) 10210 Microsoft R -23.32 -23.32 03/07/2024 Bill Payment  (Check) 10211 Mighty Green Lawn Service R -1,500.00 -1,500.00 03/07/2024 Bill Payment  (Check) 10212 National Charter Schools Conference R -7,275.00 -7,275.00 03/07/2024 Bill Payment  (Check) 10213 ODP Business Solutions, LLC R -1,053.21 -1,053.21 03/07/2024 Bill Payment  (Check) 10214 Pitney Bowes Global Financial  Services LLC.",
+      "memo": "",
+      "amount": 281.37
+    },
+    {
+      "date": "03/07/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10215",
+      "payee": "School Specialty R -1,012.68 -1,012.68 03/07/2024 Bill Payment  (Check) 10216 The Detroit Institute for Children R -2,155.21 -2,155.21 03/07/2024 Bill Payment  (Check) 10217 US Bank R -565.19 -565.19 03/07/2024 Bill Payment  (Check) 10218 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 03/08/2024 Expenditure 0000420792 DTE Energy ID: 0000420792 R -12,112.74 Electricity 12,112.74 03/12/2024 Expenditure M80323716591 GoTo Communications, Inc. ID: M80323716591 R -1,330.36 March 2024 1,330.36 03/15/2024 Expenditure 9020353599 Industry Specific Solutions Invoices: 116020, 116205 R -6,780.80 Invoices: 116020, 116205 6,780.80 03/22/2024 Bill Payment  (Check) 68 Fred's Key Shop -255.00 -255.00 03/22/2024 Bill Payment  (Check) 69 Orkin 28389379 -129.99 -129.99 03/22/2024 Bill Payment  (Check) 70 School Specialty -152.69 -152.69 03/22/2024 Bill Payment  (Check) 1 ABM -10,350.00 -10,350.00 03/22/2024 Bill Payment  (Check) 2 Jones School Supply Co., Inc. -1,143.45 -1,143.45 03/22/2024 Bill Payment  (Check) 67 Applied Innovation -821.81 -821.81 03/22/2024 Expenditure 0681666 Comcast Business Acct x0806 ID: 0681666 R -111.60 111.60 03/29/2024 Expenditure 9020499727 Industry Specific Solutions Invoices: 116382, 116552 R -6,572.80 Invoices: 116382, 116552 6,572.80 04/01/2024 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -2,875.02 ID: 5420234980 2,875.02 04/03/2024 Bill Payment  (Check) 10225 Bianco Tours, Inc. R -7,441.00 -7,441.00 04/03/2024 Bill Payment  (Check) 10238 Deluxe R -466.71 -466.71 04/03/2024 Bill Payment  (Check) 10226 DETROIT WATER AND SEWERAGE  DEPARTMENT",
+      "memo": "",
+      "amount": 2642.58
+    },
+    {
+      "date": "04/03/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10232",
+      "payee": "Echols Landscaping and Home  Services LLC -2,500.00 -2,500.00 04/03/2024 Bill Payment  (Check) 10233 Hoekstra Leasing, LLC R -2,336.00 -2,336.00 04/03/2024 Bill Payment  (Check) 10234 Lorilyn K. Coggins R -2,000.00 -2,000.00 04/03/2024 Bill Payment  (Check) 10235 Macro Connect, Inc.- 0 Monthly Serv R -403.75 -403.75 04/03/2024 Bill Payment  (Check) 10236 MAPSA R -2,148.00 -2,148.00 04/03/2024 Bill Payment  (Check) 10237 Matrix Mechanical LLC R -4,690.00 -4,690.00 04/03/2024 Bill Payment  (Check) 10228 ODP Business Solutions, LLC R -1,241.49 -1,241.49 04/03/2024 Bill Payment  (Check) 10227 Scholastic Book Fairs - 15 R -2,206.21 -2,206.21 04/03/2024 Bill Payment  (Check) 10229 School Specialty R -1,441.28 -1,441.28 04/03/2024 Bill Payment  (Check) 10230 The Detroit Institute for Children R -39,911.00 -39,911.00 04/03/2024 Bill Payment  (Check) 10231 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 04/03/2024 Expenditure 0000756346 Intuit ID: 0000756346 R -90.00 QBO for April 90.00 04/04/2024 Expenditure 0000420792 DTE Energy ID: 0000420792 PPD R -9,616.35 PPD Electricity 9,616.35 04/05/2024 Expenditure 4888242 Comcast Business Acct x0806 ID:4888242 R -111.60 111.60 04/05/2024 Expenditure 4888242 Comcast Business Acct x0806 ID:4888242 R -4,600.00 4,600.00 04/12/2024 Expenditure 9200502236 Industry Specific Solutions Invoices: 116770 R -4,368.00 Invoices: 116770 4,368.00 04/12/2024 Expenditure M80383322200 GoTo Communications, Inc. ID: M80383322200 R -1,365.54 April 2024 1,365.54 04/25/2024 Bill Payment  (Check) 10239 Monica Morgan Photography R -5,813.68 -5,813.68 04/25/2024 Bill Payment  (Check) 10240 Non Profit Enterprise at Work R -1,950.00 -1,950.00 04/25/2024 Bill Payment  (Check) 10241 Matrix Mechanical LLC R -4,690.00 -4,690.00 04/25/2024 Bill Payment  (Check) 10242 Fireproof Authentics R -570.00 -570.00 04/25/2024 Bill Payment  (Check) 10243 ABM R -10,350.00 -10,350.00 04/25/2024 Bill Payment  (Check) 10244 Houghton Mifflin Harcourt R -4,150.00 -4,150.00 04/25/2024 Bill Payment  (Check) 10245 Macro Connect, Inc. R -38,584.38 -38,584.38 04/25/2024 Bill Payment  (Check) 10246 Macro Connect, Inc.- 0 Monthly Serv R -11,318.80 -11,318.80 04/25/2024 Bill Payment 10247 ODP Business Solutions, LLC R -925.59 (Check) -925.59 04/25/2024 Bill Payment  (Check) 10248 POWERSCHOOL GROUP LLC R -6,000.00 -6,000.00 04/25/2024 Bill Payment  (Check) 10249 Convergent Technology Partners, LLC R -525.00 -525.00 04/25/2024 Bill Payment  (Check) 9493 Exotic Zoo R -995.00 -995.00 04/25/2024 Bill Payment  (Check) 9494 School Specialty R -51.64 -51.64 04/25/2024 Bill Payment  (Check) 9495 Applied Innovation R -1,060.62 -1,060.62 04/25/2024 Expenditure 162H8374 Bank Of America- Bank Fees ID:162H8374 Check Order R -124.49 Checks 124.49 04/26/2024 Expenditure 9020898160 Industry Specific Solutions Invoices:  116937, 117123 R -6,572.80 Invoices: 116937, 117123 6,572.80 05/01/2024 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -2,875.00 ID: 5420234980 2,875.00 05/03/2024 Expenditure 0000756346 Intuit ID: 0000756346 R -90.00 QBO for May 90.00 05/06/2024 Expenditure 0000420792 DTE Energy ID: 0000420792 PPD R -10,291.29 Electricity 10,291.29 05/08/2024 Expenditure 310-0185.301 DETROIT WATER AND SEWERAGE  DEPARTMENT Account #310-0185.301 03/07/24-04/07/24",
+      "memo": "",
+      "amount": 8558.95
+    },
+    {
+      "date": "05/14/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10251",
+      "payee": "Integrity Business Solutions 451890 R -3,149.25 -3,149.25 05/14/2024 Bill Payment  (Check) 10252 Lorilyn K. Coggins R -2,000.00 -2,000.00 05/14/2024 Bill Payment  (Check) 10253 Cintas Fire Protection R -2,960.51 -2,960.51 05/14/2024 Bill Payment  (Check) 10254 National Charter Schools Institute R -1,150.00 -1,150.00 05/14/2024 Bill Payment  (Check) 10255 Echols Landscaping and Home  Services LLC",
+      "memo": "",
+      "amount": 1375.0
+    },
+    {
+      "date": "05/14/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10256",
+      "payee": "Yecart Accounting Services, LLC R -5,000.00 -5,000.00 05/14/2024 Bill Payment  (Check) 10257 The Detroit Institute for Children R -23,946.00 -23,946.00 05/14/2024 Bill Payment  (Check) 10258 TRUGREEN R -270.00 -270.00 05/14/2024 Bill Payment  (Check) 10259 Urban Academy R -18,900.00 -18,900.00 05/14/2024 Bill Payment  (Check) 10260 ODP Business Solutions, LLC R -3,822.53 -3,822.53 05/14/2024 Bill Payment  (Check) 10261 All- City Mechanical and Refrigeration R -190.00 -190.00 05/14/2024 Bill Payment  (Check) 10262 Hoekstra Leasing, LLC R -2,336.00 -2,336.00 05/14/2024 Bill Payment  (Check) 10263 School Specialty R -39.60 -39.60 05/14/2024 Bill Payment  (Check) 10264 GUARDIAN ALARM R -172.13 -172.13 05/14/2024 Bill Payment  (Check) 10265 US Bank R -662.03 -662.03 05/14/2024 Bill Payment  (Check) 10266 Wayne RESA R -367.81 -367.81 05/14/2024 Bill Payment  (Check) 10267 Macro Connect, Inc.- 0 Monthly Serv R -12,551.16 -12,551.16 05/14/2024 Bill Payment  (Check) 10268 ABM R -10,350.00 -10,350.00 05/14/2024 Expenditure 1911718107 GoTo Communications, Inc. ID: 1911718107 R -1,379.91 May 2024 1,379.91 05/14/2024 Expenditure 7860843596 Republic Services # 241 waste removal R -1,089.31 waste removal: 05/14/24 1,089.31 05/15/2024 Expenditure 9200502236 Industry Specific Solutions Invoices:  117670, 117850 R -9,651.53 117670 3,453.11 117850 6,198.42 05/15/2024 Expenditure 9800000157 US Bank 9800000157 R -662.03 Copier contract payment 556.72 Property damage surcharge 105.31 05/22/2024 Check 10269 Ann Arbor Hands-On Museum Deposit- Field Trip 06/04/24-  #1165794",
+      "memo": "",
+      "amount": 150.0
+    },
+    {
+      "date": "05/29/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10272",
+      "payee": "Applied Innovation R -2,201.99 -2,201.99 05/29/2024 Bill Payment  (Check) 10273 Cintas Fire Protection R -797.00 -797.00 05/29/2024 Bill Payment  (Check) 10274 GUARDIAN ALARM R -172.13 -172.13 05/29/2024 Bill Payment  (Check) 10275 Jones School Supply Co., Inc. R -1,143.45 -1,143.45 05/29/2024 Bill Payment  (Check) 10276 Lorilyn K. Coggins R -2,000.00 -2,000.00 05/29/2024 Bill Payment  (Check) 10277 Matrix Mechanical LLC R -4,690.00 -4,690.00 05/29/2024 Bill Payment  (Check) 10278 Michigan Association of School Boards R -1,555.09 -1,555.09 05/29/2024 Bill Payment  (Check) 10279 Midwest Graphics & Award Inc. R -8,968.45 -8,968.45 05/29/2024 Bill Payment  (Check) 10280 Non Profit Enterprise at Work R -3,900.00 -3,900.00 05/29/2024 Bill Payment 10281 POWERSCHOOL GROUP LLC R -22,821.95 (Check) -22,821.95 05/29/2024 Bill Payment  (Check) 10282 School Specialty R -10,311.54 -10,311.54 05/29/2024 Bill Payment  (Check) 10283 Yecart Accounting Services, LLC R -5,000.00 -5,000.00 06/03/2024 Expenditure 3378609 Intuit ID: 0000756346 R -90.00 QBO for June 90.00 06/03/2024 Expenditure 5420234980 EMC Insurance Company ID: 5420234980 R -2,874.99 ID: 5420234980 2,874.99 06/07/2024 Expenditure 9021470703 Industry Specific Solutions Invoices:  118031, 118194 R -8,933.60 118031, 118194 8,933.60 06/07/2024 Expenditure 0000420792 DTE Energy ID: 0000420792 PPD R -5,354.46 Electricity 5,354.46 06/10/2024 Expenditure 16804590 DETROIT WATER AND SEWERAGE  DEPARTMENT June 2024 Water -T386004606  WEB",
+      "memo": "",
+      "amount": 2394.23
+    },
+    {
+      "date": "06/20/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10284",
+      "payee": "ABM R -10,350.00 -10,350.00 06/20/2024 Bill Payment  (Check) 10285 Macro Connect, Inc. R -6,573.18 -6,573.18 06/20/2024 Bill Payment  (Check) 10286 Macro Connect, Inc.- 0 Monthly Serv R -6,867.80 -6,867.80 06/20/2024 Bill Payment  (Check) 10287 National Charter Schools Institute R -1,150.00 -1,150.00 06/20/2024 Bill Payment  (Check) 10288 Pens.com R -184.91 -184.91 06/20/2024 Bill Payment  (Check) 10289 POWERSCHOOL GROUP LLC R -5,529.66 -5,529.66 06/20/2024 Bill Payment  (Check) 10290 The Detroit Institute for Children R -37,886.50 -37,886.50 06/21/2024 Expenditure 9200502236 Industry Specific Solutions Invoices:  118318 R -3,840.20 118318 3,840.20 06/24/2024 Expenditure 213249 Comcast Business Acct x0806 R -111.36 111.36 06/26/2024 Bill Payment  (Check) 10291 Belair Luxury R -300.00 -300.00 06/26/2024 Expenditure 0213249 Comcast Business Acct x0806 R -1,167.25 1,167.25 06/28/2024 Bill Payment  (Check) 1568945001 TRUGREEN R -540.00 -540.00 100.5000 Credit Union One - Operations 1620 08/25/2023 Check 1001 Phyliss Taylor R -425.00 Back to School FEstival 425.00 08/25/2023 Check 1002 Motor City Gamers and More R -479.00 Game Bus - BTS 479.00 08/25/2023 Check 1003 Sandys Land R -220.00 Face Painting - BTS 220.00 08/25/2023 Check 1004 Chef JA Catering R -2,492.00 PD Food for Staff 2,492.00 08/25/2023 Check 1005 Just Bouncin R -1,780.00 Bouncers - BTS 1,780.00 08/25/2023 Check 1006 Ivory Forest R -500.00 Building Clean Up 500.00 09/06/2023 Check 1007 Non Profit Enterprise at Work R -1,800.00 Strategic Planning 1,800.00 09/06/2023 Check 1008 DBCFSN R -120.00 Food Warrior 120.00 09/18/2023 Check 1009 Cordarryl Smith R -400.00 Plumbing Invoice 400.00 09/23/2023 Check 1010 Detroit Athletic Club R -948.00 10/05/2023 948.00 09/23/2023 Check 1011 Ricardo Silva R -201.60 Costco Reimbursement 201.60 09/27/2023 Check 1012 John Arnold R -895.00 895.00 10/03/2023 Check 1013 Blake's Big Apple R -1,806.00 Student activities 1,806.00 10/04/2023 Check 1014 Woods Trophies 2023-1803 R -387.50 2023-1803 387.50 10/09/2023 Check 1015 GM Equity Development Invoice #18536, #18537 R -6,325.00 Invoice #18536, #18537 6,325.00 10/20/2023 Check 1016 Instructional Coaching Group Registration for 10 -1,049.00 Registration for 10 1,049.00 10/20/2023 Check 1019 Wayne State University Planetarium field trip R -150.00 Planetarium field trip 150.00 10/24/2023 Bill Payment  (Check) 10126 Student Transportation Services R -11,870.08 -11,870.08 11/01/2023 Check 1018 Lifetouch Student pictures R -341.01 Student pictures 341.01 11/03/2023 Check 1023 Sabrina Jackson Enterprises Professional development R -3,000.00 Professional development 3,000.00 11/09/2023 Check 1024 Hoekstra Leasing, LLC Invoice #13501001136 R -4,672.00 Invoice #13501001136 4,672.00 11/20/2023 Check 1026 Brian Banks Gift cards for travel R -400.00 Gift cards for travel 400.00 11/20/2023 Check 1027 KJ Investment Group Whack-Words Scholars (?) R -900.00 Whack-Words Scholars (?) 900.00 12/01/2023 Bill Payment  (Check) 1025 DHT Transportation R -260.00 -260.00 12/01/2023 Check 1028 Detroit Athletic Club SB1692 R -746.30 SB1692 746.30 12/01/2023 Bill Payment  (Check) 1029 Matrix Mechanical LLC Invoices: MPAJUN2023,  MPANOV2023",
+      "memo": "",
+      "amount": 9380.0
+    },
+    {
+      "date": "12/17/2023",
+      "type": "Bill Payment (Check)",
+      "check_num": "1217",
+      "payee": "Credit Union One Voided R 0.00 0.00 12/20/2023 Check 1032 Great Lakes Fence Co. Inc. Invoices #23205B $205 #23223A $700",
+      "memo": "",
+      "amount": 905.0
+    },
+    {
+      "date": "06/13/2024",
+      "type": "Bill Payment (Check)",
+      "check_num": "10041",
+      "payee": "Hoekstra Leasing, LLC R -4,672.00 -4,672.00 06/13/2024 Bill Payment  (Check) 10040 Gregory M. Meihn R -647.20 -647.20 06/13/2024 Check 10042 Cotton Stanton & Associates  Investment Group",
+      "memo": "",
+      "amount": 500.0
+    },
+    {
+      "date": "05/05/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "358632 GFL Environment INC",
+      "memo": "",
+      "amount": 2.12
+    },
+    {
+      "date": "07/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "Intuit QBO - June 2023",
+      "memo": "",
+      "amount": 85.0
+    },
+    {
+      "date": "07/06/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "DTE Energy",
+      "memo": "",
+      "amount": 4130.45
+    },
+    {
+      "date": "07/12/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "GoTo Communications, Inc.",
+      "memo": "",
+      "amount": 1323.77
+    },
+    {
+      "date": "08/01/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company",
+      "memo": "",
+      "amount": 4850.64
+    },
+    {
+      "date": "08/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "000756346 Intuit QBO - June 2023",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "08/07/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy",
+      "memo": "",
+      "amount": 3227.32
+    },
+    {
+      "date": "08/09/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1510372554 Comcast Business Acct x7350 Internet",
+      "memo": "",
+      "amount": 6515.88
+    },
+    {
+      "date": "08/14/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1911718107 GoTo Communications, Inc.",
+      "memo": "",
+      "amount": 1323.77
+    },
+    {
+      "date": "08/15/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "980000157 US Bank",
+      "memo": "",
+      "amount": 1378.83
+    },
+    {
+      "date": "09/01/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "",
+      "amount": 2424.27
+    },
+    {
+      "date": "09/05/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0514029 Intuit ID: 0514029",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "09/06/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "",
+      "amount": 3625.94
+    },
+    {
+      "date": "09/06/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1510372554 Comcast Business Acct x7350 ID: 1510372554",
+      "memo": "",
+      "amount": 2379.69
+    },
+    {
+      "date": "09/08/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9004213932 Industry Specific Solutions ID: 9004213932",
+      "memo": "",
+      "amount": 2558.4
+    },
+    {
+      "date": "09/12/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "80005673406 GoTo Communications, Inc. ID: 80005673406",
+      "memo": "",
+      "amount": 1349.83
+    },
+    {
+      "date": "09/22/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9018138680 Industry Specific Solutions ID: 9018138680",
+      "memo": "",
+      "amount": 7982.0
+    },
+    {
+      "date": "09/22/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5683845 Comcast Business Acct x0806 ID: 5683845",
+      "memo": "",
+      "amount": 219.35
+    },
+    {
+      "date": "10/02/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "EMC Insurance Company",
+      "memo": "",
+      "amount": 2424.26
+    },
+    {
+      "date": "10/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "8799938 Intuit ID: 8799938",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "10/05/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "",
+      "amount": 4643.12
+    },
+    {
+      "date": "10/06/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9018349029 Industry Specific Solutions ID: 9018349029",
+      "memo": "",
+      "amount": 9786.4
+    },
+    {
+      "date": "10/12/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "M80065032762 GoTo Communications, Inc. ID: M80065032762",
+      "memo": "",
+      "amount": 1586.25
+    },
+    {
+      "date": "10/20/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9018512607 Industry Specific Solutions ID: 9018512607",
+      "memo": "",
+      "amount": 10054.2
+    },
+    {
+      "date": "10/23/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "4497390 Comcast Business Acct x0806 ID: 4497390",
+      "memo": "",
+      "amount": 105.79
+    },
+    {
+      "date": "10/24/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1510372554 Comcast Business Acct x7350 ID: 1510372554",
+      "memo": "",
+      "amount": 1150.0
+    },
+    {
+      "date": "11/01/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "",
+      "amount": 15640.25
+    },
+    {
+      "date": "11/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9200502236 Industry Specific Solutions Invoices: 113292, 113455",
+      "memo": "",
+      "amount": 9276.8
+    },
+    {
+      "date": "11/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "",
+      "amount": 4603.91
+    },
+    {
+      "date": "11/03/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000756346 Intuit ID: 7771450",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "11/14/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1911718107 GoTo Communications, Inc. ID: M80127065318",
+      "memo": "",
+      "amount": 1515.87
+    },
+    {
+      "date": "11/17/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9018875244 Industry Specific Solutions Invoices: 113611, 113769",
+      "memo": "",
+      "amount": 10088.0
+    },
+    {
+      "date": "11/22/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1510372554 Comcast Business Acct x7350 ID: 1510372554",
+      "memo": "",
+      "amount": 1150.0
+    },
+    {
+      "date": "11/22/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000213249 Comcast Business Acct x0806 ID: 0000213249",
+      "memo": "",
+      "amount": 106.5
+    },
+    {
+      "date": "12/01/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "113917,114044 Industry Specific Solutions Invoice #113917,114044",
+      "memo": "",
+      "amount": 9661.6
+    },
+    {
+      "date": "12/01/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "IN7102470456 GoTo Communications, Inc. Invoice: IN7102470456",
+      "memo": "",
+      "amount": 1515.87
+    },
+    {
+      "date": "12/04/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "",
+      "amount": 7399.68
+    },
+    {
+      "date": "12/04/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000756346 Intuit ID: 6997002",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "12/15/2023",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9800000157 US Bank ID: 9800000157",
+      "memo": "",
+      "amount": 607.26
+    },
+    {
+      "date": "01/02/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "",
+      "amount": 2424.25
+    },
+    {
+      "date": "01/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "",
+      "amount": 9497.25
+    },
+    {
+      "date": "01/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "6345528 Intuit ID: 6345528",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "01/12/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "IN7102544012 GoTo Communications, Inc. Invoice: IN7102544012",
+      "memo": "",
+      "amount": 1530.97
+    },
+    {
+      "date": "01/16/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9800000157 US Bank ID: 9800000157",
+      "memo": "",
+      "amount": 151.61
+    },
+    {
+      "date": "01/22/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "2209176 Comcast Business Acct x0806 ID: 2209176",
+      "memo": "",
+      "amount": 111.64
+    },
+    {
+      "date": "02/01/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "",
+      "amount": 3326.01
+    },
+    {
+      "date": "02/05/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5828637 Intuit ID: 5828637",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "02/07/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "",
+      "amount": 9925.32
+    },
+    {
+      "date": "02/13/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "M80270513249 GoTo Communications, Inc. ID: M80270513249",
+      "memo": "",
+      "amount": 1444.89
+    },
+    {
+      "date": "02/22/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1485208 Comcast Business Acct x0806 ID: 1485208",
+      "memo": "",
+      "amount": 111.6
+    },
+    {
+      "date": "03/01/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "",
+      "amount": 2875.06
+    },
+    {
+      "date": "03/04/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "4868798 Intuit ID: 4868798",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "03/08/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792",
+      "memo": "",
+      "amount": 12112.74
+    },
+    {
+      "date": "03/12/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "M80323716591 GoTo Communications, Inc. ID: M80323716591",
+      "memo": "",
+      "amount": 1330.36
+    },
+    {
+      "date": "03/15/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9020353599 Industry Specific Solutions Invoices: 116020, 116205",
+      "memo": "",
+      "amount": 6780.8
+    },
+    {
+      "date": "03/22/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0681666 Comcast Business Acct x0806 ID: 0681666",
+      "memo": "",
+      "amount": 111.6
+    },
+    {
+      "date": "03/29/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9020499727 Industry Specific Solutions Invoices: 116382, 116552",
+      "memo": "",
+      "amount": 6572.8
+    },
+    {
+      "date": "04/01/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "",
+      "amount": 2875.02
+    },
+    {
+      "date": "04/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000756346 Intuit ID: 0000756346",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "04/04/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792 PPD",
+      "memo": "",
+      "amount": 9616.35
+    },
+    {
+      "date": "04/05/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "4888242 Comcast Business Acct x0806 ID:4888242",
+      "memo": "",
+      "amount": 111.6
+    },
+    {
+      "date": "04/05/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "4888242 Comcast Business Acct x0806 ID:4888242",
+      "memo": "",
+      "amount": 4600.0
+    },
+    {
+      "date": "04/12/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9200502236 Industry Specific Solutions Invoices: 116770",
+      "memo": "",
+      "amount": 4368.0
+    },
+    {
+      "date": "04/12/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "M80383322200 GoTo Communications, Inc. ID: M80383322200",
+      "memo": "",
+      "amount": 1365.54
+    },
+    {
+      "date": "04/25/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "162H8374 Bank Of America- Bank Fees ID:162H8374 Check Order",
+      "memo": "",
+      "amount": 124.49
+    },
+    {
+      "date": "04/26/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9020898160 Industry Specific Solutions Invoices:  116937, 117123",
+      "memo": "",
+      "amount": 6572.8
+    },
+    {
+      "date": "05/01/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "",
+      "amount": 2875.0
+    },
+    {
+      "date": "05/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000756346 Intuit ID: 0000756346",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "05/06/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792 PPD",
+      "memo": "",
+      "amount": 10291.29
+    },
+    {
+      "date": "05/10/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9200502236 Industry Specific Solutions Invoices:  117488",
+      "memo": "",
+      "amount": 7503.6
+    },
+    {
+      "date": "05/14/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1911718107 GoTo Communications, Inc. ID: 1911718107",
+      "memo": "",
+      "amount": 1379.91
+    },
+    {
+      "date": "05/14/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "7860843596 Republic Services # 241 waste removal",
+      "memo": "",
+      "amount": 1089.31
+    },
+    {
+      "date": "05/15/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9200502236 Industry Specific Solutions Invoices:  117670, 117850",
+      "memo": "",
+      "amount": 9651.53
+    },
+    {
+      "date": "05/15/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9800000157 US Bank 9800000157",
+      "memo": "",
+      "amount": 662.03
+    },
+    {
+      "date": "05/22/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000213249 Comcast Business Acct x0806 ID: 0000213249",
+      "memo": "",
+      "amount": 111.36
+    },
+    {
+      "date": "05/28/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000213249 Comcast Business Acct x0806",
+      "memo": "",
+      "amount": 2300.0
+    },
+    {
+      "date": "06/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "3378609 Intuit ID: 0000756346",
+      "memo": "",
+      "amount": 90.0
+    },
+    {
+      "date": "06/03/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "5420234980 EMC Insurance Company ID: 5420234980",
+      "memo": "",
+      "amount": 2874.99
+    },
+    {
+      "date": "06/07/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9021470703 Industry Specific Solutions Invoices:  118031, 118194",
+      "memo": "",
+      "amount": 8933.6
+    },
+    {
+      "date": "06/07/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0000420792 DTE Energy ID: 0000420792 PPD",
+      "memo": "",
+      "amount": 5354.46
+    },
+    {
+      "date": "06/12/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "1911718107 GoTo Communications, Inc. ID: 1911718107-M80482041208",
+      "memo": "",
+      "amount": 1440.26
+    },
+    {
+      "date": "06/21/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "9200502236 Industry Specific Solutions Invoices:  118318",
+      "memo": "",
+      "amount": 3840.2
+    },
+    {
+      "date": "06/24/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "213249 Comcast Business Acct x0806",
+      "memo": "",
+      "amount": 111.36
+    },
+    {
+      "date": "06/26/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "0213249 Comcast Business Acct x0806",
+      "memo": "",
+      "amount": 1167.25
+    },
+    {
+      "date": "06/04/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "10035 John Arnold",
+      "memo": "",
+      "amount": 680.0
+    },
+    {
+      "date": "06/04/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "10033 Exclusive Flowers By Terry",
+      "memo": "",
+      "amount": 75.0
+    },
+    {
+      "date": "06/07/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "10037 John Arnold",
+      "memo": "",
+      "amount": 560.0
+    },
+    {
+      "date": "06/21/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "10043 Dominion Ground Enterprise, LLC Invoice # 6102024",
+      "memo": "",
+      "amount": 700.0
+    },
+    {
+      "date": "06/24/2024",
+      "type": "Expenditure",
+      "check_num": "",
+      "payee": "10045 Motor City Gamers and More Replacement Check 06/24/24",
+      "memo": "",
+      "amount": 769.0
+    }
+  ]
+}

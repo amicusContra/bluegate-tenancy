@@ -1,0 +1,411 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF WAYNE
+
+DaSEAN EDDIE MITCHELL,
+    Plaintiff,
+
+v.                                          Case No. 26-108221-DC
+
+SHAYLA SMITH,
+    Defendant.
+__________________________________________/
+
+MOTION FOR JUDICIAL AND EQUITABLE ESTOPPEL
+
+    Plaintiff DaSean Eddie Mitchell, appearing pro se, moves
+this Court for an order applying judicial estoppel and
+equitable estoppel against Defendant Shayla Smith, and states
+as follows:
+
+INTRODUCTION
+
+1. Defendant Shayla Smith has filed sworn statements and
+   submitted exhibits in this proceeding that contain internal
+   contradictions, documented falsehoods, and admissions against
+   interest. She has taken positions that are irreconcilable
+   with verifiable facts — facts established by her own
+   documents.
+
+2. Plaintiff moves to estop Defendant from (a) contradicting
+   her own sworn statements and exhibits; (b) asserting new
+   positions inconsistent with positions she has already taken
+   under oath; and (c) benefiting from representations that
+   induced Plaintiff's reliance to his detriment.
+
+LEGAL STANDARD
+
+Judicial Estoppel
+
+3. Judicial estoppel prevents a party from assuming a position
+   in a legal proceeding inconsistent with one previously
+   asserted. The doctrine protects the integrity of the judicial
+   process. Paschke v. Retool Indus., 445 Mich 502, 509 (1994).
+
+4. Judicial estoppel applies when: (1) a party has taken an
+   inconsistent position under oath; (2) the party succeeded
+   in maintaining the first position (i.e., the court accepted
+   or relied on it); and (3) the party would derive an unfair
+   advantage by switching positions. Wausau Underwriters Ins.
+   Co. v. Vulcan Dev., Inc., 323 F.3d 396, 402 (6th Cir. 2003)
+   (applying Michigan law).
+
+Equitable Estoppel
+
+5. Equitable estoppel requires: (1) a party, by representations,
+   admissions, or silence, intentionally or negligently induced
+   another party to believe certain facts; (2) the other party
+   justifiably relied on those representations; and (3) the
+   other party was prejudiced by the reliance. Lothian v. City
+   of Detroit, 414 Mich 160, 168 (1982).
+
+FACTUAL BASIS
+
+I. DEFENDANT'S OWN EXHIBITS ESTABLISH THE FOLLOWING FACTS
+
+A. Defendant Had Access to Employer-Sponsored Health Insurance
+   While Claiming Medicaid
+
+6. Defendant submitted her own financial documents as exhibits.
+   Among them is a Health Savings Account (HSA) card ending in
+   8120 issued through Lake Trust Credit Union. An HSA is only
+   available to individuals enrolled in a High Deductible Health
+   Plan (HDHP).
+
+7. Defendant simultaneously applied for and received Medicaid
+   coverage for the minor children (MDHHS Doc 6). Medicaid
+   eligibility in Michigan requires that the applicant lack
+   access to adequate employer-sponsored health insurance.
+
+8. Defendant's own exhibits prove she had employer-sponsored
+   insurance (the HSA/HDHP) while claiming government-funded
+   healthcare. She is estopped from denying access to employer
+   health insurance because she submitted the proof herself.
+
+B. Defendant Knew DaSean's Employment Status While Swearing
+   She Did Not
+
+9. Defendant's filing includes MDHHS Document 6, which contains
+   five (5) employment-related notices about Plaintiff DaSean
+   Mitchell:
+   - Three (3) New Hire Reports
+   - Two (2) Wage Match notices
+   These documents were in Defendant's possession and submitted
+   as her own exhibits.
+
+10. On the FOC 23 (Verified Statement of Friend of the Court,
+    sworn June 13, 2026), Defendant wrote "N/A" for Plaintiff's
+    employment. She swore under oath that she had no information
+    about Plaintiff's employment — while possessing five
+    government documents proving his employment history.
+
+11. Defendant is judicially estopped from claiming ignorance of
+    Plaintiff's employment. She submitted the proof of her
+    knowledge as her own exhibit, then swore the opposite on a
+    verified statement. Both documents are in this Court's file.
+
+C. Defendant Admitted Eavesdropping on Third-Party
+   Communications
+
+12. In her sworn filing (Doc 1, Factor J — Willingness to
+    Facilitate Communication), Defendant stated that she
+    "personally overheard" communications between Plaintiff
+    and Kevin Mok (a non-party family friend) that were
+    conducted via FaceTime through the minor children's
+    devices.
+
+13. Defendant used this information to argue that Plaintiff
+    and Kevin Mok were coaching the children. However,
+    monitoring private communications through a child's device
+    constitutes eavesdropping under MCL 750.539c (a felony),
+    and the content of eavesdropped communications is
+    inadmissible under MCL 750.539e.
+
+14. Defendant is estopped from:
+    (a) Using the content of eavesdropped communications as
+        evidence;
+    (b) Denying that she monitored Plaintiff's communications;
+    (c) Claiming she was a passive recipient of information the
+        children volunteered — she swore she "personally
+        overheard" conversations, not that the children reported
+        them.
+
+D. Defendant Claimed Communication "Works" While Blocking
+   Plaintiff
+
+15. In her sworn filing (Doc 1, Factor J), Defendant represented
+    to this Court that communication with Plaintiff "works"
+    through family intermediaries, including Defendant's mother,
+    Marquita Smith, and sister, Simone Smith.
+
+16. During the same period:
+    (a) Plaintiff's phone number was blocked by Defendant;
+    (b) Plaintiff was unable to reach Defendant directly
+        regarding the children's schedules, medical needs, or
+        educational decisions;
+    (c) Kevin Mok — the family friend Defendant claims she
+        communicates through — was the only channel Defendant
+        would respond to, and those communications are
+        documented in text and Messenger records.
+
+17. Defendant is estopped from claiming communication "works"
+    while maintaining a communication blockade. She chose the
+    intermediaries. She blocked direct contact. She cannot now
+    claim the arrangement she created is adequate or that
+    Plaintiff failed to communicate.
+
+E. Defendant Used Plaintiff's Mother's EBT Benefits and
+   Claimed Credit
+
+18. Defendant submitted Walmart invoices (Exhibits P-2 and P-3)
+    bearing the name "Deanna Mitchell" — Plaintiff's mother.
+    These invoices document grocery orders made using Plaintiff's
+    mother's Electronic Benefits Transfer (EBT) card.
+
+19. Defendant submitted these invoices to this Court as evidence
+    of HER provision for the children — claiming credit for
+    spending a grandmother's government food stamps.
+
+20. Defendant is estopped from:
+    (a) Claiming she independently provided for the children's
+        food needs — her own exhibits show she used someone
+        else's benefits;
+    (b) Denying she had access to or used Deanna Mitchell's EBT
+        card — she submitted the receipts herself;
+    (c) Claiming she did not know Deanna Mitchell's address —
+        she told Kevin Mok on June 26, 2026 that she "didn't
+        know" Deanna's new address while ordering deliveries
+        TO that address using Deanna's EBT.
+
+F. Defendant Enrolled Children in School Without Plaintiff's
+   Knowledge or Consent
+
+21. On or about July 22, 2026, during Plaintiff's custody week,
+    Defendant enrolled the minor children at Purpose Charter
+    Academy (PCA) in Detroit without notifying Plaintiff. In her
+    sworn filing, Defendant stated "DaSean is aware girls are
+    enrolled."
+
+22. Plaintiff was not aware. Plaintiff was not consulted.
+    Plaintiff was not notified. Kevin Mok — the family's only
+    functioning communication channel — was not informed. The
+    enrollment occurred during Plaintiff's parenting time.
+
+23. Defendant is estopped from:
+    (a) Claiming Plaintiff was "aware" — she swore it, and it
+        is demonstrably false;
+    (b) Claiming she attempted to communicate about the
+        enrollment — no communication occurred;
+    (c) Making any future unilateral educational decisions
+        without documented advance notice to Plaintiff and
+        proof of his receipt.
+
+G. Defendant Made Custody-Level Decisions from Senegal Without
+   Notice
+
+24. While traveling internationally in Senegal, West Africa,
+    Defendant emailed a different school about enrollment for
+    the minor children — children who were living with Plaintiff
+    in Lansing, Michigan. The school's tuition exceeded
+    Defendant's demonstrated ability to pay. Defendant submitted
+    these email exchanges as her own exhibits.
+
+25. Defendant was not in the country. She was not in the state.
+    She was not in the children's daily lives. Yet she was
+    making custody-level educational decisions for children in
+    their father's care, from another continent, without telling
+    him.
+
+26. Defendant is estopped from:
+    (a) Claiming she is the primary decision-maker for the
+        children's education — she was overseas while they
+        were with their father;
+    (b) Claiming Plaintiff is uninvolved or passive — she
+        deliberately excluded him from decisions she made
+        unilaterally from 4,000 miles away;
+    (c) Using the Senegal school correspondence as evidence of
+        her parental involvement — it is evidence of unilateral
+        control, not cooperative parenting.
+
+II. EQUITABLE ESTOPPEL — DETRIMENTAL RELIANCE
+
+A. Custody Exchange Location
+
+27. Prior custody exchanges between the parties took place at
+    Plaintiff's mother's home on Cornerstone Blvd, Detroit —
+    a neutral, familiar location for the children. Defendant
+    changed the exchange location to XXXXX Dresden St, Detroit,
+    on Father's Day (June 21, 2026) without explanation.
+
+28. Plaintiff relied on the established pattern of Cornerstone
+    exchanges. When Plaintiff arrived at Dresden as directed,
+    Defendant's sister Simone Smith served him with a custody
+    complaint at the front door — in front of the children.
+
+29. Defendant induced Plaintiff's presence at a specific
+    location for the purpose of ambush service. Plaintiff's
+    reliance on the good faith of a custody exchange was
+    exploited.
+
+30. Defendant is equitably estopped from:
+    (a) Claiming the Father's Day service was routine — she
+        engineered the location change;
+    (b) Using any argument that Plaintiff was properly served
+        "at the exchange" — the exchange location was changed
+        specifically to facilitate service;
+    (c) Claiming cooperative parenting while using a custody
+        handoff as an ambush.
+
+B. Representation of Financial Responsibility
+
+31. Throughout the nine-year relationship, Defendant represented
+    herself as the household's financial manager and
+    "breadwinner" (her own word). Plaintiff relied on this
+    representation by working at multiple jobs (Workbox, Vascor,
+    Refined, Expedient, Uber) and allowing his earnings to flow
+    into a household economy controlled by Defendant.
+
+32. As a result of this reliance, Plaintiff:
+    (a) Built no credit in his own name during the nine-year
+        relationship;
+    (b) Accumulated no savings;
+    (c) Has no retirement account;
+    (d) Has two collections on his credit report — both
+        originating from Defendant's obligations (insurance on
+        her vehicle, debt from her wedding);
+    (e) Had his DD-214, Social Security card, and birth
+        certificate locked in Defendant's safe with a single
+        key — inaccessible without her permission.
+
+33. Defendant is equitably estopped from:
+    (a) Claiming Plaintiff is financially irresponsible —
+        Defendant controlled the finances;
+    (b) Claiming Plaintiff cannot provide for the children —
+        Defendant extracted his earning capacity for nine years
+        and left him with nothing;
+    (c) Using Plaintiff's current financial position against him
+        in custody proceedings — she created that position.
+
+C. Vital Documents
+
+34. Defendant retained sole possession of both children's birth
+    certificates, Social Security cards, and immunization
+    records in a locked safe. Plaintiff has requested these
+    documents. They have not been produced.
+
+35. Defendant simultaneously used these documents for unilateral
+    purposes: school enrollment (PCA), medical appointments
+    (Advance Health, Clinton Township), and benefits
+    applications (MDHHS) — all without Plaintiff's knowledge.
+
+36. Defendant is equitably estopped from:
+    (a) Claiming Plaintiff is not participating in the
+        children's education — she controls the enrollment
+        documents;
+    (b) Claiming Plaintiff is not managing the children's
+        healthcare — she controls the medical records;
+    (c) Using her possession of documents as evidence of her
+        involvement while denying Plaintiff the same access.
+
+RELIEF REQUESTED
+
+37. Plaintiff respectfully requests this Court enter an order:
+
+    A. ESTABLISHING BY JUDICIAL ESTOPPEL that the following facts
+       are deemed admitted by Defendant based on her own sworn
+       statements and exhibits:
+
+       (1) Defendant had access to employer-sponsored health
+           insurance (HSA/HDHP through Lake Trust CU) while
+           applying for Medicaid for the minor children;
+
+       (2) Defendant knew of Plaintiff's employment history
+           (5 MDHHS employment documents in her possession)
+           while swearing "N/A" on the FOC 23;
+
+       (3) Defendant monitored Plaintiff's private
+           communications through the children's devices
+           ("personally overheard" — her sworn statement);
+
+       (4) Defendant blocked direct communication with
+           Plaintiff while representing to this Court that
+           communication "works";
+
+       (5) Defendant used Deanna Mitchell's EBT benefits and
+           submitted the invoices as evidence of her own
+           provision;
+
+       (6) Defendant enrolled the children at PCA during
+           Plaintiff's custody week without notice, while
+           swearing Plaintiff was "aware";
+
+       (7) Defendant made unilateral educational decisions from
+           Senegal for children in Plaintiff's care in Lansing;
+
+    B. BARRING Defendant from introducing new testimony or
+       evidence that contradicts her own sworn statements and
+       exhibits already in the record;
+
+    C. ORDERING that Defendant's admissions under judicial
+       estoppel be considered as established facts in any Best
+       Interest analysis under MCL 722.23, particularly:
+
+       - Factor (a) — love and affection: Defendant's conduct
+         shows control, not affection
+       - Factor (b) — capacity to provide: Defendant used others'
+         benefits rather than her own resources
+       - Factor (c) — moral fitness: perjury, eavesdropping,
+         benefits fraud
+       - Factor (d) — mental health: the compulsive need to
+         control all aspects of the children's lives from 4,000
+         miles away
+       - Factor (f) — moral fitness of parties: documented
+         pattern of deception
+       - Factor (j) — willingness to facilitate communication:
+         Defendant's own exhibit admits she blocked Plaintiff
+         and eavesdropped instead of communicating
+
+    D. ORDERING that Defendant produce the minor children's vital
+       documents (birth certificates, Social Security cards,
+       immunization records) to Plaintiff within fourteen (14)
+       days of this Order;
+
+    E. BARRING Defendant from making any future unilateral
+       decisions regarding the children's education, healthcare,
+       or benefits without prior written notice to Plaintiff and
+       documented proof of his receipt;
+
+    F. Such other relief as this Court deems just and equitable.
+
+VERIFICATION
+
+    I, DaSean Eddie Mitchell, state that the facts set forth in
+this Motion are true to the best of my information, knowledge,
+and belief.
+
+
+____________________________________
+DaSean Eddie Mitchell, Plaintiff, In Pro Per
+[REDACTED_ADDR_2]
+Lansing, MI 48910
+(313) 458-6982
+daseanmitchell1991@gmail.com
+
+Date: ______________
+
+
+CERTIFICATE OF SERVICE
+
+    I certify that on ________________, 2026, I served a copy
+of this Motion on Defendant Shayla Smith by first class mail
+at:
+
+    Shayla Smith
+    XXXXX Dresden St
+    Detroit, MI 48205
+
+
+____________________________________
+DaSean Eddie Mitchell
+
+Date: _______________
+

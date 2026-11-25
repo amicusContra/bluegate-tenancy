@@ -1,0 +1,182 @@
+{
+  "Leonard T Smith (all) \u2014 MI East BK": {
+    "search": {
+      "last": "Smith",
+      "first": "Leonard",
+      "court": "mieb",
+      "label": "Leonard T Smith (all) \u2014 MI East BK",
+      "why": "Find Leonard T Jr's BK filings if any exist"
+    },
+    "data": {}
+  },
+  "Leonard T Smith \u2014 MI East BK (specific)": {
+    "search": {
+      "last": "Smith",
+      "first": "Leonard T",
+      "court": "mieb",
+      "label": "Leonard T Smith \u2014 MI East BK (specific)",
+      "why": "Narrow to middle initial T"
+    },
+    "data": {}
+  },
+  "Leonard Smith \u2014 ALL federal courts": {
+    "search": {
+      "last": "Smith",
+      "first": "Leonard",
+      "court": "",
+      "label": "Leonard Smith \u2014 ALL federal courts",
+      "why": "Catch any civil/criminal cases nationwide"
+    },
+    "data": {}
+  },
+  "Evelyn Smith \u2014 MI East BK": {
+    "search": {
+      "last": "Smith",
+      "first": "Evelyn",
+      "court": "mieb",
+      "label": "Evelyn Smith \u2014 MI East BK",
+      "why": "Mother of Leonard T Jr. Is she connected to Leon A?"
+    },
+    "data": {}
+  },
+  "Evelyn Smith \u2014 ALL federal courts": {
+    "search": {
+      "last": "Smith",
+      "first": "Evelyn",
+      "court": "",
+      "label": "Evelyn Smith \u2014 ALL federal courts",
+      "why": "Broader search for bridge connection"
+    },
+    "data": {}
+  },
+  "Nikola Smith \u2014 MI East BK": {
+    "search": {
+      "last": "Smith",
+      "first": "Nikola",
+      "court": "mieb",
+      "label": "Nikola Smith \u2014 MI East BK",
+      "why": "Leonard T Jr's PNC mortgage co-borrower (wife?)"
+    },
+    "data": {}
+  },
+  "Denise Smith \u2014 MI East BK": {
+    "search": {
+      "last": "Smith",
+      "first": "Denise",
+      "court": "mieb",
+      "label": "Denise Smith \u2014 MI East BK",
+      "why": "Leonard T Jr's wife per obituary"
+    },
+    "data": {}
+  },
+  "Thomas Edward Smith \u2014 MI East BK": {
+    "search": {
+      "last": "Smith",
+      "first": "Thomas Edward",
+      "court": "mieb",
+      "label": "Thomas Edward Smith \u2014 MI East BK",
+      "why": "Leonard T Sr's other son"
+    },
+    "data": {}
+  },
+  "Skylar Smith \u2014 MI East BK": {
+    "search": {
+      "last": "Smith",
+      "first": "Skylar",
+      "court": "mieb",
+      "label": "Skylar Smith \u2014 MI East BK",
+      "why": "Grandchild on Harrison Twp QCDs"
+    },
+    "data": {}
+  },
+  "Daymison Smith \u2014 MI East BK": {
+    "search": {
+      "last": "Smith",
+      "first": "Daymison",
+      "court": "mieb",
+      "label": "Daymison Smith \u2014 MI East BK",
+      "why": "Grandchild = 'Dawson' on QCDs"
+    },
+    "data": {}
+  },
+  "Robert Smith \u2014 MI East BK": {
+    "search": {
+      "last": "Smith",
+      "first": "Robert",
+      "court": "mieb",
+      "label": "Robert Smith \u2014 MI East BK",
+      "why": "Grandchild on Harrison Twp QCDs"
+    },
+    "data": {}
+  },
+  "Matthew Smith \u2014 MI East BK": {
+    "search": {
+      "last": "Smith",
+      "first": "Matthew",
+      "court": "mieb",
+      "label": "Matthew Smith \u2014 MI East BK",
+      "why": "Grandchild NOT on QCDs \u2014 any filings?"
+    },
+    "data": {}
+  },
+  "Veronica Craig \u2014 MI East BK": {
+    "search": {
+      "last": "Craig",
+      "first": "Veronica",
+      "court": "mieb",
+      "label": "Veronica Craig \u2014 MI East BK",
+      "why": "Veronica Smith-Craig, Ronnie C LLC registered agent"
+    },
+    "data": {}
+  },
+  "Veronica Smith-Craig \u2014 MI East BK": {
+    "search": {
+      "last": "Smith-Craig",
+      "first": "Veronica",
+      "court": "mieb",
+      "label": "Veronica Smith-Craig \u2014 MI East BK",
+      "why": "Hyphenated name search"
+    },
+    "data": {}
+  },
+  "Ronnie Craig \u2014 MI East BK": {
+    "search": {
+      "last": "Craig",
+      "first": "Ronnie",
+      "court": "mieb",
+      "label": "Ronnie Craig \u2014 MI East BK",
+      "why": "Deceased daughter of Leonard T Sr"
+    },
+    "data": {}
+  },
+  "Walter Smith \u2014 MI East BK": {
+    "search": {
+      "last": "Smith",
+      "first": "Walter",
+      "court": "mieb",
+      "label": "Walter Smith \u2014 MI East BK",
+      "why": "Co-purchased Merrimac with Marquita 2019. Which tree?"
+    },
+    "data": {}
+  },
+  "Walter Smith \u2014 ALL federal courts": {
+    "search": {
+      "last": "Smith",
+      "first": "Walter",
+      "court": "",
+      "label": "Walter Smith \u2014 ALL federal courts",
+      "why": "Broader search"
+    },
+    "data": {}
+  },
+  "Leon Anthony Smith \u2014 MI East BK (re-verify)": {
+    "search": {
+      "last": "Smith",
+      "first": "Leon Anthony",
+      "court": "mieb",
+      "label": "Leon Anthony Smith \u2014 MI East BK (re-verify)",
+      "why": "Need exact filing date of 17-52263 \u2014 before or after Aug 21, 2017?"
+    },
+    "data": {}
+  }
+}

@@ -1,0 +1,88 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF INGHAM
+
+KEVIN MOK,
+    Plaintiff,
+
+v.                                          Case No. 2026-4349-CZ
+                                            Hon. Wanda M. Stokes
+BRIAN RODERICK BANKS, THE PURPOSE
+GROUP MICHIGAN LLC, JOSEPH HOLLAND JR.,
+PURPOSE FOUNDATION, and TRACEY D. ELLIS,
+    Defendants.
+__________________________________________/
+
+             SUBPOENA DUCES TECUM
+     (Order to Produce Documents -- MCR 2.305)
+
+TO: [CARRIER NAME]
+    Legal Compliance Department
+    [ADDRESS]
+
+YOU ARE COMMANDED to produce the following documents and
+records to the undersigned at the address below within
+fourteen (14) days of service of this Subpoena:
+
+                    RECORDS REQUESTED
+
+1. Call Detail Records (CDR) for the cellular telephone
+   number assigned to BRIAN RODERICK BANKS (DOB: [date of birth withheld],
+   address: 1968 Severn Rd, Grosse Pointe Woods, MI 48236)
+   for the period of August 29, 2026 through September 3,
+   2026, inclusive.
+
+   Call Detail Records shall include:
+   (a) All incoming and outgoing voice calls, including
+       date, time, duration, and the telephone number of
+       the other party;
+   (b) All incoming and outgoing text messages (SMS/MMS),
+       including date, time, and the telephone number of
+       the other party;
+   (c) Cell tower/sector information for each call or
+       text, if available.
+
+2. Subscriber information for the account associated with
+   said telephone number, including:
+   (a) Account holder name and address;
+   (b) Account activation date;
+   (c) Billing address.
+
+                    PURPOSE AND RELEVANCE
+
+These records are directly relevant to the claims in this
+action. Defendant Banks is alleged to have:
+
+- Made three threatening telephone calls to a third party
+  (DaSean Mitchell) on September 1, 2, and 3, 2026, in
+  which he falsely claimed to be an attorney, invoked
+  "judges and law enforcement" as a threat, and called
+  Plaintiff's lawful civil investigation "stalking";
+- Coordinated with Shayla Smith and/or Leon A. Smith prior
+  to a violent assault and custodial interference that
+  occurred on September 2, 2026, approximately 36 hours
+  after Defendant was served with Plaintiff's complaint;
+- Contacted third parties for the purpose of intimidating
+  and retaliating against Plaintiff for filing this action.
+
+The call records will establish the full scope of Defendant
+Banks' communications with co-conspirators before, during,
+and after the September 2 assault, and will demonstrate the
+coordinated nature of the retaliation against Plaintiff.
+
+This Subpoena is issued pursuant to MCR 2.305 by a party
+to a pending civil action.
+
+ISSUED BY:
+
+Kevin Mok, Plaintiff (Pro Se)
+[REDACTED_ADDR_1]
+Lansing, MI 48910
+[REDACTED_PHONE]
+eco.primal@pm.me
+
+Date: September ___, 2026
+
+================================================================
+NOTE: Attach to SCAO Form MC 11.
+================================================================
+

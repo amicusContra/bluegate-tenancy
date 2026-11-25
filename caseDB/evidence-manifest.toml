@@ -1,0 +1,869 @@
+# Evidence Manifest — caseDB → origin pipeline
+# Generated: 2026-10-01T14:05:55.776978+00:00
+# Source: northGate caseDB (bluegate-tenancy/caseDB/caseDB.sqlite)
+# Hash: BLAKE3
+
+[[evidence]]
+id = "state-bar-search"
+title = "State Bar of Michigan search — no record"
+type = "public-record"
+source = "State Bar of Michigan"
+blake3 = "868d89e4641fa4927869bb7492f4e5ddfaaff6edec50f94706723ebd0ff8a23e"
+authenticity = "State Bar website screenshot"
+cases = ["2026-4349-CZ", "26-4435-PH"]
+
+[[evidence]]
+id = "benefits-fraud-snap-ebt"
+title = "SNAP/EBT/FIP/Medicaid benefits fraud"
+type = "financial"
+source = "To be subpoenaed — MDHHS, IRS"
+blake3 = "2bc7414326b89a4b5a960db6969fed23aae1ca59a75d0b9702cf3515e524c848"
+authenticity = "To be authenticated via MDHHS subpoena + IRS records"
+cases = ["26-108221-DC", "2026-4301-CZ"]
+
+[[evidence]]
+id = "no-marriage-cert"
+title = "No legal marriage certificate — DaSean and Shayla"
+type = "public-record"
+source = "County clerk records"
+blake3 = "deb5b90a32c0b649f39d768757e4fd540b6453e3e01a029fd8edaefd84f6e98d"
+authenticity = "County clerk search — no record"
+cases = ["26-108221-DC", "26-4432-PP"]
+
+[[evidence]]
+id = "rod-severn-property"
+title = "Wayne ROD — 1968 Severn Property Record"
+type = "public-record"
+source = "Wayne County Register of Deeds"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\04_WAYNE_ROD_1968_SEVERN_PROPERTY.pdf"
+blake3 = "7e7fa97077f9aee6238d90cc6a34099fb9cb9c409642f027eaf2939dc2139d4a"
+authenticity = "Wayne County ROD certified"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "rod-tax-lien-newcastle"
+title = "Wayne ROD — Tax Lien at Newcastle (Banks at Holland address)"
+type = "public-record"
+source = "Wayne County Register of Deeds"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\05d_WAYNE_ROD_TAX_LIEN_NEWCASTLE_BANKS.pdf"
+blake3 = "a9c3019d6f1ccbcf05e1833012d5752ebab7d249307bc7f4a6d57c8240dbeb84"
+authenticity = "Wayne County ROD Instrument"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "sos-pac-committee"
+title = "MI SOS — PAC Committee Info (#517977)"
+type = "public-record"
+source = "Michigan Secretary of State Campaign Finance"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\06a_SOS_PAC_COMMITTEE.png"
+blake3 = "e4b3bc91f13b91d607faa106c0f458139362aa0e0c3d9522aa7615fbcb66eae4"
+authenticity = "SOS website screenshot"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "sos-pac-late-fees"
+title = "MI SOS — PAC Late Filing Fees"
+type = "public-record"
+source = "Michigan Secretary of State Campaign Finance"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\06b_SOS_PAC_LATE_FEES.png"
+blake3 = "90ef26263119a2c099e4718f33133998219d8509a4ed3cb30da1be7b5a742789"
+authenticity = "SOS website screenshot"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "sos-pac-members"
+title = "MI SOS — PAC Members & Addresses"
+type = "public-record"
+source = "Michigan Secretary of State Campaign Finance"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\06c_SOS_PAC_MEMBERS.png"
+blake3 = "df06074b3ca352a90a2261f66351e03300329bb5ffd992a421c447c13d0b9f23"
+authenticity = "SOS website screenshot"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "sos-pac-filings"
+title = "MI SOS — PAC Filing History"
+type = "public-record"
+source = "Michigan Secretary of State Campaign Finance"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\06d_SOS_PAC_FILINGS.png"
+blake3 = "8ef0c03ce555c15c734321c30dab2fbf6b9a3b46bc2053fbc0623cf933929e49"
+authenticity = "SOS website screenshot"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "regan-v-banks"
+title = "Regan v. Banks — SOS CFR Complaint (31 pages)"
+type = "public-record"
+source = "Michigan Secretary of State"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\11_REGAN_V_BANKS_SOS_COMPLAINT.pdf"
+blake3 = "a25b0e01adc9cf03e1f943fd8f944b232d78e0bc56cd4357054a7a1588778b7e"
+authenticity = "SOS public record"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-rep-blank"
+title = "MDE REP — Banks Blank Credential"
+type = "public-record"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\MacDowell Preparatory Academy\1 - Investigation\REP for Banks.png"
+blake3 = "331891e6ce106d14c67d9fac63b8d3cce1bc48400937be69f0ad5740bb9eaf99"
+authenticity = "Government FOIA response"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-eem-banks"
+title = "MDE EEM — Banks Employment Record"
+type = "public-record"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\MacDowell Preparatory Academy\1 - Investigation\EEM for Banks.png"
+blake3 = "cec6c8ca68c7328feac7abca324aaa66b70494b190aa19829f2ba6fc3f2e1671"
+authenticity = "Government FOIA response"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-educator-report"
+title = "MDE Educator Report Form for Banks"
+type = "document"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\MacDowell Preparatory Academy\1 - Investigation\Educator Report Form for Banks.pdf"
+blake3 = "fe5dc77a224f928991cfe1f98d2793e28a19a7ef1aef20d1b5c4a0253f3a80ff"
+authenticity = "Government FOIA response"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-non-placement"
+title = "MDE Non-Placement Email"
+type = "email"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\MacDowell Preparatory Academy\2 - Cleared\Email of non-placement.msg"
+blake3 = "5794f973382c0cf7717545a554ef16782b3f16dd6bac6034fb7739d5e52f009a"
+authenticity = "Government FOIA response"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "banks-msu-jd"
+title = "Banks MSU J.D. — Never Bar Admitted"
+type = "public-record"
+source = "State Bar of Michigan + MSU Law"
+blake3 = "92239a8378c6a8270ed677b7174d827bce0d8d4a147907c8fa76090ac5fa8808"
+authenticity = "State Bar search negative + court records"
+cases = ["2026-4349-CZ", "26-ppo-mok-banks"]
+
+[[evidence]]
+id = "banks-bar-prep-fraud"
+title = "Banks Bar Prep Course — Fraudulent Loans"
+type = "financial"
+source = "Federal student loan records"
+blake3 = "7dddfd16646b46706c38946d05bbe4253e0713ccaeea8a1814fc3565e5204e7d"
+authenticity = "Federal loan records"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "banks-walden-doctorate"
+title = "Banks Walden University Doctorate — No IRB Disclosures"
+type = "document"
+source = "Walden University dissertation"
+blake3 = "439649c17ff419363e6b6e59c4f9458158447265553fe1004c16b509cd2198aa"
+authenticity = "Published dissertation"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "lara-banks-strategy-entity"
+title = "LARA — Banks Strategy & Consultants LLC"
+type = "public-record"
+source = "LARA Entity #802070120"
+file_path = "C:\Users\mokke\Documents\cases\evidence\banks-lara"
+blake3 = "eb844d04a2f8a9033ccde2ea4b14d6de39f65e1b774c7c67a79d29cf5ea31260"
+authenticity = "LARA certified filing"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "banks-severn-permits"
+title = "Building Permits — 1968 Severn"
+type = "public-record"
+source = "City of Grosse Pointe Woods"
+file_path = "C:\Users\mokke\Documents\cases\evidence\banks-property\1968_severn_permits.pdf"
+blake3 = "a5e102bfbe58f21b9d8892df60833baa4b3a3d5d1e1e5bc06bf35986c0a94259"
+authenticity = "Municipal records"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "banks-severn-tax"
+title = "Tax Records — 1968 Severn"
+type = "financial"
+source = "Wayne County Treasurer"
+file_path = "C:\Users\mokke\Documents\cases\evidence\banks-property\1968_severn_tax.pdf"
+blake3 = "0ef4e77cd11fce83ffae5241b04673e7c75444df62b27f1532eb65f522edb7c6"
+authenticity = "County tax records"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "banks-bk-06-55281"
+title = "Banks BK — Case 06-55281 Full Petition (55pp)"
+type = "public-record"
+date = "2006-01-01"
+source = "PACER ED Mich Bankruptcy"
+file_path = "C:\Users\mokke\Documents\cases\evidence\pacer-indexed\banks_06-55281\06-55281_banks_petition_full_55pp.pdf"
+blake3 = "55b990cf7eff429cfd022c2775229e4ade11c4a7d2a3265525c9184f3402a1ac"
+authenticity = "PACER federal court record"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "rod-newcastle-qcd"
+title = "Wayne ROD — Newcastle QCD #2007402847"
+type = "public-record"
+date = "2007-06-01"
+source = "Wayne County Register of Deeds"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\05a_WAYNE_ROD_NEWCASTLE_QCD_2007402847.pdf"
+blake3 = "b6070be0daefd955f8ddee9d7b6a53893bd06dd78ac6bdb855f329744ed934fe"
+authenticity = "Wayne County ROD Instrument #2007402847"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "holland-bk1-09-46072"
+title = "Holland BK1 — Case 09-46072 (Ch.7)"
+type = "public-record"
+date = "2009-01-01"
+source = "PACER ED Mich Bankruptcy"
+blake3 = "161f7b712e00bedf4c676f9f0ab73f1ad3c3e9821dbf4be01df105f3c1ff543b"
+authenticity = "PACER federal court record"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "holland-bk1-schedules"
+title = "Holland BK1 (09-46072) Schedules A-J ??? Newcastle $65K + Banks codebtor"
+type = "public-record"
+date = "2009-03-18"
+source = "PACER ED Mich Bankruptcy"
+file_path = "C:\Users\mokke\Documents\cases\evidence\pacer-indexed\holland-bankruptcies\09-46072_schedules_AJ.pdf"
+blake3 = "9d17050fc273900b090173577c71c42786abcc6f41b535d1bdc080c3f8919a00"
+authenticity = "PACER federal court record ??? sworn under penalty of perjury"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "holland-bk3-14-51632"
+title = "Holland BK3 — Case 14-51632 (Ch.7 Concealment)"
+type = "public-record"
+date = "2014-01-01"
+source = "PACER ED Mich Bankruptcy"
+blake3 = "4de6d916097e40fd0e961d629986b50aef807adc38120f8795ef0bbb391d74e2"
+authenticity = "PACER federal court record"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "holland-bk3-petition"
+title = "Holland BK3 (14-51632) Full Petition ??? Schedule A NONE, $110K discharged"
+type = "public-record"
+date = "2014-07-15"
+source = "PACER ED Mich Bankruptcy"
+file_path = "C:\Users\mokke\Documents\cases\evidence\pacer-indexed\holland-bankruptcies\14-51632_petition_full.pdf"
+blake3 = "5387f5fd6f6b1af5cc20c66ba1263d67a18afed33d3ad91ca9e8ce48d10e4abc"
+authenticity = "PACER federal court record ??? sworn under penalty of perjury"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "holland-bk3-amendments"
+title = "Holland BK3 (14-51632) Amendments to Schedules"
+type = "public-record"
+date = "2014-09-11"
+source = "PACER ED Mich Bankruptcy"
+file_path = "C:\Users\mokke\Documents\cases\evidence\pacer-indexed\holland-bankruptcies\14-51632_amendments.pdf"
+blake3 = "af94ab26af0b40450a9e64db9ee4b69eef962abce06f45a79e1075189cfb4e01"
+authenticity = "PACER federal court record"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "smith-bk-schedules-17-52263"
+title = "Smith Bankruptcy Schedules — 17-52263 (41pp)"
+type = "public-record"
+date = "2017-01-01"
+source = "PACER ED Mich Bankruptcy"
+file_path = "C:\Users\mokke\Documents\cases\evidence\court-filings\smith-bankruptcy-schedules\17-52263_smith_schedules_41pp.pdf"
+blake3 = "5f9e5391fd3fc42bd0e421ab544bf781b4e6baa7cb4ef26b4ab8deeafd08f3f7"
+authenticity = "PACER federal court record"
+cases = ["2026-4301-CZ"]
+
+[[evidence]]
+id = "mde-audit-macdowell-2017"
+title = "MacDowell Financial Audit FY2017 (Entity #82747)"
+type = "financial"
+date = "2017-06-30"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\Audits\Audits\82747 FS - 2017.pdf"
+blake3 = "f9b2c71a862cff2a11b7da516744ed2a6fe48775204a01473e33359632d75f5e"
+authenticity = "MDE FOIA — CPA audited financial statements"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-audit-macdowell-2018"
+title = "MacDowell Financial Audit FY2018 (Entity #82747)"
+type = "financial"
+date = "2018-06-30"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\Audits\Audits\82747 FS - 2018.pdf"
+blake3 = "b7d976c16141f8f1aa753fd1845bf284ce977c2c2319ace638a788216338a6c1"
+authenticity = "MDE FOIA — CPA audited financial statements"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-audit-macdowell-2019"
+title = "MacDowell Financial Audit FY2019 (Entity #82747)"
+type = "financial"
+date = "2019-06-30"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\Audits\Audits\82747 FS - 2019.pdf"
+blake3 = "4669d69e02da67b03d7855e067f2aebba96769678d8dbddc6922d89ef4d1f6b9"
+authenticity = "MDE FOIA — CPA audited financial statements"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-audit-macdowell-2020"
+title = "MacDowell Financial Audit FY2020 (Entity #82747)"
+type = "financial"
+date = "2020-06-30"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\Audits\Audits\82747 FS - 2020.pdf"
+blake3 = "ef4706f16b96a69ad3c6a1ae8cca36461464037ddf9e686d4a41bae631d66f82"
+authenticity = "MDE FOIA — CPA audited financial statements"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-audit-macdowell-2021"
+title = "MacDowell Financial Audit FY2021 (Entity #82747)"
+type = "financial"
+date = "2021-06-30"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\Audits\Audits\82747 FS  - 2021.pdf"
+blake3 = "c22393fb26d6685928e8889510f02e254c1b439115c72794176a71c0dceec110"
+authenticity = "MDE FOIA — CPA audited financial statements"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-investigation-letter"
+title = "MDE Investigation Letter for Banks"
+type = "document"
+date = "2022-02-01"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\MacDowell Preparatory Academy\1 - Investigation\Investigation Letter for Banks.pdf"
+blake3 = "85a998365993867fc81805878c6c16d2c8baba0670409ebd6befd9f2fc4df41a"
+authenticity = "Government FOIA response"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-moecs-hold"
+title = "MDE MOECS Admin Permit HOLD for Banks"
+type = "public-record"
+date = "2022-02-01"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\MacDowell Preparatory Academy\1 - Investigation\MOECS Admin Permit Hold for Banks.png"
+blake3 = "ea5eb43bdea2ebc369ec36613f5fe84316d06de6fbdefe16b1292776d0e96185"
+authenticity = "Government FOIA response"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-schmiedeknecht-email"
+title = "MDE Katie Schmiedeknecht — No Investigation Email"
+type = "email"
+date = "2022-02-01"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\MacDowell Preparatory Academy\2 - Cleared\Katie_s email to district of no investigation.msg"
+blake3 = "5f95f5de3fc3f01a807110bc9f1aac654c3bebff5855272cad46c9e4b03e6efc"
+authenticity = "Government FOIA response"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-audit-macdowell-2022"
+title = "MacDowell Financial Audit FY2022 (Entity #82747)"
+type = "financial"
+date = "2022-06-30"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\Audits\Audits\82747 FS - 2022.pdf"
+blake3 = "c79717759aa8909cd8b7808b11afa99540eecce42780e8a31b67f2f44027500e"
+authenticity = "MDE FOIA — CPA audited financial statements"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-audit-macdowell-2023"
+title = "MacDowell Financial Audit FY2023 (Entity #82747)"
+type = "financial"
+date = "2023-06-30"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\Audits\Audits\82747 FS - 2023.pdf"
+blake3 = "ba7a4d73e08932557bac3b22e1d7db84e3c244a4b43ab5fcd8c6e4673b53947f"
+authenticity = "MDE FOIA — CPA audited financial statements"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "tcr-22-12-decision"
+title = "TCR 22-12 Final Decision and Order"
+type = "document"
+date = "2023-08-04"
+source = "MDE FOIA Supplement Sep 30"
+blake3 = "538e39b35821086b28ffab675204b31ca20bc183d50e90c3c3d36dd5cb8015e4"
+authenticity = "Government FOIA response"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "tcr-22-12-cover-letter"
+title = "TCR 22-12 Cover Letter"
+type = "document"
+date = "2023-08-04"
+source = "MDE FOIA Supplement Sep 30"
+blake3 = "0ce7660b379364e65c36fe673e88be1aec7ad528017c016380f593a71666fac3"
+authenticity = "Government FOIA response"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mdoc-holland-443789"
+title = "MDOC OTIS — Holland #443789"
+type = "public-record"
+date = "2024-05-01"
+source = "Michigan MDOC OTIS"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\01_MDOC_HOLLAND_443789.png"
+blake3 = "b1019a6f5c02bf7464051cf3ebcaba51325cd6744d6d65852c469fe411afc492"
+authenticity = "MDOC OTIS public search"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-audit-macdowell-2024"
+title = "MacDowell Financial Audit FY2024 (Entity #82747)"
+type = "financial"
+date = "2024-06-30"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\Audits\Audits\82747fs - 2024.pdf"
+blake3 = "804fd981ebd6af0dadd19d9101fb0a0e5bd35d12591dc9d18114e42db42a3f79"
+authenticity = "MDE FOIA — CPA audited financial statements"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "rod-severn-trust-qcd"
+title = "Wayne ROD — Severn Trust Transfer QCD 2024"
+type = "public-record"
+date = "2024-08-01"
+source = "Wayne County Register of Deeds"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\05b_WAYNE_ROD_SEVERN_TRUST_QCD_2024.pdf"
+blake3 = "6d49304815dc0fe3858029c052517e7e15836ee1f7feb67e507c8924ff5d51fd"
+authenticity = "Wayne County ROD Instrument #2024223261"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "lara-purpose-group-articles"
+title = "LARA — Purpose Group LLC Articles of Organization"
+type = "public-record"
+date = "2024-11-14"
+source = "LARA Entity #803295082"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\03_LARA_PURPOSE_GROUP_ARTICLES.pdf"
+blake3 = "076dd74ae6dea7c0eee58e22042ec1970d9d4edc81908592f2e71ef58a1f3c8e"
+authenticity = "LARA certified filing"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "lara-purpose-foundation-articles"
+title = "LARA — Purpose Foundation Articles of Incorporation"
+type = "public-record"
+date = "2024-12-09"
+source = "LARA Entity #803294855"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\02_LARA_PURPOSE_FOUNDATION_ARTICLES.pdf"
+blake3 = "c72bd76572ccd5748ed8eb1f39c7e4d54e4e5503b58d45761e12d2f432e93394"
+authenticity = "LARA certified filing"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "rod-dresden-qcd"
+title = "Wayne County ROD — Dresden St QCD"
+type = "public-record"
+date = "2025-06-24"
+source = "Wayne County Register of Deeds"
+blake3 = "60bf0af095251a1b1b14c55bdfa2fa9c2c045545e6590364029d4b38d5862a3a"
+authenticity = "Wayne County ROD certified"
+cases = ["2026-4301-CZ"]
+
+[[evidence]]
+id = "mde-audit-macdowell-2025"
+title = "MacDowell Financial Audit FY2025 (Entity #82747)"
+type = "financial"
+date = "2025-06-30"
+source = "MDE FOIA Response"
+file_path = "C:\Users\mokke\Downloads\MDE_FOIA\Audits\Audits\82747fs - 2025.pdf"
+blake3 = "900a1fd081c8fab5cfa3ca759d24cbbb28e3b39528f99efb75e7ea2cec7f8f93"
+authenticity = "MDE FOIA — CPA audited financial statements"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "rod-trust-certificate"
+title = "Wayne ROD — Trust Certificate (Holland Successor)"
+type = "public-record"
+date = "2025-11-07"
+source = "Wayne County Register of Deeds"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\05c_WAYNE_ROD_TRUST_CERTIFICATE_HOLLAND.pdf"
+blake3 = "5fb6eea9efc79b8b1f7a2fe3c892e38ff3b24f884ffe2e7c53e997835aa43af9"
+authenticity = "Wayne County ROD Instrument #2025307266"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "lara-purpose-foundation-annual"
+title = "LARA — Purpose Foundation 2026 Annual Report"
+type = "public-record"
+date = "2026-01-01"
+source = "LARA Entity #803294855"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\02c_LARA_PURPOSE_FOUNDATION_ANNUAL_2026.pdf"
+blake3 = "318925e11b64b3bf8f50488fd6cdae8153b32c8e9266f0a481444141738c2e1e"
+authenticity = "LARA annual filing"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "forged-green-cards"
+title = "Forged certified mail return receipts"
+type = "document"
+date = "2026-08-21"
+source = "USPS certified mail return receipts"
+blake3 = "00827225ae4c729063a6a1b595c91e3edce722e828058a75628974f4a7c54a62"
+authenticity = "Handwriting comparison vs Wayne ROD authenticated signatures"
+cases = ["2026-4301-CZ", "26-4436-PH"]
+
+[[evidence]]
+id = "banks-demand-pca"
+title = "Banks Demand Letter to PCA"
+type = "document"
+date = "2026-09-01"
+source = "Filed with court"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\banksDeamndPCA.pdf"
+blake3 = "a4039f0a5926999c5ffd879c2ed7f1013482b7b1b223d8f43368332fd57682c0"
+authenticity = "Court filing"
+cases = ["2026-4349-CZ", "26-4435-PH"]
+
+[[evidence]]
+id = "ring-camera-sep2"
+title = "Ring camera video — Sep 2 assault"
+type = "video"
+date = "2026-09-02"
+source = "Ring camera at XXXX Cornerstone Blvd (Deanna Mitchell's house — DaSean's mother)"
+blake3 = "b0f4d492e8f302d631c7f9e6b6428b1b79129dc41a72a44302ab2b83e9181289"
+authenticity = "Ring timestamp + geolocation"
+cases = ["26-4436-PH", "26-4432-PP", "2026-4301-CZ"]
+
+[[evidence]]
+id = "shayla-texts-deanna-sahana"
+title = "Shayla's texts to Deanna and Sahana coordinating Sep 2 pickup"
+type = "text-message"
+date = "2026-09-02"
+source = "Shayla's emergency custody filing exhibits (192 pages)"
+blake3 = "dfa260d7934eeb8fa675cab432dd6935b7565541490a94760f25ce5970acfe33"
+authenticity = "Party admission — Shayla filed these herself as exhibits"
+cases = ["26-4432-PP", "26-108221-DC"]
+
+[[evidence]]
+id = "ring-video-sep2-compressed"
+title = "Ring camera video ??? Sep 2 assault (compressed for email)"
+type = "video"
+date = "2026-09-02"
+source = "Ring camera"
+blake3 = "da6c75fcd43aa27ff5f0b7d57b8aad4ea4ff00881452e412652861fe3038106a"
+authenticity = "Ring timestamp + geolocation"
+cases = ["2026-4301-CZ", "26-4436-PH"]
+
+[[evidence]]
+id = "shayla-192-page-filing"
+title = "Shayla's 192-page emergency custody exhibit packet"
+type = "document"
+date = "2026-09-05"
+source = "Wayne County court file — 26-108221-DC"
+blake3 = "7360726d8b6908acb6f3f1d2cf1fd916b4fc18147fbae128d7d2e4e270fa80dd"
+authenticity = "Court-filed document"
+cases = ["26-108221-DC"]
+
+[[evidence]]
+id = "parentage-confessions"
+title = "Parentage Confessions — Shayla Complaint Extract"
+type = "document"
+date = "2026-09-05"
+source = "Wayne County 26-108221-DC"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\parentageConfessions03.pdf"
+blake3 = "38432bbcbe5a28108c22b8761f64dd764cd0ff108beae81a9be799ecbf21705e"
+authenticity = "Court-filed document — party admission"
+cases = ["26-108221-DC", "26-4432-PP"]
+
+[[evidence]]
+id = "custody-shayla-originals"
+title = "Wayne County Custody — Shayla Original Filings"
+type = "document"
+date = "2026-09-05"
+source = "Wayne County 26-108221-DC"
+file_path = "C:\Users\mokke\Documents\cases\evidence\court-filings\custody-26-108221"
+blake3 = "28740dfac40b55af128489d1402cba115d36b51d8b0b5f51d43b7d41b5a1fd22"
+authenticity = "Court-filed document"
+cases = ["26-108221-DC"]
+
+[[evidence]]
+id = "parentage-confessions-03"
+title = "Parentage / AOP confessions ??? Exhibit 3"
+type = "document"
+date = "2026-09-05"
+source = "Shayla filing exhibits"
+blake3 = "22db3bc6870b3050c0c68d652d528675318cf3059fce47d714a98079d43e0e5e"
+authenticity = "Party admission ??? Shayla filed this herself"
+cases = ["26-108221-DC", "26-4432-PP"]
+
+[[evidence]]
+id = "dpd-report-sep9"
+title = "DPD Report #26-0909-0176"
+type = "public-record"
+date = "2026-09-09"
+source = "Detroit Police Department"
+blake3 = "1de5197f5e6cd6f9a7f78abfd405e83211d259aca72792ae3b1d3a7b7eed26d5"
+authenticity = "Police report"
+cases = ["2026-4349-CZ", "26-4435-PH"]
+
+[[evidence]]
+id = "banks-dpd-attorney-claim"
+title = "Banks Tells DPD He Is An Attorney"
+type = "public-record"
+date = "2026-09-09"
+source = "DPD Report #26-0909-0176"
+blake3 = "a96ceb0c8bde1fc9b07080d34547e34c4f1cba6a6c2e0f1b728bcc64c416fc41"
+authenticity = "Police report + State Bar negative search"
+cases = ["2026-4349-CZ", "26-4435-PH", "26-ppo-mok-banks"]
+
+[[evidence]]
+id = "lara-purpose-foundation-entity"
+title = "LARA — Purpose Foundation Entity Detail Screenshot"
+type = "public-record"
+date = "2026-09-14"
+source = "LARA Entity Search"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\02b_LARA_PURPOSE_FOUNDATION_ENTITY.png"
+blake3 = "8e36ca9ab4a416c3e8bfd14b0c705d0dbb13bf9fbbdfadd009eff1909df1c9df"
+authenticity = "LARA website screenshot"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "ichat-holland"
+title = "ICHAT — Holland Full Criminal Record"
+type = "public-record"
+date = "2026-09-14"
+source = "Michigan ICHAT"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\10_ICHAT_HOLLAND_FULL.pdf"
+blake3 = "677281498a8f1003f82719e814fcabc7b7c7582af0535df867ad03b4a12eec5a"
+authenticity = "State criminal records system"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "mok-banks-ppo"
+title = "Kevin PPO Petition vs Banks"
+type = "document"
+date = "2026-09-15"
+source = "Ingham County 30th Circuit"
+file_path = "C:\Users\mokke\Documents\cases\evidence\proof-packet-sep30\mokBanksPPO.pdf"
+blake3 = "e1451a7905e31a915975eb5213c7b6fe432a0b86aa9b62018178a8d477b6dce9"
+authenticity = "Court filing"
+cases = ["26-ppo-mok-banks"]
+
+[[evidence]]
+id = "rod-analysis-banks-holland"
+title = "Wayne ROD Analysis — Banks-Holland Property Chain"
+type = "document"
+date = "2026-09-15"
+source = "ELRICK_SEP15 journalist packet"
+file_path = "C:\Users\mokke\Documents\ELRICK_SEP15\12_HOLLAND_ICHAT\BANKS_HOLLAND_ROD_ANALYSIS.md"
+blake3 = "1acde36e0742b129d626b029e58321e87e8b49431db4f79fcf4b1fe5ccc408ed"
+authenticity = "Wayne ROD instruments cross-referenced"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "leon-texts-sep17"
+title = "Text messages Leon ↔ Kevin (Sep 16-17)"
+type = "text-message"
+date = "2026-09-17"
+source = "iPhone screenshots"
+blake3 = "6bf762605f17243a2cae15a69afc299d00281c4207570a84fd55480c4d1d6eaf"
+authenticity = "iPhone screenshot with metadata"
+cases = ["26-4436-PH", "2026-4301-CZ"]
+
+[[evidence]]
+id = "ichat-banks"
+title = "ICHAT printout — Banks SID 2029469K"
+type = "public-record"
+date = "2026-09-20"
+source = "Michigan ICHAT"
+blake3 = "ed310286f9dfe0f5f987e3b72d322955d12c7fe87d001231ce98343d32010545"
+authenticity = "State criminal records system"
+cases = ["2026-4349-CZ", "26-4435-PH"]
+
+[[evidence]]
+id = "shayla-response-sep22"
+title = "Shayla Smith Response Package (RFA + MSD + Answer)"
+type = "document"
+date = "2026-09-22"
+source = "Certified mail from Shayla Smith"
+file_path = "C:/Users/mokke/Documents/smithResponseShayla.pdf"
+blake3 = "6264427a6eb9e247061b0eef2b1669cc9d616f55cfa3b32956341abae354ebe9"
+authenticity = "Certified mail with certificate of service"
+cases = ["2026-4301-CZ"]
+
+[[evidence]]
+id = "leon-response-sep22"
+title = "Leon Smith Response Package (RFA + 2x MSD)"
+type = "document"
+date = "2026-09-22"
+source = "Certified mail from Leon Smith"
+file_path = "C:/Users/mokke/Documents/smithResponseLeon.pdf"
+blake3 = "eaed5fa42b7fd41d3cf5f2f16978d76915eb0d294714e57b1d5bc3cc0cfef11a"
+authenticity = "Certified mail with certificate of service"
+cases = ["2026-4301-CZ"]
+
+[[evidence]]
+id = "marquita-response-sep22"
+title = "Marquita Smith Response Package (Answer + RFA + MSD)"
+type = "document"
+date = "2026-09-22"
+source = "Certified mail from Marquita Smith"
+file_path = "C:/Users/mokke/Documents/smithResponseMarquita.pdf"
+blake3 = "a51f53daa24657eee489dd98ebe7f5116dcabfa921ae7398a19d196ab22a42e8"
+authenticity = "Certified mail, verified under penalty of perjury"
+cases = ["2026-4301-CZ"]
+
+[[evidence]]
+id = "simone-response-sep22"
+title = "Simone Smith Response Package (RFA + MSD + Answer)"
+type = "document"
+date = "2026-09-22"
+source = "Certified mail from Simone Smith"
+file_path = "C:/Users/mokke/Documents/smithResponseSimone.pdf"
+blake3 = "1bca961c3100024d94b10a95f3b798d53918f68a932185ba1048247efd5d1a5b"
+authenticity = "Certified mail with certificate of service"
+cases = ["2026-4301-CZ"]
+
+[[evidence]]
+id = "mde-foia-response"
+title = "MDE FOIA Response — 20 files"
+type = "document"
+date = "2026-09-25"
+source = "Michigan Department of Education"
+file_path = "bluegate-tenancy/02-evidence/mde-foia-sep25/"
+blake3 = "5c8e823b98df73992a633bebe2faea19848fc965e8ca4122afe9fb8aaab8cf52"
+authenticity = "Government FOIA response"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "9line-federal-referral"
+title = "9-Line Federal Referral Packet"
+type = "document"
+date = "2026-09-25"
+source = "Kevin's federal submission Sep 22-25"
+blake3 = "3605de3101febc03f9d1843f5e05fe00ef6d06471f7618bc76363f6e1842afc6"
+authenticity = "Filed with 8 federal agencies"
+cases = ["2026-4349-CZ"]
+
+[[evidence]]
+id = "ps3665-wave1"
+title = "PS Form 3665 — Wave 1 (19 pieces)"
+type = "document"
+date = "2026-09-28"
+source = "USPS post office"
+file_path = "PRINT_RUN_SEP28/PS3665_WAVE1_FILLED.pdf"
+blake3 = "b491d0e77a23711498673760c3f8f76a8091d590a17b6c440b9c5ce15d2c7d61"
+authenticity = "USPS postmark"
+cases = ["2026-4301-CZ", "2026-4349-CZ"]
+
+[[evidence]]
+id = "banks-email-cease-desist"
+title = "Banks cease-and-desist email + Dr. Brian Banks"
+type = "email"
+date = "2026-09-29"
+source = "Email bbanks@macdowellprep.com"
+blake3 = "21dec87513701d29ed65c787c31e19cf55879d0dfef339a29c129d4df9b3380f"
+cases = ["2026-4301-CZ", "2026-4349-CZ", "26-ppo-mok-banks"]
+
+[[evidence]]
+id = "banks-email-double-doctor"
+title = "Banks Dr. Dr. Brian Banks - double doctor email"
+type = "email"
+date = "2026-09-29"
+source = "Email chain Sep 29"
+blake3 = "768bbedfdbf8bcb21ebd4636d7fe3081253f8afe86b8532d550071c78b11a68d"
+cases = ["2026-4349-CZ", "26-ppo-mok-banks"]
+
+[[evidence]]
+id = "banks-email-law-degree"
+title = "Banks my having a law degree email"
+type = "email"
+date = "2026-09-29"
+source = "Email chain Sep 29"
+blake3 = "c4b12a1d91749289df938ea295a48b4b345c2543e650a48356e0a5d1691d4cc8"
+cases = ["2026-4349-CZ", "26-ppo-mok-banks"]
+
+[[evidence]]
+id = "banks-email-dr-mok-defame"
+title = "Banks defames Dr. Charles Mok as fraud"
+type = "email"
+date = "2026-09-29"
+source = "Email chain Sep 29"
+blake3 = "90fd861e19e62802b9730ba2869ebff2ebc181f4e92132c7b5c2da53a214180a"
+cases = ["2026-4349-CZ", "26-ppo-mok-banks"]
+
+[[evidence]]
+id = "leon-email-threat-sep29"
+title = "Leon Smith threat: just like the last one"
+type = "email"
+date = "2026-09-29"
+source = "Email oneomega1970@gmail.com"
+blake3 = "d7f5f7d3f600adb80dc5872c20fb516145c41b4a51d9a32c677acf6e9db7a8d5"
+cases = ["2026-4301-CZ", "26-4436-PH"]
+
+[[evidence]]
+id = "shayla-email-service-sep29"
+title = "Shayla claims email service is illegal"
+type = "email"
+date = "2026-09-29"
+source = "Email smith.shayla2013@yahoo.com"
+blake3 = "e5f5552b617118c7eca770f2dddd7e3e07b3fae5431656e50fa6bd8282a078be"
+cases = ["2026-4301-CZ", "26-4432-PP", "26-108221-DC"]
+
+[[evidence]]
+id = "aop-discovery"
+title = "Affidavit of Parentage discovered in Shayla complaint"
+type = "document"
+date = "2026-09-29"
+source = "Wayne County 26-108221-DC Paragraph 6"
+blake3 = "76fd3c93c652bb10e518e57ac9b772989a1b890a4487e71b05a5a4c9947c9bbf"
+cases = ["26-108221-DC", "26-4432-PP", "26-4435-PH", "26-4436-PH"]
+
+[[evidence]]
+id = "banks-email-chain-sep29"
+title = "Banks-Leon-Shayla email chain Sep 29"
+type = "email"
+date = "2026-09-29"
+source = "Email chain Sep 29 overnight"
+blake3 = "b8540783547359133b2da27132f52838917bc1dd56c4c71d347c49946f2d2ab3"
+authenticity = "Email thread with headers"
+cases = ["2026-4301-CZ", "2026-4349-CZ"]
+
+[[evidence]]
+id = "ichat-banks-pdf"
+title = "ICHAT PDF ??? Banks SID 2029469K (6 pages)"
+type = "public-record"
+date = "2026-09-30"
+source = "Michigan ICHAT"
+file_path = "C:\Users\mokke\Documents\cases\evidence\ICHAT\ICHAT_BRIAN_BANKS_SID_2029469K.pdf"
+blake3 = "653497a7efdee3f08996c2214718683b66835ce67a13bf75b429838b1fb6fed0"
+authenticity = "Michigan State Police ICHAT system ??? biometric-backed criminal history"
+cases = ["2026-4349-CZ", "26-ppo-mok-banks", "26-4435-PH"]
+
+[[evidence]]
+id = "crump-gibson-entry-email"
+title = "Crump-Gibson representation confirmation email"
+type = "email"
+date = "2026-09-30"
+source = "jehan@gllegalgroup.com"
+blake3 = "2b4f800bc5fa2d0d8bbbcb35b7fd93c0043fbbee86461a730c03fa2cd9358a13"
+authenticity = "Email with firm letterhead"
+cases = ["2026-4301-CZ", "2026-4349-CZ"]
+
+[[evidence]]
+id = "mde-complaint-ack-oct1"
+title = "MDE Professional Practice complaint acknowledgment"
+type = "email"
+date = "2026-10-01"
+source = "MDE-Professional-Practice@Michigan.gov"
+blake3 = "509d79f2b1824b18c719aaa3ea8bc1c78b972f566e282240eb153be228222b5c"
+authenticity = "Government email receipt"
+cases = ["2026-4349-CZ"]

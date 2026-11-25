@@ -1,0 +1,295 @@
+                                        Kevin Mok
+                                        [REDACTED_ADDR_1]
+                                        Lansing, MI 48910
+                                        [REDACTED_PHONE]
+                                        eco.primal@pm.me
+
+                                        September ___, 2026
+
+Macomb County Prosecutor's Office
+1 S. Main Street
+Mt. Clemens, MI 48043
+
+    Re: Criminal Referral — Bankruptcy Fraud and Perjury
+        Subjects: Marquita Renea Smith (aka Marquita Renea King)
+                  Simone Renee Smith
+        Federal Cases: 26-47542-mlo (Ch.13) and 26-49404-lsg (Ch.7)
+        E.D. Michigan Bankruptcy Court
+
+Dear Macomb County Prosecutor:
+
+I am writing to refer for criminal investigation what appears to
+be systematic bankruptcy fraud and perjury by two members of the
+Smith family, both of whom claim addresses in Macomb County.
+
+I am a pro se plaintiff in two pending civil actions in Ingham
+County Circuit Court that involve members of the Smith family.
+During litigation-related research using publicly available
+records, I discovered evidence of material misstatements on sworn
+federal bankruptcy filings. I am not a creditor in either bankruptcy
+case and do not seek any distribution. I am reporting conduct that
+appears to violate Michigan criminal statutes.
+
+
+SUBJECT 1: MARQUITA RENEA SMITH (aka MARQUITA RENEA KING)
+
+Ms. Smith filed a Chapter 13 bankruptcy petition on July 3, 2026
+(Case No. 26-47542-mlo, E.D. Michigan). Her petition lists her
+current address as XXXXX Bowman St, Roseville, MI 48066 (Macomb
+County).
+
+Three material misstatements have been identified on sworn federal
+filings in this case.
+
+
+A. CONCEALED REAL PROPERTY #1 — 17370 DRESDEN ST, DETROIT
+   (WAYNE COUNTY)
+
+Wayne County Register of Deeds records establish that on June 24,
+2025, Leon A. Smith executed a Quit Claim Deed adding Marquita
+Renea Smith to the title of real property at XXXXX Dresden St,
+Detroit, MI 48205.
+
+On the same date, Leon A. Smith and Marquita L. Smith jointly
+executed a mortgage in favor of Lake Trust Credit Union in the
+amount of $68,000.00, recorded with the Wayne County Register of
+Deeds.
+
+Neither the property nor the mortgage appears on Ms. Smith's
+bankruptcy schedules (Schedule A/B lists no real estate; Schedule D
+lists only Ally Financial for a vehicle).
+
+Applicable statute: MCL 750.423 (perjury — false statement under
+oath).
+
+
+B. CONCEALED REAL PROPERTY #2 — 16794 STRICKER AVE, EASTPOINTE
+   (MACOMB COUNTY)
+
+Public records (Directory 411, data loaded February 2026) identify
+"Marquita King" as homeowner and primary resident at XXXXX Stricker
+Ave, Eastpointe, MI 48021, age 45-54, single-family home.
+
+Estimated property value: approximately $154,300 (HomeFinder.com,
+sourced from Macomb County assessor data).
+
+Ms. Smith filed bankruptcy as "Marquita Renea Smith (fka Marquita
+Renea King)." The property appears to be held under her maiden
+name. It does not appear on any bankruptcy schedule (Schedule A,
+Schedule B, Schedule D, or the creditor matrix).
+
+A non-primary resident identified as "C Roberts" (less than one
+year at address) also appears at this property, suggesting possible
+undisclosed rental income not reported on Schedule I.
+
+Applicable statutes: MCL 750.423 (perjury); MCL 750.218 (false
+pretenses).
+
+
+C. RENT MISREPRESENTATION — 16460 BOWMAN ST, ROSEVILLE
+   (MACOMB COUNTY)
+
+MLS listing #60996366 (MiRealSource, via Compass.com, Rentberry.com,
+and Weichert.com) shows XXXXX Bowman St, Roseville, MI 48066 listed
+for rent at $2,200/month on May 27, 2026. The rental application
+went to "Pending" status on June 10, 2026.
+
+Ms. Smith filed her bankruptcy petition on July 3, 2026 — 23 days
+after the application went pending.
+
+Ms. Smith's Schedule J (line 4) lists monthly rent as $1,800.
+
+However, Ms. Smith's own Schedule A/B (line 22) lists a security
+deposit to landlord "Josephine Mager" in the amount of $4,400.00.
+A standard two-month security deposit at $2,200/month equals
+exactly $4,400 — the MARKET rate listed on the MLS, not the $1,800
+sworn on Schedule J.
+
+This internal inconsistency — where the security deposit
+corresponds to the market rate, not the sworn rent — suggests
+the actual rent is $2,200/month and the Schedule J figure is
+understated by $400/month ($4,800/year).
+
+Applicable statute: MCL 750.423 (perjury).
+
+
+D. CONCEALED REAL PROPERTY #3 — 42096 MERRIMAC CIR, CLINTON TWP
+   (MACOMB COUNTY)
+
+Macomb County Register of Deeds, Document No. 20199147518,
+recorded December 30, 2019, shows a WARRANTY DEED conveying
+XXXXX Merrimac Cir, Clinton Twp, MI 48036 from Myrticza Bledar
+to "Smith Marquita and Smith Walter."
+
+Parcel ID: F109103010 (Clinton Township).
+
+"Walter Smith" is NOT Mario Smith (the non-filing spouse identified
+on the bankruptcy petition). The identity of Walter Smith and his
+relationship to Ms. Smith has not been determined.
+
+This property was purchased more than six years ago and is not
+disclosed on Schedule A/B, Schedule D, or any other filing.
+
+Additionally, Macomb County ROD records show a filing by Ally
+Financial in June 2022 (Doc# 2022600070, filed 06/30/2022,
+discharged 08/24/2022) against the Merrimac property. This means
+Ally Financial has had at least TWO separate secured interests in
+Ms. Smith's assets: the Merrimac property (2022) and the current
+Jeep Grand Cherokee (2025). Only the Jeep appears on Schedule D.
+
+Applicable statutes: MCL 750.423 (perjury); MCL 750.218 (false
+pretenses).
+
+
+E. SERIAL FILING PATTERN
+
+This is Ms. Smith's fifth bankruptcy filing:
+
+    12-53099  — Ch.7, joint with Leon A. Smith (2012)
+    17-52263  — Ch.13, joint with Leon A. Smith (2017-2023)
+    25-46692  — Ch.7, dismissed after 34 days (2025)
+    25-47952  — Ch.13 (2025)
+    26-47542  — Ch.13, current case (2026)
+
+Combined concealed assets identified to date: approximately
+$372,300+:
+
+    — Dresden property interest plus $68,000 mortgage
+    — Stricker Ave (as "King") at approximately $154,300
+    — Merrimac Cir (with Walter Smith) — value TBD, est. $82,000+
+    — Rent understatement of $400/month ($4,800/year; security
+       deposit of $4,400 = 2 × $2,200 market rate, not 2 × $1,800
+       sworn rent)
+
+She swore under oath she owns NO real estate. Her name is on deeds
+in at least TWO Michigan counties — for at least THREE properties.
+
+
+SUBJECT 2: SIMONE RENEE SMITH
+
+Ms. Smith filed a Chapter 7 bankruptcy petition on August 24, 2026
+(Case No. 26-49404-lsg, E.D. Michigan). Her petition lists her
+current address as XXXXX Normandy Ave, Eastpointe, MI 48021
+(Macomb County).
+
+Two concerns have been identified.
+
+
+A. FALSE ADDRESS / UNDISCLOSED RENTAL INCOME
+
+Macomb County Register of Deeds records (Doc# 2026000062903)
+confirm that Simone Smith OWNS the property at XXXXX Normandy Ave,
+Eastpointe. The mortgage originated with United Wholesale Mortgage
+and was assigned to Rocket Mortgage Servicing (who appears on her
+creditor list).
+
+However, public records (michigan.land, data aggregator) list the
+CURRENT RESIDENT of XXXXX Normandy Ave as "Alexis Brown" — not
+Simone Smith.
+
+Ms. Smith's vehicle (associated with GM Financial, listed on her
+creditor schedule) has been consistently observed parked at XXXXX
+Dresden St, Detroit, MI 48205 (Wayne County) — the residence of
+Leon A. Smith (Ms. Smith's father), approximately 30 minutes from
+the claimed Eastpointe address.
+
+If Ms. Smith does not reside at Normandy Ave but rather at Dresden:
+- Her petition contains a false statement of current address;
+- She may be collecting rent from Alexis Brown while claiming
+  Normandy as her primary residence — a potential source of
+  undisclosed income on Schedule I;
+- Any homestead or PRE (Principal Residence Exemption) claimed
+  on this property would be fraudulent.
+
+Applicable statutes: MCL 750.423 (perjury); MCL 750.218 (false
+pretenses).
+
+
+B. POSSIBLE STUDENT LOAN FRAUD
+
+Ms. Smith's creditor list includes ECMC (Education Credit
+Management Corp) and the U.S. Department of Education as creditors
+for student loans.
+
+According to family members, Ms. Smith did not attend college. Her
+older sister, Shayla Smith, attended Bowling Green State University
+and Western Michigan University.
+
+If student loans were obtained in Ms. Smith's name for Shayla
+Smith's education, this may constitute identity fraud.
+
+Applicable statutes: MCL 750.411w (identity theft); 18 USC 1028A
+(aggravated identity theft).
+
+
+MACOMB COUNTY NEXUS
+
+Both subjects claim Macomb County addresses on their bankruptcy
+petitions.
+
+The concealed Stricker Ave property (XXXXX Stricker Ave, Eastpointe)
+is located in Macomb County.
+
+The rent misrepresentation involves a Roseville property (XXXXX
+Bowman St), Macomb County.
+
+The possible false address claim involves an Eastpointe property
+(XXXXX Normandy Ave), Macomb County.
+
+Macomb County has jurisdiction over criminal conduct occurring
+within its borders.
+
+
+REQUEST
+
+I respectfully request that this matter be referred for criminal
+investigation.
+
+Both subjects have active federal bankruptcy cases with upcoming
+hearings: Marquita Smith's Chapter 13 confirmation hearing is
+scheduled for September 14, 2026; Simone Smith's Section 341 meeting
+is scheduled for September 17, 2026. Coordination with the U.S.
+Trustee's office may be warranted.
+
+Separate notifications have been sent to the bankruptcy trustees
+for both cases and to the Office of the United States Trustee.
+
+All information cited herein is derived from public records that
+can be independently verified. I am available to provide copies of
+supporting documentation upon request.
+
+Respectfully submitted,
+
+
+______________________________
+Kevin Mok
+Pro Se Plaintiff
+Mok v. Smith, Case No. 2026-4301-CZ (Ingham County Circuit Court)
+Mok v. Banks, Case No. 2026-4349-CZ (Ingham County Circuit Court)
+
+
+Enclosures:
+  [ ] Wayne County ROD — QCD, Leon to Leon & Marquita (Jun 24, 2025)
+  [ ] Wayne County ROD — Lake Trust Mortgage, $68,000 (Jun 24, 2025)
+  [ ] Directory 411 record — "Marquita King" at XXXXX Stricker Ave, Eastpointe
+  [ ] HomeFinder.com property estimate — XXXXX Stricker Ave ($154,300)
+  [ ] MLS listing #60996366 — XXXXX Bowman St rental at $2,200/month
+  [ ] Compass.com property history — Bowman St listing/pending dates
+  [ ] Macomb County ROD, Doc# 20199147518 — Warranty Deed, XXXXX Merrimac Cir,
+      Clinton Twp (Bledar → Smith Marquita and Smith Walter, December 30, 2019)
+  [ ] Macomb County ROD, Doc# 2022600070 — Ally Financial filing against
+      Merrimac property (June 30, 2022)
+  [ ] michigan.land record — XXXXX Normandy Ave (resident: Alexis Brown)
+  [ ] Auction.com listing — XXXXX Normandy Ave (foreclosure/bank-owned)
+  [ ] Map showing distance between Normandy Ave (Eastpointe) and Dresden St (Detroit)
+  [ ] Trustee notification letter — Marquita Smith (September 4, 2026)
+  [ ] Trustee supplemental notification — Marquita Smith (September 8, 2026)
+  [ ] Trustee notification letter — Simone Smith (September 8, 2026)
+
+cc: Office of the United States Trustee
+    211 W. Fort Street, Suite 700
+    Detroit, MI 48226
+    Michigan Attorney General
+    G. Mennen Williams Building, 7th Floor
+    525 W. Ottawa Street
+    Lansing, MI 48909

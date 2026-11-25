@@ -1,0 +1,105 @@
+[
+  {
+    "source": "pubrecords",
+    "target_id": "tunezha_crowder",
+    "target_name": "Tunezha Crowder",
+    "query": "companies: Tunezha Crowder",
+    "timestamp": "2026-09-02T09:07:30.790700",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "tunezha_crowder",
+    "target_name": "Tunezha Crowder",
+    "query": "court_cases: Tunezha Crowder",
+    "timestamp": "2026-09-02T09:07:30.994256",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "tunezha_crowder",
+    "target_name": "Tunezha Crowder",
+    "query": "federal_spending: Tunezha Crowder",
+    "timestamp": "2026-09-02T09:07:31.074935",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "tunezha_crowder",
+    "target_name": "Tunezha Crowder",
+    "query": "dockets: Tunezha Crowder",
+    "timestamp": "2026-09-02T09:07:31.154322",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "tunezha_crowder",
+    "target_name": "Tunezha Crowder",
+    "query": "people: Tunezha Crowder",
+    "timestamp": "2026-09-02T09:07:31.531234",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "tunezha_crowder",
+    "target_name": "Tunezha Crowder",
+    "query": "search: Tunezha Crowder",
+    "timestamp": "2026-09-02T09:07:31.866728",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "lara",
+    "target_id": "tunezha_crowder",
+    "target_name": "Tunezha Crowder",
+    "query": "entity/agent: Tunezha Crowder",
+    "timestamp": "2026-09-02T09:07:32.175144",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare",
+        "proxy_used": "direct",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Tunezha Crowder"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tunezha_crowder",
+    "target_name": "Tunezha Crowder",
+    "query": "lara_mirror: Tunezha Crowder",
+    "timestamp": "2026-09-02T09:08:17.618380",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/tunezha-crowder/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tunezha_crowder",
+    "target_name": "Tunezha Crowder",
+    "query": "companiesmi: Tunezha Crowder",
+    "timestamp": "2026-09-02T09:08:19.240178",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  }
+]

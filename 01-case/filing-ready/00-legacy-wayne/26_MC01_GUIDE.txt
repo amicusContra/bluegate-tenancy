@@ -1,0 +1,237 @@
+=========================================================
+MICHIGAN SCAO FORM MC 01 — SUMMONS AND COMPLAINT
+=========================================================
+
+DOWNLOAD THE OFFICIAL FORM:
+https://courts.michigan.gov/Administration/SCAO/Forms/courtforms/mc01.pdf
+
+DO NOT use any other version. Ingham County rejects
+non-SCAO forms. Confirm the bottom-left reads "MC 01"
+with a recent revision date.
+
+=========================================================
+HOW TO FILL OUT MC 01
+=========================================================
+
+TOP HALF — SUMMONS (the court fills most of this)
+
+Court name:     Circuit Court
+County:         Ingham
+Court address:  313 W Kalamazoo St, Lansing, MI 48933
+Phone:          (517) 483-6500
+
+Plaintiff:      Kevin Mok
+Address:        [REDACTED_ADDR_1] Dr, Lansing, MI 48910
+Phone:          [REDACTED_PHONE]
+
+Defendant 1:    Shayla Smith
+                XXXXX Dresden St, Detroit, MI 48205
+
+Defendant 2:    Leon A. Smith
+                XXXXX Dresden St, Detroit, MI 48205
+
+Defendant 3:    Marquita L. Smith
+                XXXXX Dresden St, Detroit, MI 48205
+
+Defendant 4:    Simone Smith
+                XXXXX Dresden St, Detroit, MI 48205
+
+NOTE: If there isn't room for all 4 defendants on the
+form, list Shayla Smith as Defendant 1 and write
+"et al." — then list all defendants on your attached
+complaint (which you're already doing).
+
+Case No:        (LEAVE BLANK — clerk assigns)
+Judge:          (LEAVE BLANK — clerk assigns)
+
+Attorney:       (LEAVE BLANK — you are pro se)
+Bar No:         (LEAVE BLANK)
+
+In the signature block, sign as:
+    Kevin Mok, Plaintiff, In Pro Per
+
+BOTTOM HALF — COMPLAINT
+
+Check or write:
+    Case Type Code:  CZ  (General Civil)
+
+In the complaint section, write:
+    "See attached Complaint (__ pages) and Exhibits
+    (7 pages)"
+
+OR simply write:
+    "Complaint attached."
+
+Your full complaint (26_KEVIN_V_SHAYLA_COMPLAINT.txt)
+and exhibit package (EXHIBIT_PACKAGE_FOR_FILING.pdf)
+staple behind the MC 01 form.
+
+=========================================================
+WHAT TO BRING TO THE COURTHOUSE
+=========================================================
+
+IMPORTANT: MCR 2.102(B) requires a SEPARATE SUMMONS for
+each defendant. You need 4 MC 01 forms, each naming one
+defendant. The complaint and exhibits are the same for
+all — only the MC 01 changes per defendant.
+
+---------------------------------------------------------
+PRINT LIST (digital-first workflow)
+---------------------------------------------------------
+
+DOCUMENT 1: MC 01 SUMMONS — 4 forms, 2 copies each = 8
+
+  Fill out 4 separate MC 01 forms, one per defendant:
+    MC 01-A: Kevin Mok v. Shayla Smith
+    MC 01-B: Kevin Mok v. Leon A. Smith
+    MC 01-C: Kevin Mok v. Marquita L. Smith
+    MC 01-D: Kevin Mok v. Simone Smith
+
+  Each MC 01 → print 2 copies:
+    - 1 original → clerk files
+    - 1 copy → clerk stamps, you give to process server
+  Total MC 01 pages: 8
+
+DOCUMENT 2: COMPLAINT — print 6 copies
+
+  26_KEVIN_V_SHAYLA_COMPLAINT.txt (printed)
+    - 1 original → filed with court
+    - 1 copy → clerk stamps, you scan + archive (your record)
+    - 4 copies → service packets (one per defendant)
+  Total: 6
+
+DOCUMENT 3: EXHIBIT PACKAGE — print 6 copies
+
+  EXHIBIT_PACKAGE_FOR_FILING.pdf (7 pages each)
+    - 1 original → filed with court (stapled behind complaint)
+    - 1 copy → your record (scan + archive)
+    - 4 copies → service packets
+  Total: 6 x 7 = 42 pages
+
+---------------------------------------------------------
+ASSEMBLY — 6 PACKETS
+---------------------------------------------------------
+
+PACKET 0 — COURT ORIGINAL (clerk files this)
+  [ ] MC 01-A original (Shayla)
+  [ ] MC 01-B original (Leon)
+  [ ] MC 01-C original (Marquita)
+  [ ] MC 01-D original (Simone)
+  [ ] Complaint original
+  [ ] Exhibit Package original
+
+PACKET 1 — YOUR RECORD (scan at home, archive digital)
+  [ ] Complaint copy (clerk stamps)
+  [ ] Exhibit Package copy
+  (MC 01 copies go to process server, not to you)
+
+PACKET 2 — SERVICE: SHAYLA SMITH
+  [ ] MC 01-A stamped copy (her summons)
+  [ ] Complaint copy
+  [ ] Exhibit Package copy
+
+PACKET 3 — SERVICE: LEON A. SMITH
+  [ ] MC 01-B stamped copy (his summons)
+  [ ] Complaint copy
+  [ ] Exhibit Package copy
+
+PACKET 4 — SERVICE: MARQUITA L. SMITH
+  [ ] MC 01-C stamped copy (her summons)
+  [ ] Complaint copy
+  [ ] Exhibit Package copy
+
+PACKET 5 — SERVICE: SIMONE SMITH
+  [ ] MC 01-D stamped copy (her summons)
+  [ ] Complaint copy
+  [ ] Exhibit Package copy
+
+---------------------------------------------------------
+TOTAL PRINT COUNT
+---------------------------------------------------------
+
+  MC 01 forms:        8 pages  (4 forms x 2 copies)
+  Complaint:         ~60 pages (est. ~10 pp x 6 copies)
+  Exhibit Package:   42 pages  (7 pp x 6 copies)
+                   ─────────
+  TOTAL:           ~110 pages
+
+---------------------------------------------------------
+PROCESS SERVER NOTE
+---------------------------------------------------------
+
+All 4 defendants live at XXXXX Dresden St, Detroit 48205.
+The process server can serve all 4 in one trip — but each
+defendant MUST receive their own individual packet with
+their own named summons. The server files a separate
+Proof of Service for each defendant.
+
+You CANNOT serve them yourself (MCR 2.103). The server
+must be 18+ and not a party to the case.
+
+PAYMENT:
+
+   Filing fee: $175
+   ($150 civil filing + $25 electronic system fee)
+   Cash, check, or card (call ahead to confirm card: 
+   517-483-6500)
+
+YOUR ID:
+
+   Photo ID (driver's license)
+
+=========================================================
+AT THE CLERK'S WINDOW
+=========================================================
+
+1. Say: "I'm filing a new civil complaint, pro se."
+
+2. Hand them:
+   - The original MC 01 + complaint + exhibits (stapled)
+   - The copies
+
+3. Pay $175
+
+4. The clerk will:
+   - Assign a case number
+   - Assign a judge
+   - Fill in the summons expiration date (91 days)
+   - File-stamp all copies
+   - Return your stamped copies
+
+5. WRITE DOWN the case number and judge name immediately
+
+6. Ask: "Do I need to file anything else today?"
+   (The answer should be no — complaint + summons is
+   sufficient to initiate)
+
+7. Ask: "What are the service requirements?"
+   (They'll confirm: personal service or certified mail,
+   plaintiff cannot serve — must use process server or
+   any person over 18 who is not a party)
+
+=========================================================
+AFTER FILING
+=========================================================
+
+- The summons expires in 91 days — defendants must be
+  served before it expires (MCR 2.102(D))
+- After service, the process server provides a Proof of
+  Service / Affidavit of Service
+- You file the Proof of Service with the clerk
+- Defendants have 21 days after service to respond
+  (MCR 2.108)
+- If they don't respond → Motion for Default Judgment
+
+=========================================================
+TIMELINE
+=========================================================
+
+Today (Aug 27):     File complaint + MC 01
+This week/next:     Hire process server
+Within 91 days:     Serve all 4 defendants
+21 days after:      Response deadline
+If no response:     Motion for Default Judgment
+If response:        Discovery opens → subpoenas → trial
+
+=========================================================
+

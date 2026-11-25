@@ -1,0 +1,817 @@
+# Edge data for detroit.primals.eco — auto-generated from caseDB
+# Generated: 2026-10-01T14:05:55.778905+00:00
+# Total edges: 107
+
+[[edge]]
+source = "moreland-lamar"
+target = "banks-brian"
+type = "adversary"
+epistemic_status = "record"
+note = """AG representative at TCR 22-12. Argued against reinstatement. Dept objected."""
+source_doc = "TCR 22-12 Final Decision"
+
+[[edge]]
+source = "wayne-foc"
+target = "mitchell-dasean"
+type = "agency"
+epistemic_status = "record"
+note = """FOC hearing Oct 7. Custody proceedings."""
+source_doc = "Court scheduling"
+
+[[edge]]
+source = "banks-brian"
+target = "perkins-todd"
+type = "attorney"
+epistemic_status = "record"
+note = """Perkins represents Banks."""
+source_doc = "Court records"
+
+[[edge]]
+source = "crump-gibson-jehan"
+target = "banks-brian"
+type = "attorney"
+epistemic_status = "record"
+note = """Represents Banks in 4301-CZ"""
+source_doc = "Email Sep 30"
+
+[[edge]]
+source = "meihn-gregory"
+target = "banks-brian"
+type = "attorney"
+epistemic_status = "record"
+note = """Weekly compliance meetings. Testified at TCR 22-12."""
+source_doc = "TCR 22-12 Final Decision"
+
+[[edge]]
+source = "meihn-gregory"
+target = "macdowell"
+type = "attorney"
+epistemic_status = "record"
+note = """Board counsel. Weekly meetings with Banks."""
+source_doc = "TCR 22-12, MDE FOIA"
+
+[[edge]]
+source = "banks-brian"
+target = "judge-miller"
+type = "board-member"
+epistemic_status = "record"
+note = """Miller is PCA Board Chair."""
+source_doc = "DPSCD/PCA records"
+
+[[edge]]
+source = "banks-brian"
+target = "judge-yancey"
+type = "board-member"
+epistemic_status = "record"
+note = """Yancey is MacDowell Board Chair."""
+source_doc = "DPSCD"
+
+[[edge]]
+source = "banks-brian"
+target = "purpose-foundation"
+type = "board-member"
+epistemic_status = "record"
+note = """President + Director."""
+source_doc = "LARA"
+
+[[edge]]
+source = "coffee-winston"
+target = "macdowell"
+type = "board-member"
+epistemic_status = "record"
+note = """Board Director"""
+source_doc = "MacDowell website"
+
+[[edge]]
+source = "hall-verkeydia"
+target = "macdowell"
+type = "board-member"
+epistemic_status = "record"
+note = """Board Director"""
+source_doc = "MacDowell website"
+
+[[edge]]
+source = "holland-joseph"
+target = "purpose-foundation"
+type = "board-member"
+epistemic_status = "record"
+note = """Secretary + Treasurer."""
+source_doc = "LARA"
+
+[[edge]]
+source = "judge-ramsey"
+target = "banks-brian"
+type = "board-member"
+epistemic_status = "record"
+note = """CJC member. PCA board connection."""
+source_doc = "CJC records"
+
+[[edge]]
+source = "longstreet-kristine"
+target = "macdowell"
+type = "board-member"
+epistemic_status = "record"
+note = """Board Director"""
+source_doc = "MacDowell website"
+
+[[edge]]
+source = "mcgee-tynisha"
+target = "macdowell"
+type = "board-member"
+epistemic_status = "record"
+note = """Board Treasurer"""
+source_doc = "MacDowell website"
+
+[[edge]]
+source = "preuss-ric"
+target = "macdowell"
+type = "board-member"
+epistemic_status = "record"
+note = """Board Secretary"""
+source_doc = "MacDowell website"
+
+[[edge]]
+source = "reed-hendon-caryn"
+target = "macdowell"
+type = "board-member"
+epistemic_status = "record"
+note = """Board Vice Chair"""
+source_doc = "MacDowell website"
+
+[[edge]]
+source = "stallworth-west-misha"
+target = "dpscd"
+type = "board-member"
+epistemic_status = "record"
+note = """DPSCD Board member. Charter authorization pipeline."""
+source_doc = "DPSCD records"
+
+[[edge]]
+source = "washington-artesia"
+target = "macdowell"
+type = "board-member"
+epistemic_status = "record"
+note = """Board Treasurer"""
+source_doc = "MacDowell website"
+
+[[edge]]
+source = "wells-stallworth-nicole"
+target = "macdowell"
+type = "board-member"
+epistemic_status = "record"
+note = """Board Chair. Signs Condition #7 verifications."""
+source_doc = "MacDowell website"
+
+[[edge]]
+source = "judge-yancey"
+target = "banks-strategy"
+type = "campaign-payment"
+epistemic_status = "record"
+note = """$383.82 campaign payment to Banks Strategy."""
+source_doc = "TransparencyUSA"
+
+[[edge]]
+source = "banks-brian"
+target = "holland-joseph"
+type = "co-owner"
+epistemic_status = "record"
+note = """JTWRS, Newcastle Rd. QCD June 2007."""
+source_doc = "Wayne ROD"
+
+[[edge]]
+source = "banks-brian"
+target = "dr-charles-mok"
+type = "defamation"
+epistemic_status = "record"
+note = """Banks called Dr. Mok a fraud in group email Sep 29 2026. Defamation per se of licensed professional."""
+source_doc = "Email chain Sep 29"
+
+[[edge]]
+source = "banks-brian"
+target = "holland-joseph"
+type = "domestic-partner"
+epistemic_status = "record"
+note = """Cohabitating domestic and economic unit since at least 2007. Shared addresses, joint property, trust successor, foundation officers."""
+source_doc = "Wayne ROD, LARA, PACER, MDOC"
+
+[[edge]]
+source = "banks-brian"
+target = "macdowell"
+type = "employer"
+epistemic_status = "record"
+note = """Superintendent since 2022."""
+source_doc = "MDE FOIA"
+
+[[edge]]
+source = "banks-brian"
+target = "pca"
+type = "employer"
+epistemic_status = "record"
+note = """Superintendent."""
+source_doc = "LARA/DPSCD"
+
+[[edge]]
+source = "crump-gibson-jehan"
+target = "gllg"
+type = "employer"
+epistemic_status = "record"
+note = """Attorney at Great Lakes Legal Group PLLC"""
+source_doc = "GLLG website"
+
+[[edge]]
+source = "ellis-tracey"
+target = "childrens-center"
+type = "employer"
+epistemic_status = "record"
+note = """CFO at The Children's Center"""
+source_doc = "TCC team page"
+
+[[edge]]
+source = "ellis-tracey"
+target = "purpose-group"
+type = "employer"
+epistemic_status = "record"
+note = """Purpose CFO. Financial officer."""
+source_doc = "Corporate records"
+
+[[edge]]
+source = "head-david"
+target = "mde"
+type = "employer"
+epistemic_status = "record"
+note = """FOIA Coordinator. Exemplary service."""
+source_doc = "MDE FOIA response"
+
+[[edge]]
+source = "meihn-gregory"
+target = "foley-mansfield"
+type = "employer"
+epistemic_status = "record"
+note = """Partner"""
+source_doc = "Firm website"
+
+[[edge]]
+source = "moreland-lamar"
+target = "mi-ag"
+type = "employer"
+epistemic_status = "record"
+note = """Assistant Attorney General. Argued against Banks certificate reinstatement at TCR 22-12."""
+source_doc = "TCR 22-12 Final Decision"
+
+[[edge]]
+source = "schmiedeknecht-katie"
+target = "mde"
+type = "employer"
+epistemic_status = "record"
+note = """MDE OEE Analyst. Gave Banks the admin cert loophole Feb 2022."""
+source_doc = "MDE FOIA"
+
+[[edge]]
+source = "vitti-nicolai"
+target = "dpscd"
+type = "employer"
+epistemic_status = "record"
+note = """Superintendent"""
+source_doc = "DPSCD website"
+
+[[edge]]
+source = "wells-stallworth-nicole"
+target = "childrens-center"
+type = "employer"
+epistemic_status = "record"
+note = """Former CEO (~Jul 2023-2025)"""
+source_doc = "PR Newswire, LinkedIn"
+
+[[edge]]
+source = "schmiedeknecht-katie"
+target = "banks-brian"
+type = "enabler"
+epistemic_status = "record"
+note = """Told Banks he could get admin cert before TCR resolved. 2hr 24min cover-up."""
+source_doc = "MDE FOIA"
+
+[[edge]]
+source = "leno-michele"
+target = "banks-brian"
+type = "evaluator"
+epistemic_status = "record"
+note = """13 sessions over 2 months. Concluded Banks is person of integrity."""
+source_doc = "TCR 22-12 Final Decision"
+
+[[edge]]
+source = "banks-brian"
+target = "welch-tonesa"
+type = "family"
+epistemic_status = "record"
+note = """Half-nephew. OD Banks = both grandfathers."""
+source_doc = "Both autobiographies"
+
+[[edge]]
+source = "judge-sabree-aliyah"
+target = "sabree-eric"
+type = "family"
+epistemic_status = "record"
+note = """Father and daughter."""
+source_doc = "Public record"
+
+[[edge]]
+source = "mitchell-deanna"
+target = "mitchell-dasean"
+type = "family"
+epistemic_status = "record"
+note = """Mother and son."""
+
+[[edge]]
+source = "mitchell-deanna"
+target = "smith-shayla"
+type = "family"
+epistemic_status = "record"
+note = """Paternal grandmother of Sahana and Allanna. Deanna's house is where the Sep 2 assault occurred."""
+
+[[edge]]
+source = "mok-kevin"
+target = "mitchell-dasean"
+type = "family"
+epistemic_status = "record"
+note = """Best friends. Fellow veterans. NOT biological brothers."""
+
+[[edge]]
+source = "perkins-todd"
+target = "judge-perkins-sean"
+type = "family"
+epistemic_status = "record"
+note = """Brothers."""
+source_doc = "Public record"
+
+[[edge]]
+source = "smith-leon"
+target = "smith-marquita"
+type = "family"
+epistemic_status = "record"
+note = """Married."""
+
+[[edge]]
+source = "smith-leon"
+target = "smith-shayla"
+type = "family"
+epistemic_status = "record"
+note = """Father and daughter."""
+
+[[edge]]
+source = "smith-shayla"
+target = "mitchell-dasean"
+type = "family"
+epistemic_status = "record"
+note = """Ex-partner. 2 wedding ceremonies, NO legal marriage certificate. Mother of Sahana (9) and Allanna (7). Shayla ended relationship Feb 2026. Has exercised de facto sole custody ~9 years, no court order."""
+
+[[edge]]
+source = "smith-simone"
+target = "smith-shayla"
+type = "family"
+epistemic_status = "record"
+note = """Sisters (or sister-in-law)."""
+
+[[edge]]
+source = "stallworth-keith"
+target = "stallworth-alma"
+type = "family"
+epistemic_status = "record"
+note = """Son"""
+source_doc = "Public record"
+
+[[edge]]
+source = "stallworth-thomas-iii"
+target = "stallworth-alma"
+type = "family"
+epistemic_status = "record"
+note = """Son"""
+source_doc = "Public record"
+
+[[edge]]
+source = "stallworth-west-misha"
+target = "stallworth-thomas-iii"
+type = "family"
+epistemic_status = "record"
+note = """Father and daughter"""
+source_doc = "Public record"
+
+[[edge]]
+source = "wells-stallworth-nicole"
+target = "stallworth-thomas-iii"
+type = "family"
+epistemic_status = "record"
+note = """Married"""
+source_doc = "Public record"
+
+[[edge]]
+source = "judge-koenig"
+target = "mok-kevin"
+type = "judge-of"
+epistemic_status = "record"
+note = """Presides over PPO cluster (26-4432 through 26-4436) + Kevin PPO on Banks"""
+source_doc = "Court records"
+
+[[edge]]
+source = "judge-stokes"
+target = "mok-kevin"
+type = "judge-of"
+epistemic_status = "record"
+note = """Presides over civil cases 4301-CZ and 4349-CZ"""
+source_doc = "Court records"
+
+[[edge]]
+source = "judge-triplett"
+target = "mitchell-dasean"
+type = "judge-of"
+epistemic_status = "record"
+note = """Presides over custody 26-108221-DC"""
+source_doc = "Court records"
+
+[[edge]]
+source = "referee-biggar"
+target = "mitchell-dasean"
+type = "judge-of"
+epistemic_status = "record"
+note = """FOC referee, Oct 7 hearing"""
+source_doc = "Court records"
+
+[[edge]]
+source = "vitti-nicolai"
+target = "banks-brian"
+type = "mentor"
+epistemic_status = "record"
+note = """Regular mentorship meetings. Testified at TCR 22-12."""
+source_doc = "TCR 22-12 Final Decision"
+
+[[edge]]
+source = "banks-brian"
+target = "banks-strategy"
+type = "owner"
+epistemic_status = "record"
+note = """Sole member."""
+source_doc = "LARA"
+
+[[edge]]
+source = "banks-brian"
+target = "purpose-group"
+type = "owner"
+epistemic_status = "record"
+note = """Sole member."""
+source_doc = "LARA"
+
+[[edge]]
+source = "banks-brian"
+target = "2026-4301-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "banks-brian"
+target = "2026-4349-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "banks-brian"
+target = "26-4435-PH"
+type = "party-to"
+epistemic_status = "record"
+note = """respondent"""
+
+[[edge]]
+source = "banks-brian"
+target = "26-ppo-mok-banks"
+type = "party-to"
+epistemic_status = "record"
+note = """respondent"""
+
+[[edge]]
+source = "crump-gibson-jehan"
+target = "2026-4301-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """attorney-defendant"""
+
+[[edge]]
+source = "crump-gibson-jehan"
+target = "2026-4349-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """attorney-defendant"""
+
+[[edge]]
+source = "ellis-tracey"
+target = "2026-4349-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "holland-joseph"
+target = "2026-4349-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "judge-tremblay"
+target = "26-ppo-mok-banks"
+type = "party-to"
+epistemic_status = "record"
+note = """judge"""
+
+[[edge]]
+source = "macdowell"
+target = "2026-4349-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "mitchell-dasean"
+target = "26-108221-DC"
+type = "party-to"
+epistemic_status = "record"
+note = """petitioner"""
+
+[[edge]]
+source = "mitchell-dasean"
+target = "26-4432-PP"
+type = "party-to"
+epistemic_status = "record"
+note = """petitioner"""
+
+[[edge]]
+source = "mitchell-dasean"
+target = "26-4433-PH"
+type = "party-to"
+epistemic_status = "record"
+note = """petitioner"""
+
+[[edge]]
+source = "mitchell-dasean"
+target = "26-4434-PH"
+type = "party-to"
+epistemic_status = "record"
+note = """petitioner"""
+
+[[edge]]
+source = "mitchell-dasean"
+target = "26-4435-PH"
+type = "party-to"
+epistemic_status = "record"
+note = """petitioner"""
+
+[[edge]]
+source = "mitchell-dasean"
+target = "26-4436-PH"
+type = "party-to"
+epistemic_status = "record"
+note = """petitioner"""
+
+[[edge]]
+source = "mok-kevin"
+target = "2026-4301-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """plaintiff"""
+
+[[edge]]
+source = "mok-kevin"
+target = "2026-4349-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """plaintiff"""
+
+[[edge]]
+source = "mok-kevin"
+target = "26-108221-DC"
+type = "party-to"
+epistemic_status = "record"
+note = """representative"""
+
+[[edge]]
+source = "mok-kevin"
+target = "26-4432-PP"
+type = "party-to"
+epistemic_status = "record"
+note = """expert"""
+
+[[edge]]
+source = "mok-kevin"
+target = "26-ppo-mok-banks"
+type = "party-to"
+epistemic_status = "record"
+note = """petitioner"""
+
+[[edge]]
+source = "pca"
+target = "2026-4349-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "purpose-foundation"
+target = "2026-4349-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "purpose-group"
+target = "2026-4349-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "smith-leon"
+target = "2026-4301-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "smith-leon"
+target = "26-4436-PH"
+type = "party-to"
+epistemic_status = "record"
+note = """respondent"""
+
+[[edge]]
+source = "smith-marquita"
+target = "2026-4301-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "smith-marquita"
+target = "26-4433-PH"
+type = "party-to"
+epistemic_status = "record"
+note = """respondent"""
+
+[[edge]]
+source = "smith-marquita"
+target = "26-47542"
+type = "party-to"
+epistemic_status = "record"
+note = """debtor"""
+
+[[edge]]
+source = "smith-shayla"
+target = "2026-4301-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "smith-shayla"
+target = "26-108221-DC"
+type = "party-to"
+epistemic_status = "record"
+note = """respondent"""
+
+[[edge]]
+source = "smith-shayla"
+target = "26-4432-PP"
+type = "party-to"
+epistemic_status = "record"
+note = """respondent"""
+
+[[edge]]
+source = "smith-simone"
+target = "2026-4301-CZ"
+type = "party-to"
+epistemic_status = "record"
+note = """defendant"""
+
+[[edge]]
+source = "smith-simone"
+target = "26-4434-PH"
+type = "party-to"
+epistemic_status = "record"
+note = """respondent"""
+
+[[edge]]
+source = "smith-simone"
+target = "26-49404-lsg"
+type = "party-to"
+epistemic_status = "record"
+note = """debtor"""
+
+[[edge]]
+source = "mok-kevin"
+target = "doe-oig"
+type = "referral"
+epistemic_status = "record"
+note = """Federal education fraud, credential forgery referral."""
+source_doc = "Email"
+
+[[edge]]
+source = "mok-kevin"
+target = "dpd"
+type = "referral"
+epistemic_status = "record"
+note = """DPD FOIA for police reports. Banks told officers he was an attorney."""
+source_doc = "FOIA request"
+
+[[edge]]
+source = "mok-kevin"
+target = "fbi-detroit"
+type = "referral"
+epistemic_status = "record"
+note = """Federal master packet Sep 22. Banks network RICO + public corruption."""
+source_doc = "Email/fax receipts"
+
+[[edge]]
+source = "mok-kevin"
+target = "jtc"
+type = "referral"
+epistemic_status = "record"
+note = """6 judges traced. JTC confirmed investigation. Notice received."""
+source_doc = "JTC letter"
+
+[[edge]]
+source = "mok-kevin"
+target = "mde"
+type = "referral"
+epistemic_status = "record"
+note = """FOIA Sep 21 (responded Sep 25). Supplement Sep 30 (TCR 22-12). Formal complaint Oct 1."""
+source_doc = "Email chain"
+
+[[edge]]
+source = "mok-kevin"
+target = "mde-professional-practice"
+type = "referral"
+epistemic_status = "record"
+note = """Formal complaint Oct 1 re: TCR 22-12 violations. Acknowledged 9:25 AM."""
+source_doc = "Email"
+
+[[edge]]
+source = "mok-kevin"
+target = "mi-ag"
+type = "referral"
+epistemic_status = "record"
+note = """Referral Sep 9 to AG Moreland."""
+source_doc = "Email"
+
+[[edge]]
+source = "mok-kevin"
+target = "moahr"
+type = "referral"
+epistemic_status = "record"
+note = """FOIA Oct 1 for hearing transcript."""
+source_doc = "Email"
+
+[[edge]]
+source = "mok-kevin"
+target = "state-bar"
+type = "referral"
+epistemic_status = "record"
+note = """Banks UPL complaint filed Aug 31."""
+source_doc = "State Bar portal"
+
+[[edge]]
+source = "mok-kevin"
+target = "usps-oig"
+type = "referral"
+epistemic_status = "record"
+note = """Cases 174517, 202990, 208322. Leon Smith mail interception + forgery."""
+source_doc = "OIG portal"
+
+[[edge]]
+source = "lara"
+target = "banks-strategy"
+type = "registrar"
+epistemic_status = "record"
+note = """LARA 802070120. LLC registration."""
+source_doc = "LARA records"
+
+[[edge]]
+source = "lara"
+target = "purpose-group"
+type = "registrar"
+epistemic_status = "record"
+note = """LARA 803295082. LLC registration."""
+source_doc = "LARA records"
+
+[[edge]]
+source = "shulman-terrence"
+target = "banks-brian"
+type = "therapist"
+epistemic_status = "record"
+note = """6 sessions 2011, 12 sessions 2020-2021. State Bar referral."""
+source_doc = "TCR 22-12 Final Decision"
+
+[[edge]]
+source = "holland-joseph"
+target = "banks-brian"
+type = "trust-successor"
+epistemic_status = "record"
+note = """1st Successor Trustee of Brian Banks Living Trust. Controls 1968 Severn if Banks dies/incapacitated."""
+source_doc = "Wayne ROD Trust Certificate 2025307266"

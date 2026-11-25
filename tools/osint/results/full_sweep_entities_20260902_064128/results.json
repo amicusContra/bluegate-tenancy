@@ -1,0 +1,3572 @@
+[
+  {
+    "source": "pubrecords",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "companies: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:40:58.401498",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "company_details: 802070120 (us_mi)",
+    "timestamp": "2026-09-02T06:40:58.553786",
+    "hit_count": 1,
+    "hits": [
+      {
+        "detail": {
+          "error": "rate_limit_exceeded",
+          "message": "Free tier exhausted. Upgrade at https://mcpize.com/pubrecords-mcp",
+          "upgrade_url": "https://mcpize.com/pubrecords-mcp",
+          "tier": "free"
+        },
+        "status_code": 429
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "federal_spending: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:40:58.632929",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "court_cases: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:40:58.713771",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "dockets: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:40:58.789501",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '429 Too Many Requests' for url 'https://www.courtlistener.com/api/rest/v4/search/?q=Banks+Strategy+%26+Consultants%2C+LLC&type=r&order_by=score+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+  },
+  {
+    "source": "propublica",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "search: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:40:59.120328",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "name: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:40:59.490338",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=Banks+Strategy+%26+Consultants%2C+LLC&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "LARA ID: 802070120",
+    "timestamp": "2026-09-02T06:40:59.690033",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "802070120",
+        "manual_action": "Search entity ID 802070120 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "entity/agent: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:40:59.690046",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Banks Strategy & Consultants, LLC"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "payee: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:40:59.754347",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Banks Strategy & Consultants, LLC'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "committee: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:41:00.230910",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/banks-strategy-&-consultants-llc",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/banks-strategy-%26-consultants-llc/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "lara_mirror: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:41:00.582049",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/banks-strategy-&-consultants-llc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "banks_strategy",
+    "target_name": "Banks Strategy & Consultants, LLC",
+    "query": "companiesmi: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:41:00.646503",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "companies: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:00.773031",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "company_details: 803294855 (us_mi)",
+    "timestamp": "2026-09-02T06:41:00.854981",
+    "hit_count": 1,
+    "hits": [
+      {
+        "detail": {
+          "error": "rate_limit_exceeded",
+          "message": "Free tier exhausted. Upgrade at https://mcpize.com/pubrecords-mcp",
+          "upgrade_url": "https://mcpize.com/pubrecords-mcp",
+          "tier": "free"
+        },
+        "status_code": 429
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "federal_spending: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:00.933237",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "court_cases: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:01.023626",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "dockets: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:01.109556",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '429 Too Many Requests' for url 'https://www.courtlistener.com/api/rest/v4/search/?q=Purpose+Foundation&type=r&order_by=score+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+  },
+  {
+    "source": "propublica",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "EIN: 33-3537910",
+    "timestamp": "2026-09-02T06:41:01.289471",
+    "hit_count": 1,
+    "hits": [
+      {
+        "ein": 333537910,
+        "name": "Purpose Foundation",
+        "address": "1968 SEVERN RD",
+        "city": "Grosse Pt Wds",
+        "state": "MI",
+        "zipcode": "48236-1961",
+        "ntee_code": "B90",
+        "ruling_date": "2025-11-01",
+        "tax_period": null,
+        "asset_amount": null,
+        "income_amount": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "search: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:01.367434",
+    "hit_count": 25,
+    "hits": [
+      {
+        "ein": 871052945,
+        "name": "Pure Purple Purpose Foundation Inc",
+        "city": "Port Orange",
+        "state": "FL",
+        "ntee_code": "T22",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 472022288,
+        "name": "Purpose Foundation",
+        "city": "Malvern",
+        "state": "PA",
+        "ntee_code": "P12",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 273106760,
+        "name": "Purpose Foundation",
+        "city": "Island Park",
+        "state": "NY",
+        "ntee_code": "B99",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 464053103,
+        "name": "Purpose Foundation",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "ntee_code": "O50",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 833872110,
+        "name": "Purpose Foundation",
+        "city": "Washington",
+        "state": "DC",
+        "ntee_code": "P99",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 333537910,
+        "name": "Purpose Foundation",
+        "city": "Grosse Pt Wds",
+        "state": "MI",
+        "ntee_code": "B90",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 473991804,
+        "name": "Purpose Foundation",
+        "city": "Mason",
+        "state": "TN",
+        "ntee_code": "P30",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 661035437,
+        "name": "Purpose With Purpose Foundation Inc",
+        "city": "San Juan",
+        "state": "PR",
+        "ntee_code": "B99",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 862611444,
+        "name": "Purpose On Purpose Foundation Pop Inc",
+        "city": "Chula Vista",
+        "state": "CA",
+        "ntee_code": "P20",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 844085732,
+        "name": "4th Purpose Foundation",
+        "city": "Knoxville",
+        "state": "TN",
+        "ntee_code": "T30",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 873786137,
+        "name": "Our Purpose Foundation",
+        "city": "Mclean",
+        "state": "VA",
+        "ntee_code": "T20",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 920787157,
+        "name": "Soul Purpose Foundation",
+        "city": "Midway",
+        "state": "UT",
+        "ntee_code": "O50",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 831475192,
+        "name": "Patricks Purpose Foundation",
+        "city": "Newport Beach",
+        "state": "CA",
+        "ntee_code": "B90",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 455435390,
+        "name": "His Purpose Foundation",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "ntee_code": "P99",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 921670880,
+        "name": "For Purpose Foundation",
+        "city": "Cardiff",
+        "state": "CA",
+        "ntee_code": "W99",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 882443638,
+        "name": "Purpose Driven Foundation",
+        "city": "Bakersfield",
+        "state": "CA",
+        "ntee_code": "E92",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 844864978,
+        "name": "Command Purpose Foundation",
+        "city": "Middletown",
+        "state": "DE",
+        "ntee_code": "W30",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 992572368,
+        "name": "Gios Purpose Foundation",
+        "city": "Houston",
+        "state": "TX",
+        "ntee_code": "B82",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 991240248,
+        "name": "Living Purpose Foundation",
+        "city": "New York",
+        "state": "NY",
+        "ntee_code": "T30",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 932397870,
+        "name": "Access Purpose Foundation",
+        "city": "Philadelphia",
+        "state": "PA",
+        "ntee_code": "O50",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 992910800,
+        "name": "All Purpose Foundation",
+        "city": "Chicago",
+        "state": "IL",
+        "ntee_code": "P12",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 394811180,
+        "name": "Bold Purpose Foundation",
+        "city": "Dallas",
+        "state": "TX",
+        "ntee_code": "B99",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 874170984,
+        "name": "For Purpose Foundation",
+        "city": "Laramie",
+        "state": "WY",
+        "ntee_code": "B82",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 465274081,
+        "name": "Grand Purpose Foundation",
+        "city": "Bulverde",
+        "state": "TX",
+        "ntee_code": "P20",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 873693396,
+        "name": "Greater Purpose Foundation",
+        "city": "Moab",
+        "state": "UT",
+        "ntee_code": "S12",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "EIN: 33-3537910",
+    "timestamp": "2026-09-02T06:41:01.592680",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?Ein=333537910&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "name: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:01.711419",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=Purpose+Foundation&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "LARA ID: 803294855",
+    "timestamp": "2026-09-02T06:41:01.828979",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "803294855",
+        "manual_action": "Search entity ID 803294855 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "entity/agent: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:01.828996",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Purpose Foundation"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "payee: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:01.911916",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Purpose Foundation'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "committee: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:02.413568",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/purpose-foundation",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/purpose-foundation#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/purpose-foundation?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/purpose-foundation?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/purpose-foundation?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/purpose-foundation?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/purpose-foundation?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/purpose-foundation"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/purpose-foundation"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/purpose-foundation/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/purpose-foundation/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/purpose-foundation/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/purpose-foundation/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/purpose-foundation/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/purpose-foundation/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "lara_mirror: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:02.755690",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/purpose-foundation/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "purpose_foundation",
+    "target_name": "Purpose Foundation",
+    "query": "companiesmi: Purpose Foundation",
+    "timestamp": "2026-09-02T06:41:02.818096",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "companies: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:02.943966",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "company_details: 803295082 (us_mi)",
+    "timestamp": "2026-09-02T06:41:03.023583",
+    "hit_count": 1,
+    "hits": [
+      {
+        "detail": {
+          "error": "rate_limit_exceeded",
+          "message": "Free tier exhausted. Upgrade at https://mcpize.com/pubrecords-mcp",
+          "upgrade_url": "https://mcpize.com/pubrecords-mcp",
+          "tier": "free"
+        },
+        "status_code": 429
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "federal_spending: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:03.103709",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "court_cases: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:03.180686",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "dockets: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:03.260658",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '429 Too Many Requests' for url 'https://www.courtlistener.com/api/rest/v4/search/?q=The+Purpose+Group%2C+LLC&type=r&order_by=score+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+  },
+  {
+    "source": "propublica",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "search: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:03.439153",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "name: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:03.725698",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=The+Purpose+Group%2C+LLC&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "LARA ID: 803295082",
+    "timestamp": "2026-09-02T06:41:03.959668",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "803295082",
+        "manual_action": "Search entity ID 803295082 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "entity/agent: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:03.959679",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "The Purpose Group, LLC"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "payee: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:04.022866",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'The Purpose Group, LLC'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "committee: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:04.534140",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/the-purpose-group-llc",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/the-purpose-group-llc#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/the-purpose-group-llc?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/the-purpose-group-llc?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/the-purpose-group-llc?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/the-purpose-group-llc?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/the-purpose-group-llc?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/the-purpose-group-llc"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/the-purpose-group-llc"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/the-purpose-group-llc/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/the-purpose-group-llc/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/the-purpose-group-llc/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/the-purpose-group-llc/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/the-purpose-group-llc/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/the-purpose-group-llc/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "lara_mirror: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:04.857728",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/the-purpose-group-llc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "purpose_group",
+    "target_name": "The Purpose Group, LLC",
+    "query": "companiesmi: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:41:04.922563",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "companies: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:05.036103",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "federal_spending: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:05.115540",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "court_cases: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:05.200172",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "dockets: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:05.282083",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "HORTON v. RIGHT TURN SUPPLY, LLC",
+        "court": "District Court, W.D. Pennsylvania",
+        "court_citation": "W.D. Pa.",
+        "date_filed": "2019-10-03",
+        "docket_number": "2:19-cv-01271",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Florence Immigrant and Refugee Rights Project v. Mayes",
+        "court": "District Court, D. Arizona",
+        "court_citation": "D. Ariz.",
+        "date_filed": "2026-07-09",
+        "docket_number": "2:26-cv-04831",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "The Transport Project v. EPA",
+        "court": "Court of Appeals for the D.C. Circuit",
+        "court_citation": "D.C. Cir.",
+        "date_filed": "2024-06-21",
+        "docket_number": "24-1214",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "PROTECT DEMOCRACY PROJECT v. U.S. DEPARTMENT OF THE TREASURY",
+        "court": "District Court, District of Columbia",
+        "court_citation": "D.D.C.",
+        "date_filed": "2025-11-24",
+        "docket_number": "1:25-cv-04101",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "In re: Media and Democracy Project",
+        "court": "Court of Appeals for the D.C. Circuit",
+        "court_citation": "D.C. Cir.",
+        "date_filed": "2026-07-14",
+        "docket_number": "26-1183",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "TURKEL v. UYGHUR HUMAN RIGHTS PROJECT",
+        "court": "District Court, District of Columbia",
+        "court_citation": "D.D.C.",
+        "date_filed": "2024-10-01",
+        "docket_number": "1:24-cv-02783",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Hiscox Insurance Company Inc. v. The Glass Door Project, Inc.",
+        "court": "District Court, D. Maryland",
+        "court_citation": "D. Maryland",
+        "date_filed": "2025-06-17",
+        "docket_number": "1:25-cv-01946",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Gaspar v. Turn Technologies Inc",
+        "court": "District Court, W.D. Washington",
+        "court_citation": "W.D. Wash.",
+        "date_filed": "2023-08-21",
+        "docket_number": "2:23-cv-01274",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Underground Railroad History Project of the Capitol Region v. National Endowment for the Humanities",
+        "court": "District Court, N.D. New York",
+        "court_citation": "N.D.N.Y.",
+        "date_filed": "2026-03-20",
+        "docket_number": "1:26-cv-00447",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Lisa Roth v. The Perch Project, LLC",
+        "court": "District Court, C.D. California",
+        "court_citation": "C.D. Cal.",
+        "date_filed": "2024-04-04",
+        "docket_number": "2:24-cv-02756",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Johnson v. The Donation Funnel Project, Inc.",
+        "court": "District Court, W.D. North Carolina",
+        "court_citation": "W.D.N.C.",
+        "date_filed": "2022-10-26",
+        "docket_number": "1:22-cv-00230",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Milne v. Project Primus, Inc.",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2025-02-07",
+        "docket_number": "1:25-cv-01113",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Kiler v. The Farm Project, PBC",
+        "court": "District Court, E.D. New York",
+        "court_citation": "E.D.N.Y",
+        "date_filed": "2021-03-31",
+        "docket_number": "1:21-cv-01747",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "The Cincinnati Specialty Underwriters Insurance Company v. Kansas City Pet Project",
+        "court": "District Court, W.D. Missouri",
+        "court_citation": "W.D. Mo.",
+        "date_filed": "2026-02-26",
+        "docket_number": "4:26-cv-00170",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "United States v. TURN 14 DISTRIBUTION, INC.",
+        "court": "District Court, E.D. Pennsylvania",
+        "court_citation": "E.D. Pa.",
+        "date_filed": "2025-01-16",
+        "docket_number": "2:25-cv-00281",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Hussein v. Project 1920, Inc.",
+        "court": "District Court, N.D. Illinois",
+        "court_citation": "N.D. Ill.",
+        "date_filed": "2026-05-15",
+        "docket_number": "1:26-cv-05703",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Protect Democracy Project, Inc. v. OMB",
+        "court": "Court of Appeals for the D.C. Circuit",
+        "court_citation": "D.C. Cir.",
+        "date_filed": "2025-07-23",
+        "docket_number": "25-5267",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "US RIGHT TO KNOW v. CENTRAL INTELLIGENCE AGENCY",
+        "court": "District Court, District of Columbia",
+        "court_citation": "D.D.C.",
+        "date_filed": "2025-08-01",
+        "docket_number": "1:25-cv-02496",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "The New Georgia Project v. Raffensperger",
+        "court": "District Court, N.D. Georgia",
+        "court_citation": "N.D. Ga.",
+        "date_filed": "2020-05-08",
+        "docket_number": "1:20-cv-01986",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tennessee Equality Project Foundation, Inc. v. The City of Murfreesboro, Tennessee",
+        "court": "District Court, M.D. Tennessee",
+        "court_citation": "M.D. Tenn.",
+        "date_filed": "2023-10-06",
+        "docket_number": "3:23-cv-01044",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "search: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:06.809958",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "name: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:07.046408",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=The+Right+Turn+Project&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "entity/agent: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:07.169779",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "The Right Turn Project"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "payee: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:07.237539",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'The Right Turn Project'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "committee: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:07.788636",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/the-right-turn-project",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/the-right-turn-project#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/the-right-turn-project?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/the-right-turn-project?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/the-right-turn-project?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/the-right-turn-project?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/the-right-turn-project?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/the-right-turn-project"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/the-right-turn-project"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/the-right-turn-project/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/the-right-turn-project/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/the-right-turn-project/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/the-right-turn-project/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/the-right-turn-project/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/the-right-turn-project/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "lara_mirror: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:08.228852",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/the-right-turn-project/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "right_turn",
+    "target_name": "The Right Turn Project",
+    "query": "companiesmi: The Right Turn Project",
+    "timestamp": "2026-09-02T06:41:08.293060",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "companies: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:08.411434",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "company_details: 801438906 (us_mi)",
+    "timestamp": "2026-09-02T06:41:08.488058",
+    "hit_count": 1,
+    "hits": [
+      {
+        "detail": {
+          "error": "rate_limit_exceeded",
+          "message": "Free tier exhausted. Upgrade at https://mcpize.com/pubrecords-mcp",
+          "upgrade_url": "https://mcpize.com/pubrecords-mcp",
+          "tier": "free"
+        },
+        "status_code": 429
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "federal_spending: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:08.569811",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "court_cases: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:08.657176",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "dockets: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:08.735550",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '429 Too Many Requests' for url 'https://www.courtlistener.com/api/rest/v4/search/?q=Yecart+Accounting+Services%2C+LLC&type=r&order_by=score+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+  },
+  {
+    "source": "propublica",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "search: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:08.939277",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "name: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:09.196453",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=Yecart+Accounting+Services%2C+LLC&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "LARA ID: 801438906",
+    "timestamp": "2026-09-02T06:41:09.320652",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "801438906",
+        "manual_action": "Search entity ID 801438906 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "entity/agent: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:09.320666",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Yecart Accounting Services, LLC"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "payee: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:09.387525",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Yecart Accounting Services, LLC'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "committee: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:09.913781",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/yecart-accounting-services-llc",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/yecart-accounting-services-llc#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/yecart-accounting-services-llc?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/yecart-accounting-services-llc?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/yecart-accounting-services-llc?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/yecart-accounting-services-llc?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/yecart-accounting-services-llc?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/yecart-accounting-services-llc"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/yecart-accounting-services-llc"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/yecart-accounting-services-llc/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/yecart-accounting-services-llc/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/yecart-accounting-services-llc/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/yecart-accounting-services-llc/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/yecart-accounting-services-llc/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/yecart-accounting-services-llc/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "lara_mirror: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:10.348980",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/yecart-accounting-services-llc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "yecart_accounting",
+    "target_name": "Yecart Accounting Services, LLC",
+    "query": "companiesmi: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:41:10.413379",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "companies: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:10.524414",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "federal_spending: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:10.605208",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "court_cases: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:10.682585",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "dockets: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:10.764317",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '429 Too Many Requests' for url 'https://www.courtlistener.com/api/rest/v4/search/?q=Yecart+L.L.C.&type=r&order_by=score+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+  },
+  {
+    "source": "propublica",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "search: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:11.020684",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "name: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:11.287280",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=Yecart+L.L.C.&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "entity/agent: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:11.492535",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Yecart L.L.C."
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "payee: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:11.565726",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Yecart L.L.C.'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "committee: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:12.037567",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/yecart-l.l.c.",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/yecart-l.l.c.#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/yecart-l.l.c.?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/yecart-l.l.c.?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/yecart-l.l.c.?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/yecart-l.l.c.?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/yecart-l.l.c.?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/yecart-l.l.c."
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/yecart-l.l.c."
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/yecart-l.l.c./contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/yecart-l.l.c./payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/yecart-l.l.c./loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/yecart-l.l.c./contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/yecart-l.l.c./payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/yecart-l.l.c./loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "lara_mirror: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:12.377050",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/yecart-llc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "yecart_llc",
+    "target_name": "Yecart L.L.C.",
+    "query": "companiesmi: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:41:12.445061",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "companies: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:12.560048",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "federal_spending: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:12.640386",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "court_cases: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:12.721259",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "dockets: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:12.801305",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '429 Too Many Requests' for url 'https://www.courtlistener.com/api/rest/v4/search/?q=Perkins+Law+Group%2C+PLLC&type=r&order_by=score+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+  },
+  {
+    "source": "propublica",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "search: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:12.986525",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "name: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:13.283085",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=Perkins+Law+Group%2C+PLLC&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "entity/agent: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:13.476708",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Perkins Law Group, PLLC"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "payee: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:13.540631",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Perkins Law Group, PLLC'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "committee: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:14.076323",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/perkins-law-group-pllc",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/perkins-law-group-pllc#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/perkins-law-group-pllc?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/perkins-law-group-pllc?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/perkins-law-group-pllc?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/perkins-law-group-pllc?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/perkins-law-group-pllc?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/perkins-law-group-pllc"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/perkins-law-group-pllc"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/perkins-law-group-pllc/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/perkins-law-group-pllc/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/perkins-law-group-pllc/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/perkins-law-group-pllc/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/perkins-law-group-pllc/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/perkins-law-group-pllc/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "lara_mirror: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:14.376084",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/perkins-law-group-pllc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "perkins_law_group",
+    "target_name": "Perkins Law Group, PLLC",
+    "query": "companiesmi: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:14.460085",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "companies: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:14.581229",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "company_details: E4526W (us_mi)",
+    "timestamp": "2026-09-02T06:41:14.663601",
+    "hit_count": 1,
+    "hits": [
+      {
+        "detail": {
+          "error": "rate_limit_exceeded",
+          "message": "Free tier exhausted. Upgrade at https://mcpize.com/pubrecords-mcp",
+          "upgrade_url": "https://mcpize.com/pubrecords-mcp",
+          "tier": "free"
+        },
+        "status_code": 429
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "federal_spending: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:14.741564",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "court_cases: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:14.843451",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "dockets: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:14.924249",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "Harris v. Cordoba Legal Group PLLC",
+        "court": "District Court, N.D. Alabama",
+        "court_citation": "N.D. Ala.",
+        "date_filed": "2026-02-26",
+        "docket_number": "2:26-cv-00332",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "MMA Law Firm, PLLC and Official Committee of Unsecured Creditors",
+        "court": "United States Bankruptcy Court, S.D. Texas",
+        "court_citation": "Bankr. S.D. Tex.",
+        "date_filed": "2024-04-09",
+        "docket_number": "24-31596",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Paxson v. Yancey",
+        "court": "District Court, N.D. Illinois",
+        "court_citation": "N.D. Ill.",
+        "date_filed": "2016-06-02",
+        "docket_number": "1:16-cv-05787",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "ATHENA MEDICAL GROUP, LLC",
+        "court": "United States Bankruptcy Court, D. Arizona",
+        "court_citation": "Bankr. D. Ariz.",
+        "date_filed": "2023-03-15",
+        "docket_number": "2:23-bk-01635",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Massarello v. Power Home Remodeling Group, LLC",
+        "court": "District Court, M.D. Alabama",
+        "court_citation": "M.D. Ala.",
+        "date_filed": "2024-08-08",
+        "docket_number": "3:24-cv-00499",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Massarello v. Power Home Remodeling Group, LLC",
+        "court": "District Court, E.D. Michigan",
+        "court_citation": "E.D. Mich.",
+        "date_filed": "2024-09-20",
+        "docket_number": "2:24-cv-12480",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Yancey v. City of Seabrook, Texas",
+        "court": "District Court, S.D. Texas",
+        "court_citation": "S.D. Tex.",
+        "date_filed": "2020-02-20",
+        "docket_number": "4:20-cv-00588",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Franchise Group, Inc.",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation": "Bankr. D. Del.",
+        "date_filed": "2024-11-03",
+        "docket_number": "24-12480",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Port Elizabeth Terminal & Warehouse Corp. and Amex Shipping Agent, Inc.",
+        "court": "United States Bankruptcy Court, D. New Jersey",
+        "court_citation": "Bankr. D.N.J.",
+        "date_filed": "2025-11-14",
+        "docket_number": "25-22123",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "QueerDoc PLLC v. United States Department of Justice",
+        "court": "District Court, W.D. Washington",
+        "court_citation": "W.D. Wash.",
+        "date_filed": "2025-07-08",
+        "docket_number": "2:25-mc-00042",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Kane v. Yancey",
+        "court": "District Court, S.D. Texas",
+        "court_citation": "S.D. Tex.",
+        "date_filed": "2015-06-29",
+        "docket_number": "4:15-cv-01861",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Digging Dirt Site Works, LLC",
+        "court": "United States Bankruptcy Court, S.D. Georgia",
+        "court_citation": "Bankr. S.D. Ga.",
+        "date_filed": "2025-12-19",
+        "docket_number": "25-10976",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Michael E Carey",
+        "court": "United States Bankruptcy Court, M.D. Pennsylvania",
+        "court_citation": "Bankr. M.D. Penn.",
+        "date_filed": "2023-09-25",
+        "docket_number": "4:23-bk-02191",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Monson v. McClenny Moseley & Associates, PLLC",
+        "court": "District Court, S.D. Texas",
+        "court_citation": "S.D. Tex.",
+        "date_filed": "2023-03-14",
+        "docket_number": "4:23-cv-00928",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "LeClairRyan PLLC",
+        "court": "United States Bankruptcy Court, E.D. Virginia",
+        "court_citation": "Bankr. E.D. Va.",
+        "date_filed": "2019-09-03",
+        "docket_number": "19-34574",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "MGM ACADEMIC GROUP LLC",
+        "court": "United States Bankruptcy Court, E.D. Virginia",
+        "court_citation": "Bankr. E.D. Va.",
+        "date_filed": "2016-06-23",
+        "docket_number": "16-12188",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "SD Restaurant Group, LLC",
+        "court": "United States Bankruptcy Court, W.D. North Carolina",
+        "court_citation": "Bankr. W.D.N.C.",
+        "date_filed": "2020-02-07",
+        "docket_number": "20-30154",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Hachette Book Group, Inc. v. Internet Archive",
+        "court": "Court of Appeals for the Second Circuit",
+        "court_citation": "2d Cir.",
+        "date_filed": "2023-09-12",
+        "docket_number": "23-1260",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "At Home Group Inc.",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation": "Bankr. D. Del.",
+        "date_filed": "2025-06-16",
+        "docket_number": "25-11120",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Franchise Group Acquisition TM, LLC",
+        "court": "United States Bankruptcy Court, D. Delaware",
+        "court_citation": "Bankr. D. Del.",
+        "date_filed": "2024-11-03",
+        "docket_number": "24-12524",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "search: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:15.696131",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "name: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:15.946270",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=Yancey+Law+Group%2C+PLLC&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "LARA ID: E4526W",
+    "timestamp": "2026-09-02T06:41:16.067255",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "E4526W",
+        "manual_action": "Search entity ID E4526W at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "entity/agent: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:16.067265",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Yancey Law Group, PLLC"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "payee: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:16.134345",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Yancey Law Group, PLLC'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "committee: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:16.641549",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/yancey-law-group-pllc",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/yancey-law-group-pllc#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/yancey-law-group-pllc?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/yancey-law-group-pllc?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/yancey-law-group-pllc?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/yancey-law-group-pllc?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/yancey-law-group-pllc?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/yancey-law-group-pllc"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/yancey-law-group-pllc"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/yancey-law-group-pllc/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/yancey-law-group-pllc/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/yancey-law-group-pllc/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/yancey-law-group-pllc/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/yancey-law-group-pllc/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/yancey-law-group-pllc/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "lara_mirror: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:16.946904",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/yancey-law-group-pllc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "yancey_law_group",
+    "target_name": "Yancey Law Group, PLLC",
+    "query": "companiesmi: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:41:17.008716",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "companies: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:17.126811",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "company_details: 764376 (us_mi)",
+    "timestamp": "2026-09-02T06:41:17.205795",
+    "hit_count": 1,
+    "hits": [
+      {
+        "detail": {
+          "error": "rate_limit_exceeded",
+          "message": "Free tier exhausted. Upgrade at https://mcpize.com/pubrecords-mcp",
+          "upgrade_url": "https://mcpize.com/pubrecords-mcp",
+          "tier": "free"
+        },
+        "status_code": 429
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "federal_spending: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:17.286481",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "court_cases: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:17.369650",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "dockets: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:17.450342",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '429 Too Many Requests' for url 'https://www.courtlistener.com/api/rest/v4/search/?q=Workforce+Asset+and+Investment+Agency&type=r&order_by=score+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+  },
+  {
+    "source": "propublica",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "search: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:17.638478",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "name: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:17.904430",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=Workforce+Asset+and+Investment+Agency&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "LARA ID: 764376",
+    "timestamp": "2026-09-02T06:41:18.027983",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "764376",
+        "manual_action": "Search entity ID 764376 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "entity/agent: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:18.027997",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Workforce Asset and Investment Agency"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "payee: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:18.094881",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Workforce Asset and Investment Agency'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "committee: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:18.594458",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/workforce-asset-and-investment-agency",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/workforce-asset-and-investment-agency#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/workforce-asset-and-investment-agency?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/workforce-asset-and-investment-agency?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/workforce-asset-and-investment-agency?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/workforce-asset-and-investment-agency?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/workforce-asset-and-investment-agency?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/workforce-asset-and-investment-agency"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/workforce-asset-and-investment-agency"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/workforce-asset-and-investment-agency/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/workforce-asset-and-investment-agency/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/workforce-asset-and-investment-agency/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/workforce-asset-and-investment-agency/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/workforce-asset-and-investment-agency/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/workforce-asset-and-investment-agency/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "lara_mirror: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:18.939078",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/workforce-asset-and-investment-agency/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "workforce_asset",
+    "target_name": "Workforce Asset and Investment Agency",
+    "query": "companiesmi: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:41:19.008369",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "companies: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:19.120204",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "federal_spending: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:19.197356",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "court_cases: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:19.281211",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "dockets: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:19.384959",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '429 Too Many Requests' for url 'https://www.courtlistener.com/api/rest/v4/search/?q=MacDowell+Preparatory+Academy&type=r&order_by=score+desc'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+  },
+  {
+    "source": "propublica",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "search: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:19.625052",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "name: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:19.877199",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=MacDowell+Preparatory+Academy&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "entity/agent: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:20.040179",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "MacDowell Preparatory Academy"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "payee: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:20.103555",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'MacDowell Preparatory Academy'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "committee: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:20.632677",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/macdowell-preparatory-academy",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/macdowell-preparatory-academy#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/macdowell-preparatory-academy?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/macdowell-preparatory-academy?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/macdowell-preparatory-academy?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/macdowell-preparatory-academy?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/macdowell-preparatory-academy?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/macdowell-preparatory-academy"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/macdowell-preparatory-academy"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/macdowell-preparatory-academy/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/macdowell-preparatory-academy/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/macdowell-preparatory-academy/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/macdowell-preparatory-academy/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/macdowell-preparatory-academy/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/macdowell-preparatory-academy/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "lara_mirror: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:20.948133",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/macdowell-preparatory-academy/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "macdowell_prep",
+    "target_name": "MacDowell Preparatory Academy",
+    "query": "companiesmi: MacDowell Preparatory Academy",
+    "timestamp": "2026-09-02T06:41:21.017689",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "companies: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:21.157969",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "federal_spending: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:21.243928",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "court_cases: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:21.327612",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "dockets: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:21.407947",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "Joyner v. Success Academy Charter Schools, Inc.",
+        "court": "District Court, E.D. New York",
+        "court_citation": "E.D.N.Y",
+        "date_filed": "2026-07-29",
+        "docket_number": "1:26-cv-04566",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Success Academy Charter Schools-NYC v. Rosa",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2026-08-27",
+        "docket_number": "1:26-cv-07298",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Hall v. The Academy Charter School",
+        "court": "District Court, E.D. New York",
+        "court_citation": "E.D.N.Y",
+        "date_filed": "2024-12-18",
+        "docket_number": "2:24-cv-08630",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Ellis v. Burton Glen Charter Academy",
+        "court": "District Court, E.D. Michigan",
+        "court_citation": "E.D. Mich.",
+        "date_filed": "2026-08-25",
+        "docket_number": "2:26-cv-13041",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Melendez v. Success Academy Charter Schools",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2024-09-09",
+        "docket_number": "1:24-cv-06802",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Marte v. Success Academy Charter Schools, Inc.",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2025-01-24",
+        "docket_number": "1:25-cv-00721",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Dunbar v. Cardinal Charter Academy",
+        "court": "District Court, E.D. North Carolina",
+        "court_citation": "E.D.N.C.",
+        "date_filed": "2024-02-05",
+        "docket_number": "5:24-cv-00066",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Johnson v. York Academy Regional Charter School",
+        "court": "District Court, M.D. Pennsylvania",
+        "court_citation": "M.D. Penn.",
+        "date_filed": "2023-01-05",
+        "docket_number": "1:23-cv-00017",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Cole v. Erie Rise Leadership Academy Charter School",
+        "court": "District Court, W.D. Pennsylvania",
+        "court_citation": "W.D. Pa.",
+        "date_filed": "2024-05-02",
+        "docket_number": "1:24-cv-00119",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Harriott v. Success Academy Charter Schools",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2022-04-12",
+        "docket_number": "1:22-cv-03037",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tucker v. Charter School Associates, Inc.",
+        "court": "District Court, M.D. Florida",
+        "court_citation": "M.D. Fla.",
+        "date_filed": "2025-08-27",
+        "docket_number": "8:25-cv-02289",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Times v. Success Academy Charter Schools, Inc.",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2023-04-18",
+        "docket_number": "1:23-cv-03229",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Blanco v. Success Academy Charter Schools, Inc.",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2023-02-27",
+        "docket_number": "1:23-cv-01652",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "DUDLEY v. ACADEMY OF HOPE ADULT CHARTER SCHOOL",
+        "court": "District Court, District of Columbia",
+        "court_citation": "D.D.C.",
+        "date_filed": "2023-03-23",
+        "docket_number": "1:23-cv-00786",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Phillips v. The Academy Charter School",
+        "court": "District Court, E.D. New York",
+        "court_citation": "E.D.N.Y",
+        "date_filed": "2020-10-03",
+        "docket_number": "2:20-cv-04738",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Mancuso v. Southwest Louisiana Charter Academy Foundation Inc",
+        "court": "District Court, W.D. Louisiana",
+        "court_citation": "W.D. La.",
+        "date_filed": "2023-11-20",
+        "docket_number": "2:23-cv-01642",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Kiraka v. Success Academy Charter School, Hudson Yards",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2024-03-25",
+        "docket_number": "1:24-cv-02354",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Cardona v. Polaris Charter Academy",
+        "court": "District Court, N.D. Illinois",
+        "court_citation": "N.D. Ill.",
+        "date_filed": "2021-09-22",
+        "docket_number": "1:21-cv-05013",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Simmons v. Success Academy Charter Schools, Inc.",
+        "court": "District Court, S.D. New York",
+        "court_citation": "S.D.N.Y.",
+        "date_filed": "2021-12-06",
+        "docket_number": "1:21-cv-10367",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Harmon v. Countryside Academy",
+        "court": "District Court, W.D. Michigan",
+        "court_citation": "W.D. Mich.",
+        "date_filed": "2025-02-03",
+        "docket_number": "1:25-cv-00120",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "search: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:23.883865",
+    "hit_count": 1,
+    "hits": [
+      {
+        "ein": 471458629,
+        "name": "Purpose Character Leadership Academy",
+        "city": "Meriden",
+        "state": "CT",
+        "ntee_code": "B24",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "name: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:24.046812",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=Purpose+Charter+Academy&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "entity/agent: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:24.193427",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Purpose Charter Academy"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "payee: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:24.257940",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'Purpose Charter Academy'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "committee: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:24.738726",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/purpose-charter-academy",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/purpose-charter-academy#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/purpose-charter-academy?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/purpose-charter-academy?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/purpose-charter-academy?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/purpose-charter-academy?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/purpose-charter-academy?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/purpose-charter-academy"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/purpose-charter-academy"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/purpose-charter-academy/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/purpose-charter-academy/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/purpose-charter-academy/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/purpose-charter-academy/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/purpose-charter-academy/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/purpose-charter-academy/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "lara_mirror: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:25.058778",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/purpose-charter-academy/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "purpose_charter",
+    "target_name": "Purpose Charter Academy",
+    "query": "companiesmi: Purpose Charter Academy",
+    "timestamp": "2026-09-02T06:41:25.129945",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "companies: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:25.252474",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "federal_spending: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:25.332273",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "court_cases: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:25.412812",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "dockets: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:25.494123",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "Delta Ecommerce LLC v. HAS Brands, LLC",
+        "court": "District Court, N.D. California",
+        "court_citation": "N.D. Cal.",
+        "date_filed": "2025-08-20",
+        "docket_number": "5:25-cv-07069",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Metzfab Industries, LLC v. The Individuals, Corporations, Limited Liability Companies, Partnerships, and Unincorporated Associations Identified on Schedule A",
+        "court": "District Court, S.D. Florida",
+        "court_citation": "S.D. Fla.",
+        "date_filed": "2024-06-06",
+        "docket_number": "1:24-cv-22191",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Inner City Contracting LLC v. Charter Township of Northville, Michigan",
+        "court": "District Court, E.D. Michigan",
+        "court_citation": "E.D. Mich.",
+        "date_filed": "2022-06-17",
+        "docket_number": "2:22-cv-11349",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Barrington v. General Motors LLC, a Delaware limited liability company",
+        "court": "District Court, N.D. California",
+        "court_citation": "N.D. Cal.",
+        "date_filed": "2020-03-31",
+        "docket_number": "3:20-cv-02194",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Barrington v. General Motors LLC, a Delaware limited liability company CASE CLOSED - ALL ENTRIES MUST BE MADE IN 20-11057.",
+        "court": "District Court, E.D. Michigan",
+        "court_citation": "E.D. Mich.",
+        "date_filed": "2020-07-21",
+        "docket_number": "2:20-cv-11956",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "FMT IP LLC v. Waist Snatchers LLC",
+        "court": "District Court, S.D. Florida",
+        "court_citation": "S.D. Fla.",
+        "date_filed": "2025-09-22",
+        "docket_number": "0:25-cv-61895",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "OBD Sensor Solutions, LLC v. Linxup, LLC",
+        "court": "District Court, W.D. North Carolina",
+        "court_citation": "W.D.N.C.",
+        "date_filed": "2024-10-21",
+        "docket_number": "3:24-cv-00928",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Davaus, LLC v. S7 IP Holdings, LLC",
+        "court": "District Court, D. South Dakota",
+        "court_citation": "D.S.D.",
+        "date_filed": "2025-03-05",
+        "docket_number": "1:25-cv-01003",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Wallace v. Sharkninja Operating, LLC",
+        "court": "District Court, N.D. California",
+        "court_citation": "N.D. Cal.",
+        "date_filed": "2018-08-24",
+        "docket_number": "5:18-cv-05221",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Davaus, LLC v. S7 IP Holdings, LLC",
+        "court": "District Court, N.D. Indiana",
+        "court_citation": "N.D. Ind.",
+        "date_filed": "2023-09-18",
+        "docket_number": "1:23-cv-00398",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Inspired Pursuits LLC v. Paragon Component Systems LLC",
+        "court": "District Court, W.D. Wisconsin",
+        "court_citation": "W.D. Wis.",
+        "date_filed": "2025-01-31",
+        "docket_number": "3:25-cv-00075",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "OBD Sensor Solutions LLC v. UAB Xirgo Global",
+        "court": "District Court, E.D. Texas",
+        "court_citation": "E.D. Tex.",
+        "date_filed": "2026-08-06",
+        "docket_number": "2:26-cv-00657",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "KAIFI LLC v. GOOGLE LLC",
+        "court": "District Court, W.D. Texas",
+        "court_citation": "W.D. Tex.",
+        "date_filed": "2025-08-27",
+        "docket_number": "1:25-cv-01370",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "US Ghost Adventures, LLC v. Tours & Crawls, LLC",
+        "court": "District Court, W.D. Virginia",
+        "court_citation": "W.D. Va.",
+        "date_filed": "2025-06-18",
+        "docket_number": "6:25-cv-00048",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "BORDEN v. METABOLIC MEALS, LLC",
+        "court": "District Court, E.D. Pennsylvania",
+        "court_citation": "E.D. Pa.",
+        "date_filed": "2026-03-31",
+        "docket_number": "2:26-cv-02103",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "ABC IP, LLC v. 80Mills LLC",
+        "court": "District Court, E.D. Texas",
+        "court_citation": "E.D. Tex.",
+        "date_filed": "2026-04-14",
+        "docket_number": "4:26-cv-00380",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Moskowitz Family LLC v. NuVasive, LLC",
+        "court": "District Court, D. Delaware",
+        "court_citation": "D. Del.",
+        "date_filed": "2025-06-06",
+        "docket_number": "1:25-cv-00711",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "OPTICS INNOVATION LLC v. HMD GLOBAL",
+        "court": "District Court, E.D. Texas",
+        "court_citation": "E.D. Tex.",
+        "date_filed": "2026-05-21",
+        "docket_number": "2:26-cv-00422",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Daybreak Game Company LLC v. Takahashi",
+        "court": "District Court, S.D. California",
+        "court_citation": "S.D. Cal.",
+        "date_filed": "2025-06-14",
+        "docket_number": "3:25-cv-01489",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Good Sportsman Marketing LLC v. Emblem Outdoor LLC",
+        "court": "District Court, C.D. California",
+        "court_citation": "C.D. Cal.",
+        "date_filed": "2025-12-03",
+        "docket_number": "5:25-cv-03255",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "search: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:26.742089",
+    "hit_count": 0,
+    "hits": [],
+    "error": "ProPublica API returned HTTP 404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "name: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:26.998780",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=The-Inner-Link%2C+LLC&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "entity/agent: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:27.143856",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "The-Inner-Link, LLC"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "payee: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:27.209470",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Search returned no matching links for 'The-Inner-Link, LLC'"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "committee: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:27.728471",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/the-inner-link-llc",
+        "accessible": true,
+        "committee_name": "",
+        "amounts_found": [
+          "10",
+          "0",
+          "0"
+        ],
+        "related_entities": [
+          {
+            "name": "Services",
+            "url": "/mi/committee/the-inner-link-llc#"
+          },
+          {
+            "name": "2017 To Now",
+            "url": "/mi/committee/the-inner-link-llc?cycle=2017-to-now"
+          },
+          {
+            "name": "2018 Election Season",
+            "url": "/mi/committee/the-inner-link-llc?cycle=2018-election-cycle"
+          },
+          {
+            "name": "2020 Election Season",
+            "url": "/mi/committee/the-inner-link-llc?cycle=2020-election-cycle"
+          },
+          {
+            "name": "2022 Election Season",
+            "url": "/mi/committee/the-inner-link-llc?cycle=2022-election-cycle"
+          },
+          {
+            "name": "2024 Election Season",
+            "url": "/mi/committee/the-inner-link-llc?cycle=2024-election-cycle"
+          },
+          {
+            "name": "2026 Election Season",
+            "url": "/mi/committee/the-inner-link-llc"
+          },
+          {
+            "name": "Overview",
+            "url": "/mi/committee/the-inner-link-llc"
+          },
+          {
+            "name": "Contributions",
+            "url": "/mi/committee/the-inner-link-llc/contributors"
+          },
+          {
+            "name": "Expenditures",
+            "url": "/mi/committee/the-inner-link-llc/payees"
+          },
+          {
+            "name": "Loans",
+            "url": "/mi/committee/the-inner-link-llc/loans"
+          },
+          {
+            "name": "View All Contributors",
+            "url": "/mi/committee/the-inner-link-llc/contributors"
+          },
+          {
+            "name": "View All Payees",
+            "url": "/mi/committee/the-inner-link-llc/payees"
+          },
+          {
+            "name": "View All Loans",
+            "url": "/mi/committee/the-inner-link-llc/loans"
+          }
+        ]
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "lara_mirror: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:28.082065",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/the-inner-link-llc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "inner_link",
+    "target_name": "The-Inner-Link, LLC",
+    "query": "companiesmi: The-Inner-Link, LLC",
+    "timestamp": "2026-09-02T06:41:28.149755",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  }
+]

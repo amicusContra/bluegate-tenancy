@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Case 26-108221-DC — Life Calendar Mar 2025–Dec 2026</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; font-size: 9pt; color: #222; }
+
+  @page { size: landscape; margin: 0.35in; }
+  @media print {
+    .no-print { display: none !important; }
+    .month-page { page-break-after: always; }
+    .month-page:last-child { page-break-after: avoid; }
+    body { font-size: 7.5pt; }
+    td { height: 82px; }
+  }
+
+  .no-print {
+    background: #333; color: #fff; padding: 12px 20px; text-align: center;
+    font-size: 11pt; position: sticky; top: 0; z-index: 10;
+  }
+
+  .month-page { padding: 8px 12px; margin-bottom: 20px; }
+  .month-title {
+    font-size: 15pt; font-weight: 700; margin-bottom: 3px;
+    border-bottom: 2px solid #333; padding-bottom: 2px;
+    display: flex; justify-content: space-between; align-items: baseline;
+  }
+  .month-title .case { font-size: 8pt; font-weight: 400; color: #666; }
+
+  .residence {
+    display: flex; gap: 6px; font-size: 7pt; margin-bottom: 2px; flex-wrap: wrap;
+    border: 1px solid #ddd; padding: 2px 6px; background: #fafafa; border-radius: 3px;
+  }
+  .residence .label { font-weight: 700; min-width: 55px; }
+  .residence .addr { color: #555; }
+  .res-bradford { border-left: 3px solid #f59e0b; }
+  .res-eastpointe { border-left: 3px solid #ef4444; }
+  .res-dresden { border-left: 3px solid #dc2626; }
+  .res-cornerstone { border-left: 3px solid #8b5cf6; }
+  .res-lansing { border-left: 3px solid #3b82f6; }
+
+  .legend {
+    display: flex; gap: 14px; font-size: 7pt; margin-bottom: 3px; flex-wrap: wrap;
+  }
+  .legend span { display: inline-flex; align-items: center; gap: 3px; }
+  .legend .swatch { width: 10px; height: 10px; border: 1px solid #999; display: inline-block; }
+
+  table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+  th {
+    background: #333; color: #fff; padding: 2px 3px; font-size: 7.5pt;
+    text-align: center; font-weight: 600;
+  }
+  td {
+    border: 1px solid #aaa; vertical-align: top; height: 88px;
+    padding: 2px 3px; position: relative;
+  }
+  td.empty { background: #f5f5f5; }
+  td .day-num {
+    font-weight: 700; font-size: 10pt; position: absolute; top: 1px; right: 3px;
+    color: #444;
+  }
+  td .events { font-size: 6pt; line-height: 1.25; margin-top: 13px; }
+  td .events .evt {
+    margin-bottom: 1px; padding: 0px 2px; border-radius: 2px;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+
+  .dasean-week { background: #dbeafe; }
+  .shayla-week { background: #fde8e8; }
+  .pre-schedule { background: #fff; }
+  .pre-split { background: #f5f5f5; }
+  .bradford-era { background: #fffbeb; }
+
+  .evt-file { background: #bfdbfe; color: #1e40af; }
+  .evt-shayla { background: #fecaca; color: #991b1b; }
+  .evt-deadline { background: #d1fae5; color: #065f46; }
+  .evt-court { background: #e9d5ff; color: #6b21a8; font-weight: 700; }
+  .evt-admin { background: #fef3c7; color: #92400e; }
+  .evt-question { background: #fef9c3; color: #854d0e; font-style: italic; }
+  .evt-holiday { background: #f0fdf4; color: #166534; font-weight: 600; }
+  .evt-serve { background: #cffafe; color: #155e75; }
+  .evt-senegal { background: #fca5a5; color: #7f1d1d; font-weight: 700; }
+  .evt-witness { background: #e0e7ff; color: #3730a3; }
+  .evt-school { background: #c7d2fe; color: #4338ca; }
+  .evt-move { background: #fbbf24; color: #78350f; font-weight: 700; }
+  .evt-money { background: #a7f3d0; color: #064e3b; }
+
+  .notes-area {
+    margin-top: 3px; border: 1px solid #ccc; min-height: 40px;
+    padding: 3px; font-size: 7pt; color: #999;
+  }
+</style>
+</head>
+<body>
+
+<div class="no-print">
+  <strong>PRINT:</strong> Ctrl+P → Landscape → Scale: Fit to Page → Margins: Minimum
+  <br>Case 26-108221-DC | DaSean Mitchell v. Shayla Smith | Mar 2025–Dec 2026
+  <br><em>Blue = DaSean's week | Pink = Shayla's week | Yellow = Bradford era | White = Pre-schedule</em>
+  <br><em>Residence banners show where each parent + girls lived that month</em>
+</div>
+
+<script>
+const MONTHS = [
+  { year: 2025, month: 2 },
+  { year: 2025, month: 3 },
+  { year: 2025, month: 4 },
+  { year: 2025, month: 5 },
+  { year: 2025, month: 6 },
+  { year: 2025, month: 7 },
+  { year: 2025, month: 8 },
+  { year: 2025, month: 9 },
+  { year: 2025, month: 10 },
+  { year: 2025, month: 11 },
+  { year: 2026, month: 0 },
+  { year: 2026, month: 1 },
+  { year: 2026, month: 2 },
+  { year: 2026, month: 3 },
+  { year: 2026, month: 4 },
+  { year: 2026, month: 5 },
+  { year: 2026, month: 6 },
+  { year: 2026, month: 7 },
+  { year: 2026, month: 8 },
+  { year: 2026, month: 9 },
+  { year: 2026, month: 10 },
+  { year: 2026, month: 11 },
+];
+
+const MONTH_NAMES = ['January','February','March','April','May','June',
+  'July','August','September','October','November','December'];
+
+function getCustody(y, m, d) {
+  const date = new Date(y, m, d);
+  const day = date.getDay();
+  const mon = new Date(date);
+  mon.setDate(d - ((day + 6) % 7));
+  const scheduleStart = new Date(2026, 5, 22);
+  if (date < new Date(2026, 1, 15)) return 'bradford';
+  if (date >= new Date(2026, 1, 15) && date < new Date(2026, 5, 17)) return 'pre-split';
+  if (date >= new Date(2026, 5, 17) && date <= new Date(2026, 5, 21)) return 'shayla';
+  const diffDays = Math.floor((mon - scheduleStart) / 86400000);
+  const weekNum = Math.floor(diffDays / 7);
+  return weekNum % 2 === 0 ? 'dasean' : 'shayla';
+}
+
+function getResidence(y, m) {
+  const d = new Date(y, m, 15);
+  const warrenEnd = new Date(2020, 0, 1);
+  const bradfordEnd = new Date(2026, 1, 15);
+  const eastpointeEnd = new Date(2026, 5, 12);
+  const lansingLease = new Date(2026, 5, 22);
+  const shaylaLeaveDresden = new Date(2023, 7, 16);
+  const shaylaReturnDresden = new Date(2026, 5, 1);
+
+  let dasean, shayla, girls;
+
+  if (d < warrenEnd) {
+    dasean = '8102 Maxwell, Warren MI';
+    shayla = '8102 Maxwell, Warren MI';
+    girls = 'Warren (both parents)';
+  } else if (d < bradfordEnd) {
+    dasean = '37055 Bradford Apt 214, Sterling Hts';
+    shayla = '37055 Bradford Apt 214, Sterling Hts';
+    girls = 'Bradford (both parents)';
+  } else if (d < lansingLease) {
+    dasean = 'XXXX Cornerstone Blvd, Detroit (Deanna) + visiting Lansing';
+    shayla = d < eastpointeEnd ? 'XXXXX Virginia Ave, Eastpointe (Crowder)' : 'XXXXX Dresden St, Detroit (parents)';
+    girls = 'With Shayla (' + (d < eastpointeEnd ? 'Eastpointe' : 'Dresden') + '); visits w/ DaSean at Cornerstone';
+  } else {
+    dasean = '[REDACTED_ADDR_2], Lansing (lease)';
+    shayla = 'XXXXX Dresden St, Detroit (parents — "temporary")';
+    girls = 'Alternating — primary w/ DaSean (Lansing)';
+  }
+  return { dasean, shayla, girls };
+}
+
+const E = {
+  // =================== OCTOBER 2025 ===================
+  '2025-10-01': [{t:'~Behind on Bradford rent (~3mo)', c:'evt-money'}],
+  '2025-10-15': [{t:'Kevin hosts SHAYLA + GIRLS at Lansing', c:'evt-witness'}, {t:'Kevin welcomed entire family', c:'evt-witness'}, {t:'[IMG_5622 — Shayla was welcome]', c:'evt-question'}],
+  '2025-10-18': [{t:'Malik visits Lansing', c:'evt-witness'}, {t:'Kevin gives keypad code: 1983', c:'evt-witness'}, {t:'[IMG_5623-5626]', c:'evt-question'}],
+  '2025-10-20': [{t:'DaSean "leapfrogs" out briefly', c:'evt-question'}, {t:'Heather stays ~1wk at Bradford', c:'evt-witness'}],
+  '2025-10-25': [{t:'Heather confirms: financial abuse', c:'evt-witness'}, {t:'Learns NOT legally married', c:'evt-witness'}],
+  '2025-10-30': [{t:'Kevin invites girls for Halloween', c:'evt-witness'}, {t:'DaSean tire issue → stay weekend', c:'evt-file'}],
+  '2025-10-31': [{t:'HALLOWEEN at [REDACTED_ADDR_2]', c:'evt-holiday'}, {t:'WiFi password shared', c:'evt-witness'}, {t:'Girls comfortable at Lansing', c:'evt-witness'}, {t:'[IMG_5627-5630]', c:'evt-question'}],
+  '2025-11-20': [{t:'Kamari 8th bday slumber party', c:'evt-shayla'}, {t:'Hotel+pool, Sterling Hts', c:'evt-shayla'}, {t:'Shayla: "another family event"', c:'evt-shayla'}, {t:'[Doc7, M-16, p.22]', c:'evt-question'}],
+
+  // =================== NOVEMBER 2025 ===================
+  '2025-11-27': [{t:'THANKSGIVING', c:'evt-holiday'}],
+
+  // =================== DECEMBER 2025 ===================
+  '2025-12-12': [{t:'MDHHS 3 New Hire notices → Shayla', c:'evt-admin'}, {t:'Workbox + Vascor + Refined', c:'evt-admin'}, {t:'[Doc6, pp.4,10,16 — SMOKING GUN]', c:'evt-question'}, {t:'Due 12/22 — BLANK forms never returned', c:'evt-question'}],
+  '2025-12-15': [{t:'DaSean on 7-day work schedule', c:'evt-admin'}, {t:'Can\'t visit Lansing [IMG_5635]', c:'evt-admin'}],
+  '2025-12-22': [{t:'MDHHS employment verify DEADLINE', c:'evt-admin'}, {t:'Shayla does NOT return forms', c:'evt-question'}],
+  '2025-12-25': [{t:'CHRISTMAS', c:'evt-holiday'}, {t:'Heather gifts 4 Cinderella tickets', c:'evt-holiday'}, {t:'For Shayla + girls — Wharton Ctr', c:'evt-holiday'}, {t:'Robert Hill appears at Dresden', c:'evt-question'}],
+  '2025-12-30': [{t:'Shayla: "Did you give Sahana medicine?"', c:'evt-shayla'}, {t:'DaSean: "We have to talk eventually"', c:'evt-file'}],
+  '2025-12-31': [{t:'2:36AM Shayla: "don\'t speak to me"', c:'evt-shayla'}, {t:'"CO poisoning in that car"', c:'evt-shayla'}, {t:'SHE pushed him out of apartment', c:'evt-shayla'}, {t:'[Doc 7, Exhibit B-2, p.9]', c:'evt-question'}],
+
+  // =================== JANUARY 2026 ===================
+  '2026-01-01': [{t:'DaSean sends Allanna bday invite', c:'evt-file'}, {t:'[Doc 7, Exhibit B-2, p.9]', c:'evt-question'}],
+  '2026-01-08': [{t:'Allanna bday celebration MMSA', c:'evt-holiday'}, {t:'Shayla brings cupcakes; 16 kids', c:'evt-shayla'}, {t:'[Doc 4, p.29]', c:'evt-question'}],
+  '2026-01-14': [{t:'ALLANNA BIRTHDAY (7)', c:'evt-holiday'}],
+  '2026-01-23': [{t:'MDHHS SNAP CLOSURE NOTICE', c:'evt-admin'}, {t:'Effective 03/01/2026', c:'evt-admin'}, {t:'BAM 130: failed to verify employment', c:'evt-admin'}, {t:'[Doc6, pp.22-23]', c:'evt-question'}],
+
+  // =================== FEBRUARY 2026 ===================
+  '2026-02-01': [{t:'BRADFORD LEASE ENDS', c:'evt-move'}, {t:'SHAYLA → EASTPOINTE', c:'evt-move'}, {t:'Takes girls. DaSean alone at end.', c:'evt-move'}],
+  '2026-02-05': [{t:'Shayla pays last month rent', c:'evt-money'}, {t:'Calculated: had $ all along', c:'evt-money'}],
+  '2026-02-10': [{t:'Shayla contacts MHTCA', c:'evt-shayla'}, {t:'⊘ School shopping — no consent', c:'evt-question'}, {t:'Also: dentist appt 2pm [Doc4,p.6]', c:'evt-admin'}],
+  '2026-02-11': [{t:'MHTCA: "I already started application"', c:'evt-shayla'}, {t:'"need help with financial aid"', c:'evt-shayla'}, {t:'[Doc 4, p.5]', c:'evt-question'}],
+  '2026-02-12': [{t:'MHTCA cancelled: "no coverage at work"', c:'evt-shayla'}, {t:'CONFIRMS EMPLOYED at Lake Trust', c:'evt-file'}, {t:'[Doc 4, p.4]', c:'evt-question'}],
+  '2026-02-15': [{t:'DaSean → Cornerstone (Deanna)', c:'evt-move'}, {t:'DaSean sells car for housing', c:'evt-money'}],
+  '2026-02-20': [{t:'MDHHS 2 Wage Match notices → Shayla', c:'evt-admin'}, {t:'Refined $112/qtr + Expedient $4,250/qtr', c:'evt-admin'}, {t:'Due 03/23 — BLANK forms never returned', c:'evt-question'}, {t:'[Doc6, pp.30,36 — SMOKING GUN]', c:'evt-question'}],
+  '2026-02-23': [{t:'Girls in MMSA Latchkey', c:'evt-school'}, {t:'[Doc4, pp.23,28]', c:'evt-question'}],
+  '2026-02-25': [{t:'Allanna misplaces work packet', c:'evt-school'}, {t:'[Doc4, pp.26-27]', c:'evt-question'}],
+  '2026-02-24': [{t:'Shayla asks DaSean: pick up girls', c:'evt-shayla'}, {t:'Exhibit M-01 — guile or genuine?', c:'evt-question'}, {t:'NEXT DAY: Allanna packet "missing"', c:'evt-question'}, {t:'Lost between exchanges? Ask DaSean', c:'evt-question'}],
+  '2026-02-28': [{t:'Girls\' belongings lost (lease end)', c:'evt-question'}],
+
+  // =================== PRE-CALENDAR KEY DATES ===================
+  // (these won't render on the calendar but are in the data for reference)
+
+  // =================== MARCH 2025 ===================
+  '2025-03-20': [{t:'Shayla→Kevin: "love and hugs"', c:'evt-witness'}, {t:'She initiated warm contact', c:'evt-witness'}, {t:'[image1.png — Messenger history]', c:'evt-question'}],
+  '2025-03-21': [{t:'Kevin replies warmly', c:'evt-witness'}, {t:'[image2.png — Messenger history]', c:'evt-question'}],
+  '2025-03-25': [{t:'Medical consent forms signed', c:'evt-question'}, {t:'Bradford; DaSean=emergency contact', c:'evt-admin'}, {t:'BCBS insurance — whose policy?', c:'evt-question'}, {t:'[Doc5, pp.2,6 — both parents]', c:'evt-question'}],
+  '2025-03-27': [{t:'Girl Scout cookie booth Warren', c:'evt-school'}],
+
+  // =================== APRIL 2025 ===================
+  '2025-04-01': [{t:'Shayla: "girls asking to visit"', c:'evt-witness'}],
+  '2025-04-13': [{t:'DaSean signs up to chaperone MMSA', c:'evt-file'}],
+  '2025-04-28': [{t:'Kevin+Heather marry at Hawk Island', c:'evt-holiday'}, {t:'Sahana+Allanna = flower girls', c:'evt-holiday'}],
+
+  // =================== MAY 2025 ===================
+  '2025-05-07': [{t:'SAHANA BIRTHDAY (8) at MMSA', c:'evt-holiday'}],
+
+  // =================== JUNE 2025 ===================
+  '2025-06-10': [{t:'Miss Hamilton snake visit at MMSA', c:'evt-school'}, {t:'[Doc7, M-22, p.28]', c:'evt-question'}],
+  '2025-06-30': [{t:'Dresden mortgage: Lake Trust CU', c:'evt-money'}, {t:'$68K — Leon+Marquita Smith', c:'evt-money'}, {t:'Shayla works at Lake Trust', c:'evt-witness'}],
+
+  // =================== AUGUST 2025 ===================
+  '2025-08-08': [{t:'DASEAN BIRTHDAY', c:'evt-holiday'}, {t:'DaSean→Kevin: "HAPPY BIRTHDAY BRO"', c:'evt-witness'}],
+  '2025-08-17': [{t:'SHAYLA BIRTHDAY', c:'evt-holiday'}],
+
+  // =================== SEPTEMBER 2025 ===================
+  '2025-09-01': [{t:'~Girls back at MMSA Lorraine', c:'evt-school'}, {t:'Sahana 3rd grade, Allanna 1st', c:'evt-school'}],
+  '2025-09-15': [{t:'~Kevin visits DaSean @ Cornerstone', c:'evt-witness'}, {t:'"Don\'t tell Shayla" re: insurance', c:'evt-witness'}, {t:'CONTROLLING DYNAMIC 9+ mo pre-file', c:'evt-question'}, {t:'[IMG_5619-5621]', c:'evt-question'}, {t:'Kevin helps get car on road', c:'evt-witness'}, {t:'Kevin invites DaSean → [REDACTED_ADDR_2]', c:'evt-witness'}],
+
+  // =================== MARCH 2026 ===================
+  '2026-03-01': [{t:'SNAP TERMINATED effective today', c:'evt-admin'}, {t:'Failed to verify DaSean employment', c:'evt-admin'}, {t:'[Doc6, pp.22-23 — SMOKING GUN]', c:'evt-question'}, {t:'Per Shayla Answer ¶10', c:'evt-admin'}],
+  '2026-03-15': [{t:'SLICK CITY, TROY — premium venue', c:'evt-shayla'}, {t:'"Family & friends day before opening"', c:'evt-shayla'}, {t:'AFTER SNAP closure + hardship claim', c:'evt-money'}, {t:'[Doc7, M-17, p.23]', c:'evt-question'}],
+  '2026-03-23': [{t:'MDHHS wage verify DEADLINE (Set 2)', c:'evt-admin'}, {t:'Shayla does NOT return forms', c:'evt-question'}, {t:'Mailed to Bradford — she left in Feb', c:'evt-question'}, {t:'DaSean alone at Bradford — did he get it?', c:'evt-question'}, {t:'2 sets: Dec (New Hire) + Feb (Wage)', c:'evt-admin'}],
+  '2026-03-27': [{t:'Girl Scout cookie booth, Warren', c:'evt-school'}, {t:'Troop 78550 at Wendy\'s, Ryan Rd', c:'evt-school'}, {t:'[Doc4, p.24]', c:'evt-question'}],
+
+  // =================== APRIL 2026 ===================
+  '2026-04-01': [{t:'Shayla → Kevin: girls asking to visit', c:'evt-witness'}],
+  '2026-04-07': [{t:'MMSA Summer Discovery Program', c:'evt-school'}, {t:'Jun 22-Jul 24, Mon-Thu 8-4', c:'evt-school'}, {t:'Free breakfast/lunch, no transport', c:'evt-school'}, {t:'[Doc4, p.22]', c:'evt-question'}],
+  '2026-04-13': [{t:'Shayla asks re: DaSean chaperoning', c:'evt-file'}, {t:'"Receiving conflicting information"', c:'evt-shayla'}, {t:'MMSA: "he can attend as parent"', c:'evt-school'}, {t:'[Doc4, pp.20-21]', c:'evt-question'}],
+  '2026-04-14': [{t:'Camping trip — Miss Colonius', c:'evt-school'}, {t:'⊘ Multi-day trip, no DaSean input', c:'evt-question'}, {t:'Shayla: "put them down for yes"', c:'evt-shayla'}, {t:'[Doc7, M-24, p.30]', c:'evt-question'}],
+  '2026-04-20': [{t:'~CINDERELLA at Wharton Center', c:'evt-witness'}, {t:'Heather\'s Christmas gift for Shayla+girls', c:'evt-witness'}, {t:'Shayla comes to Lansing — acts entitled', c:'evt-shayla'}, {t:'Mentions "a trip" (Senegal)', c:'evt-shayla'}, {t:'Then TURNS on Heather+Kevin', c:'evt-shayla'}, {t:'Blocking pattern becomes visible', c:'evt-shayla'}],
+  '2026-04-21': [{t:'MDHHS: Full Medicaid approved', c:'evt-admin'}, {t:'Effective 05/01 for both girls', c:'evt-admin'}, {t:'STILL at Bradford address!', c:'evt-question'}, {t:'Girls had BCBS Mar 2025 [Doc5,pp.2,6]', c:'evt-question'}, {t:'WHY Medicaid? Job loss? Dropped kids?', c:'evt-question'}, {t:'Or dual coverage to pocket BCBS savings?', c:'evt-question'}, {t:'[Doc6, p.1 — address fraud]', c:'evt-question'}],
+  '2026-04-29': [{t:'10:34AM Sahana bday invites sent', c:'evt-shayla'}, {t:'Red Crab May 7 + hotel May 9-10', c:'evt-shayla'}, {t:'[Doc7, M-18, p.24]', c:'evt-question'}, {t:'12:16PM "Have my kids call me"', c:'evt-shayla'}, {t:'[Doc7, M-11, p.15]', c:'evt-question'}, {t:'SAME DAY: party + excluded father', c:'evt-question'}],
+
+  // =================== MAY 2026 ===================
+  '2026-05-01': [{t:'Medicaid effective (girls)', c:'evt-admin'}, {t:'Camping trip drop-off 3:22PM', c:'evt-school'}, {t:'Shayla 5:45PM: "did you make it?"', c:'evt-shayla'}, {t:'8:25PM: "How are they doing?"', c:'evt-shayla'}, {t:'[Doc7, M-24/25, pp.30-31]', c:'evt-question'}],
+  '2026-05-05': [{t:'Zilah new number; bday invite resent', c:'evt-shayla'}, {t:'[Doc7, M-19, p.25]', c:'evt-question'}],
+  '2026-05-07': [{t:'SAHANA BIRTHDAY (9)', c:'evt-holiday'}, {t:'Red Crab 6PM, 35576 Van Dyke', c:'evt-shayla'}, {t:'Sterling Hts — 45min from DaSean', c:'evt-question'}, {t:'DaSean: NO CAR (sold), at Cornerstone', c:'evt-question'}, {t:'Teacher invites class [Doc4,p.17]', c:'evt-school'}, {t:'⊘ DaSean excluded from planning', c:'evt-question'}],
+  '2026-05-09': [{t:'SpringHill Suites sleepover', c:'evt-shayla'}, {t:'Hotel bday party — Sterling Hts', c:'evt-shayla'}, {t:'DaSean carless — ALIENATED', c:'evt-question'}, {t:'⊘ Not invited/informed', c:'evt-question'}],
+  '2026-05-13': [{t:'Shayla creates $25 Ewallet Sahana', c:'evt-shayla'}, {t:'[Doc7, M-23, p.29]', c:'evt-question'}],
+  '2026-05-17': [{t:'"ZERO DOLLARS" — DaSean → Kevin', c:'evt-file'}, {t:'Still charged for stolen Kia', c:'evt-money'}, {t:'Kevin: "I want you here man"', c:'evt-file'}, {t:'[IMG_5637-5639 — THE INVITATION]', c:'evt-question'}, {t:'EMERGENCY RESCUE, not strategy', c:'evt-file'}],
+  '2026-05-23': [{t:'Kevin drives DaSean home', c:'evt-question'}, {t:'WHO COMPELLED? Shayla→Deanna?', c:'evt-question'}],
+  '2026-05-24': [{t:'DaSean RETURNS for girls', c:'evt-file'}, {t:'Goes HOME for kids before BBQ', c:'evt-file'}],
+  '2026-05-25': [{t:'MEMORIAL DAY BBQ', c:'evt-holiday'}, {t:'Meijer #145 Fraser 7:40PM $115.13', c:'evt-shayla'}, {t:'Lunchables+kites at NIGHT — why?', c:'evt-question'}, {t:'KIA STOLEN NEXT DAY', c:'evt-question'}, {t:'Eastpointe addr [Doc4, p.30]', c:'evt-question'}],
+  '2026-05-26': [{t:'KIA STOLEN', c:'evt-shayla'}, {t:'"I\'ve failed" text to Kevin', c:'evt-question'}, {t:'Shayla→dentist: "car stolen, can\'t make it"', c:'evt-shayla'}, {t:'SHE KNEW. SHE RESCHEDULED.', c:'evt-question'}, {t:'Acknowledges DaSean = transport parent', c:'evt-file'}, {t:'[Doc7, M-28, p.35 — no date on msg]', c:'evt-question'}],
+  '2026-05-28': [{t:'Kids furniture setup at 641', c:'evt-file'}, {t:'"Preparing for yall to come up"', c:'evt-file'}],
+
+  // =================== JUNE 2026 ===================
+  '2026-06-01': [{t:'Amazon orders → XXXXX Virginia Ave', c:'evt-shayla'}, {t:'Eastpointe MI 48021 (Crowder)', c:'evt-shayla'}, {t:'Teacher gifts — Mastercard *8520', c:'evt-shayla'}, {t:'$31.78 + $19.06 = $50.84 total', c:'evt-money'}, {t:'Filed from Dresden 12 days later', c:'evt-question'}, {t:'[Doc4, pp.15-16 — SMOKING GUN]', c:'evt-question'}],
+  '2026-06-02': [{t:'MHTCA: schedules Jun 11 assessment', c:'evt-shayla'}, {t:'~SHAYLA DEPARTS SENEGAL', c:'evt-senegal'}, {t:'⊘ No notice to DaSean', c:'evt-question'}, {t:'She booked MHTCA for Jun 11', c:'evt-question'}, {t:'WHILE PLANNING to be in Senegal', c:'evt-question'}, {t:'Who had girls? Who would take them?', c:'evt-question'}],
+  '2026-06-03': [{t:'SENEGAL day ~2', c:'evt-senegal'}, {t:'Girls still in school', c:'evt-question'}],
+  '2026-06-04': [{t:'SENEGAL — who has girls?', c:'evt-senegal'}],
+  '2026-06-05': [{t:'SENEGAL', c:'evt-senegal'}, {t:'MMSA last days (~5-8)', c:'evt-school'}],
+  '2026-06-06': [{t:'SENEGAL', c:'evt-senegal'}],
+  '2026-06-07': [{t:'SENEGAL', c:'evt-senegal'}],
+  '2026-06-08': [{t:'SENEGAL', c:'evt-senegal'}, {t:'MMSA LAST DAY', c:'evt-school'}],
+  '2026-06-09': [{t:'SENEGAL', c:'evt-senegal'}],
+  '2026-06-10': [{t:'SENEGAL day ~9', c:'evt-senegal'}, {t:'11:34AM "out of country, flight delayed"', c:'evt-shayla'}, {t:'[Doc4, p.14 — SMOKING GUN]', c:'evt-question'}],
+  '2026-06-11': [{t:'SENEGAL — missed MHTCA', c:'evt-senegal'}, {t:'Storm delays return flight (NY)', c:'evt-senegal'}],
+  '2026-06-12': [{t:'SHAYLA RETURNS PM', c:'evt-senegal'}, {t:'2:30AM DaSean tracks flight [IMG_5646]', c:'evt-file'}, {t:'Kevin drives to Cornerstone', c:'evt-file'}, {t:'Simone+Amir+Journi present', c:'evt-witness'}, {t:'Kevin offers Lansing to ALL', c:'evt-file'}, {t:'Kevin→Simone: "safe spot on paper"', c:'evt-file'}, {t:'Shayla ~5-6PM; pizza on floor', c:'evt-shayla'}, {t:'"ain\'t sending me any money"', c:'evt-shayla'}, {t:'DaSean: "kids don\'t want to stay"', c:'evt-file'}, {t:'[Doc7, M-08, p.12 — kids chose]', c:'evt-question'}, {t:'Simone: "flight delayed, not her fault"', c:'evt-witness'}, {t:'[Doc7, M-07, p.11]', c:'evt-question'}],
+  '2026-06-13': [{t:'SHAYLA FILES CUSTODY', c:'evt-court'}, {t:'⊘ No notice to DaSean', c:'evt-question'}, {t:'Girls+DaSean depart for Lansing', c:'evt-file'}, {t:'Jun 12: "I\'ll wait until tomorrow"', c:'evt-file'}, {t:'"They don\'t want to stay"=kids chose', c:'evt-file'}, {t:'[Doc7, M-04/06/07/08, pp.8-12]', c:'evt-question'}],
+  '2026-06-15': [{t:'PII Addendum completed', c:'evt-court'}],
+  '2026-06-16': [{t:'Shayla: "next day or two"', c:'evt-shayla'}, {t:'Kevin+DaSean offer to drive girls', c:'evt-file'}],
+  '2026-06-17': [{t:'SUMMONS ISSUED — Claire Oliver', c:'evt-court'}, {t:'Kevin+DaSean: MI Works job fair', c:'evt-admin'}, {t:'Shayla picks up girls 3PM Lansing', c:'evt-shayla'}, {t:'HAD PAPERS — DID NOT SERVE', c:'evt-shayla'}, {t:'Soiled underwear photo PM', c:'evt-shayla'}, {t:'Shayla→Heather: "decisions without me"', c:'evt-shayla'}, {t:'[Doc7, M-13, p.18 — HYPOCRISY]', c:'evt-question'}, {t:'Heather: "girls don\'t have beds"', c:'evt-witness'}, {t:'"charter school and apartment gone"', c:'evt-witness'}, {t:'[Doc7, M-14, p.19]', c:'evt-question'}],
+  '2026-06-18': [{t:'Shayla emails MHTCA 12:57PM', c:'evt-shayla'}, {t:'"Are there still times for assessment?"', c:'evt-shayla'}, {t:'5 DAYS after filing custody', c:'evt-shayla'}, {t:'[Doc4, p.12]', c:'evt-question'}],
+  '2026-06-20': [{t:'9:11AM Shayla: "come grab girls Sun AM"', c:'evt-admin'}, {t:'Message marked EDITED [Doc7,M-15,p.20]', c:'evt-shayla'}, {t:'Heather invited all to BBQ 😊💜', c:'evt-witness'}, {t:'[Doc7, M-12, p.13]', c:'evt-question'}],
+  '2026-06-21': [{t:'FATHER\'S DAY', c:'evt-holiday'}, {t:'9:30AM DaSean departs Lansing', c:'evt-file'}, {t:'5hr wait — not ready til 2:38PM', c:'evt-shayla'}, {t:'SERVED AT DRESDEN via Simone', c:'evt-court'}, {t:'[IMG_5393-5400 custody papers]', c:'evt-question'}, {t:'9:11PM Shayla emails MHTCA', c:'evt-shayla'}, {t:'Multi-front: serve+school same day', c:'evt-shayla'}, {t:'[Doc4, p.11]', c:'evt-question'}, {t:'8:45PM arrive Lansing; smores', c:'evt-file'}],
+  '2026-06-22': [{t:'LEASE SIGNED [REDACTED_ADDR_2]', c:'evt-file'}, {t:'[IMG_5657 lease; image0 photo]', c:'evt-question'}, {t:'1 day after service = RESPONSE', c:'evt-file'}, {t:'Allanna bed-wetting (stress)', c:'evt-question'}, {t:'Kevin buys 2nd bike + helmets', c:'evt-file'}, {t:'Girls → Leilani (710 Samantha)', c:'evt-file'}, {t:'Kevin reviews papers w/ DaSean', c:'evt-file'}, {t:'DaSean learns SENEGAL existed', c:'evt-file'}, {t:'"She wants to take my daughters?"', c:'evt-file'}, {t:'DeBruin Law voicemail', c:'evt-admin'}, {t:'Kevin→Shayla 1st Messenger (7:46PM)', c:'evt-witness'}, {t:'Campfire + hot dogs w/ neighbors', c:'evt-file'}],
+  '2026-06-23': [{t:'Homegrown INTERVIEW', c:'evt-admin'}, {t:'Kevin+girls: farm store + chicks', c:'evt-file'}, {t:'Girls insist on selfie [IMG_5413,5415]', c:'evt-witness'}, {t:'DaSean call check 1:10PM [IMG_5418]', c:'evt-file'}, {t:'"What is Lake Trust?" → "bank"', c:'evt-witness'}, {t:'5:21PM SMS to wrong # (court)', c:'evt-question'}, {t:'Shayla 8:01PM Messenger response', c:'evt-shayla'}, {t:'Kendon playground [IMG_5422-5425]', c:'evt-file'}, {t:'Leilani regular friend by Day 2', c:'evt-file'}],
+  '2026-06-25': [{t:'DaSean Zoom school orientation', c:'evt-file'}, {t:'Sahana ill → recovers PM', c:'evt-file'}, {t:'Attorney canvass begins', c:'evt-admin'}, {t:'Kevin buys 3 ukuleles', c:'evt-file'}, {t:'DaSean reads parenting binder', c:'evt-file'}, {t:'"I felt my life was in danger"', c:'evt-question'}, {t:'Shayla "Seen" — no reply to 4th/schedule', c:'evt-shayla'}],
+  '2026-06-26': [{t:'Kevin→Shayla follow-up 7:13AM', c:'evt-witness'}, {t:'Shayla 10:01AM: false bio-mom claim', c:'evt-shayla'}, {t:'"July 4-12 with me" — retention', c:'evt-shayla'}, {t:'Shayla 11:42PM: "My plan"', c:'evt-shayla'}, {t:'USPS CoA filed (3 individual)', c:'evt-admin'}, {t:'LEASE signed 06/22 [IMG lease+smoking]', c:'evt-file'}, {t:'DSDT CONFIRMED (start Jul 20)', c:'evt-file'}, {t:'HOMEGROWN JOB Mon Jun 30', c:'evt-admin'}, {t:'Ukuleles photo [IMG_5444]', c:'evt-file'}, {t:'Girls running to DaSean [IMG_5445]', c:'evt-file'}, {t:'DaSean+3 kids lunch [IMG_5443]', c:'evt-file'}, {t:'ERIN INCIDENT → friend, meal', c:'evt-witness'}, {t:'NavyFed OVERDRAWN', c:'evt-money'}, {t:'SNAP discovery — critical', c:'evt-file'}],
+  '2026-06-27': [{t:'LANSING PRIDE — Kevin victim', c:'evt-witness'}, {t:'Incident #26-0 5409 Brenke Fish Lddr', c:'evt-witness'}, {t:'Det Hamilton (517) 483-6808', c:'evt-witness'}, {t:'[IMG_5583 — police report]', c:'evt-question'}, {t:'Kevin→Simone play invite', c:'evt-file'}, {t:'E. Lansing Jazz Fest + Pinball Pete\'s', c:'evt-file'}, {t:'"Daddy is too broke" (girls)', c:'evt-witness'}, {t:'Heather intel: BGSU loans', c:'evt-witness'}, {t:'Shayla 9:27AM: "picking up?"', c:'evt-shayla'}, {t:'Kevin 10:30AM: cooperative reply', c:'evt-file'}, {t:'DaSean walks to McD\'s → applies', c:'evt-admin'}, {t:'Campfire/hot dogs [IMG_5460-5472]', c:'evt-file'}],
+  '2026-06-28': [{t:'Pancake breakfast for girls+Leilani', c:'evt-file'}, {t:'Allanna rides bike! (Leilani teaches)', c:'evt-file'}, {t:'Kevin→Shayla: gifts+milestone (12:30)', c:'evt-witness'}, {t:'Shayla confirms 5PM — 1st cooperation', c:'evt-witness'}],
+  '2026-06-29': [{t:'HANDOFF DAY', c:'evt-admin'}, {t:'Shayla pickup 5PM at [REDACTED_ADDR_2]', c:'evt-shayla'}, {t:'DaSean at Homegrown (1st day)', c:'evt-admin'}, {t:'Wilde Bill\'s: asst mgr offer', c:'evt-admin'}, {t:'Kevin handles handoff solo', c:'evt-file'}, {t:'Girls packed, presents wrapped', c:'evt-file'}],
+  '2026-06-30': [{t:'Girls with Shayla at Dresden', c:'evt-shayla'}],
+
+  // =================== JULY 2026 ===================
+  '2026-07-01': [{t:'MHTCA assessment 10AM', c:'evt-shayla'}, {t:'Advance Health physicals (new Dr)', c:'evt-shayla'}, {t:'Silvana Xhajaj, Groesbeck Hwy', c:'evt-shayla'}, {t:'⊘ Medical+school — no consent', c:'evt-question'}, {t:'[Doc4,p.10 + Doc5,pp.3-4]', c:'evt-question'}],
+  '2026-07-02': [{t:'Kevin $2K advance to DaSean', c:'evt-money'}, {t:'NavyFed overdraft + iPhone cleared', c:'evt-money'}, {t:'Enables: filing fees, car rental, Uber', c:'evt-money'}],
+  '2026-07-03': [{t:'DaSean: ride to mom\'s, banking talk', c:'evt-file'}, {t:'NavyFed + MSUFCU strategy', c:'evt-admin'}, {t:'[IMG_5661]', c:'evt-question'}],
+  '2026-07-04': [{t:'JULY 4TH w/ Shayla', c:'evt-holiday'}, {t:'Shayla\'s grandma bday', c:'evt-shayla'}],
+  '2026-07-05': [{t:'Journi 2nd bday (Simone) Lincoln Pk', c:'evt-holiday'}, {t:'DaSean attends — good faith', c:'evt-file'}],
+  '2026-07-06': [{t:'Car pickup email; school interview', c:'evt-admin'}, {t:'MI Chauffeur Lic: Sterling Hts', c:'evt-admin'}, {t:'[IMG_5665 — addr not yet changed]', c:'evt-question'}, {t:'Video orientation booked Jul 13', c:'evt-admin'}, {t:'Shayla\'s mom watches kids', c:'evt-shayla'}],
+  '2026-07-07': [{t:'~DaSean has girls + nephew TJ', c:'evt-file'}, {t:'Natural extended family integration', c:'evt-file'}],
+  '2026-07-09': [{t:'Davis Zoom consultation', c:'evt-admin'}],
+  '2026-07-10': [{t:'DASEAN FILES', c:'evt-court'}, {t:'Answer+Counterclaim+Temp+IV-D', c:'evt-court'}, {t:'E-filed 8:32AM + 8:34AM', c:'evt-court'}, {t:'Certified mail sent 10:08AM', c:'evt-serve'}, {t:'$202.74 from DaSean\'s account', c:'evt-money'}],
+  '2026-07-11': [{t:'DaSean Ubering Detroit', c:'evt-admin'}, {t:'Sahana wants to stay (TJ at mom\'s)', c:'evt-file'}],
+  '2026-07-12': [{t:'Kevin: exchange strategy', c:'evt-file'}, {t:'Shayla 3+ HRS LATE for pickup', c:'evt-shayla'}, {t:'[IMG_5670 — documented]', c:'evt-question'}, {t:'DaSean loses Uber hours', c:'evt-money'}],
+  '2026-07-13': [{t:'DaSean → Lansing ~7:30PM', c:'evt-file'}, {t:'"Locked in, focusing on school"', c:'evt-file'}, {t:'[IMG_5671 — his own words]', c:'evt-question'}, {t:'Video orientation', c:'evt-admin'}],
+  '2026-07-14': [{t:'COUNTERCLAIM SERVED', c:'evt-serve'}, {t:'USPS delivered 4:18PM to Dresden', c:'evt-serve'}, {t:'DaSean returns to Lansing', c:'evt-file'}, {t:'Uber now primary employment', c:'evt-admin'}],
+  '2026-07-15': [{t:'"See you in court" — Shayla', c:'evt-shayla'}, {t:'DaSean offered to meet+discuss', c:'evt-file'}, {t:'Kevin grills dinner — stable home', c:'evt-file'}, {t:'Track A confirmed: she chose litigation', c:'evt-shayla'}],
+  '2026-07-16': [{t:'DaSean noon orientation', c:'evt-admin'}, {t:'Kids say mom planning ANOTHER trip', c:'evt-question'}],
+  '2026-07-17': [{t:'Kevin: CS curriculum for DaSean', c:'evt-file'}, {t:'Python, AI security, cybersec', c:'evt-file'}],
+  '2026-07-20': [{t:'DSDT classes start (~1wk late)', c:'evt-school'}, {t:'VET TEC paperwork failed', c:'evt-money'}, {t:'Scholarship arranged for tuition', c:'evt-money'}, {t:'NO BAH ($2,361/mo lost)', c:'evt-money'}, {t:'Kevin buys laptop for DaSean', c:'evt-file'}, {t:'Shayla 12:08PM MHTCA: "tuition"', c:'evt-shayla'}, {t:'2 DAYS before enrolling at PCA', c:'evt-shayla'}, {t:'[Doc4, p.9]', c:'evt-question'}],
+  '2026-07-22': [{t:'PCA ENROLLMENT 10:25AM', c:'evt-court'}, {t:'[Doc4, pp.1-3 — SMOKING GUN]', c:'evt-question'}, {t:'Sahana immunization WAIVER filed', c:'evt-question'}, {t:'3:01PM "switching school districts"', c:'evt-shayla'}, {t:'Same day: called dentist 12:57PM', c:'evt-shayla'}, {t:'8 days post-Counterclaim', c:'evt-shayla'}, {t:'⊘ DaSean\'s custody week', c:'evt-question'}, {t:'Kevin: "Learn Code Hard Way"', c:'evt-file'}],
+  '2026-07-24': [{t:'DaSean enrolled — class Mon', c:'evt-file'}],
+  '2026-07-26': [{t:'DaSean → Lansing; laptop setup', c:'evt-file'}],
+  '2026-07-27': [{t:'MHTCA follows up (ghosted)', c:'evt-shayla'}],
+  '2026-07-28': [{t:'Shayla asks PCA for confirmation', c:'evt-shayla'}, {t:'DaSean: 1st class done, needs help', c:'evt-file'}, {t:'Kevin preps "battlestation" workspace', c:'evt-file'}],
+  '2026-07-29': [{t:'DENTAL 3PM Amy Parker — HER WEEK', c:'evt-question'}, {t:'Shayla said "Yes" Jul 28', c:'evt-shayla'}, {t:'BUT: no proof girls attended', c:'evt-question'}, {t:'GAP: no msgs Jul 29→Aug 4', c:'evt-question'}, {t:'Jul 31 cut-off msg — reschedule?', c:'evt-question'}, {t:'Next appt Aug 7 = HIS week, diff time', c:'evt-question'}, {t:'[Doc7, M-29, p.36 — evidence gap]', c:'evt-question'}],
+  '2026-07-30': [{t:'DaSean arrives Lansing', c:'evt-file'}],
+  '2026-07-31': [{t:'Shayla→PCA: "Is there a document?"', c:'evt-shayla'}, {t:'"I just need it for something"', c:'evt-shayla'}, {t:'GATHERING EVIDENCE for Aug filing', c:'evt-shayla'}, {t:'[Doc4, p.3]', c:'evt-question'}, {t:'DaSean running Uber', c:'evt-admin'}, {t:'Kevin: binary math study guide', c:'evt-file'}],
+
+  // =================== AUGUST 2026 ===================
+  '2026-08-01': [{t:'~Shayla blocks DaSean (intermittent)', c:'evt-shayla'}, {t:'Communicates via Simone/Deanna/kids', c:'evt-shayla'}, {t:'Homegrown → Uber only transition', c:'evt-admin'}],
+  '2026-08-03': [{t:'Cali bday invite → Shayla 2:18PM', c:'evt-shayla'}, {t:'"They\'re with their dad this week"', c:'evt-shayla'}, {t:'SHE ADMITS IT\'S HIS WEEK', c:'evt-file'}, {t:'Urban Air 18050 Hall Rd, Sterling Hts', c:'evt-shayla'}, {t:'[Doc7, M-20, p.26 — SMOKING GUN]', c:'evt-question'}],
+  '2026-08-04': [{t:'Counterclaim deadline EXPIRED', c:'evt-deadline'}, {t:'Zero filings by Shayla since Jun 17', c:'evt-deadline'}, {t:'DaSean: appts on his time+bday', c:'evt-shayla'}, {t:'Aug 7 dental + Aug 8 Cali party', c:'evt-shayla'}, {t:'Shayla has him BLOCKED', c:'evt-shayla'}, {t:'DaSean buying clothes for girls', c:'evt-file'}, {t:'[IMG_5681-5682]', c:'evt-question'}],
+  '2026-08-07': [{t:'DENTAL 1:45PM on DaSean\'s time', c:'evt-question'}, {t:'Shayla confirmed "Yes" Thu 8:05AM', c:'evt-shayla'}, {t:'⊘ DaSean BLOCKED — never told', c:'evt-question'}, {t:'Day before his BIRTHDAY', c:'evt-question'}, {t:'She controls dental from May theft→', c:'evt-question'}, {t:'[Doc7, M-30, p.37]', c:'evt-question'}],
+  '2026-08-08': [{t:'DASEAN BIRTHDAY', c:'evt-holiday'}, {t:'Cali party 3:30-6PM — 90min away', c:'evt-shayla'}, {t:'His bday, his week, her schedule', c:'evt-question'}, {t:'Compare: DaSean gave HER bday Mon', c:'evt-file'}],
+  '2026-08-10': [{t:'DEFAULT MOTION FILED + MAILED', c:'evt-court'}, {t:'Kevin: COMMS_BOUNDARY_GUIDE sent', c:'evt-file'}, {t:'Strategy: DaSean texts 1st, Kevin 2nd', c:'evt-file'}, {t:'[IMG_5683]', c:'evt-question'}],
+  '2026-08-11': [{t:'DaSean: protocol text → Shayla', c:'evt-file'}, {t:'Kevin: backup contact Messenger', c:'evt-file'}, {t:'"You deleted a message" — SHAYLA', c:'evt-shayla'}, {t:'[IMG_5582 — evidence tampering]', c:'evt-question'}, {t:'Kevin: (586)453-7233 as contact', c:'evt-file'}, {t:'[IMG_5580 protocol; IMG_5584 seen]', c:'evt-question'}],
+  '2026-08-12': [{t:'Shayla: "do not contact me"', c:'evt-shayla'}, {t:'Claims "continued to communicate"', c:'evt-shayla'}, {t:'"Dasean is aware...enrolled for school"', c:'evt-shayla'}, {t:'15:20 Kevin nails school contradiction', c:'evt-file'}, {t:'15:30 "directly to their father"', c:'evt-shayla'}, {t:'25 unread msgs; him BLOCKED', c:'evt-shayla'}, {t:'[IMG_5586-5591]', c:'evt-question'}, {t:'SHAYLA FILES 192pp — 7 DOCS', c:'evt-court'}, {t:'Doc1: admits Senegal, blocking, temp', c:'evt-court'}, {t:'Doc3: retreats sole→JOINT legal', c:'evt-court'}, {t:'Doc4: school/MHTCA/PCA trail', c:'evt-court'}, {t:'Doc6: MDHHS proves perjury', c:'evt-court'}, {t:'Doc7: Kevin msgs HELP DaSean', c:'evt-court'}],
+  '2026-08-14': [{t:'DaSean receives filing via mail', c:'evt-file'}, {t:'ADMISSIONS MAILED (38 items)', c:'evt-serve'}, {t:'USPS 11:30AM $36.22 restricted', c:'evt-serve'}, {t:'[IMG_5596-5597 receipts]', c:'evt-question'}, {t:'Est delivery 08/17', c:'evt-serve'}],
+  '2026-08-15': [{t:'CONSENT ORDER SIGNED (DaSean)', c:'evt-file'}, {t:'[IMG_5599-5600 signed document]', c:'evt-question'}, {t:'BATCH SERVICE 11:45AM: 6 envelopes', c:'evt-serve'}, {t:'Shayla+Simone+Leon+Marquita+Crowder', c:'evt-serve'}, {t:'[IMG_5601 receipts]', c:'evt-question'}, {t:'Preservation letters all parties', c:'evt-serve'}, {t:'Reply Brief prepared', c:'evt-file'}],
+  '2026-08-16': [{t:'SHAYLA BIRTHDAY', c:'evt-holiday'}, {t:'Kevin 6AM: "Happy Birthday!" Messenger', c:'evt-file'}, {t:'Shayla: "do not contact me"', c:'evt-shayla'}, {t:'[IMG_5605]', c:'evt-question'}, {t:'$160 hair demand via Marquita', c:'evt-shayla'}, {t:'Shayla Zelle — no salon/date/details', c:'evt-shayla'}, {t:'Kevin coaches text discipline', c:'evt-file'}, {t:'DaSean "unsent a message" — corrected', c:'evt-file'}, {t:'[IMG_5685]', c:'evt-question'}],
+  '2026-08-17': [{t:'REPLY BRIEF E-FILED', c:'evt-court'}, {t:'PRESERVATION E-FILED', c:'evt-court'}, {t:'Mailed restricted certified', c:'evt-serve'}, {t:'USPS delivery attempt Detroit', c:'evt-serve'}, {t:'[IMG_5606 tracking]', c:'evt-question'}],
+  '2026-08-18': [{t:'SHAYLA BIRTHDAY (actual 08/17)', c:'evt-holiday'}, {t:'ADMISSIONS ARRIVE at Dresden', c:'evt-serve'}, {t:'DaSean gives Mon voluntary — his wk', c:'evt-file'}, {t:'Pickup via Simone for return', c:'evt-file'}, {t:'ZERO RECIPROCITY: he gave her bday', c:'evt-question'}, {t:'She gave him Cali party 90min away', c:'evt-question'}],
+  '2026-08-19': [{t:'MARQUITA PRESERVATION DELIVERED', c:'evt-serve'}, {t:'Left with individual — she was home', c:'evt-serve'}, {t:'DSDT Module 1 incomplete — pivot LCC', c:'evt-file'}],
+  '2026-08-20': [{t:'★ DEFAULT WITHDRAWAL E-FILED', c:'evt-court'}, {t:'★ GAL MOTION (13) E-FILED + certified mail', c:'evt-court'}, {t:'Criminal referral docs prepared', c:'evt-file'}, {t:'Subpoenas DELAYED to ~Sept 2-5 (after reports)', c:'evt-file'}, {t:'SOS: DL+VetID+voter→[REDACTED_ADDR_2]', c:'evt-admin'}, {t:'2AM: Kevin walks DaSean thru felonies', c:'evt-file'}, {t:'Leon = USPS mailman (corrected)', c:'evt-file'}, {t:'Shayla appears out of town', c:'evt-shayla'}],
+  '2026-08-22': [{t:'NAVY FEDERAL Lansing branch visit', c:'evt-admin'}],
+  '2026-08-25': [{t:'DaSean confirms 8 Deanna questions (phone)', c:'evt-file'}],
+  '2026-08-29': [{t:'★ PCA BACK TO SCHOOL BASH — DaSean + Kevin IN PERSON', c:'evt-file'}, {t:'★ Kevin walks DaSean thru criminal referral strategy', c:'evt-file'}, {t:'★ Photograph PCA site: playground, block, structures', c:'evt-file'}, {t:'SERVE 3: Interrogatories (35 questions)', c:'evt-serve'}, {t:'DaSean decides whether to report to MDHHS', c:'evt-file'}, {t:'Review CMC prep: statement + dos/donts', c:'evt-file'}, {t:'Ava bday party @ Ulta (same day)', c:'evt-shayla'}, {t:'Shayla: "We will be there!"', c:'evt-shayla'}, {t:'[Doc7, M-21, p.27]', c:'evt-question'}],
+  '2026-08-30': [{t:'★ MDHHS fraud hotline (1-855-643-7283)', c:'evt-deadline'}, {t:'DaSean reports — Deanna = victim not co-conspirator', c:'evt-file'}, {t:'★ Kevin files USPS OIG complaint online', c:'evt-deadline'}, {t:'COA fraud (P-9) + Leon USPS carrier', c:'evt-file'}, {t:'BOTH BEFORE subpoenas go out', c:'evt-file'}],
+  '2026-08-31': [{t:'★ PCA FIRST DAY — DaSean custody week', c:'evt-file'}, {t:'Shayla never communicated start date', c:'evt-shayla'}, {t:'No uniform/supply/schedule info given', c:'evt-shayla'}],
+
+  // =================== SEPTEMBER 2026 ===================
+  '2026-09-03': [{t:'★ E-FILE: Non-Party Subpoenas (15)', c:'evt-court'}, {t:'Family: Simone, Leon, Marquita, Crowder', c:'evt-court'}, {t:'★ E-FILE: Institutional Subpoenas (19)', c:'evt-court'}, {t:'Lake Trust, MMSA, PCA, MHTCA, dentist, MDHHS', c:'evt-court'}, {t:'FILED AFTER MDHHS/USPS REPORTS', c:'evt-file'}],
+  '2026-09-05': [{t:'~COMPEL AMENDED FOC 23 (file 14)', c:'evt-file'}, {t:'~FINANCIAL SUBPOENAS WAVE 3 (file 20)', c:'evt-file'}],
+  '2026-09-07': [{t:'LABOR DAY', c:'evt-holiday'}],
+  '2026-09-12': [{t:'SERVE 4: REQUEST FOR PRODUCTION', c:'evt-serve'}, {t:'31 categories — restricted certified', c:'evt-serve'}],
+  '2026-09-15': [{t:'★ ADMISSIONS DEADLINE (28 days)', c:'evt-deadline'}, {t:'38 items DEEMED ADMITTED if no response', c:'evt-deadline'}, {t:'MCR 2.312(D) — automatic', c:'evt-deadline'}],
+  '2026-09-16': [{t:'SUMMONS EXPIRES (91 days)', c:'evt-deadline'}, {t:'Issued Jun 17, expires Sep 16', c:'evt-deadline'}],
+  '2026-09-17': [{t:'~COMPEL ADMISSIONS (file 16)', c:'evt-file'}, {t:'Only if no response by 09/15', c:'evt-file'}],
+  '2026-09-22': [{t:'~INTERIM CHILD SUPPORT (file 17)', c:'evt-file'}],
+  '2026-09-29': [{t:'★ INTERROGATORIES DEADLINE', c:'evt-deadline'}, {t:'35 questions due — if served 08/29', c:'evt-deadline'}],
+
+  // =================== OCTOBER 2026 ===================
+  '2026-10-01': [{t:'~CMC BINDER PREP begins', c:'evt-file'}, {t:'All filings + evidence + timeline', c:'evt-file'}],
+  '2026-10-09': [{t:'★★★ CMC 12PM ZOOM ★★★', c:'evt-court'}, {t:'JUDGE TRIPLETT — D-DAY', c:'evt-court'}, {t:'DaSean on camera, Kevin off-camera', c:'evt-court'}],
+  '2026-10-13': [{t:'★ PRODUCTION DEADLINE', c:'evt-deadline'}, {t:'31 categories due — if served 09/12', c:'evt-deadline'}],
+  '2026-10-31': [{t:'HALLOWEEN', c:'evt-holiday'}],
+
+  // =================== NOVEMBER 2026 ===================
+  '2026-11-26': [{t:'THANKSGIVING', c:'evt-holiday'}],
+
+  // =================== DECEMBER 2026 ===================
+  '2026-12-21': [{t:'Winter break begins', c:'evt-holiday'}],
+  '2026-12-25': [{t:'CHRISTMAS', c:'evt-holiday'}],
+  '2026-12-31': [{t:'NEW YEAR\'S EVE', c:'evt-holiday'}],
+};
+
+function buildMonth(year, month) {
+  const firstDay = new Date(year, month, 1).getDay();
+  const daysInMonth = new Date(year, month + 1, 0).getDate();
+  const startOffset = firstDay;
+
+  const page = document.createElement('div');
+  page.className = 'month-page';
+
+  const title = document.createElement('div');
+  title.className = 'month-title';
+  title.innerHTML = `<span>${MONTH_NAMES[month]} ${year}</span><span class="case">26-108221-DC | Mitchell v. Smith</span>`;
+  page.appendChild(title);
+
+  const res = getResidence(year, month);
+  const resDiv = document.createElement('div');
+  resDiv.className = 'residence';
+  resDiv.innerHTML = `
+    <span class="label">DaSean:</span><span class="addr">${res.dasean}</span> |
+    <span class="label">Shayla:</span><span class="addr">${res.shayla}</span> |
+    <span class="label">Girls:</span><span class="addr">${res.girls}</span>
+  `;
+  page.appendChild(resDiv);
+
+  const legend = document.createElement('div');
+  legend.className = 'legend';
+  legend.innerHTML = `
+    <span><span class="swatch" style="background:#dbeafe"></span> DaSean wk</span>
+    <span><span class="swatch" style="background:#fde8e8"></span> Shayla wk</span>
+    <span><span class="swatch" style="background:#fffbeb"></span> Bradford</span>
+    <span><span class="swatch" style="background:#f5f5f5"></span> Post-split/pre-sched</span>
+    <span><span class="swatch evt-court" style="width:auto;padding:0 3px">COURT</span></span>
+    <span><span class="swatch evt-serve" style="width:auto;padding:0 3px">SERVE</span></span>
+    <span><span class="swatch evt-deadline" style="width:auto;padding:0 3px">DEADLINE</span></span>
+    <span><span class="swatch evt-shayla" style="width:auto;padding:0 3px">Shayla</span></span>
+    <span><span class="swatch evt-file" style="width:auto;padding:0 3px">DaSean/Kev</span></span>
+    <span><span class="swatch evt-move" style="width:auto;padding:0 3px">MOVE</span></span>
+    <span><span class="swatch evt-school" style="width:auto;padding:0 3px">School</span></span>
+    <span><span class="swatch evt-senegal" style="width:auto;padding:0 3px">SENEGAL</span></span>
+    <span><span class="swatch evt-question" style="width:auto;padding:0 3px">⊘ / TBD</span></span>
+  `;
+  page.appendChild(legend);
+
+  const table = document.createElement('table');
+  const thead = document.createElement('thead');
+  const headerRow = document.createElement('tr');
+  ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'].forEach(d => {
+    const th = document.createElement('th');
+    th.textContent = d;
+    headerRow.appendChild(th);
+  });
+  thead.appendChild(headerRow);
+  table.appendChild(thead);
+
+  const tbody = document.createElement('tbody');
+  let dayCount = 1;
+  const totalCells = Math.ceil((startOffset + daysInMonth) / 7) * 7;
+
+  for (let i = 0; i < totalCells; i++) {
+    if (i % 7 === 0) var row = document.createElement('tr');
+
+    const td = document.createElement('td');
+    if (i < startOffset || dayCount > daysInMonth) {
+      td.className = 'empty';
+    } else {
+      const d = dayCount;
+      const custody = getCustody(year, month, d);
+
+      if (custody === 'bradford') {
+        td.className = 'bradford-era';
+      } else if (custody === 'pre-split') {
+        td.className = 'pre-split';
+      } else if (custody === 'dasean') {
+        td.className = 'dasean-week';
+      } else if (custody === 'shayla') {
+        td.className = 'shayla-week';
+      } else {
+        td.className = 'pre-schedule';
+      }
+
+      const numSpan = document.createElement('span');
+      numSpan.className = 'day-num';
+      numSpan.textContent = d;
+      td.appendChild(numSpan);
+
+      const key = `${year}-${String(month+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+      if (E[key]) {
+        const evDiv = document.createElement('div');
+        evDiv.className = 'events';
+        E[key].forEach(ev => {
+          if (!ev.t) return;
+          const e = document.createElement('div');
+          e.className = 'evt ' + ev.c;
+          e.textContent = ev.t;
+          e.title = ev.t;
+          evDiv.appendChild(e);
+        });
+        td.appendChild(evDiv);
+      }
+
+      dayCount++;
+    }
+    row.appendChild(td);
+    if (i % 7 === 6) tbody.appendChild(row);
+  }
+  table.appendChild(tbody);
+  page.appendChild(table);
+
+  const notes = document.createElement('div');
+  notes.className = 'notes-area';
+  notes.textContent = 'Notes:';
+  page.appendChild(notes);
+
+  document.body.appendChild(page);
+}
+
+MONTHS.forEach(m => buildMonth(m.year, m.month));
+</script>
+
+</body>
+</html>
+

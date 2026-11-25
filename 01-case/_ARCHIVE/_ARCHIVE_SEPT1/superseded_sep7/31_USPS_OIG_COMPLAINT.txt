@@ -1,0 +1,413 @@
+COMPLAINT TO THE UNITED STATES POSTAL SERVICE
+OFFICE OF INSPECTOR GENERAL
+
+Online: https://www.uspsoig.gov/hotline
+Phone: 1-888-877-7644
+
+=========================================================
+REPORTING PARTY
+=========================================================
+
+Name:       Kevin Mok
+Address:    [REDACTED_ADDR_1] Dr, [REDACTED_CITY]
+Phone:      [REDACTED_PHONE]
+Email:      eco.primal@pm.me
+Date:       August 27, 2026
+
+=========================================================
+COMPLAINT SUMMARY
+=========================================================
+
+I am reporting two categories of USPS-related criminal conduct
+by members of the Smith family at XXXXX Dresden St, Detroit, MI
+48205. Both categories involve federal mail crimes, one involves
+a current USPS employee, and all conduct occurred DURING AN
+ONGOING CONTESTED CUSTODY LITIGATION in Wayne County Circuit
+Court (Case 26-108221-DC). Six (6) pieces of Certified Mail
+Restricted Delivery were sent; four (4) were intercepted by
+an unauthorized person at the Harper Woods, MI post office.
+
+The intercepted mail contained legal correspondence directly
+related to that custody proceeding. The mail interception and
+the fraudulent Change of Address were not isolated acts — they
+are part of a pattern of evidence suppression and obstruction
+designed to prevent the father of two minor children from
+communicating with family members who could resolve the dispute.
+
+=========================================================
+COMPLAINT 1: INTERCEPTION OF CERTIFIED MAIL RESTRICTED DELIVERY
+=========================================================
+
+SUSPECT: Marquita L. Smith
+ADDRESS: XXXXX Dresden St, Detroit, MI 48205
+CONNECTION: Wife of Leon A. Smith, USPS Mail Carrier assigned
+to the HARPER WOODS post office — THE SAME FACILITY where
+the mail interception occurred
+
+On or about August 18, 2026, I sent six (6) pieces of Certified
+Mail Restricted Delivery from the Lansing, MI post office to
+members of the Smith family at multiple addresses. Under USPS
+Restricted Delivery service, ONLY the named addressee (or their
+authorized agent with written documentation) may sign for and
+receive the mail piece.
+
+RESULTS:
+
+1. Tracking #9589 0710 5270 3836 6530 58
+   Addressed to: Marquita L. Smith
+   Address: XXXXX Dresden St, Detroit, MI 48205
+   Status: Delivered, Left with Individual
+   Date: August 19, 2026, 5:10 PM
+   Location: DETROIT, MI 48205
+   NOTES: This delivery is LEGITIMATE. Marquita signed for
+   her own mail. Her signature on this return receipt card
+   establishes the BASELINE for signature comparison.
+
+2. Tracking #9589 0710 5270 3836 6530 72
+   Addressed to: Shayla Smith
+   Status: Delivered, Left with Individual
+   Date: August 21, 2026, 5:04 PM
+   Location: HARPER WOODS, MI 48225
+   NOTES: Restricted Delivery. Shayla Smith did NOT sign.
+   The signature on the PS Form 3811 return receipt matches
+   MARQUITA SMITH's signature from card #1 above. Marquita
+   picked up Shayla's restricted delivery mail at the Harper
+   Woods post office.
+   Related item: 9590 9402 9666 5199 4503 47
+
+3. Tracking #9589 0710 5270 3836 6530 65
+   Addressed to: Shayla Smith
+   Status: Delivered, Left with Individual
+   Date: August 21, 2026, 5:03 PM
+   Location: HARPER WOODS, MI 48225
+   NOTES: Restricted Delivery. Same signature as Marquita's
+   card #1. Second piece of Shayla's mail intercepted by
+   Marquita at the Harper Woods post office.
+   Related item: 9590 9402 9666 5199 4503 30
+
+4. Tracking #9589 0710 5270 3836 6530 96
+   Addressed to: Leon A. Smith
+   Status: Delivered, Left with Individual
+   Date: August 21, 2026, 5:03 PM
+   Location: HARPER WOODS, MI 48225
+   NOTES: Restricted Delivery. Same signature as Marquita's
+   card #1. Marquita signed for her own HUSBAND's restricted
+   delivery mail at the Harper Woods post office. Leon Smith
+   is a USPS Mail Carrier (see Complaint 2 below).
+   Related item: 9590 9402 9666 5199 4503 54
+
+5. Tracking #9589 0710 5270 3836 6530 34
+   Addressed to: Simone Smith
+   Status: Delivered, Left with Individual
+   Date: August 21, 2026, 5:04 PM
+   Location: HARPER WOODS, MI 48225
+   NOTES: Restricted Delivery. Same "S Smith" signature as
+   all other cards. Marquita signed for her other daughter's
+   restricted delivery mail at the Harper Woods post office.
+   Simone did NOT authorize this and is herself a victim of
+   the mail interception.
+   Related item: 9590 9402 9666 5199 4503 39
+
+6. Tracking #9589 0710 5270 3836 6530 27
+   Addressed to: Shayla Smith
+   Address: Eastpointe, MI 48021
+   Status: DELIVERY ATTEMPT — ACTION NEEDED
+   Date: August 21, 2026, 3:44 PM
+   Location: EASTPOINTE, MI 48021
+   NOTES: "Notice Left (No Authorized Recipient Available)"
+   — Shayla was not at this address. This is consistent with
+   the other evidence: Shayla was not available to sign for
+   her own mail at ANY address, and her mother Marquita went
+   to the Harper Woods post office to collect it for her.
+   This item will be RETURNED TO SENDER on September 5, 2026
+   if not claimed — further confirming Shayla does not reside
+   at the Eastpointe address.
+   Related item: 9590 9402 9666 5199 4503 61
+
+SIGNATURE EVIDENCE:
+
+I am in possession of the original PS Form 3811 (Domestic
+Return Receipt) green cards for all delivered items.
+
+CRITICAL DISTINCTION:
+
+Card #1 (Marquita's own mail, Dresden, Aug 19): Marquita
+signed her OWN name for her OWN restricted delivery mail at
+her OWN residence. This is LEGITIMATE. Her signature on this
+card is her AUTHENTIC baseline signature.
+
+Cards #2, #3, and #4 (Harper Woods PO, Aug 21): Marquita
+signed under the ADDRESSEES' NAMES — not her own name, and
+not as an identified agent. She did not sign "Marquita Smith,
+agent for [addressee]." She signed as if she WERE the
+addressee. She signed Shayla's mail as "S Smith." She signed
+Leon's mail as "S Smith." She signed under their names at
+the postal counter.
+
+This means:
+(a) She did NOT identify herself as an agent to the postal
+    clerk — she presented as the addressee or signed under
+    their names
+(b) She would need to produce, for EACH of the four
+    intercepted mail pieces, proof of authorization:
+    - A PS Form 3801 (Standing Delivery Order) on file with
+      the post office naming her as authorized agent, OR
+    - A signed letter from each addressee to the Postmaster
+      authorizing her to receive their restricted delivery
+      mail, with the specific phrase "this authorization is
+      extended to include restricted delivery mail"
+(c) No such authorization exists — confirmed by Shayla
+    Smith's own statement through Leon Smith's phone on
+    Aug 25, 2026, in which Shayla asserted that "as long as
+    an adult sign for it, it's legal" — demonstrating that
+    NO formal authorization process was followed
+(d) Signing under another person's name at a federal postal
+    facility is not merely unauthorized receipt — it is
+    forgery at a federal facility
+
+The signatures on cards #2, #3, and #4 do NOT match Shayla
+Smith's authenticated signature on her sworn court filing in
+Wayne County Circuit Court Case 26-108221-DC (filed August
+12, 2026). They DO match Marquita's authentic signature on
+card #1. She signed her own name correctly on her own card,
+then signed under other people's names on their cards.
+
+This was not an inadvertent doorstep signing. Marquita Smith
+traveled to the Harper Woods post office — HER HUSBAND'S
+WORKPLACE, where he is assigned as a USPS Mail Carrier —
+presented herself to a postal clerk (likely known to the
+staff as "Leon's wife"), signed under four different
+addressees' names without identifying herself as an agent,
+and walked out with restricted delivery legal mail belonging
+to her husband, her daughter Shayla (x2), and her daughter
+Simone.
+
+The fact that the interception occurred at Leon Smith's own
+post office is critical:
+(a) The clerks at Harper Woods likely recognized Marquita as
+    the wife of their coworker Leon Smith — which may explain
+    why they released restricted delivery mail to a person
+    who was NOT the named addressee and did NOT present
+    formal authorization documentation
+(b) This raises the question of whether Leon Smith's
+    employment relationship with the Harper Woods facility
+    was used — directly or indirectly — to facilitate the
+    unauthorized release of restricted delivery mail to his
+    wife
+(c) Whether or not Leon Smith was physically present at the
+    facility on August 21, his employment there created the
+    conditions for the interception
+(d) The USPS OIG should investigate whether Harper Woods
+    postal clerks followed proper Restricted Delivery
+    verification procedures, or whether they released the
+    mail based on Marquita's relationship to a coworker
+
+This was a deliberate, premeditated act of mail interception
+and forgery at a federal postal facility where the suspect's
+husband is an employee.
+
+APPLICABLE FEDERAL STATUTES:
+
+- 18 USC 1702: Obstruction of correspondence — taking mail
+  from any authorized depository addressed to another person.
+  Up to 5 years imprisonment per count.
+
+- 18 USC 1708: Theft or receipt of stolen mail — whoever
+  takes any letter addressed to another person. Up to 5 years
+  imprisonment per count.
+
+POTENTIAL COUNTS: Four (4) — one for each piece of restricted
+delivery mail signed for by someone other than the addressee
+(Shayla x2, Leon x1, Simone x1). Marquita signed "S Smith"
+on all four cards — under the addressees' names, not her own,
+and not as an identified agent.
+
+=========================================================
+COMPLAINT 2: FRAUDULENT CHANGE OF ADDRESS + USPS EMPLOYEE
+=========================================================
+
+SUSPECT: Shayla Smith
+ADDRESS: Currently at XXXXX Dresden St, Detroit, MI 48205
+USPS EMPLOYEE CONNECTION: Leon A. Smith (father, USPS Mail
+Carrier, same address)
+
+In approximately April 2026, Shayla Smith filed a USPS Change
+of Address redirecting her mail from:
+
+   FROM: XXXXX Bradford Dr, Apt 214, Sterling Heights, MI 48312
+   TO:   XXXXX Dresden St, Detroit, MI 48205
+
+At the time of filing, Ms. Smith was residing at NEITHER
+address. She had left Bradford in approximately February 2026
+and was living at XXXXX Virginia Ave, Eastpointe, MI 48021
+(a friend's residence). She did not move to Dresden until
+approximately June 2026.
+
+The Change of Address redirected government correspondence —
+including Michigan MDHHS benefits notices, employment
+verification forms, and SNAP/Medicaid determinations — to a
+third-party address controlled by her parents, Leon and
+Marquita Smith.
+
+USPS EMPLOYEE CONNECTION:
+
+The destination address (17370 Dresden) is the residence of
+LEON A. SMITH, Shayla Smith's father, who is a current USPS
+MAIL CARRIER. A USPS employee's residence was the endpoint of
+a fraudulently filed Change of Address that redirected
+government mail. The COA was filed by the employee's daughter,
+who was conducting benefits fraud using the redirected
+government correspondence (see MDHHS report, filed separately
+by DaSean Mitchell).
+
+Whether Leon Smith had knowledge of the fraudulent COA is
+unknown to me. However, as a USPS Mail Carrier, he would have
+heightened awareness of Change of Address procedures and the
+consequences of mail redirection to incorrect addresses.
+
+EVIDENCE:
+
+Ms. Smith submitted her own COA records as Exhibit P-9 in
+Wayne County Circuit Court Case 26-108221-DC. The evidence of
+the fraudulent COA was provided by the suspect herself, under
+oath, to a court of law.
+
+APPLICABLE FEDERAL STATUTE:
+
+- 18 USC 1708: Knowingly receiving mail through a fraudulently
+  obtained change of address. Federal felony, up to 5 years.
+
+=========================================================
+EVIDENCE IN MY POSSESSION (AVAILABLE UPON REQUEST)
+=========================================================
+
+1. Original PS Form 3811 return receipt cards (green cards)
+   for all delivered items, with signatures
+
+2. USPS tracking screenshots for all six tracking numbers
+
+3. Photograph showing all return receipt cards alongside
+   Shayla Smith's sworn court filing signature (for
+   comparison)
+
+4. Court exhibits filed by Shayla Smith in Wayne County
+   Circuit Court Case 26-108221-DC, including:
+   - Exhibit P-9: USPS Change of Address records (submitted
+     by the suspect herself)
+   - Shayla Smith's signed and sworn filing (signature
+     comparison baseline)
+
+5. USPS tracking data confirming Certified Mail Restricted
+   Delivery as the service type for all six items
+
+6. TEXT MESSAGE EVIDENCE (Aug 25, 2026): DaSean Mitchell
+   (father of Shayla Smith's children) attempted to contact
+   Leon Smith about the mail interception, at the request
+   of Kevin Mok, who had warned DaSean about the federal
+   felonies. Leon Smith gave his phone to Shayla Smith AND
+   Marquita Smith, who responded through Leon's device with
+   the following:
+
+   "Listen very carefully, for as long as an adult sign for
+   it, it's legal. When no one is home to sign, you can use
+   an authorized person to sign, otherwise no one will
+   receive it. You guys are not that smart, but continue,
+   God don't like ugly."
+
+   They also called Kevin Mok and DaSean Mitchell "little
+   men" and "stupid" during this exchange.
+
+   DaSean Mitchell confirmed: "I tried to reach out but I
+   think he gave Shayla the phone and this is what I got
+   back"
+
+   This text message is significant because:
+   (a) BOTH Shayla Smith AND Marquita Smith — the person who
+       committed the mail interception — ADMIT KNOWLEDGE of
+       the interception and are defending it, not denying it
+   (b) They provide FACTUALLY FALSE legal information — USPS
+       Restricted Delivery requires formal authorization via
+       PS Form 3801 or written letter to the Postmaster, not
+       merely any adult being present
+   (c) Their own statement proves they understand the concept
+       of authorization ("authorized person to sign") but
+       did NOT follow the required process. No PS Form 3801
+       exists. No letter to the Postmaster exists. And
+       Marquita did NOT sign as an identified agent — she
+       signed under the addressees' names, which is forgery
+   (d) Shayla Smith is a Lake Trust Credit Union employee who
+       receives mandatory PATRIOT Act / Bank Secrecy Act
+       compliance training on identity verification — she
+       knows the rules she is misrepresenting
+   (e) Leon Smith — the USPS Mail Carrier — was warned about
+       the felonies by DaSean Mitchell and chose to hand his
+       phone to his daughter AND his wife (the mail
+       interceptor herself) rather than engage. He is now ON
+       NOTICE of the federal mail crimes committed by his
+       wife at a USPS facility
+   (f) Marquita Smith — the person who physically committed
+       the mail theft — participated in the response. She is
+       not merely the subject of the complaint; she is
+       actively defending her own federal crimes through her
+       husband's phone while calling the complainant "stupid"
+       and invoking God's name to justify mail fraud
+
+   iMessage screenshots preserved (IMG_5766, IMG_5767)
+
+=========================================================
+ADDITIONAL CONTEXT: ACTIVE CUSTODY LITIGATION
+=========================================================
+
+This mail interception occurred DURING AN ONGOING CONTESTED
+CUSTODY CASE. DaSean Mitchell (father of Shayla Smith's two
+minor children) is the Defendant/Counter-Plaintiff in Wayne
+County Circuit Court Case 26-108221-DC. The next court date
+is a Case Management Conference on October 9, 2026. I am
+DaSean Mitchell's designated representative in this matter.
+
+The certified mail I sent contained legal correspondence
+relevant to this custody dispute. By intercepting it, Marquita
+Smith ensured that:
+
+- Shayla Smith did not have to personally confront the legal
+  consequences documented in the correspondence
+- Leon Smith — whose testimony and cooperation could resolve
+  the custody dispute — never saw what was sent to him
+- The family's information gatekeeper (Marquita) controlled
+  who knew what and when
+
+This is not a neighbor grabbing a package from a doorstep.
+This is a mother-in-law traveling to a federal postal facility,
+presenting herself to a postal clerk, and intercepting
+restricted delivery legal mail addressed to three separate
+family members during active litigation involving her
+grandchildren.
+
+I sent the certified mail as a routine test of mail delivery
+to known addresses associated with the Smith family. I did not
+anticipate the discovery of mail interception. The evidence of
+Marquita Smith's signature on other family members' restricted
+delivery mail was discovered upon receipt of the return cards.
+
+I am filing this complaint because:
+1. Federal mail crimes were committed during active litigation
+2. A USPS employee's household is involved
+3. The restricted delivery service I paid for was violated
+4. The integrity of certified mail — which courts rely upon
+   for legal service of process — was compromised by a USPS
+   employee's spouse at a USPS facility
+5. Legal correspondence intended to potentially RESOLVE a
+   custody dispute was intercepted, ensuring the dispute
+   continues and the children remain in an unstable situation
+
+=========================================================
+
+Respectfully submitted,
+
+Kevin Mok
+[REDACTED_ADDR_1] Dr
+[REDACTED_CITY]
+[REDACTED_PHONE]
+eco.primal@pm.me
+Date: August 27, 2026
+

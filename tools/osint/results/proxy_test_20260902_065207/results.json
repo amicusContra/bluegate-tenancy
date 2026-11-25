@@ -1,0 +1,166 @@
+[
+  {
+    "source": "irs_teos",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "ein_proxy: 33-3537910",
+    "timestamp": "2026-09-02T06:47:53.482595",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Proxy fetch failed: None"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "name_proxy: The Right Turn Project",
+    "timestamp": "2026-09-02T06:48:54.236930",
+    "hit_count": 5,
+    "hits": [
+      {
+        "raw_line": "website belongs to an official government organization in the United States."
+      },
+      {
+        "raw_line": "Governments and tax-exempt bonds"
+      },
+      {
+        "raw_line": "Apply for an Employer ID Number (EIN)"
+      },
+      {
+        "raw_line": "Governments and tax-exempt bonds"
+      },
+      {
+        "raw_line": "Apply for an Employer ID Number (EIN)"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "entity/agent: Brian Roderick Banks",
+    "timestamp": "2026-09-02T06:49:50.364821",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "LARA ID: 802070120",
+    "timestamp": "2026-09-02T06:50:32.310134",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "802070120",
+        "manual_action": "Search entity ID 802070120 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "LARA ID: 803294855",
+    "timestamp": "2026-09-02T06:50:32.310149",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "803294855",
+        "manual_action": "Search entity ID 803294855 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "lara_mirror: Brian Roderick Banks",
+    "timestamp": "2026-09-02T06:50:32.310625",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "companiesmi: Brian Roderick Banks",
+    "timestamp": "2026-09-02T06:51:16.854289",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "lara_mirror: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:51:16.976567",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/banks-strategy-&-consultants-llc/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "lara_mirror: Purpose Foundation",
+    "timestamp": "2026-09-02T06:52:02.360887",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/purpose-foundation/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "lara_mirror: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:52:03.986352",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/the-purpose-group-llc/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "lara_mirror: The Right Turn Project",
+    "timestamp": "2026-09-02T06:52:05.589607",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/the-right-turn-project/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  }
+]

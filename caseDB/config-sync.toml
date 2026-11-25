@@ -1,0 +1,371 @@
+# Actor/Entity sync from caseDB — paste into detroit site config.toml
+# Generated: 2026-10-01T14:05:55.779879+00:00
+# Total entities: 65
+
+[extra.entities.doe_oig]
+display = "DOE Office of Inspector General"
+type = "agency"
+notes = "Federal referral Sep 22."
+
+[extra.entities.dpd]
+display = "Detroit Police Department"
+type = "agency"
+notes = "DPD Report #26-0909-0176. Banks claimed to be attorney."
+
+[extra.entities.dpscd]
+display = "Detroit Public Schools Community District"
+type = "agency"
+notes = "Charter authorizer for PCA."
+
+[extra.entities.fbi_detroit]
+display = "FBI Detroit Field Office"
+type = "agency"
+notes = "Federal referral Sep 22."
+
+[extra.entities.jtc]
+display = "Judicial Tenure Commission"
+type = "agency"
+notes = "5 complaints filed."
+
+[extra.entities.lara]
+display = "LARA"
+type = "agency"
+notes = "Michigan Dept of Licensing and Regulatory Affairs."
+
+[extra.entities.mde_professional_practice]
+display = "MDE Professional Practice"
+type = "agency"
+notes = "Office of Educator Excellence. Handles administrator certificate complaints under R 380.124."
+
+[extra.entities.mi_ag]
+display = "Michigan Attorney General"
+type = "agency"
+notes = "Referral Sep 9."
+
+[extra.entities.mde]
+display = "Michigan Department of Education"
+type = "agency"
+notes = "FOIA responded Sep 25. David Head coordinator. Second request Oct 1 (compliance verifications). Formal complaint filed Oct 1."
+
+[extra.entities.moahr]
+display = "Michigan Office of Administrative Hearings and Rules"
+aliases = ["MOAHR"]
+type = "agency"
+notes = "Holds TCR 22-12 hearing record. David Head directed Kevin here for hearing docs."
+
+[extra.entities.state_bar]
+display = "State Bar of Michigan"
+type = "agency"
+notes = "UPL complaint filed Aug 31."
+
+[extra.entities.usps_oig]
+display = "USPS Office of Inspector General"
+type = "agency"
+notes = "Cases #174517, #202990, #208322."
+
+[extra.entities.wayne_foc]
+display = "Wayne County FOC"
+type = "agency"
+notes = "Family court operations."
+
+[extra.entities.banks_strategy]
+display = "Banks Strategy & Consultants LLC"
+type = "entity"
+notes = "LARA 802070120. Receives campaign payments from judges."
+
+[extra.entities.purpose_foundation]
+display = "Purpose Foundation"
+type = "entity"
+roles = "defendant"
+cases = "2026-4349-CZ"
+notes = "LARA 803294855. Banks president, Holland sec/treas."
+
+[extra.entities.purpose_group]
+display = "The Purpose Group LLC"
+type = "entity"
+roles = "defendant"
+cases = "2026-4349-CZ"
+notes = "LARA 803295082. CMO. 72.67% management fee extraction."
+
+[extra.entities.foley_mansfield]
+display = "Foley & Mansfield PLLP"
+type = "org"
+notes = "National firm. 150+ attorneys."
+
+[extra.entities.gllg]
+display = "Great Lakes Legal Group PLLC"
+type = "org"
+notes = "Domain: gllegalgroup.com (double L). Crump-Gibson's firm."
+
+[extra.entities.childrens_center]
+display = "The Children's Center"
+aliases = ["TCC"]
+type = "org"
+notes = "Wells Stallworth was CEO (~Jul 2023-2025). Ellis is CFO. Pipeline from board chair network into Banks enterprise financial operations."
+
+[extra.actors.stallworth_alma]
+display = "Alma Stallworth"
+type = "person"
+notes = "Matriarch. Former state representative. Mother of Keith and Thomas III."
+
+[extra.actors.washington_artesia]
+display = "Artesia Washington"
+type = "person"
+notes = "MacDowell Board Treasurer. Executive Director, Irvine Neuro Rehabilitation LLC."
+
+[extra.actors.banks_brian]
+display = "Brian Roderick Banks"
+aliases = ["Brian Banks, J.D., Ph.D."]
+type = "person"
+roles = "defendant,respondent"
+cases = "2026-4301-CZ,2026-4349-CZ,26-4435-PH,26-ppo-mok-banks"
+notes = "9 felony convictions. SID 2029469K. Claims J.D. (MSU, real) ??? no bar admission (felonies prevented). Walden doctorate real but no IRB. TCR 22-12 issued 7 conditions Aug 2023."
+
+[extra.actors.mitchell_dasean]
+display = "DaSean Mitchell"
+type = "person"
+roles = "petitioner"
+cases = "26-108221-DC,26-4432-PP,26-4433-PH,26-4434-PH,26-4435-PH,26-4436-PH"
+notes = "Army veteran. Father of Sahana (9) and Allanna (7). Kevin's best friend. Was in a committed relationship with Shayla — 2 wedding ceremonies but NO legal marriage certificate. Shayla ended the relationship Feb 2026. Shayla has exercised de facto sole custody of both daughters for ~9 years with no court order, claiming benefits (SNAP/EBT/FIP/Medicaid) as if she had sole legal custody."
+
+[extra.actors.head_david]
+display = "David Head"
+type = "person"
+notes = "MDE FOIA Coordinator. Exemplary service. Commendation filed Oct 1. Signaled compliance docs exist but weren't requested."
+
+[extra.actors.mitchell_deanna]
+display = "Deanna Mitchell"
+type = "person"
+notes = "DaSean's mother. Sahana and Allanna's paternal grandmother. The Sep 2 assault occurred at her house."
+
+[extra.actors.reed_hendon_caryn]
+display = "Dr. Caryn Reed-Hendon"
+aliases = ["Ph.D."]
+type = "person"
+notes = "MacDowell Board Vice Chair. Manager, Office of Diversity & Inclusion, Henry Ford Medical Group."
+
+[extra.actors.dr_charles_mok]
+display = "Dr. Charles D. Mok, D.O."
+type = "person"
+notes = "Kevin father. Board-certified surgeon 35+ years. Chicago College of Osteopathic Medicine 1989. MSU Assistant Clinical Professor. Banks defamed him Sep 29."
+
+[extra.actors.mcgee_tynisha]
+display = "Dr. Tynisha McGee"
+aliases = ["Ed.D"]
+type = "person"
+notes = "MacDowell Board Treasurer. District Dean, Wayne County Community College."
+
+[extra.actors.sabree_eric]
+display = "Eric Sabree"
+type = "person"
+notes = "Wayne County Treasurer."
+
+[extra.actors.meihn_gregory]
+display = "Gregory M. Meihn"
+type = "person"
+notes = "Partner, Foley & Mansfield PLLP. MacDowell board attorney. MSU MS, Toledo JD. Weekly meetings with Banks."
+
+[extra.actors.judge_sabree_aliyah]
+display = "Hon. Aliyah Sabree"
+type = "person"
+notes = "36th District. Lincoln Hall. Nov 3 ballot. Eric Sabree's daughter."
+
+[extra.actors.judge_koenig]
+display = "Hon. Carol N. Koenig"
+type = "person"
+notes = "Ingham County. PPO cases."
+
+[extra.actors.judge_miller]
+display = "Hon. Cylenthia Miller"
+type = "person"
+notes = "3rd Circuit. PCA Board Chair. JTC complaint filed. Nov 3 ballot."
+
+[extra.actors.judge_ramsey]
+display = "Hon. Kelly Ramsey"
+type = "person"
+notes = "3rd Circuit. CJC."
+
+[extra.actors.judge_tremblay]
+display = "Hon. Patricia A. Tremblay"
+type = "person"
+roles = "judge"
+cases = "26-ppo-mok-banks"
+notes = "Judge, 30th Circuit Ingham. Kevin PPO vs Banks."
+
+[extra.actors.judge_perkins_sean]
+display = "Hon. Sean Perkins"
+type = "person"
+notes = "36th District. Brother of Todd Perkins."
+
+[extra.actors.judge_stokes]
+display = "Hon. Stokes"
+type = "person"
+notes = "Ingham County 30th Circuit. Civil cases 4301 + 4349."
+
+[extra.actors.judge_yancey]
+display = "Hon. Tenisha Yancey"
+type = "person"
+notes = "MacDowell Board Chair (co-chair with Wells Stallworth). 36th District. Campaign paid Banks Strategy $383.82."
+
+[extra.actors.judge_triplett]
+display = "Hon. Triplett"
+type = "person"
+notes = "Wayne County. Custody 26-108221-DC."
+
+[extra.actors.crump_gibson_jehan]
+display = "Jehan Crump-Gibson"
+type = "person"
+roles = "attorney-defendant"
+cases = "2026-4301-CZ,2026-4349-CZ"
+notes = "Attorney. Entered Sep 30. Banks in 4301, ALL defendants in 4349. Great Lakes Legal Group PLLC."
+
+[extra.actors.holland_joseph]
+display = "Joseph Holland Jr."
+aliases = ["Joseph Antione Williams"]
+type = "person"
+roles = "defendant"
+cases = "2026-4349-CZ"
+notes = "MDOC #443789. Discharged WITHOUT IMPROVEMENT May 2024. 5 bankruptcies."
+
+[extra.actors.schmiedeknecht_katie]
+display = "Katie Schmiedeknecht"
+type = "person"
+notes = "MDE Analyst, OEE. Gave Banks the loophole Feb 2022."
+
+[extra.actors.stallworth_keith]
+display = "Keith Stallworth"
+type = "person"
+notes = "Former state rep, Wayne County commissioner. Pled guilty federal financial crime 2003 (laundering drug money through Tiger's Lounge). Brother of Thomas III."
+
+[extra.actors.mok_kevin]
+display = "Kevin Mok"
+type = "person"
+roles = "plaintiff,representative,expert,witness,petitioner"
+cases = "2026-4301-CZ,2026-4349-CZ,26-108221-DC,26-4432-PP,26-ppo-mok-banks"
+notes = "Army veteran. Eagle Scout. Background: bioethics, genetics, computational biology. Pro se plaintiff + witness. Zero convictions, zero bankruptcies. Father: Dr. Charles Mok (board-certified surgeon)."
+
+[extra.actors.longstreet_kristine]
+display = "Kristine Longstreet"
+type = "person"
+notes = "MacDowell Board Director. Managing Director, Neighborhood Defender Service Detroit."
+
+[extra.actors.moreland_lamar]
+display = "Lamar Moreland"
+aliases = ["AAG"]
+type = "person"
+notes = "Assistant Attorney General."
+
+[extra.actors.smith_leon]
+display = "Leon A. Smith"
+type = "person"
+roles = "defendant,respondent"
+cases = "2026-4301-CZ,26-4436-PH"
+notes = "USPS mail carrier, Harper Woods PO. Assaulted DaSean Sep 2. RFA: admitted items 1-4, objected to rest on relevance. Marquita admits Leon signed green cards for household. Phone: (313)412-4703. Email: oneomega1970@gmail.com."
+
+[extra.actors.smith_marquita]
+display = "Marquita R. Smith"
+type = "person"
+roles = "defendant,respondent,debtor"
+cases = "2026-4301-CZ,26-4433-PH,26-47542"
+notes = "Leon's wife. BK 26-47542 (disputes identity). ADMITS: present at PCA Aug 29, made police report #26-0829-0225, owns Dresden St property. ADMITS Leon signed green cards for household. Claims middle name Lashun not Renea. Phone: (313)957-1802. Email: oneomega1993@gmail.com."
+
+[extra.actors.leno_michele]
+display = "Michele Leno"
+aliases = ["Ph.D."]
+type = "person"
+notes = "TCR 22-12 witness. Psychologist. Saybrook doctorate (low-residency). Specialty: athletes, social media ??? NOT PTSD/forensic. 13 sessions over 2 months. Concluded Banks is person of integrity."
+
+[extra.actors.stallworth_west_misha]
+display = "Misha Stallworth West"
+type = "person"
+notes = "DPSCD Board member. Thomas Stallworth III's daughter. Charter authorization pipeline."
+
+[extra.actors.vitti_nicolai]
+display = "Nicolai Vitti"
+aliases = ["Ph.D."]
+type = "person"
+notes = "DPSCD Superintendent. Mentored Banks. Testified at TCR 22-12. Authorized PCA charter Jul 2025."
+
+[extra.actors.wells_stallworth_nicole]
+display = "Nicole Wells Stallworth"
+type = "person"
+notes = "MacDowell Board Chair. Former CEO, The Children's Center. Wife of Thomas Stallworth III. Signs Condition #7 compliance verifications."
+
+[extra.actors.referee_biggar]
+display = "Referee Biggar"
+type = "person"
+notes = "Wayne County FOC."
+
+[extra.actors.preuss_ric]
+display = "Ric Preuss"
+type = "person"
+notes = "MacDowell Board Secretary. Business Agent, IBEW Local 58. Public Lighting Authority board."
+
+[extra.actors.smith_shayla]
+display = "Shayla R. Smith"
+type = "person"
+roles = "defendant,respondent"
+cases = "2026-4301-CZ,26-108221-DC,26-4432-PP"
+notes = "DaSean's ex-partner. 2 wedding ceremonies, NO legal marriage certificate. Ended the relationship Feb 2026 — but groundwork laid Jun 2025 when parents (Leon + Marquita) remortgaged Dresden house. Has exercised de facto sole custody for ~9 years with NO court order. Controlled SNAP/EBT/FIP/Medicaid benefits as if she had sole legal custody. Potential IRS filing fraud (filing as head of household or claiming children without legal custody). Enrolled daughters at PCA (Banks' school) without DaSean's knowledge or consent."
+
+[extra.actors.smith_simone]
+display = "Simone R. Smith"
+type = "person"
+roles = "defendant,respondent,debtor"
+cases = "2026-4301-CZ,26-4434-PH,26-49404-lsg"
+notes = "Shayla's sister (disputed — denies Marquita is her mother). BK 26-49404-lsg (disputes identity). Claims never owned real property (contradicts Normandy Ave records). NOW lists address as XXXXX Dresden St, not Normandy Ave."
+
+[extra.actors.shulman_terrence]
+display = "Terrence Shulman"
+aliases = ["LMSW"]
+type = "person"
+notes = "TCR 22-12 witness. Licensed social worker. Self-described recovering theft addict. Cannot diagnose PTSD. State Bar referral 2011. 6 sessions 2011, 12 sessions 2020-2021."
+
+[extra.actors.stallworth_thomas_iii]
+display = "Thomas Stallworth III"
+type = "person"
+notes = "Former state rep. Husband of Nicole Wells Stallworth. Father of Misha Stallworth West."
+
+[extra.actors.perkins_todd]
+display = "Todd Perkins"
+aliases = ["P55623"]
+type = "person"
+notes = "Banks' attorney. Brother of Judge Sean Perkins. 4 bankruptcies."
+
+[extra.actors.welch_tonesa]
+display = "Tonesa Welch"
+aliases = ["Black Mafia Queen"]
+type = "person"
+notes = "Banks' half-aunt. BMF defendant #22. USA v. Flenory (2:05-cr-80955)."
+
+[extra.actors.ellis_tracey]
+display = "Tracey Ellis"
+type = "person"
+roles = "defendant"
+cases = "2026-4349-CZ"
+notes = "Purpose CFO. Named defendant in amended 4349."
+
+[extra.actors.hall_verkeydia]
+display = "Verkeydia Hall"
+aliases = ["Esq"]
+type = "person"
+notes = "MacDowell Board Director. Attorney. Crump Hall of Justice Law Firm PLLC."
+
+[extra.actors.coffee_winston]
+display = "Winston Coffee"
+type = "person"
+notes = "MacDowell Board Director. Director of Alumni Engagement, Midnight Golf / College Career & Beyond."
+
+[extra.entities.macdowell]
+display = "MacDowell Preparatory Academy"
+type = "school"
+roles = "defendant"
+cases = "2026-4349-CZ"
+notes = "Entity #82747. 3% math proficiency."
+
+[extra.entities.pca]
+display = "Purpose Charter Academy"
+type = "school"
+roles = "defendant"
+cases = "2026-4349-CZ"
+notes = "Authorized by DPSCD Jul 2025. 3-year contract."

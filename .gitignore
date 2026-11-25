@@ -1,0 +1,29 @@
+# Photos and media (contain PII, large files)
+*.jpeg
+*.jpg
+*.png
+*.gif
+*.heic
+*.mp4
+*.mov
+
+# Archives (contain photos)
+*.zip
+
+# PDF originals (may contain PII)
+# Keep the .tex source, exclude compiled PDFs with signatures
+records/**/*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+*.swp
+*.swo
+*~
+__pycache__/
+*.pyc
+

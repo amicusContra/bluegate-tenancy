@@ -1,0 +1,12 @@
+{
+  "file": "banks_docket.pdf",
+  "total_pages": 55,
+  "processed_pages": 55,
+  "text_extracted_pages": 55,
+  "ocr_pages": 0,
+  "low_content_pages": 0,
+  "total_characters": 151489,
+  "avg_chars_per_page": 2754,
+  "text_file": "C:\\Users\\mokke\\Downloads\\banks_pacer\\extracted\\banks_docket_text.txt",
+  "rendered_pages": []
+}

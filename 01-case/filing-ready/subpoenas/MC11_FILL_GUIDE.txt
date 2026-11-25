@@ -1,0 +1,177 @@
+SUBPOENA FILL GUIDE -- SCAO Form MC 11 (Rev. 10/24)
+Download: https://www.courts.michigan.gov/siteassets/forms/scao-approved/mc11.pdf
+Print 2 copies of each: one for the court, one for your records.
+
+================================================================
+COMMON FIELDS (same on all subpoenas)
+================================================================
+
+TOP MATTER:
+  Court:          30th Judicial Circuit
+  County:         Ingham
+  Plaintiff:      Kevin Mok
+  Defendant:      Brian Roderick Banks, The Purpose Group
+                  Michigan LLC, Joseph Holland Jr., Purpose
+                  Foundation, Tracey D. Ellis
+  Case Number:    2026-4349-CZ
+
+CHECK BOX:
+  [x] 4. "Produce/permit inspection or copying of the
+          following items, including electronically stored
+          information..."
+  (then attach your specific records request document)
+
+  NOTE: Do NOT check box 1 (appear/testify) for document-only
+  subpoenas. You only need the documents right now.
+
+FIELD 5 (Date/Time/Place to produce):
+  Date: 14 days from date of service
+  Time: 5:00 PM
+  Place: Kevin Mok, [REDACTED_ADDR_1], Lansing MI 48910
+  (or: "produce by mail to address below")
+
+FIELD 8 (Person requesting subpoena):
+  Kevin Mok
+  [REDACTED_PHONE]
+  [REDACTED_ADDR_1]
+  Lansing, MI 48910
+
+FIELD 9 (Signature):
+  Sign and date.
+  NOTE: A pro se party can issue subpoenas in their own
+  pending civil case under MCR 2.305. No judge signature
+  needed for document production subpoenas.
+
+================================================================
+SUBPOENA #1 -- SHAYLA SMITH PHONE RECORDS
+================================================================
+
+TO (Field 3):
+  [CARRIER] Legal Compliance / Law Enforcement Response
+  -- Ask DaSean what carrier Shayla uses --
+
+  If T-Mobile:
+    T-Mobile Legal Compliance
+    4 Sylvan Way
+    Parsippany, NJ 07054
+
+  If AT&T:
+    AT&T Legal Compliance
+    P.O. Box 24679
+    West Palm Beach, FL 33416
+
+  If Verizon:
+    Verizon Legal Compliance
+    XXX Washington Valley Road
+    Bedminster, NJ 07921
+
+ATTACH: SUBPOENA_01_SHAYLA_PHONE.txt
+
+SERVICE: Send by certified mail, return receipt requested.
+COST: Postage only (~$8-10 certified mail).
+Carriers typically respond within 14-21 days.
+Some charge a records retrieval fee ($25-75).
+
+================================================================
+SUBPOENA #2 -- BRIAN BANKS PHONE RECORDS
+================================================================
+
+TO (Field 3):
+  [CARRIER] Legal Compliance / Law Enforcement Response
+  -- DaSean has Banks' number from the 3 calls.
+  Reverse lookup the carrier, or ask DaSean to check
+  the call log for carrier ID --
+
+ATTACH: SUBPOENA_02_BANKS_PHONE.txt
+
+SERVICE: Certified mail, return receipt requested.
+
+================================================================
+SUBPOENA #3 -- LAKE TRUST CREDIT UNION
+================================================================
+
+TO (Field 3):
+  Lake Trust Credit Union
+  Attn: Legal/Compliance Department
+  3000 Atrium Way
+  Mt. Clemens, MI 48043
+
+ATTACH: SUBPOENA_03_LAKE_TRUST.txt
+
+SERVICE: Certified mail OR personal service (process server).
+NOTE: Credit unions often push back on subpoenas. If they
+object, you file a motion to compel with Judge Stokes. Their
+objection itself is evidence they're protecting something.
+
+================================================================
+SUBPOENA #4 -- PURPOSE CHARTER ACADEMY
+================================================================
+
+TO (Field 3):
+  Purpose Charter Academy
+  c/o Brian Roderick Banks, Superintendent
+  10101 E. Canfield St.
+  Detroit, MI 48214
+
+ATTACH: SUBPOENA_04_PCA_RECORDS.txt
+
+SERVICE: Personal service (process server) RECOMMENDED.
+Banks is a named defendant -- serve him personally.
+NOTE: Banks CANNOT claim attorney-client privilege because
+he is NOT an attorney. School records are not privileged.
+If he refuses to comply, file motion to compel + contempt.
+
+================================================================
+PROCESS -- HOW TO SEND THESE
+================================================================
+
+OPTION A: Certified Mail (cheapest)
+1. Print MC 11 form (filled out) + attachment for each
+2. Make a copy for your records
+3. Go to USPS, send certified mail with return receipt
+4. Keep the green receipt card when it comes back
+5. The signed return receipt IS your proof of service
+6. Cost: ~$8-10 per subpoena
+
+OPTION B: Process Server (fastest, most bulletproof)
+1. Give ABC Process Service the packet
+2. They serve personally and file proof of service
+3. Cost: ~$50-75 per subpoena
+4. Best for Banks/PCA (he's slippery)
+
+OPTION C: Hybrid
+- Certified mail for carriers and Lake Trust (institutions
+  accept mail, no games)
+- Process server for PCA/Banks (he's a defendant, serve
+  him in person for maximum impact)
+
+================================================================
+TIMELINE
+================================================================
+
+Today (Sep 4):
+  [x] Print MC 11 forms (4 copies)
+  [x] Fill in common fields on all 4
+  [x] Get carrier info from DaSean
+  [x] Mail carriers + Lake Trust (certified)
+  [x] Give PCA subpoena to ABC with the other serves
+
+Sep 5-8: Subpoenas in transit
+Sep 18-19: 14-day compliance deadline
+Sep 19-25: Records start arriving
+
+By end of September, you have:
+- Shayla's phone records showing who she texted during
+  the assault at 23:07 on Sep 2
+- Banks' phone records showing who he called before
+  the raid
+- Lake Trust employment records + the Dresden mortgage
+  file showing insider lending
+- PCA enrollment records showing Shayla enrolled the
+  kids without DaSean's knowledge
+
+The phone records are the conspiracy thread. Every call,
+every text, timestamped. Shayla held that phone tighter
+than her children for 60 straight seconds on camera.
+Whatever is on it, she didn't want to put it down.
+

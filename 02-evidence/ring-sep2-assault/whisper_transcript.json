@@ -1,0 +1,274 @@
+{
+  "text": " No Call the police call the police my call the police call the police Yes, we are gonna call a man. We're gonna call a new Let's go",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 8.019999999999998,
+      "end": 8.58,
+      "text": " No",
+      "tokens": [
+        50364,
+        883,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4988998836941189,
+      "compression_ratio": 1.7681159420289856,
+      "no_speech_prob": 0.7517760992050171,
+      "words": [
+        {
+          "word": " No",
+          "start": 8.019999999999998,
+          "end": 8.58,
+          "probability": 0.015110735781490803
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.58,
+      "end": 14.7,
+      "text": " Call the police call the police my call the police call the police",
+      "tokens": [
+        50864,
+        7807,
+        264,
+        3804,
+        818,
+        264,
+        3804,
+        452,
+        818,
+        264,
+        3804,
+        818,
+        264,
+        3804,
+        51098
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4988998836941189,
+      "compression_ratio": 1.7681159420289856,
+      "no_speech_prob": 0.7517760992050171,
+      "words": [
+        {
+          "word": " Call",
+          "start": 8.58,
+          "end": 8.58,
+          "probability": 0.4074929654598236
+        },
+        {
+          "word": " the",
+          "start": 8.58,
+          "end": 10.62,
+          "probability": 0.8366933465003967
+        },
+        {
+          "word": " police",
+          "start": 10.62,
+          "end": 10.98,
+          "probability": 0.9705318808555603
+        },
+        {
+          "word": " call",
+          "start": 10.98,
+          "end": 11.6,
+          "probability": 0.5603486895561218
+        },
+        {
+          "word": " the",
+          "start": 11.6,
+          "end": 11.76,
+          "probability": 0.9471521377563477
+        },
+        {
+          "word": " police",
+          "start": 11.76,
+          "end": 12.06,
+          "probability": 0.9819949269294739
+        },
+        {
+          "word": " my",
+          "start": 12.06,
+          "end": 12.32,
+          "probability": 0.2047959566116333
+        },
+        {
+          "word": " call",
+          "start": 12.32,
+          "end": 12.98,
+          "probability": 0.7066786289215088
+        },
+        {
+          "word": " the",
+          "start": 12.98,
+          "end": 13.12,
+          "probability": 0.7670348882675171
+        },
+        {
+          "word": " police",
+          "start": 13.12,
+          "end": 13.46,
+          "probability": 0.9896519780158997
+        },
+        {
+          "word": " call",
+          "start": 13.46,
+          "end": 14.2,
+          "probability": 0.28081297874450684
+        },
+        {
+          "word": " the",
+          "start": 14.2,
+          "end": 14.36,
+          "probability": 0.8304139971733093
+        },
+        {
+          "word": " police",
+          "start": 14.36,
+          "end": 14.7,
+          "probability": 0.9921253323554993
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.719999999999999,
+      "end": 18.9,
+      "text": " Yes, we are gonna call a man. We're gonna call a new",
+      "tokens": [
+        51156,
+        1079,
+        11,
+        321,
+        366,
+        799,
+        818,
+        257,
+        587,
+        13,
+        492,
+        434,
+        799,
+        818,
+        257,
+        777,
+        51304
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4988998836941189,
+      "compression_ratio": 1.7681159420289856,
+      "no_speech_prob": 0.7517760992050171,
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 15.719999999999999,
+          "end": 16.28,
+          "probability": 0.44826892018318176
+        },
+        {
+          "word": " we",
+          "start": 16.28,
+          "end": 16.58,
+          "probability": 0.9905383586883545
+        },
+        {
+          "word": " are",
+          "start": 16.58,
+          "end": 16.68,
+          "probability": 0.8147039413452148
+        },
+        {
+          "word": " gonna",
+          "start": 16.68,
+          "end": 16.88,
+          "probability": 0.7975989580154419
+        },
+        {
+          "word": " call",
+          "start": 16.88,
+          "end": 17.16,
+          "probability": 0.9708657264709473
+        },
+        {
+          "word": " a",
+          "start": 17.16,
+          "end": 17.38,
+          "probability": 0.6086755990982056
+        },
+        {
+          "word": " man.",
+          "start": 17.38,
+          "end": 17.6,
+          "probability": 0.9914617538452148
+        },
+        {
+          "word": " We're",
+          "start": 17.6,
+          "end": 18.02,
+          "probability": 0.8503572642803192
+        },
+        {
+          "word": " gonna",
+          "start": 18.02,
+          "end": 18.16,
+          "probability": 0.9406048059463501
+        },
+        {
+          "word": " call",
+          "start": 18.16,
+          "end": 18.44,
+          "probability": 0.9222102761268616
+        },
+        {
+          "word": " a",
+          "start": 18.44,
+          "end": 18.62,
+          "probability": 0.3502686321735382
+        },
+        {
+          "word": " new",
+          "start": 18.62,
+          "end": 18.9,
+          "probability": 0.4260835349559784
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 3000,
+      "start": 56.18,
+      "end": 57.6,
+      "text": " Let's go",
+      "tokens": [
+        50364,
+        961,
+        311,
+        352,
+        50464
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.8698766231536865,
+      "compression_ratio": 0.5,
+      "no_speech_prob": 0.24633324146270752,
+      "words": [
+        {
+          "word": " Let's",
+          "start": 56.18,
+          "end": 57.58,
+          "probability": 0.40775949880480766
+        },
+        {
+          "word": " go",
+          "start": 57.58,
+          "end": 57.6,
+          "probability": 0.9332865476608276
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

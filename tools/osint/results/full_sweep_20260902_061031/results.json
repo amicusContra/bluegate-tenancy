@@ -1,0 +1,1277 @@
+[
+  {
+    "source": "propublica",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "EIN: 33-3537910",
+    "timestamp": "2026-09-02T06:10:18.206977",
+    "hit_count": 1,
+    "hits": [
+      {
+        "ein": 333537910,
+        "name": "Purpose Foundation",
+        "address": "1968 SEVERN RD",
+        "city": "Grosse Pt Wds",
+        "state": "MI",
+        "zipcode": "48236-1961",
+        "ntee_code": "B90",
+        "ruling_date": "2025-11-01",
+        "tax_period": null,
+        "asset_amount": null,
+        "income_amount": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "search: Brian Roderick Banks",
+    "timestamp": "2026-09-02T06:10:18.395061",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Brian+Roderick+Banks'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "EIN: 33-3537910",
+    "timestamp": "2026-09-02T06:10:18.484442",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?Ein=333537910&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "name: The Right Turn Project",
+    "timestamp": "2026-09-02T06:10:18.727148",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?names=The+Right+Turn+Project&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "entity/agent: Brian Roderick Banks",
+    "timestamp": "2026-09-02T06:10:18.848053",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Brian Roderick Banks"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "LARA ID: 802070120",
+    "timestamp": "2026-09-02T06:10:18.917031",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "802070120",
+        "manual_action": "Search entity ID 802070120 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "LARA ID: 803294855",
+    "timestamp": "2026-09-02T06:10:18.917039",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "803294855",
+        "manual_action": "Search entity ID 803294855 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "state_bar_mi",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "attorney: Brian Banks",
+    "timestamp": "2026-09-02T06:10:18.917079",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No attorney found matching 'Brian Banks'",
+        "conclusion": "NOT LICENSED in Michigan"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "lara_mirror: Brian Roderick Banks",
+    "timestamp": "2026-09-02T06:10:19.402632",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/brian-roderick-banks/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "companiesmi: Brian Roderick Banks",
+    "timestamp": "2026-09-02T06:10:19.467459",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "lara_mirror: Banks Strategy & Consultants, LLC",
+    "timestamp": "2026-09-02T06:10:19.650690",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/banks-strategy-&-consultants-llc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "lara_mirror: Purpose Foundation",
+    "timestamp": "2026-09-02T06:10:19.720405",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/purpose-foundation/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "lara_mirror: The Purpose Group, LLC",
+    "timestamp": "2026-09-02T06:10:19.791151",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/the-purpose-group-llc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "brian_banks",
+    "target_name": "Brian Roderick Banks",
+    "query": "lara_mirror: The Right Turn Project",
+    "timestamp": "2026-09-02T06:10:19.856309",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/the-right-turn-project/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "EIN: 33-3537910",
+    "timestamp": "2026-09-02T06:10:19.922454",
+    "hit_count": 1,
+    "hits": [
+      {
+        "ein": 333537910,
+        "name": "Purpose Foundation",
+        "address": "1968 SEVERN RD",
+        "city": "Grosse Pt Wds",
+        "state": "MI",
+        "zipcode": "48236-1961",
+        "ntee_code": "B90",
+        "ruling_date": "2025-11-01",
+        "tax_period": null,
+        "asset_amount": null,
+        "income_amount": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "search: Joseph Holland Jr",
+    "timestamp": "2026-09-02T06:10:20.057946",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Joseph+Holland+Jr'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "irs_teos",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "EIN: 33-3537910",
+    "timestamp": "2026-09-02T06:10:20.208897",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '403 Forbidden' for url 'https://apps.irs.gov/app/eos/allSearch?Ein=333537910&city=&state=MI&country=US&deductibility=all&dispatchMethod=searchAll&postDateFrom=&postDateTo=&exemptTypeCode=al&isDescending=false&totalResults=25&resultsOfPage=25&indexOfFirstRow=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
+  },
+  {
+    "source": "lara",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "entity/agent: Joseph Holland Jr",
+    "timestamp": "2026-09-02T06:10:20.329689",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Joseph Holland Jr"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "lara_mirror: Joseph Holland Jr",
+    "timestamp": "2026-09-02T06:10:20.392598",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/joseph-holland-jr/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "companiesmi: Joseph Holland Jr",
+    "timestamp": "2026-09-02T06:10:20.455943",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "joseph_holland",
+    "target_name": "Joseph Holland Jr",
+    "query": "lara_mirror: Purpose Foundation",
+    "timestamp": "2026-09-02T06:10:20.561510",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/purpose-foundation/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "search: Tenisha R. Yancey",
+    "timestamp": "2026-09-02T06:10:20.637457",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Tenisha+R.+Yancey'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "lara",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "entity/agent: Tenisha R. Yancey",
+    "timestamp": "2026-09-02T06:10:20.787845",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Tenisha R. Yancey"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "entity/agent: Yancey Law Group",
+    "timestamp": "2026-09-02T06:10:20.851359",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Yancey Law Group"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "state_bar_mi",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "attorney: Tenisha Yancey",
+    "timestamp": "2026-09-02T06:10:20.912052",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No attorney found matching 'Tenisha Yancey'",
+        "conclusion": "NOT LICENSED in Michigan"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "payee: Tenisha R. Yancey",
+    "timestamp": "2026-09-02T06:10:21.204837",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Tenisha R. Yancey"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "payee: Tenisha Yancey",
+    "timestamp": "2026-09-02T06:10:21.517074",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Page found \u2014 parse manually or use browser",
+        "url": "https://www.transparencyusa.org/mi/payee/tenisha-yancey"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "payee: Judge Tenisha Yancey",
+    "timestamp": "2026-09-02T06:10:21.833526",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Judge Tenisha Yancey"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "committee: Committee to Elect Tenisha Yancey",
+    "timestamp": "2026-09-02T06:10:22.123734",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/committee-to-elect-tenisha-yancey",
+        "status_code": 200,
+        "accessible": true
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "lara_mirror: Tenisha R. Yancey",
+    "timestamp": "2026-09-02T06:10:22.443971",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/tenisha-r-yancey/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "companiesmi: Tenisha R. Yancey",
+    "timestamp": "2026-09-02T06:10:22.509294",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tenisha_yancey",
+    "target_name": "Tenisha R. Yancey",
+    "query": "lara_mirror: Yancey Law Group, PLLC",
+    "timestamp": "2026-09-02T06:10:22.623194",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/yancey-law-group-pllc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "search: Cylenthia LaToye Miller",
+    "timestamp": "2026-09-02T06:10:22.691158",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Cylenthia+LaToye+Miller'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "lara",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "entity/agent: Cylenthia LaToye Miller",
+    "timestamp": "2026-09-02T06:10:22.836846",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Cylenthia LaToye Miller"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "state_bar_mi",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "attorney: Cylenthia Miller",
+    "timestamp": "2026-09-02T06:10:22.899493",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No attorney found matching 'Cylenthia Miller'",
+        "conclusion": "NOT LICENSED in Michigan"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "payee: Cylenthia LaToye Miller",
+    "timestamp": "2026-09-02T06:10:23.201175",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Cylenthia LaToye Miller"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "payee: Cylenthia Miller",
+    "timestamp": "2026-09-02T06:10:23.483159",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Cylenthia Miller"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "payee: Judge Cylenthia Miller",
+    "timestamp": "2026-09-02T06:10:23.790752",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Judge Cylenthia Miller"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "payee: Hon. Cylenthia L. Miller",
+    "timestamp": "2026-09-02T06:10:24.028949",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Hon. Cylenthia L. Miller"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "lara_mirror: Cylenthia LaToye Miller",
+    "timestamp": "2026-09-02T06:10:24.296510",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/cylenthia-latoye-miller/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "companiesmi: Cylenthia LaToye Miller",
+    "timestamp": "2026-09-02T06:10:24.358741",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "cylenthia_miller",
+    "target_name": "Cylenthia LaToye Miller",
+    "query": "lara_mirror: Workforce Asset and Investment Agency",
+    "timestamp": "2026-09-02T06:10:24.475366",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/workforce-asset-and-investment-agency/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "search: Todd Perkins",
+    "timestamp": "2026-09-02T06:10:24.542830",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Todd+Perkins'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "lara",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "entity/agent: Perkins Law Group",
+    "timestamp": "2026-09-02T06:10:24.711373",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Perkins Law Group"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "state_bar_mi",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "attorney: Todd Perkins",
+    "timestamp": "2026-09-02T06:10:24.771948",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No attorney found matching 'Todd Perkins'",
+        "conclusion": "NOT LICENSED in Michigan"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "lara_mirror: Todd Perkins",
+    "timestamp": "2026-09-02T06:10:25.064367",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/todd-perkins/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "companiesmi: Todd Perkins",
+    "timestamp": "2026-09-02T06:10:25.131820",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "todd_perkins",
+    "target_name": "Todd Perkins",
+    "query": "lara_mirror: Perkins Law Group, PLLC",
+    "timestamp": "2026-09-02T06:10:25.245778",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/perkins-law-group-pllc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "search: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T06:10:25.309407",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Nicole+Wells+Stallworth'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "lara",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "entity/agent: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T06:10:25.508253",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Nicole Wells Stallworth"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "payee: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T06:10:25.576758",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Nicole Wells Stallworth"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "payee: Nicole Stallworth",
+    "timestamp": "2026-09-02T06:10:25.890711",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Nicole Stallworth"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "payee: Nicole Wells",
+    "timestamp": "2026-09-02T06:10:26.185893",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Nicole Wells"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "payee: Tommy Stallworth",
+    "timestamp": "2026-09-02T06:10:26.453994",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Tommy Stallworth"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "lara_mirror: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T06:10:26.703859",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/nicole-wells-stallworth/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "nicole_stallworth",
+    "target_name": "Nicole Wells Stallworth",
+    "query": "companiesmi: Nicole Wells Stallworth",
+    "timestamp": "2026-09-02T06:10:26.767227",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "search: Tracey D. Ellis",
+    "timestamp": "2026-09-02T06:10:26.940463",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Tracey+D.+Ellis'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "lara",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "entity/agent: Tracey D. Ellis",
+    "timestamp": "2026-09-02T06:10:27.091533",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Tracey D. Ellis"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "LARA ID: 801438906",
+    "timestamp": "2026-09-02T06:10:27.186740",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Direct ID lookup requires official portal",
+        "url": "https://michigan.gov/corpentitysearch",
+        "lara_id": "801438906",
+        "manual_action": "Search entity ID 801438906 at https://michigan.gov/corpentitysearch"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "lara_mirror: Tracey D. Ellis",
+    "timestamp": "2026-09-02T06:10:27.186797",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/tracey-d-ellis/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "companiesmi: Tracey D. Ellis",
+    "timestamp": "2026-09-02T06:10:27.260262",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "lara_mirror: Yecart Accounting Services, LLC",
+    "timestamp": "2026-09-02T06:10:27.388085",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/yecart-accounting-services-llc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "tracey_ellis",
+    "target_name": "Tracey D. Ellis",
+    "query": "lara_mirror: Yecart L.L.C.",
+    "timestamp": "2026-09-02T06:10:27.454007",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/yecart-llc/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "search: Gary Perlmuter",
+    "timestamp": "2026-09-02T06:10:27.553964",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Gary+Perlmuter'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "lara",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "entity/agent: Gary Perlmuter",
+    "timestamp": "2026-09-02T06:10:27.720128",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Gary Perlmuter"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "state_bar_mi",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "attorney: Gary Perlmuter",
+    "timestamp": "2026-09-02T06:10:27.797047",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No attorney found matching 'Gary Perlmuter'",
+        "conclusion": "NOT LICENSED in Michigan"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "lara_mirror: Gary Perlmuter",
+    "timestamp": "2026-09-02T06:10:28.118941",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/gary-perlmuter/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "gary_perlmuter",
+    "target_name": "Gary Perlmuter",
+    "query": "companiesmi: Gary Perlmuter",
+    "timestamp": "2026-09-02T06:10:28.198131",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "search: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T06:10:28.324068",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Sherry+Gay-Dagnogo'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "payee: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T06:10:28.509496",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Page found \u2014 parse manually or use browser",
+        "url": "https://www.transparencyusa.org/mi/payee/sherry-gay-dagnogo"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "payee: Sherry Gay Dagnogo",
+    "timestamp": "2026-09-02T06:10:28.819756",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Page found \u2014 parse manually or use browser",
+        "url": "https://www.transparencyusa.org/mi/payee/sherry-gay-dagnogo"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "payee: Sherry Dagnogo",
+    "timestamp": "2026-09-02T06:10:28.941119",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "No payee page (HTTP 404)",
+        "search_url": "https://www.transparencyusa.org/mi/search?query=Sherry Dagnogo"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "campaign_finance",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "committee: Sherry Gay Dagnogo Strong Women Lead PAC",
+    "timestamp": "2026-09-02T06:10:29.205748",
+    "hit_count": 1,
+    "hits": [
+      {
+        "url": "https://www.transparencyusa.org/mi/committee/sherry-gay-dagnogo-strong-women-lead-pac",
+        "status_code": 200,
+        "accessible": true
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "lara_mirror: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T06:10:29.536105",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/sherry-gay-dagnogo/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "sherry_dagnogo",
+    "target_name": "Sherry Gay-Dagnogo",
+    "query": "companiesmi: Sherry Gay-Dagnogo",
+    "timestamp": "2026-09-02T06:10:29.599930",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "leon_smith",
+    "target_name": "Leon A. Smith",
+    "query": "search: Leon A. Smith",
+    "timestamp": "2026-09-02T06:10:29.719940",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Leon+A.+Smith'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "lara",
+    "target_id": "leon_smith",
+    "target_name": "Leon A. Smith",
+    "query": "entity/agent: Leon A. Smith",
+    "timestamp": "2026-09-02T06:10:29.908396",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Leon A. Smith"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "leon_smith",
+    "target_name": "Leon A. Smith",
+    "query": "lara_mirror: Leon A. Smith",
+    "timestamp": "2026-09-02T06:10:29.986726",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/leon-a-smith/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "leon_smith",
+    "target_name": "Leon A. Smith",
+    "query": "companiesmi: Leon A. Smith",
+    "timestamp": "2026-09-02T06:10:30.065547",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "marquita_smith",
+    "target_name": "Marquita L. Smith",
+    "query": "search: Marquita L. Smith",
+    "timestamp": "2026-09-02T06:10:30.199998",
+    "hit_count": 0,
+    "hits": [],
+    "error": "Client error '404 Not Found' for url 'https://projects.propublica.org/nonprofits/api/v2/search.json?q=Marquita+L.+Smith'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "source": "lara",
+    "target_id": "marquita_smith",
+    "target_name": "Marquita L. Smith",
+    "query": "entity/agent: Marquita L. Smith",
+    "timestamp": "2026-09-02T06:10:30.353568",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Marquita L. Smith"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "marquita_smith",
+    "target_name": "Marquita L. Smith",
+    "query": "lara_mirror: Marquita L. Smith",
+    "timestamp": "2026-09-02T06:10:30.422356",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/marquita-l-smith/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "marquita_smith",
+    "target_name": "Marquita L. Smith",
+    "query": "companiesmi: Marquita L. Smith",
+    "timestamp": "2026-09-02T06:10:30.488196",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "search: Shayla Smith",
+    "timestamp": "2026-09-02T06:10:30.627518",
+    "hit_count": 1,
+    "hits": [
+      {
+        "ein": 426485539,
+        "name": "Elmer L Smith Scholarship School Trust",
+        "city": "Glidden",
+        "state": "IA",
+        "ntee_code": "B20I",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "entity/agent: Shayla Smith",
+    "timestamp": "2026-09-02T06:10:30.802267",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare \u2014 use browser or official portal",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Shayla Smith"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "lara_mirror: Shayla Smith",
+    "timestamp": "2026-09-02T06:10:30.868824",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/shayla-smith/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "companiesmi: Shayla Smith",
+    "timestamp": "2026-09-02T06:10:30.953577",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "search: Simone Smith",
+    "timestamp": "2026-09-02T06:10:31.067976",
+    "hit_count": 2,
+    "hits": [
+      {
+        "ein": 46008580,
+        "name": "Simeon C Smith Trust",
+        "city": "Jacksonville",
+        "state": "FL",
+        "ntee_code": null,
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 207162614,
+        "name": "Simon Dina And Henry Brattcharitable Trust",
+        "city": "Bardonia",
+        "state": "NY",
+        "ntee_code": "T22",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "lara_mirror: Simone Smith",
+    "timestamp": "2026-09-02T06:10:31.228770",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge \u2014 try companiesmi.com or browser",
+        "url": "https://www.micompanyregistry.com/companies/simone-smith/"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "companiesmi: Simone Smith",
+    "timestamp": "2026-09-02T06:10:31.298572",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  }
+]

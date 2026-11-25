@@ -1,0 +1,92 @@
+STATE OF MICHIGAN
+IN THE CIRCUIT COURT FOR THE COUNTY OF INGHAM
+
+KEVIN MOK,
+    Plaintiff,
+
+v.                                          Case No. 2026-4301-CZ
+                                            Hon. Wanda M. Stokes
+SHAYLA SMITH, LEON A. SMITH,
+MARQUITA L. SMITH, and SIMONE SMITH,
+    Defendants.
+__________________________________________/
+
+             SUBPOENA DUCES TECUM
+     (Order to Produce Documents -- MCR 2.305)
+
+TO: [CARRIER NAME -- T-Mobile / AT&T / Verizon]
+    Legal Compliance Department
+    [ADDRESS]
+
+YOU ARE COMMANDED to produce the following documents and
+records to the undersigned at the address below within
+fourteen (14) days of service of this Subpoena:
+
+                    RECORDS REQUESTED
+
+1. Call Detail Records (CDR) for the cellular telephone
+   number assigned to SHAYLA SMITH (also known as Shayla
+   Nicole Smith, Shayla Mitchell) for the period of
+   August 29, 2026 through September 3, 2026, inclusive.
+
+   Call Detail Records shall include:
+   (a) All incoming and outgoing voice calls, including
+       date, time, duration, and the telephone number of
+       the other party;
+   (b) All incoming and outgoing text messages (SMS/MMS),
+       including date, time, and the telephone number of
+       the other party;
+   (c) Cell tower/sector information for each call or
+       text, if available.
+
+2. Subscriber information for the account associated with
+   said telephone number, including:
+   (a) Account holder name and address;
+   (b) Account activation date;
+   (c) Billing address.
+
+                    PURPOSE AND RELEVANCE
+
+These records are relevant to pending litigation in which
+Plaintiff alleges that Defendant Brian Roderick Banks
+coordinated threats and intimidation through third parties,
+including Shayla Smith. Specifically:
+
+- On September 1, 2026, Defendant Banks made threatening
+  phone calls referencing "judges and law enforcement."
+- On September 2, 2026 at approximately 11:07 PM EDT,
+  Shayla Smith participated in a coordinated assault and
+  custodial interference at XXXX Cornerstone Blvd, Detroit.
+  Ring doorbell video shows Ms. Smith on her cellular
+  telephone throughout the incident, including during the
+  physical assault committed by her father Leon A. Smith.
+- The call records will establish whether Defendant Banks
+  communicated with Ms. Smith before, during, or after
+  the September 2 incident, establishing a conspiracy to
+  commit custodial interference and witness intimidation.
+
+This Subpoena is issued pursuant to MCR 2.305 by a party
+to a pending civil action. No court order is required.
+
+                    CONFIDENTIALITY
+
+The subscriber's records will be used solely for purposes
+of this litigation and will not be disclosed publicly
+except as necessary for court filings.
+
+ISSUED BY:
+
+Kevin Mok, Plaintiff (Pro Se)
+[REDACTED_ADDR_1]
+Lansing, MI 48910
+[REDACTED_PHONE]
+eco.primal@pm.me
+
+Date: September ___, 2026
+
+================================================================
+NOTE: SCAO Form MC 11 should be used as the cover form.
+This document serves as the attachment specifying the
+records requested. Attach this to the MC 11 form.
+================================================================
+

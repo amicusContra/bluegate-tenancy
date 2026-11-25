@@ -1,0 +1,595 @@
+[
+  {
+    "source": "pubrecords",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "companies: Shayla Smith",
+    "timestamp": "2026-09-02T08:45:45.626114",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "court_cases: Shayla Smith",
+    "timestamp": "2026-09-02T08:45:45.801704",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "federal_spending: Shayla Smith",
+    "timestamp": "2026-09-02T08:45:45.878518",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "dockets: Shayla Smith",
+    "timestamp": "2026-09-02T08:45:45.958332",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "Shayla Smith",
+        "court": "United States Bankruptcy Court, D. Connecticut",
+        "court_citation": "Bankr. D. Conn.",
+        "date_filed": "2021-11-09",
+        "docket_number": "21-50694",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Mahalia Smith",
+        "court": "United States Bankruptcy Court, E.D. Missouri",
+        "court_citation": "Bankr. E.D. Mo.",
+        "date_filed": "2026-04-23",
+        "docket_number": "26-41745",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Monique Smith",
+        "court": "United States Bankruptcy Court, W.D. Oklahoma",
+        "court_citation": "Bankr. W.D. Okla.",
+        "date_filed": "2026-04-28",
+        "docket_number": "26-11393",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Smith",
+        "court": "United States Bankruptcy Court, D. Maryland",
+        "court_citation": "Bankr. D. Md.",
+        "date_filed": "2014-10-03",
+        "docket_number": "14-25361",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Annette Smith",
+        "court": "United States Bankruptcy Court, M.D. Florida",
+        "court_citation": "Bankr. M.D. Fla.",
+        "date_filed": "2025-05-23",
+        "docket_number": "3:25-bk-01728",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Nicole Smith",
+        "court": "United States Bankruptcy Court, W.D. Washington",
+        "court_citation": "Bankr. W.D. Wash.",
+        "date_filed": "2023-08-22",
+        "docket_number": "23-41396",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Roshanda Brooks",
+        "court": "United States Bankruptcy Court, S.D. Mississippi",
+        "court_citation": "Bankr. S.D. Miss.",
+        "date_filed": "2025-04-21",
+        "docket_number": "25-01017",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Randie Shayla Inez Smith",
+        "court": "United States Bankruptcy Court, M.D. Georgia",
+        "court_citation": "Bankr. M.D. Ga.",
+        "date_filed": "2024-08-12",
+        "docket_number": "24-30400",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Mahalia Smith",
+        "court": "United States Bankruptcy Court, E.D. Missouri",
+        "court_citation": "Bankr. E.D. Mo.",
+        "date_filed": "2022-12-29",
+        "docket_number": "22-44038",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla C Smith",
+        "court": "United States Bankruptcy Court, S.D. Mississippi",
+        "court_citation": "Bankr. S.D. Miss.",
+        "date_filed": "2022-09-23",
+        "docket_number": "22-01948",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Renee Smith and Santiago Sierra",
+        "court": "United States Bankruptcy Court, D. Colorado",
+        "court_citation": "Bankr.D. Colo.",
+        "date_filed": "2024-06-10",
+        "docket_number": "24-13177",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Briana Mosi Smith",
+        "court": "United States Bankruptcy Court, D. Maryland",
+        "court_citation": "Bankr. D. Md.",
+        "date_filed": "2022-12-19",
+        "docket_number": "22-17052",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Marie Butler",
+        "court": "United States Bankruptcy Court, N.D. Ohio",
+        "court_citation": "Bankr. N.D. Ohio",
+        "date_filed": "2025-01-08",
+        "docket_number": "25-10040",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla E Rotenburger",
+        "court": "United States Bankruptcy Court, S.D. Iowa",
+        "court_citation": "Bankr. S.D. Iowa",
+        "date_filed": "2024-12-31",
+        "docket_number": "24-01851",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla C Smith",
+        "court": "United States Bankruptcy Court, S.D. Mississippi",
+        "court_citation": "Bankr. S.D. Miss.",
+        "date_filed": "2020-09-04",
+        "docket_number": "20-02336",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Dylan Brice Smith and Shayla Nicole Octavia Smith",
+        "court": "United States Bankruptcy Court, W.D. Oklahoma",
+        "court_citation": "Bankr. W.D. Okla.",
+        "date_filed": "2023-06-05",
+        "docket_number": "23-11480",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla La'tece Smith",
+        "court": "United States Bankruptcy Court, E.D. Virginia",
+        "court_citation": "Bankr. E.D. Va.",
+        "date_filed": "2020-10-01",
+        "docket_number": "20-72686",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Denise-Lynn Wright",
+        "court": "United States Bankruptcy Court, N.D. Ohio",
+        "court_citation": "Bankr. N.D. Ohio",
+        "date_filed": "2023-08-14",
+        "docket_number": "23-12767",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Summer Sosa",
+        "court": "United States Bankruptcy Court, C.D. California",
+        "court_citation": "Bankr. C.D. Cal.",
+        "date_filed": "2022-01-12",
+        "docket_number": "8:22-bk-10041",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Shayla Danielle Kamunen",
+        "court": "United States Bankruptcy Court, N.D. Iowa",
+        "court_citation": "Bankr. D. Iowa",
+        "date_filed": "2021-09-14",
+        "docket_number": "21-00841",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "people: Shayla Smith",
+    "timestamp": "2026-09-02T08:45:49.869286",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "search: Shayla Smith",
+    "timestamp": "2026-09-02T08:45:50.265865",
+    "hit_count": 1,
+    "hits": [
+      {
+        "ein": 426485539,
+        "name": "Elmer L Smith Scholarship School Trust",
+        "city": "Glidden",
+        "state": "IA",
+        "ntee_code": "B20I",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "entity/agent: Shayla Smith",
+    "timestamp": "2026-09-02T08:45:50.394309",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Mirror blocked by Cloudflare",
+        "proxy_used": "direct",
+        "official_url": "https://michigan.gov/corpentitysearch",
+        "manual_search": "Shayla Smith"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "lara_mirror: Shayla Smith",
+    "timestamp": "2026-09-02T08:46:35.817867",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/shayla-smith/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "shayla_smith",
+    "target_name": "Shayla Smith",
+    "query": "companiesmi: Shayla Smith",
+    "timestamp": "2026-09-02T08:46:37.380433",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "companies: Simone Smith",
+    "timestamp": "2026-09-02T08:46:37.517270",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "court_cases: Simone Smith",
+    "timestamp": "2026-09-02T08:46:37.624215",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "pubrecords",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "federal_spending: Simone Smith",
+    "timestamp": "2026-09-02T08:46:37.729074",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "dockets: Simone Smith",
+    "timestamp": "2026-09-02T08:46:37.808504",
+    "hit_count": 20,
+    "hits": [
+      {
+        "case_name": "Taryn Simone Smith",
+        "court": "United States Bankruptcy Court, M.D. Florida",
+        "court_citation": "Bankr. M.D. Fla.",
+        "date_filed": "2026-08-07",
+        "docket_number": "8:26-bk-07047",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Sydney Simone Smith",
+        "court": "United States Bankruptcy Court, D. Maryland",
+        "court_citation": "Bankr. D. Md.",
+        "date_filed": "2026-02-13",
+        "docket_number": "26-11517",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Ahnya Simone Smith",
+        "court": "United States Bankruptcy Court, W.D. Washington",
+        "court_citation": "Bankr. W.D. Wash.",
+        "date_filed": "2025-11-12",
+        "docket_number": "25-13188",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Kiley Simone Smith",
+        "court": "United States Bankruptcy Court, E.D. California",
+        "court_citation": "Bankr. E.D. Cal.",
+        "date_filed": "2025-06-05",
+        "docket_number": "25-22819",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tyrisha Simone Smith",
+        "court": "United States Bankruptcy Court, M.D. Florida",
+        "court_citation": "Bankr. M.D. Fla.",
+        "date_filed": "2025-05-02",
+        "docket_number": "3:25-bk-01452",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Tedleene Simone Smith",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2024-01-09",
+        "docket_number": "24-50286",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Carla Simone Smith",
+        "court": "United States Bankruptcy Court, S.D. Florida.",
+        "court_citation": "Bankr. S.D. Florida",
+        "date_filed": "2024-05-14",
+        "docket_number": "24-14735",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Kelsa Ingrid Simone Smith Patrick",
+        "court": "United States Bankruptcy Court, S.D. Florida.",
+        "court_citation": "Bankr. S.D. Florida",
+        "date_filed": "2026-01-12",
+        "docket_number": "26-10266",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Janae Simone Smith",
+        "court": "United States Bankruptcy Court, W.D. Texas",
+        "court_citation": "Bankr. W.D. Tex.",
+        "date_filed": "2023-04-30",
+        "docket_number": "23-60213",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Sonia Simone Smith",
+        "court": "United States Bankruptcy Court, W.D. North Carolina",
+        "court_citation": "Bankr. W.D.N.C.",
+        "date_filed": "2022-08-29",
+        "docket_number": "22-30409",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Donavon Jaqua Smith and Sydney Simone Smith",
+        "court": "United States Bankruptcy Court, W.D. Tennessee",
+        "court_citation": "Bankr. W.D. Tenn.",
+        "date_filed": "2025-07-22",
+        "docket_number": "25-23624",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Breanna Simone Smith",
+        "court": "United States Bankruptcy Court, D. Oregon",
+        "court_citation": "Bankr. D. Or.",
+        "date_filed": "2021-08-30",
+        "docket_number": "21-61435",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Carla Simone Smith and Ray Anthony Hewitt",
+        "court": "United States Bankruptcy Court, S.D. Florida.",
+        "court_citation": "Bankr. S.D. Florida",
+        "date_filed": "2025-10-28",
+        "docket_number": "25-22722",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Sheryle Simone Smith",
+        "court": "United States Bankruptcy Court, N.D. Georgia",
+        "court_citation": "Bankr. N.D. Ga.",
+        "date_filed": "2021-01-06",
+        "docket_number": "21-50094",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Nikea Simone Smith",
+        "court": "United States Bankruptcy Court, E.D. Wisconsin",
+        "court_citation": "Bankr. E.D. Wis.",
+        "date_filed": "2020-08-31",
+        "docket_number": "20-25998",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Carla Simone Smith",
+        "court": "United States Bankruptcy Court, S.D. Florida.",
+        "court_citation": "Bankr. S.D. Florida",
+        "date_filed": "2020-05-19",
+        "docket_number": "20-15490",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Bianca Simone Smith",
+        "court": "United States Bankruptcy Court, E.D. Michigan",
+        "court_citation": "Bankr. E.D. Mich.",
+        "date_filed": "2020-04-24",
+        "docket_number": "20-45324",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Raven Simone Smith",
+        "court": "United States Bankruptcy Court, D. Hawaii",
+        "court_citation": "Bankr. D. Haw.",
+        "date_filed": "2019-10-29",
+        "docket_number": "19-01385",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Simone Smith",
+        "court": "United States Bankruptcy Court, E.D. Michigan",
+        "court_citation": "Bankr. E.D. Mich.",
+        "date_filed": "2018-05-03",
+        "docket_number": "18-46548",
+        "description": "",
+        "url": null
+      },
+      {
+        "case_name": "Dominique Simone Smith",
+        "court": "United States Bankruptcy Court, M.D. Tennessee",
+        "court_citation": "Bankr. M.D. Tenn.",
+        "date_filed": "2019-07-31",
+        "docket_number": "3:19-bk-04873",
+        "description": "",
+        "url": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "courtlistener",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "people: Simone Smith",
+    "timestamp": "2026-09-02T08:46:38.862002",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "propublica",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "search: Simone Smith",
+    "timestamp": "2026-09-02T08:46:39.197967",
+    "hit_count": 2,
+    "hits": [
+      {
+        "ein": 46008580,
+        "name": "Simeon C Smith Trust",
+        "city": "Jacksonville",
+        "state": "FL",
+        "ntee_code": null,
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      },
+      {
+        "ein": 207162614,
+        "name": "Simon Dina And Henry Brattcharitable Trust",
+        "city": "Bardonia",
+        "state": "NY",
+        "ntee_code": "T22",
+        "subsection_code": null,
+        "total_revenue": null,
+        "total_expenses": null
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "lara",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "entity/agent: Simone Smith",
+    "timestamp": "2026-09-02T08:46:39.283212",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "lara_mirror: Simone Smith",
+    "timestamp": "2026-09-02T08:46:41.442528",
+    "hit_count": 1,
+    "hits": [
+      {
+        "note": "Cloudflare challenge persisted even with proxy",
+        "url": "https://www.micompanyregistry.com/companies/simone-smith/",
+        "proxy_used": "direct"
+      }
+    ],
+    "error": null
+  },
+  {
+    "source": "web_search",
+    "target_id": "simone_smith",
+    "target_name": "Simone Smith",
+    "query": "companiesmi: Simone Smith",
+    "timestamp": "2026-09-02T08:47:13.705684",
+    "hit_count": 0,
+    "hits": [],
+    "error": null
+  }
+]

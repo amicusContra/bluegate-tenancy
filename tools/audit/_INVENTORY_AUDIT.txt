@@ -1,0 +1,2743 @@
+# bluegate-tenancy File Inventory Audit
+Generated: 2026-09-04 07:04
+Root: c:\Users\mokke\jobHunt\bluegate-tenancy
+
+## Summary
+
+- 01-case total: 653 files
+- tools/osint/results total: 64 files
+- 02-evidence total: 915 files
+- 01-case/discord: 6 files
+- 01-case/nolan_clean_drop: 6 files
+- 01-case/filing-ready total: 373 files
+
+## 1. 01-case/ (all subdirectories) (653 files)
+
+### 01-case/ (67 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| ABC_SERVICE_GO_EMAIL_SEP2.md | 2.7 KB | 107 | 2026-09-04 06:20 |
+| CAR_RIDE_BRIEF.md | 5.2 KB | 141 | 2026-08-27 05:42 |
+| CASE_DIVISION_SEP3.md | 4.0 KB | 101 | 2026-09-04 06:20 |
+| CIVIL_CRIMINAL_FEEDBACK_LOOP.md | 10.4 KB | 202 | 2026-09-04 06:20 |
+| COURTESY_PACKETS_TAILORED.md | 8.0 KB | 218 | 2026-09-04 06:20 |
+| COURTHOUSE_CHECKLIST_TODAY.md | 2.7 KB | 98 | 2026-08-27 05:42 |
+| CRIMINAL_EXPOSURE_RUNDOWN.md | 12.9 KB | 310 | 2026-09-04 06:20 |
+| CRIMINAL_REFERRAL_STRATEGY.md | 41.9 KB | 882 | 2026-08-25 09:02 |
+| CROSS_EXAMINATION.md | 32.8 KB | 440 | 2026-08-16 12:29 |
+| CROWDER_PROFILE.md | 13.4 KB | 309 | 2026-09-04 06:20 |
+| DASEAN_AI_FOLLOWUP.md | 28.2 KB | 594 | 2026-09-04 06:20 |
+| DASEAN_BRIEFING.md | 9.6 KB | 236 | 2026-08-27 05:42 |
+| DASEAN_BRIEF_AUG14.md | 8.8 KB | 188 | 2026-08-16 12:29 |
+| DASEAN_BUDGET.md | 5.8 KB | 173 | 2026-08-27 05:42 |
+| DASEAN_CULTURE_BRIEF.md | 6.4 KB | 163 | 2026-09-04 06:20 |
+| DASEAN_INTERVIEW_PREP.md | 31.3 KB | 579 | 2026-08-25 09:02 |
+| DASEAN_PERSONHOOD_BRIEF.md | 15.7 KB | 377 | 2026-09-04 06:20 |
+| DASEAN_STRATEGY_BRIEF.md | 29.3 KB | 585 | 2026-09-04 06:20 |
+| DEANNA_BRIEF.md | 4.9 KB | 153 | 2026-08-10 07:20 |
+| DEANNA_BRIEFING.md | 9.2 KB | 267 | 2026-08-28 09:46 |
+| DEANNA_DAMAGES_CALC.md | 7.3 KB | 209 | 2026-08-28 09:46 |
+| DEANNA_INTERVIEW_PREP.md | 10.6 KB | 288 | 2026-08-25 09:02 |
+| DEANNA_PRO_SE_SUPPORT.md | 7.7 KB | 207 | 2026-08-28 09:46 |
+| ELRICK_EMAIL_DRAFT_SEP2.md | 4.5 KB | 105 | 2026-09-04 06:20 |
+| EMAIL_ABC_PROCESS_SERVICE.md | 2.8 KB | 88 | 2026-09-04 06:20 |
+| EXHIBIT_DIG.md | 110.7 KB | 1370 | 2026-08-25 09:02 |
+| EXHIBIT_PACKAGES_CROSS_CASE.md | 14.8 KB | 276 | 2026-08-28 09:46 |
+| EXHIBIT_STRATEGY.md | 14.8 KB | 263 | 2026-08-16 12:29 |
+| FELONY_TALLY_PER_MEMBER.md | 28.4 KB | 446 | 2026-09-04 06:20 |
+| FILING_LOG.md | 6.7 KB | 141 | 2026-09-04 06:20 |
+| HANDOFF_REFUSAL_ESCALATION.md | 9.1 KB | 283 | 2026-09-04 06:20 |
+| INCIDENT_LOG_SEP2_BANKS_CALL.md | 6.1 KB | 175 | 2026-09-04 06:20 |
+| INCIDENT_LOG_SEP2_CORNERSTONE_ASSAULT.md | 7.0 KB | 119 | 2026-09-04 06:20 |
+| INCIDENT_LOG_SEP3_PICKUP.md | 6.4 KB | 158 | 2026-09-04 06:20 |
+| INTEL_AUG24_RECON.md | 13.0 KB | 309 | 2026-08-25 09:02 |
+| JUDGES_OSINT_BRIEF_SEP2.md | 11.1 KB | 290 | 2026-09-04 06:20 |
+| JUDGE_STOKES_PROFILE.md | 5.1 KB | 107 | 2026-09-04 06:20 |
+| KEVIN_DAMAGES_FRAMEWORK.md | 9.3 KB | 224 | 2026-09-04 06:20 |
+| KEVIN_DASEAN_COMMS_TRANSCRIPT.md | 37.2 KB | 734 | 2026-08-18 19:11 |
+| KEVIN_V_WORLD_WEDGE.md | 15.0 KB | 333 | 2026-09-04 06:20 |
+| MASTER_FILING_MATRIX.md | 21.2 KB | 392 | 2026-09-04 06:20 |
+| MEDICAID_UNFUCK_PLAN.md | 4.1 KB | 111 | 2026-08-27 05:42 |
+| MULTI_FRONT_STRATEGY.md | 13.5 KB | 245 | 2026-09-04 06:20 |
+| NOLAN_HAND_DELIVERY_PACKET.md | 6.1 KB | 179 | 2026-09-04 06:20 |
+| NOLAN_OUTREACH_DRAFT.md | 8.3 KB | 202 | 2026-09-04 06:20 |
+| OIG_SUBMISSION_CHECKLIST.md | 9.4 KB | 240 | 2026-08-27 05:42 |
+| OPERATIONAL_PLAYBOOK.md | 20.3 KB | 430 | 2026-09-04 06:20 |
+| PII_CATALOG.md | 14.7 KB | 291 | 2026-08-25 09:02 |
+| RECEIVE_PREP.md | 8.6 KB | 207 | 2026-08-16 12:29 |
+| RITA_REPLY_SEP2.md | 3.2 KB | 89 | 2026-09-04 06:20 |
+| SENTENCING_EXPOSURE_REALISTIC.md | 11.4 KB | 302 | 2026-08-27 05:42 |
+| SEPTEMBER_FILING_CALENDAR.md | 8.4 KB | 225 | 2026-08-27 05:42 |
+| SERVICE_PACKET_ASSEMBLY.md | 2.7 KB | 73 | 2026-08-28 09:46 |
+| SHAYLA_PROFILE.md | 37.6 KB | 607 | 2026-08-25 09:02 |
+| SHAYLA_RESPONSE_ANALYSIS.md | 127.0 KB | 2742 | 2026-08-25 09:02 |
+| SHAYLA_VIOLATIONS_CHART.md | 11.0 KB | 139 | 2026-09-04 06:20 |
+| SMITH_CROWDER_FRAUD_TIMELINE.md | 11.1 KB | 219 | 2026-09-04 06:20 |
+| SMITH_OSINT_BRIEF_SEP2.md | 18.7 KB | 371 | 2026-09-04 06:20 |
+| STRATEGY.md | 36.2 KB | 591 | 2026-08-25 09:03 |
+| TEXT_EVIDENCE_ANALYSIS_AUG25.md | 14.8 KB | 345 | 2026-08-27 05:42 |
+| UPL_BRIEF.md | 13.4 KB | 328 | 2026-09-04 06:20 |
+| WARGAME_KEVIN_V_ALL.md | 26.7 KB | 610 | 2026-09-04 06:20 |
+| WARGAME_SEP3.md | 7.2 KB | 205 | 2026-09-04 06:20 |
+| WARGAME_SMITH_HOUSEHOLD.md | 42.6 KB | 942 | 2026-08-25 09:02 |
+| WEEK_SEP1_ACTION_PLAN.md | 12.6 KB | 249 | 2026-09-04 06:20 |
+| build_exhibit_package.py | 2.5 KB | 72 | 2026-08-27 05:42 |
+| merge_oig_evidence.py | 3.7 KB | 115 | 2026-08-27 05:42 |
+
+### 01-case/archive/ (25 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_ANSWER_SEPARATE.txt | 7.6 KB | 163 | 2026-08-25 09:02 |
+| 02_COUNTERCLAIM_SEPARATE.txt | 14.0 KB | 292 | 2026-08-25 09:02 |
+| ATTORNEY_HANDOUT.md | 2.5 KB | 70 | 2026-06-26 10:57 |
+| BATTLEFIELD_MAP.md | 44.4 KB | 679 | 2026-08-14 18:24 |
+| CASE_ANALYSIS.md | 59.5 KB | 1135 | 2026-07-01 08:22 |
+| COMMS_BOUNDARY_GUIDE.md | 5.5 KB | 156 | 2026-08-10 21:42 |
+| COMMS_PROTOCOL_TEXTS.md | 2.4 KB | 31 | 2026-08-10 12:20 |
+| CUSTODY_PREP_CHECKLIST.md | 13.5 KB | 311 | 2026-06-25 21:05 |
+| DAVIS_ZOOM_BRIEF.md | 5.8 KB | 157 | 2026-06-30 10:52 |
+| ESCALATION_RESEARCH.md | 14.1 KB | 374 | 2026-07-16 11:02 |
+| FILING_READY_CHECKLIST.md | 10.0 KB | 270 | 2026-06-28 07:16 |
+| FILL_GUIDE.md | 11.1 KB | 288 | 2026-08-25 09:02 |
+| HEARING_PREP.md | 10.0 KB | 236 | 2026-07-16 11:03 |
+| LONG_TERM_LEGAL.md | 22.2 KB | 489 | 2026-07-16 11:02 |
+| MOTION_TEMPORARY_CUSTODY.md | 11.4 KB | 277 | 2026-06-25 21:04 |
+| PRO_SE_FILINGS_DRAFT.md | 39.9 KB | 927 | 2026-08-25 09:02 |
+| PRO_SE_FILING_GUIDE.md | 13.4 KB | 317 | 2026-06-25 21:05 |
+| RECONCILIATION_PLAN.md | 11.9 KB | 242 | 2026-06-25 21:04 |
+| RELATIONSHIP_TIMELINE.md | 38.7 KB | 795 | 2026-06-27 10:53 |
+| RESPONSE_TIMELINE.md | 23.3 KB | 460 | 2026-06-25 21:05 |
+| SHAYLA_COMMS.md | 40.0 KB | 853 | 2026-06-29 08:16 |
+| STABILITY_COMPARISON.md | 30.0 KB | 544 | 2026-06-25 21:05 |
+| STRATEGY_NOTES.md | 68.5 KB | 1422 | 2026-07-09 20:46 |
+| WORST_CASE_OPS.md | 16.2 KB | 388 | 2026-06-25 17:27 |
+| attorney_handout.tex | 3.4 KB | 82 | 2026-06-26 10:56 |
+
+### 01-case/discord/ (6 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 00_DISCORD_DROP_INDEX.md | 4.3 KB | 85 | 2026-09-04 06:20 |
+| BANKS_NETWORK_INTEL_SEP2.md | 12.8 KB | 252 | 2026-09-04 06:20 |
+| HOLLAND_PROPERTY_INTEL_SEP2.md | 5.6 KB | 117 | 2026-09-04 06:20 |
+| JUDGES_INTEL_SEP2.md | 11.1 KB | 290 | 2026-09-02 14:07 |
+| JUDGES_ROD_INTEL_SEP2.md | 6.9 KB | 151 | 2026-09-04 06:20 |
+| PACER_SEARCH_QUEUE.md | 3.8 KB | 86 | 2026-09-04 06:20 |
+
+### 01-case/evidence/ (19 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| ABC_SERVICE_PACKET_2026-4301-CZ.pdf | 10.7 MB | — | 2026-08-28 16:57 |
+| EXHIBIT_PACKAGE_FOR_FILING.pdf | 1.4 MB | — | 2026-08-27 05:29 |
+| MC01_FILLABLE.pdf | 238.4 KB | — | 2026-08-27 05:54 |
+| MC01_SUMMONS_FILLED.pdf | 840.2 KB | — | 2026-08-27 05:45 |
+| OIG_COMPLAINT_FULL_PACKAGE.pdf | 2.3 MB | — | 2026-08-27 05:07 |
+| RestrictedReturnReceipt.pdf | 822.7 KB | — | 2026-08-27 04:30 |
+| RestrictedReturnReceiptSigs.pdf | 1.4 MB | — | 2026-08-27 04:35 |
+| callingCard_preview.png | 181.8 KB | — | 2026-08-27 14:13 |
+| case2026-4301-CZ-callingCard20260827.pdf | 160.8 KB | — | 2026-08-27 14:10 |
+| case2026-4301-CZ-complaint20260827.pdf | 6.5 MB | — | 2026-08-27 12:31 |
+| case2026-4301-CZ-courtFees20260827.pdf | 411.3 KB | — | 2026-08-27 12:33 |
+| case2026-4301-CZ-exhibits20260827.pdf | 2.1 MB | — | 2026-08-27 12:33 |
+| case2026-4301-CZ-summons20260827.pdf | 2.1 MB | — | 2026-08-27 12:34 |
+| epraetor_page1.png | 268.0 KB | — | 2026-08-27 20:45 |
+| epraetor_page2.png | 239.4 KB | — | 2026-08-27 20:45 |
+| shayla_cards_extraction_aug22.png | 176.0 KB | — | 2026-08-22 09:13 |
+| tracking_screenshot_1.png | 50.2 KB | — | 2026-08-27 04:36 |
+| tracking_screenshot_2.png | 49.3 KB | — | 2026-08-27 04:36 |
+| tracking_screenshot_3.png | 62.1 KB | — | 2026-08-27 04:36 |
+
+### 01-case/filing-ready/ (105 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 00_CALLING_CARD.txt | 1.4 KB | 43 | 2026-08-25 09:02 |
+| 00_CALLING_CARD_FILED.html | 2.2 KB | 106 | 2026-08-28 09:46 |
+| 00_CALLING_CARD_FILED.txt | 889 B | 48 | 2026-08-28 09:46 |
+| 00_COVERSHEET_TEMPLATE.txt | 5.4 KB | 147 | 2026-08-25 09:02 |
+| 01_ANSWER.pdf | 6.7 KB | — | 2026-06-26 10:57 |
+| 01_ANSWER_AND_COUNTERCLAIM.txt | 18.4 KB | 389 | 2026-08-25 09:02 |
+| 02_COUNTERCLAIM.pdf | 10.0 KB | — | 2026-06-26 10:57 |
+| 03_VENUE_MOTION.pdf | 4.3 KB | — | 2026-06-26 10:57 |
+| 04_TEMP_CUSTODY_MOTION.pdf | 5.0 KB | — | 2026-06-26 10:57 |
+| 04_TEMP_CUSTODY_MOTION.txt | 6.9 KB | 158 | 2026-07-09 15:20 |
+| 05_PROOF_OF_SERVICE.pdf | 1.7 KB | — | 2026-06-26 10:57 |
+| 05_PROOF_OF_SERVICE.txt | 993 B | 40 | 2026-07-16 11:02 |
+| 06_CONSENT_ORDER.txt | 6.3 KB | 171 | 2026-08-25 09:02 |
+| 06_FEE_WAIVER_CONTENT.pdf | 2.9 KB | — | 2026-06-26 10:57 |
+| 07_MOTION_DEFAULT_JUDGMENT.txt | 6.8 KB | 185 | 2026-08-25 09:02 |
+| 08_REQUEST_PRODUCTION.txt | 6.8 KB | 192 | 2026-08-16 12:29 |
+| 09B_INTERROGATORIES_SECOND_SET.txt | 37.2 KB | 766 | 2026-08-25 09:02 |
+| 09C_INTERROGATORIES_THIRD_SET.txt | 14.2 KB | 360 | 2026-08-25 09:02 |
+| 09_INTERROGATORIES.txt | 18.1 KB | 410 | 2026-08-25 09:02 |
+| 10_REQUEST_ADMISSIONS.txt | 7.1 KB | 214 | 2026-08-16 12:29 |
+| 11_REPLY_TEMP_ORDER.txt | 9.4 KB | 228 | 2026-08-18 10:52 |
+| 12_NOTICE_PRESERVATION_SERVED.txt | 3.1 KB | 85 | 2026-08-16 12:29 |
+| 12_PRESERVATION_CROWDER.txt | 2.3 KB | 70 | 2026-08-16 12:29 |
+| 12_PRESERVATION_LEON.txt | 2.6 KB | 71 | 2026-08-16 12:29 |
+| 12_PRESERVATION_MARQUITA.txt | 2.8 KB | 75 | 2026-08-16 12:29 |
+| 12_PRESERVATION_SHAYLA.txt | 3.2 KB | 90 | 2026-08-16 12:29 |
+| 12_PRESERVATION_SIMONE.txt | 2.0 KB | 62 | 2026-08-16 12:29 |
+| 13_MOTION_GAL.txt | 9.3 KB | 216 | 2026-08-25 09:02 |
+| 14_MOTION_COMPEL_VERIFIED.txt | 3.9 KB | 112 | 2026-08-17 13:23 |
+| 15_MOTION_NONPARTY_SUBPOENAS.txt | 15.3 KB | 347 | 2026-08-25 09:02 |
+| 16_MOTION_COMPEL_ADMISSIONS.txt | 3.5 KB | 107 | 2026-08-17 13:23 |
+| 17_MOTION_INTERIM_SUPPORT.txt | 13.4 KB | 325 | 2026-08-25 09:02 |
+| 18_PROPOSED_CONSENT_ORDER.txt | 10.2 KB | 282 | 2026-08-25 09:02 |
+| 18b_ESCALATED_CONSENT_ORDER.txt | 11.9 KB | 315 | 2026-08-25 09:02 |
+| 19_MOTION_INSTITUTIONAL_SUBPOENAS.txt | 16.6 KB | 389 | 2026-08-25 09:02 |
+| 20_MOTION_FINANCIAL_SUBPOENAS.txt | 10.3 KB | 252 | 2026-08-25 09:02 |
+| 21_NOTICE_WITHDRAW_DEFAULT.txt | 15.1 KB | 343 | 2026-08-25 09:02 |
+| 21_NOTICE_WITHDRAW_DEFAULT_SIGNED.pdf | 230.0 KB | — | 2026-08-20 02:32 |
+| 22_MOTION_DISCOVERY_SANCTIONS.txt | 4.1 KB | 126 | 2026-08-17 13:23 |
+| 23_MOTION_ADVERSE_INFERENCE.txt | 3.8 KB | 121 | 2026-08-17 13:23 |
+| 24_MOTION_SHOW_CAUSE.txt | 3.5 KB | 113 | 2026-08-17 13:23 |
+| 25_ESTOPPEL_COMPLAINT.txt | 35.4 KB | 792 | 2026-08-25 09:02 |
+| 26_EXHIBITS_COMBINED.txt | 4.3 KB | 115 | 2026-08-27 05:42 |
+| 26_EXHIBIT_A_COVER.txt | 1.3 KB | 39 | 2026-08-25 09:02 |
+| 26_GO_PACKET.md | 6.0 KB | 176 | 2026-08-25 09:03 |
+| 26_KEVIN_COVERSHEET.txt | 37.7 KB | 857 | 2026-08-25 09:02 |
+| 26_KEVIN_FILING_CHECKLIST.txt | 6.8 KB | 196 | 2026-08-25 09:02 |
+| 26_KEVIN_INTRO_LETTER.txt | 25.5 KB | 604 | 2026-08-25 09:03 |
+| 26_KEVIN_V_SHAYLA_COMPLAINT.txt | 42.1 KB | 955 | 2026-08-27 05:42 |
+| 26_LEON_INSERT.txt | 994 B | 31 | 2026-08-25 09:02 |
+| 26_LEON_LETTER.txt | 19.4 KB | 482 | 2026-08-25 09:02 |
+| 26_MARQUITA_INSERT.txt | 946 B | 37 | 2026-08-25 09:02 |
+| 26_MARQUITA_LETTER.txt | 12.2 KB | 333 | 2026-08-25 09:02 |
+| 26_MC01_GUIDE.txt | 7.2 KB | 236 | 2026-08-27 05:43 |
+| 27_HEATHER_V_SHAYLA_COMPLAINT.txt | 16.6 KB | 404 | 2026-08-25 09:02 |
+| 28_DASEAN_ESTOPPEL_MOTION.txt | 16.1 KB | 410 | 2026-08-28 09:46 |
+| 28_DASEAN_MARRIAGE_ESTOPPEL.txt | 15.1 KB | 386 | 2026-08-28 09:46 |
+| 28_DASEAN_V_SMITH_COMPLAINT.txt | 26.8 KB | 677 | 2026-08-28 09:46 |
+| 28_DEANNA_V_SHAYLA_COMPLAINT.txt | 30.9 KB | 734 | 2026-08-28 09:46 |
+| 28_MC01_WAYNE_GUIDE.txt | 5.4 KB | 169 | 2026-08-28 09:46 |
+| 29_CHILDREN_V_SHAYLA_COMPLAINT.txt | 19.9 KB | 491 | 2026-08-28 09:46 |
+| 30_CONSENT_ORDER_FULL_SURRENDER.txt | 11.0 KB | 290 | 2026-08-27 05:42 |
+| 31_OIG_FORM_NARRATIVE.txt | 1.5 KB | 15 | 2026-08-27 05:42 |
+| 31_USPS_OIG_COMPLAINT.txt | 17.1 KB | 412 | 2026-08-27 05:42 |
+| 32_MDHHS_FRAUD_REPORT.txt | 9.5 KB | 255 | 2026-08-27 05:42 |
+| 33_MOTION_MAIL_FRAUD_SUBPOENAS.txt | 14.7 KB | 335 | 2026-08-27 05:42 |
+| 35_EMERGENCY_TEMP_CUSTODY.txt | 18.9 KB | 436 | 2026-09-04 06:20 |
+| 36A_UPL_STATE_BAR.md | 6.6 KB | 171 | 2026-09-04 06:20 |
+| 36B_JTC_YANCEY.md | 4.3 KB | 103 | 2026-09-04 06:20 |
+| 36C_JTC_MILLER.md | 4.2 KB | 102 | 2026-09-04 06:20 |
+| 36D_MDE_CERT_VIOLATION.md | 4.7 KB | 127 | 2026-09-04 06:20 |
+| 36E_AG_UPL_PROSECUTION.md | 3.9 KB | 103 | 2026-09-04 06:20 |
+| 36F_DPSCD_EMAIL.md | 5.9 KB | 157 | 2026-09-04 06:20 |
+| 36_EMAIL_TRIPLETT_EMERGENCY.md | 3.7 KB | 105 | 2026-09-04 06:20 |
+| 36_EMERGENCY_EXPART_ASSAULT.txt | 12.6 KB | 301 | 2026-09-04 06:20 |
+| 36_EMERGENCY_MOTION_COMPLETE.pdf | 22.9 KB | — | 2026-09-03 18:41 |
+| 36_FINAL_EMERGENCY_MOTION.txt | 23.8 KB | 543 | 2026-09-04 06:20 |
+| 36_REGULATORY_COMPLAINTS_PACKAGE.txt | 34.4 KB | 897 | 2026-09-04 06:20 |
+| 37_FIRST_AMENDED_COMPLAINT_BANKS.txt | 30.8 KB | 700 | 2026-09-04 06:20 |
+| 37_FIRST_AMENDED_COMPLAINT_CONSPIRACY.txt | 11.0 KB | 264 | 2026-09-04 06:20 |
+| 37_PPO_FILING_GUIDE.md | 8.6 KB | 165 | 2026-09-04 06:20 |
+| 39_KEVIN_V_BANKS_COMPLAINT.txt | 28.3 KB | 655 | 2026-09-04 06:20 |
+| 40_FIRST_AMENDED_COMPLAINT_BANKS.txt | 21.3 KB | 531 | 2026-09-04 06:20 |
+| AGENCY_NOTIFICATIONS_TRACKER.md | 9.9 KB | 257 | 2026-09-04 06:20 |
+| AMENDED_COMPLAINT_HOLLAND_PURPOSE.md | 49.5 KB | 510 | 2026-09-04 06:20 |
+| BANKS_FIRST_AMENDED_COMPLAINT_FRAMEWORK.md | 16.2 KB | 322 | 2026-09-04 06:20 |
+| CROWDER_LARA_COMPLAINT_FRAMEWORK.md | 10.1 KB | 243 | 2026-09-04 06:20 |
+| DCH0569_Birth_Certificate_App.pdf | 234.6 KB | — | 2026-06-25 16:58 |
+| DHS1201D_IV-D_Application.pdf | 23.9 KB | — | 2026-06-25 16:58 |
+| DOE_OIG_COMPLAINT.md | 13.4 KB | 351 | 2026-09-04 06:20 |
+| EXPARTE_MOTION_FRAMEWORK_SEP3.md | 6.1 KB | 153 | 2026-09-04 06:20 |
+| FOC23_Verified_Statement.pdf | 97.3 KB | — | 2026-06-25 16:58 |
+| FOIA_DPSCD_CHECK_REGISTERS.md | 6.0 KB | 168 | 2026-09-04 06:20 |
+| FOIA_WAYNE_RESA_REGISTERS.md | 4.5 KB | 135 | 2026-09-04 06:20 |
+| JTC_SUPPLEMENT_MILLER.md | 12.1 KB | 304 | 2026-09-04 06:20 |
+| JTC_SUPPLEMENT_YANCEY.md | 12.3 KB | 315 | 2026-09-04 06:20 |
+| MC20_Fee_Waiver.pdf | 118.6 KB | — | 2026-06-25 16:58 |
+| MC416_UCCJEA_Affidavit.pdf | 93.8 KB | — | 2026-06-25 16:58 |
+| PRESERVATION_LETTERS_NAMED.md | 14.3 KB | 380 | 2026-09-04 06:20 |
+| PRESERVATION_TEMPLATE_GENERAL.md | 3.9 KB | 117 | 2026-09-04 06:20 |
+| SERVE_PACKET_AMENDMENT1_INSTRUCTIONS.txt | 4.7 KB | 117 | 2026-09-04 06:20 |
+| SPOLIATION_NOTICE_POST_SERVE.md | 12.2 KB | 215 | 2026-09-04 06:20 |
+| SPOLIATION_NOTICE_PRE_SERVE.md | 7.8 KB | 168 | 2026-09-04 06:20 |
+| SUBPOENA_MASTER_PLAN.md | 11.0 KB | 287 | 2026-09-04 06:20 |
+| SUMMONS_FILL_GUIDE.txt | 4.1 KB | 136 | 2026-09-04 06:20 |
+
+### 01-case/filing-ready/SUBMITTED_AUG31/ (6 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 36A_UPL_STATE_BAR.md | 6.6 KB | 171 | 2026-08-31 18:24 |
+| 36B_JTC_YANCEY.md | 4.3 KB | 103 | 2026-08-31 18:24 |
+| 36C_JTC_MILLER.md | 4.2 KB | 102 | 2026-08-31 18:24 |
+| 36F_DPSCD_EMAIL.md | 5.9 KB | 157 | 2026-08-31 18:24 |
+| 37_FIRST_AMENDED_COMPLAINT_CONSPIRACY.txt | 11.0 KB | 264 | 2026-08-31 18:24 |
+| ABC_SERVICE_ORDER_BANKS.md | 1.1 KB | 39 | 2026-08-31 18:24 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/PRINT_TOMORROW/AG_PACKET/ (3 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_AG_COMPLAINT.md | 3.9 KB | 103 | 2026-08-31 18:24 |
+| 02_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| 03_LINKEDIN_AND_EXHIBITS.pdf | 12.7 MB | — | 2026-08-31 18:33 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/PRINT_TOMORROW/BANKS_LAWSUIT/ (10 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_COMPLAINT.txt | 28.3 KB | 655 | 2026-08-31 18:32 |
+| 02_INDEX_AND_LM.md | 2.9 KB | 101 | 2026-09-01 07:36 |
+| 02_TEXT_EXHIBITS.md | 57.8 KB | 1441 | 2026-08-31 18:33 |
+| 03_IMAGE_EXHIBITS.pdf | 12.7 MB | — | 2026-08-31 18:33 |
+| 04_EXHIBIT_A.pdf | 2.1 MB | — | 2026-08-31 11:12 |
+| 05_EXHIBIT_I.pdf | 78.8 KB | — | 2026-08-31 12:20 |
+| 06_EXHIBIT_JK_CERT.pdf | 287.2 KB | — | 2026-08-31 12:19 |
+| 07_EXHIBIT_JK_NOTARY.pdf | 967.1 KB | — | 2026-08-31 12:16 |
+| L_MDE_COMPLAINT.md | 4.7 KB | 127 | 2026-08-31 20:24 |
+| M_AG_REFERRAL.md | 3.9 KB | 103 | 2026-08-31 20:24 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/PRINT_TOMORROW/MDE_PACKET/ (3 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_MDE_COMPLAINT.md | 4.7 KB | 127 | 2026-08-31 18:24 |
+| 02_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| 03_LINKEDIN_AND_EXHIBITS.pdf | 12.7 MB | — | 2026-08-31 18:33 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/ (7 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 36A_UPL_STATE_BAR.md | 5.8 KB | 158 | 2026-08-31 08:48 |
+| 36B_JTC_YANCEY.md | 3.4 KB | 88 | 2026-08-31 08:48 |
+| 36C_JTC_MILLER.md | 3.2 KB | 86 | 2026-08-31 08:48 |
+| PRINT_AND_ASSEMBLE_JTC_UPL.md | 7.0 KB | 203 | 2026-08-31 09:10 |
+| RFI Form 3.4.2026.pdf | 255.0 KB | — | 2026-08-30 19:31 |
+| UPLcomplaintform.pdf | 66.9 KB | — | 2026-08-30 19:30 |
+| build_pdfs.py | 2.7 KB | 75 | 2026-08-31 13:30 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/PACKET_A_UPL/ (11 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 00_UPL_FORM.pdf | 77.1 KB | — | 2026-08-31 11:33 |
+| 01_UPL_NARRATIVE.md | 6.6 KB | 171 | 2026-08-31 09:31 |
+| 02_BANKS_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| 03_ELRICK_FREEP_JULY2022.md | 3.3 KB | 103 | 2026-08-31 08:55 |
+| 04_EXHIBIT_D_PCA_FOUNDER_PAGE.md | 1.7 KB | 57 | 2026-08-31 11:11 |
+| 05_PCA_BASH_AUTHORIZATION.md | 5.5 KB | 164 | 2026-08-31 08:48 |
+| 06_PCA_AUTHORIZATION_ORIGINAL.pdf | 2.1 MB | — | 2026-08-31 11:12 |
+| 07_EXHIBIT_F_BALLOTPEDIA_YANCEY.md | 1.1 KB | 41 | 2026-08-31 11:11 |
+| 08_EXHIBIT_G_BALLOTPEDIA_MILLER.md | 1.5 KB | 56 | 2026-08-31 11:11 |
+| PRINT_ALL_DOCS.md | 95.6 KB | 2217 | 2026-08-31 09:31 |
+| PRINT_LINKEDIN_EXHIBITS.pdf | 8.7 MB | — | 2026-08-31 09:31 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/PACKET_A_UPL/linkedin/ (24 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5794.PNG | 414.3 KB | — | 2026-08-30 04:22 |
+| IMG_5795.PNG | 470.3 KB | — | 2026-08-30 04:22 |
+| IMG_5796.PNG | 440.0 KB | — | 2026-08-30 04:22 |
+| IMG_5797.PNG | 438.4 KB | — | 2026-08-30 04:22 |
+| IMG_5798.PNG | 374.4 KB | — | 2026-08-30 04:22 |
+| IMG_5799.PNG | 426.3 KB | — | 2026-08-30 04:22 |
+| IMG_5800.PNG | 628.4 KB | — | 2026-08-30 04:22 |
+| IMG_5801.PNG | 338.3 KB | — | 2026-08-30 04:22 |
+| IMG_5802.PNG | 330.1 KB | — | 2026-08-30 04:22 |
+| IMG_5803.PNG | 317.9 KB | — | 2026-08-30 04:22 |
+| IMG_5804.PNG | 337.4 KB | — | 2026-08-30 04:22 |
+| IMG_5805.PNG | 371.8 KB | — | 2026-08-30 04:22 |
+| IMG_5806.PNG | 357.9 KB | — | 2026-08-30 04:22 |
+| IMG_5807.PNG | 369.5 KB | — | 2026-08-30 04:22 |
+| IMG_5808.PNG | 349.3 KB | — | 2026-08-30 04:22 |
+| IMG_5809.PNG | 238.0 KB | — | 2026-08-30 04:22 |
+| IMG_5810.PNG | 155.9 KB | — | 2026-08-30 04:22 |
+| IMG_5811.PNG | 276.8 KB | — | 2026-08-30 04:22 |
+| IMG_5812.PNG | 205.8 KB | — | 2026-08-30 04:22 |
+| IMG_5813.PNG | 265.2 KB | — | 2026-08-30 04:22 |
+| IMG_5814.PNG | 83.1 KB | — | 2026-08-30 04:22 |
+| IMG_5815.PNG | 247.8 KB | — | 2026-08-30 04:22 |
+| IMG_5816.PNG | 265.5 KB | — | 2026-08-30 04:22 |
+| IMG_5817.PNG | 603.2 KB | — | 2026-08-30 04:22 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/PACKET_BC_JTC_COMBINED/ (12 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 00_JTC_FORM_print2copies.pdf | 255.0 KB | — | 2026-08-30 19:31 |
+| 01a_JTC_YANCEY_NARRATIVE.md | 4.3 KB | 103 | 2026-08-31 09:31 |
+| 01b_JTC_MILLER_NARRATIVE.md | 4.2 KB | 102 | 2026-08-31 09:31 |
+| 02_BANKS_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| 03_MACDOWELL_BOARD.md | 1.7 KB | 57 | 2026-08-31 09:27 |
+| 04_CHALKBEAT_SEPT2025.md | 2.7 KB | 74 | 2026-08-31 09:27 |
+| 05_KEEPJUDGEMILLER.md | 1.3 KB | 42 | 2026-08-31 09:27 |
+| 06_ELRICK_FREEP_JULY2022.md | 3.3 KB | 103 | 2026-08-31 09:27 |
+| 07_BALLOTPEDIA_MILLER.md | 1.5 KB | 56 | 2026-08-31 08:56 |
+| 08_BALLOTPEDIA_YANCEY.md | 1.1 KB | 41 | 2026-08-31 09:27 |
+| PRINT_ALL_DOCS.md | 148.7 KB | 3538 | 2026-08-31 09:31 |
+| PRINT_LINKEDIN_EXHIBITS.pdf | 8.7 MB | — | 2026-08-31 09:31 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/PACKET_BC_JTC_COMBINED/linkedin/ (24 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5794.PNG | 414.3 KB | — | 2026-08-30 04:22 |
+| IMG_5795.PNG | 470.3 KB | — | 2026-08-30 04:22 |
+| IMG_5796.PNG | 440.0 KB | — | 2026-08-30 04:22 |
+| IMG_5797.PNG | 438.4 KB | — | 2026-08-30 04:22 |
+| IMG_5798.PNG | 374.4 KB | — | 2026-08-30 04:22 |
+| IMG_5799.PNG | 426.3 KB | — | 2026-08-30 04:22 |
+| IMG_5800.PNG | 628.4 KB | — | 2026-08-30 04:22 |
+| IMG_5801.PNG | 338.3 KB | — | 2026-08-30 04:22 |
+| IMG_5802.PNG | 330.1 KB | — | 2026-08-30 04:22 |
+| IMG_5803.PNG | 317.9 KB | — | 2026-08-30 04:22 |
+| IMG_5804.PNG | 337.4 KB | — | 2026-08-30 04:22 |
+| IMG_5805.PNG | 371.8 KB | — | 2026-08-30 04:22 |
+| IMG_5806.PNG | 357.9 KB | — | 2026-08-30 04:22 |
+| IMG_5807.PNG | 369.5 KB | — | 2026-08-30 04:22 |
+| IMG_5808.PNG | 349.3 KB | — | 2026-08-30 04:22 |
+| IMG_5809.PNG | 238.0 KB | — | 2026-08-30 04:22 |
+| IMG_5810.PNG | 155.9 KB | — | 2026-08-30 04:22 |
+| IMG_5811.PNG | 276.8 KB | — | 2026-08-30 04:22 |
+| IMG_5812.PNG | 205.8 KB | — | 2026-08-30 04:22 |
+| IMG_5813.PNG | 265.2 KB | — | 2026-08-30 04:22 |
+| IMG_5814.PNG | 83.1 KB | — | 2026-08-30 04:22 |
+| IMG_5815.PNG | 247.8 KB | — | 2026-08-30 04:22 |
+| IMG_5816.PNG | 265.5 KB | — | 2026-08-30 04:22 |
+| IMG_5817.PNG | 603.2 KB | — | 2026-08-30 04:22 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/PACKET_D_SMITH_AMENDMENT/ (3 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_FIRST_AMENDED_COMPLAINT.txt | 11.8 KB | 279 | 2026-08-31 12:21 |
+| 02_SERVICE_STRATEGY.md | 9.7 KB | 275 | 2026-08-31 11:11 |
+| MC01_BANKS_SUMMONS.pdf | 238.4 KB | — | 2026-08-27 05:54 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/banks-linkedin/ (24 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5794.PNG | 414.3 KB | — | 2026-08-30 04:22 |
+| IMG_5795.PNG | 470.3 KB | — | 2026-08-30 04:22 |
+| IMG_5796.PNG | 440.0 KB | — | 2026-08-30 04:22 |
+| IMG_5797.PNG | 438.4 KB | — | 2026-08-30 04:22 |
+| IMG_5798.PNG | 374.4 KB | — | 2026-08-30 04:22 |
+| IMG_5799.PNG | 426.3 KB | — | 2026-08-30 04:22 |
+| IMG_5800.PNG | 628.4 KB | — | 2026-08-30 04:22 |
+| IMG_5801.PNG | 338.3 KB | — | 2026-08-30 04:22 |
+| IMG_5802.PNG | 330.1 KB | — | 2026-08-30 04:22 |
+| IMG_5803.PNG | 317.9 KB | — | 2026-08-30 04:22 |
+| IMG_5804.PNG | 337.4 KB | — | 2026-08-30 04:22 |
+| IMG_5805.PNG | 371.8 KB | — | 2026-08-30 04:22 |
+| IMG_5806.PNG | 357.9 KB | — | 2026-08-30 04:22 |
+| IMG_5807.PNG | 369.5 KB | — | 2026-08-30 04:22 |
+| IMG_5808.PNG | 349.3 KB | — | 2026-08-30 04:22 |
+| IMG_5809.PNG | 238.0 KB | — | 2026-08-30 04:22 |
+| IMG_5810.PNG | 155.9 KB | — | 2026-08-30 04:22 |
+| IMG_5811.PNG | 276.8 KB | — | 2026-08-30 04:22 |
+| IMG_5812.PNG | 205.8 KB | — | 2026-08-30 04:22 |
+| IMG_5813.PNG | 265.2 KB | — | 2026-08-30 04:22 |
+| IMG_5814.PNG | 83.1 KB | — | 2026-08-30 04:22 |
+| IMG_5815.PNG | 247.8 KB | — | 2026-08-30 04:22 |
+| IMG_5816.PNG | 265.5 KB | — | 2026-08-30 04:22 |
+| IMG_5817.PNG | 603.2 KB | — | 2026-08-30 04:22 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/loose_exhibits/ (10 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| EXHIBIT_BALLOTPEDIA_MILLER.md | 1.5 KB | 56 | 2026-09-01 07:35 |
+| EXHIBIT_BALLOTPEDIA_YANCEY.md | 1.1 KB | 41 | 2026-09-01 07:35 |
+| EXHIBIT_BANKS_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| EXHIBIT_CHALKBEAT_SEPT2025.md | 2.7 KB | 74 | 2026-09-01 07:35 |
+| EXHIBIT_ELRICK_FREEP_JULY2022.md | 3.3 KB | 103 | 2026-09-01 07:35 |
+| EXHIBIT_KEEPJUDGEMILLER.md | 1.3 KB | 42 | 2026-09-01 07:35 |
+| EXHIBIT_MACDOWELL_BOARD.md | 1.7 KB | 57 | 2026-09-01 07:35 |
+| EXHIBIT_PCA_BASH_AUTHORIZATION.md | 5.5 KB | 164 | 2026-08-31 08:48 |
+| EXHIBIT_PCA_FOUNDER_PAGE.md | 1.7 KB | 57 | 2026-09-01 07:35 |
+| FORM_FILL_GUIDE.md | 9.1 KB | 276 | 2026-09-01 07:35 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/staging_and_guides/ (13 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 38_SERVICE_STRATEGY_BANKS.md | 9.7 KB | 275 | 2026-09-01 07:35 |
+| ABC_SERVICE_ORDER_BANKS.md | 1.1 KB | 39 | 2026-09-01 07:35 |
+| EFILE_PACKET_MAP.md | 2.6 KB | 75 | 2026-07-09 17:44 |
+| FINAL_PUNCHLIST.md | 5.7 KB | 119 | 2026-07-09 10:24 |
+| FORM_FILL_GUIDE.md | 8.0 KB | 241 | 2026-09-01 07:35 |
+| PDF_FILL_CHEATSHEET.md | 9.9 KB | 266 | 2026-08-25 09:02 |
+| PRINT_AND_ASSEMBLE_JTC_UPL.md | 7.0 KB | 203 | 2026-09-01 07:35 |
+| RFI Form 3.4.2026.pdf | 255.0 KB | — | 2026-08-30 19:31 |
+| STAGING_MONDAY_SEPT1.md | 8.1 KB | 217 | 2026-09-01 07:35 |
+| UPLcomplaintform.pdf | 66.9 KB | — | 2026-08-30 19:30 |
+| build_efile_packets.py | 7.1 KB | 208 | 2026-07-09 17:45 |
+| restage.ps1 | 1.9 KB | 38 | 2026-09-01 07:35 |
+| stage_banks_packet.ps1 | 2.4 KB | 58 | 2026-09-01 07:35 |
+
+### 01-case/filing-ready/efile_uploads/ (7 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| SHAYLA_SERVICE_PACKET.pdf | 556.7 KB | — | 2026-07-09 17:55 |
+| UPLOAD_1_PLEADING.pdf | 505.4 KB | — | 2026-07-09 17:45 |
+| UPLOAD_2_MOTION.pdf | 876.8 KB | — | 2026-07-09 17:45 |
+| exhibit_B_dsdt_screenshot.pdf | 44.4 KB | — | 2026-07-09 17:45 |
+| exhibit_B_dsdt_text.pdf | 2.8 KB | — | 2026-07-09 17:45 |
+| exhibit_C_dsdt_enrollment.txt | 2.2 KB | 67 | 2026-07-09 09:30 |
+| exhibit_C_shayla_verified.pdf | 392.0 KB | — | 2026-07-09 17:45 |
+
+### 01-case/filing-ready/exhibits/AMENDMENT_1/ (9 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 00_EXHIBIT_INDEX.txt | 1.3 KB | 35 | 2026-09-04 06:20 |
+| AA_LARA_CPA_SEARCH.txt | 1.4 KB | 45 | 2026-09-04 06:20 |
+| BB_INCIDENT_LOG.txt | 2.4 KB | 68 | 2026-09-04 06:20 |
+| U_COVER.txt | 719 B | 22 | 2026-09-04 06:20 |
+| V_COVER.txt | 724 B | 22 | 2026-09-04 06:20 |
+| W_COVER.txt | 691 B | 22 | 2026-09-04 06:20 |
+| X_COVER.txt | 881 B | 25 | 2026-09-04 06:20 |
+| Y_COVER.txt | 774 B | 23 | 2026-09-04 06:20 |
+| Z_HOLLAND_BANKRUPTCIES.txt | 1.7 KB | 63 | 2026-09-04 06:20 |
+
+### 01-case/filing-ready/exhibits/PACKET_E_BANKS_LAWSUIT/ (31 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| A_PARENTAL_AUTHORIZATION.pdf | 2.1 MB | — | 2026-08-31 11:12 |
+| C1_SBAR_BRIAN_BANKS_ZERO_RESULTS.png | 36.9 KB | — | 2026-08-31 18:15 |
+| C2_SBAR_BANKS_RESULTS_PAGE1.png | 58.1 KB | — | 2026-08-31 18:15 |
+| C3_SBAR_BANKS_RESULTS_PAGE2.png | 52.6 KB | — | 2026-08-31 18:15 |
+| C_STATE_BAR_SEARCH_SUMMARY.md | 1.1 KB | 32 | 2026-09-04 06:20 |
+| D_ELRICK_FREEP_JULY2022.md | 3.3 KB | 103 | 2026-08-31 13:30 |
+| E_PCA_FOUNDER_PAGE.md | 1.7 KB | 57 | 2026-08-31 13:30 |
+| F_ELRICK_FREEP_AUG2023.md | 4.8 KB | 116 | 2026-09-04 06:20 |
+| G1_LARA_PURPOSE_GROUP_LLC.png | 112.0 KB | — | 2026-08-31 18:20 |
+| G2_LARA_BANKS_STRATEGY_LLC.png | 115.1 KB | — | 2026-08-31 18:20 |
+| G3_LARA_PURPOSE_FOUNDATION.png | 135.5 KB | — | 2026-08-31 18:20 |
+| G4_LARA_ALL_BANKS_ENTITIES.png | 101.5 KB | — | 2026-08-31 18:20 |
+| G_LARA_FILINGS_SUMMARY.md | 5.2 KB | 133 | 2026-09-04 06:20 |
+| H_BANKS_OSINT_BRIEF.md | 20.0 KB | 446 | 2026-09-04 06:20 |
+| H_BANKS_OSINT_BRIEF_V1_AUG30.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| I_UPL_RECEIPT_AUG31.pdf | 78.8 KB | — | 2026-08-31 12:20 |
+| JK_JTC_CERTIFIED_MAIL.pdf | 287.2 KB | — | 2026-08-31 12:19 |
+| JK_JTC_NOTARY.pdf | 967.1 KB | — | 2026-08-31 12:16 |
+| L_MDE_COMPLAINT.md | 4.7 KB | 127 | 2026-08-31 20:24 |
+| M_AG_REFERRAL.md | 3.9 KB | 103 | 2026-08-31 20:24 |
+| N_DPSCD_EMAIL_SENT.png | 62.1 KB | — | 2026-08-31 18:24 |
+| O1_PCA_ORIENTATION_ARRIVAL.jpeg | 1011.1 KB | — | 2026-08-30 04:43 |
+| O2_PCA_ORIENTATION_UNIFORM.jpeg | 1.1 MB | — | 2026-08-30 04:43 |
+| PRINT_ALL_IMAGE_EXHIBITS.pdf | 12.7 MB | — | 2026-09-01 07:31 |
+| PRINT_ALL_TEXT_EXHIBITS.md | 67.5 KB | 1761 | 2026-09-04 06:20 |
+| P_MACDOWELL_BOARD.md | 1.7 KB | 57 | 2026-08-31 13:30 |
+| Q_CHALKBEAT_SEPT2025.md | 2.7 KB | 74 | 2026-08-31 13:30 |
+| R_KEEPJUDGEMILLER.md | 1.3 KB | 42 | 2026-08-31 13:30 |
+| S1_BALLOTPEDIA_YANCEY.md | 1.1 KB | 41 | 2026-08-31 13:30 |
+| S2_BALLOTPEDIA_MILLER.md | 1.5 KB | 56 | 2026-08-31 13:30 |
+| build_banks_exhibits.py | 7.6 KB | 194 | 2026-09-04 06:20 |
+
+### 01-case/filing-ready/exhibits/PACKET_E_BANKS_LAWSUIT/B_linkedin/ (24 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5794.PNG | 414.3 KB | — | 2026-08-30 04:22 |
+| IMG_5795.PNG | 470.3 KB | — | 2026-08-30 04:22 |
+| IMG_5796.PNG | 440.0 KB | — | 2026-08-30 04:22 |
+| IMG_5797.PNG | 438.4 KB | — | 2026-08-30 04:22 |
+| IMG_5798.PNG | 374.4 KB | — | 2026-08-30 04:22 |
+| IMG_5799.PNG | 426.3 KB | — | 2026-08-30 04:22 |
+| IMG_5800.PNG | 628.4 KB | — | 2026-08-30 04:22 |
+| IMG_5801.PNG | 338.3 KB | — | 2026-08-30 04:22 |
+| IMG_5802.PNG | 330.1 KB | — | 2026-08-30 04:22 |
+| IMG_5803.PNG | 317.9 KB | — | 2026-08-30 04:22 |
+| IMG_5804.PNG | 337.4 KB | — | 2026-08-30 04:22 |
+| IMG_5805.PNG | 371.8 KB | — | 2026-08-30 04:22 |
+| IMG_5806.PNG | 357.9 KB | — | 2026-08-30 04:22 |
+| IMG_5807.PNG | 369.5 KB | — | 2026-08-30 04:22 |
+| IMG_5808.PNG | 349.3 KB | — | 2026-08-30 04:22 |
+| IMG_5809.PNG | 238.0 KB | — | 2026-08-30 04:22 |
+| IMG_5810.PNG | 155.9 KB | — | 2026-08-30 04:22 |
+| IMG_5811.PNG | 276.8 KB | — | 2026-08-30 04:22 |
+| IMG_5812.PNG | 205.8 KB | — | 2026-08-30 04:22 |
+| IMG_5813.PNG | 265.2 KB | — | 2026-08-30 04:22 |
+| IMG_5814.PNG | 83.1 KB | — | 2026-08-30 04:22 |
+| IMG_5815.PNG | 247.8 KB | — | 2026-08-30 04:22 |
+| IMG_5816.PNG | 265.5 KB | — | 2026-08-30 04:22 |
+| IMG_5817.PNG | 603.2 KB | — | 2026-08-30 04:22 |
+
+### 01-case/filing-ready/ppo_forms/ (7 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| CC375_domestic.pdf | 145.2 KB | — | 2026-09-03 08:54 |
+| CC376_stalking.pdf | 372.6 KB | — | 2026-09-03 08:54 |
+| CC377_stalking_PETITION.pdf | 125.8 KB | — | 2026-09-03 09:13 |
+| CC380_ppo_order_domestic.pdf | 303.4 KB | — | 2026-09-03 08:54 |
+| CC381_ppo_order_stalking.pdf | 350.9 KB | — | 2026-09-03 08:54 |
+| PPO_ATTACHMENT_ALL.txt | 8.2 KB | 188 | 2026-09-04 06:20 |
+| PPO_KEVIN_BANKS_ATTACHMENT.txt | 5.9 KB | 167 | 2026-09-04 06:20 |
+
+### 01-case/filing-ready/receipts/ (7 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5529.jpeg | 747.2 KB | — | 2026-07-10 08:36 |
+| IMG_5529.pdf | 281.0 KB | — | 2026-07-10 08:41 |
+| IMG_5530.jpeg | 772.6 KB | — | 2026-07-10 08:36 |
+| IMG_5530.pdf | 291.9 KB | — | 2026-07-10 08:41 |
+| usps_certified_mail_receipt.pdf | 34.7 KB | — | 2026-07-10 10:38 |
+| usps_tracking_attempted_delivery_jul13.png | 95.5 KB | — | 2026-07-13 18:10 |
+| usps_tracking_delivered_jul14.png | 45.4 KB | — | 2026-07-15 11:00 |
+
+### 01-case/filing-ready/scans/ (9 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| bluegateLease.pdf | 133.7 KB | — | 2026-07-09 17:29 |
+| childSupportIV-D.pdf | 64.7 KB | — | 2026-07-09 17:31 |
+| complaintResponse.pdf | 299.7 KB | — | 2026-07-09 17:33 |
+| dd214Mitchell.pdf | 194.1 KB | — | 2026-07-09 17:28 |
+| dsdt_enrollment_email.png | 42.7 KB | — | 2026-07-09 17:43 |
+| jurisdiictionAffidaviit.pdf | 74.4 KB | — | 2026-07-09 17:37 |
+| proofOfService.pdf | 16.9 KB | — | 2026-07-10 11:38 |
+| tempOrder.pdf | 116.2 KB | — | 2026-07-09 17:32 |
+| verifiedStatement.pdf | 73.5 KB | — | 2026-07-09 17:34 |
+
+### 01-case/filing-ready/served/ (1 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| servedAdmissions20260814.pdf | 114.2 KB | — | 2026-08-14 11:20 |
+
+### 01-case/filing-ready/subpoenas/ (23 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| MC11_FILL_GUIDE.txt | 5.7 KB | 176 | 2026-09-04 06:20 |
+| MC11_PREFILL_ALL.txt | 17.1 KB | 506 | 2026-09-04 06:56 |
+| SUBPOENA_01_SHAYLA_PHONE.txt | 3.1 KB | 91 | 2026-09-04 06:54 |
+| SUBPOENA_02_BANKS_PHONE.txt | 2.9 KB | 87 | 2026-09-04 06:20 |
+| SUBPOENA_03_LAKE_TRUST.txt | 3.4 KB | 97 | 2026-09-04 06:20 |
+| SUBPOENA_04_PCA_RECORDS.txt | 3.3 KB | 99 | 2026-09-04 06:20 |
+| SUBPOENA_05_LEON_PHONE.txt | 3.0 KB | 89 | 2026-09-04 06:54 |
+| SUBPOENA_06_PSCU.txt | 3.7 KB | 110 | 2026-09-04 06:34 |
+| SUBPOENA_07_USPS.txt | 5.5 KB | 150 | 2026-09-04 06:54 |
+| SUBPOENA_08_SIMONE_TRUSTEE.txt | 2.9 KB | 90 | 2026-09-04 06:55 |
+| SUBPOENA_09_DPSCD.txt | 3.4 KB | 103 | 2026-09-04 06:49 |
+| SUBPOENA_10_MDE.txt | 4.1 KB | 118 | 2026-09-04 06:49 |
+| SUBPOENA_11_PERKINS.txt | 3.5 KB | 105 | 2026-09-04 06:49 |
+| SUBPOENA_12_PERLMUTER.txt | 3.6 KB | 108 | 2026-09-04 06:50 |
+| SUBPOENA_13_ELLIS.txt | 3.6 KB | 107 | 2026-09-04 06:50 |
+| SUBPOENA_14_YANCEY_CAMPAIGN.txt | 3.6 KB | 108 | 2026-09-04 06:50 |
+| SUBPOENA_15_PSCU_YANCEY.txt | 3.3 KB | 102 | 2026-09-04 06:51 |
+| SUBPOENA_16_MACDOWELL.txt | 3.4 KB | 102 | 2026-09-04 06:51 |
+| SUBPOENA_17_WAYNE_CLERK.txt | 3.1 KB | 93 | 2026-09-04 06:51 |
+| SUBPOENA_18_CROWDER.txt | 3.7 KB | 106 | 2026-09-04 06:55 |
+| SUBPOENA_19_GUIDANCE_CENTER.txt | 3.0 KB | 93 | 2026-09-04 06:55 |
+| SUBPOENA_20_NHA.txt | 2.8 KB | 87 | 2026-09-04 06:55 |
+| SUBPOENA_BLITZ.txt | 8.7 KB | 237 | 2026-09-04 06:21 |
+
+### 01-case/nolan_clean_drop/ (6 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| BANKS_NETWORK_FINANCIAL_MAP.md | 8.0 KB | 190 | 2026-09-04 06:20 |
+| BANKS_OSINT_BRIEF.md | 20.0 KB | 446 | 2026-09-04 06:20 |
+| BANKS_ROD_BRIEF.md | 21.1 KB | 409 | 2026-09-04 06:20 |
+| COVER_LETTER_SEP4.txt | 5.3 KB | 145 | 2026-09-04 06:20 |
+| JUDGES_OSINT_BRIEF.md | 11.1 KB | 290 | 2026-09-04 06:20 |
+| JUDGES_ROD_BRIEF.md | 6.9 KB | 151 | 2026-09-03 19:15 |
+
+### 01-case/nuclear/ (1 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| CONSENT_FULL_SURRENDER.txt | 6.7 KB | 210 | 2026-08-17 13:23 |
+
+### 01-case/records/ (1 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| tempOrderResponse20260817.pdf | 153.3 KB | — | 2026-08-17 10:49 |
+
+### 01-case/shayla-response-aug14/ (7 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_counterresponse.pdf | 468.4 KB | — | 2026-08-14 16:49 |
+| 02_default_response.pdf | 78.8 KB | — | 2026-08-14 16:53 |
+| 03_temp_order_response.pdf | 102.7 KB | — | 2026-08-14 16:51 |
+| 04_school_docs.pdf | 449.7 KB | — | 2026-08-14 16:54 |
+| 05_girls_medical.pdf | 946.0 KB | — | 2026-08-14 16:55 |
+| 06_other_docs.pdf | 1021.6 KB | — | 2026-08-14 16:57 |
+| 07_exhibits.pdf | 933.5 KB | — | 2026-08-14 16:58 |
+
+### 01-case/shayla-response-aug14/exhibit_pages/ (48 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| shayla_exhibit_p01.png | 183.3 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p02.png | 146.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p03.png | 122.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p04.png | 17.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p05.png | 86.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p06.png | 86.0 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p07.png | 102.3 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p08.png | 84.3 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p09.png | 107.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p10.png | 75.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p11.png | 59.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p12.png | 79.2 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p13.png | 77.9 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p14.png | 55.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p15.png | 101.2 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p16.png | 93.5 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p17.png | 116.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p18.png | 130.4 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p19.png | 110.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p20.png | 108.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p21.png | 83.0 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p22.png | 120.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p23.png | 111.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p24.png | 110.9 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p25.png | 125.0 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p26.png | 107.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p27.png | 95.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p28.png | 105.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p29.png | 95.0 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p30.png | 131.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p31.png | 129.2 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p32.png | 90.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p33.png | 94.4 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p34.png | 68.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p35.png | 103.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p36.png | 92.0 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p37.png | 88.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p38.png | 87.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p39.png | 38.2 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p40.png | 121.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p41.png | 106.9 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p42.png | 113.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p43.png | 116.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p44.png | 124.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p45.png | 101.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p46.png | 103.4 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p47.png | 121.2 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p48.png | 124.4 KB | — | 2026-08-14 17:00 |
+
+### 01-case/shayla-response-aug14/pages/ (100 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_counterresponse_p01.png | 145.6 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p02.png | 162.1 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p03.png | 178.0 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p04.png | 174.4 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p05.png | 184.3 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p06.png | 179.5 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p07.png | 180.6 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p08.png | 197.1 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p09.png | 124.2 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p10.png | 223.7 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p11.png | 148.9 KB | — | 2026-08-14 17:02 |
+| 01_counterresponse_p12.png | 82.4 KB | — | 2026-08-14 17:02 |
+| 02_default_response_p01.png | 67.2 KB | — | 2026-08-14 17:02 |
+| 02_default_response_p02.png | 144.1 KB | — | 2026-08-14 17:02 |
+| 02_default_response_p03.png | 117.2 KB | — | 2026-08-14 17:02 |
+| 02_default_response_p04.png | 44.4 KB | — | 2026-08-14 17:02 |
+| 03_temp_order_response_p01.png | 98.7 KB | — | 2026-08-14 17:02 |
+| 03_temp_order_response_p02.png | 95.9 KB | — | 2026-08-14 17:02 |
+| 03_temp_order_response_p03.png | 116.2 KB | — | 2026-08-14 17:02 |
+| 03_temp_order_response_p04.png | 105.5 KB | — | 2026-08-14 17:02 |
+| 03_temp_order_response_p05.png | 60.6 KB | — | 2026-08-14 17:02 |
+| 03_temp_order_response_p06.png | 16.0 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p01.png | 40.1 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p02.png | 31.0 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p03.png | 76.9 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p04.png | 90.3 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p05.png | 106.6 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p06.png | 68.6 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p07.png | 112.9 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p08.png | 20.9 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p09.png | 95.3 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p10.png | 111.5 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p11.png | 106.4 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p12.png | 97.5 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p13.png | 99.3 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p14.png | 93.0 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p15.png | 63.5 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p16.png | 68.0 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p17.png | 52.9 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p18.png | 61.6 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p19.png | 73.6 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p20.png | 33.7 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p21.png | 54.8 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p22.png | 78.0 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p23.png | 27.2 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p24.png | 85.1 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p25.png | 28.1 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p26.png | 29.9 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p27.png | 37.5 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p28.png | 27.6 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p29.png | 79.4 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p30.png | 105.1 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p31.png | 36.1 KB | — | 2026-08-14 17:02 |
+| 04_school_docs_p32.png | 16.4 KB | — | 2026-08-14 17:02 |
+| 05_girls_medical_p01.png | 387.7 KB | — | 2026-08-14 17:02 |
+| 05_girls_medical_p02.png | 276.6 KB | — | 2026-08-14 17:02 |
+| 05_girls_medical_p03.png | 381.2 KB | — | 2026-08-14 17:02 |
+| 05_girls_medical_p04.png | 386.9 KB | — | 2026-08-14 17:02 |
+| 05_girls_medical_p05.png | 389.3 KB | — | 2026-08-14 17:02 |
+| 05_girls_medical_p06.png | 277.6 KB | — | 2026-08-14 17:02 |
+| 05_girls_medical_p07.png | 382.6 KB | — | 2026-08-14 17:02 |
+| 05_girls_medical_p08.png | 275.0 KB | — | 2026-08-14 17:02 |
+| 05_girls_medical_p09.png | 387.4 KB | — | 2026-08-14 17:02 |
+| 05_girls_medical_p10.png | 280.3 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p01.png | 109.6 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p02.png | 110.8 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p03.png | 108.7 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p04.png | 150.5 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p05.png | 117.4 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p06.png | 75.4 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p07.png | 146.2 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p08.png | 83.5 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p09.png | 105.4 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p10.png | 145.5 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p11.png | 112.8 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p12.png | 106.8 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p13.png | 146.7 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p14.png | 119.7 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p15.png | 103.9 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p16.png | 100.5 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p17.png | 117.2 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p18.png | 75.4 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p19.png | 144.2 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p20.png | 162.5 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p21.png | 176.8 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p22.png | 176.9 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p23.png | 142.9 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p24.png | 162.3 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p25.png | 175.4 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p26.png | 119.5 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p27.png | 144.2 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p28.png | 187.7 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p29.png | 140.3 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p30.png | 159.2 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p31.png | 175.0 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p32.png | 132.4 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p33.png | 153.7 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p34.png | 170.7 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p35.png | 135.8 KB | — | 2026-08-14 17:02 |
+| 06_other_docs_p36.png | 148.2 KB | — | 2026-08-14 17:02 |
+
+## 2. tools/osint/results/ (64 files)
+
+### tools/osint/results/ (9 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| ASSET_MAP_SEP2.md | 10.8 KB | 230 | 2026-09-04 06:20 |
+| ASSET_MAP_SEP2_V2.md | 22.8 KB | 489 | 2026-09-04 06:20 |
+| BANKS_DEEP_DIVE_SEP2_NOON.md | 8.3 KB | 233 | 2026-09-04 06:20 |
+| WAYNE_ROD_BANKS_SEP2.md | 21.2 KB | 409 | 2026-09-04 06:20 |
+| WAYNE_ROD_JUDGES_SEP2.md | 14.1 KB | 334 | 2026-09-04 06:20 |
+| WAYNE_ROD_SMITHS_SEP2.md | 12.9 KB | 229 | 2026-09-04 06:20 |
+| mde_cert_detail.png | 52.4 KB | — | 2026-09-02 07:01 |
+| mde_full_page.html | 18.0 KB | 272 | 2026-09-02 07:01 |
+| mde_search_results.png | 48.2 KB | — | 2026-09-02 07:01 |
+
+### tools/osint/results/MASTER/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| all_results.json | 269.5 KB | 8444 | 2026-09-02 06:59 |
+| all_results.md | 168.9 KB | 5539 | 2026-09-02 06:59 |
+
+### tools/osint/results/asset_address_sweep_20260902_073402/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 8.3 KB | 162 | 2026-09-02 07:34 |
+| results.md | 7.3 KB | 189 | 2026-09-02 07:34 |
+
+### tools/osint/results/asset_court_sweep_20260902_073235/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 74.7 KB | 2383 | 2026-09-02 07:32 |
+| results.md | 50.7 KB | 1834 | 2026-09-02 07:32 |
+
+### tools/osint/results/asset_property_sweep_20260902_073545/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 15.4 KB | 284 | 2026-09-02 07:35 |
+| results.md | 13.1 KB | 317 | 2026-09-02 07:35 |
+
+### tools/osint/results/banks_deep_20260902_061709/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 14.4 KB | 474 | 2026-09-02 06:17 |
+| results.md | 9.4 KB | 342 | 2026-09-02 06:17 |
+
+### tools/osint/results/banks_network_sweep_20260902_085403/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 60.0 KB | 1984 | 2026-09-02 08:54 |
+| results.md | 40.2 KB | 1464 | 2026-09-02 08:54 |
+
+### tools/osint/results/banks_test_20260902_060905/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 6.7 KB | 171 | 2026-09-02 06:09 |
+| results.md | 5.2 KB | 157 | 2026-09-02 06:09 |
+
+### tools/osint/results/browser_test_20260902_064253/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 3.7 KB | 79 | 2026-09-02 06:42 |
+| results.md | 3.2 KB | 110 | 2026-09-02 06:42 |
+
+### tools/osint/results/crowder_social/ (14 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5824.PNG | 323.8 KB | — | 2026-09-02 09:24 |
+| IMG_5825.PNG | 87.5 KB | — | 2026-09-02 09:24 |
+| IMG_5826.PNG | 504.4 KB | — | 2026-09-02 09:24 |
+| IMG_5827.PNG | 543.9 KB | — | 2026-09-02 09:24 |
+| IMG_5828.PNG | 338.2 KB | — | 2026-09-02 09:24 |
+| IMG_5829.PNG | 348.5 KB | — | 2026-09-02 09:24 |
+| IMG_5830.PNG | 251.2 KB | — | 2026-09-02 09:24 |
+| IMG_5831.PNG | 130.7 KB | — | 2026-09-02 09:24 |
+| IMG_5832.PNG | 544.2 KB | — | 2026-09-02 09:24 |
+| IMG_5833.PNG | 474.0 KB | — | 2026-09-02 09:24 |
+| IMG_5834.PNG | 495.8 KB | — | 2026-09-02 09:24 |
+| IMG_5835.PNG | 704.0 KB | — | 2026-09-02 09:24 |
+| IMG_5836.PNG | 499.9 KB | — | 2026-09-02 09:24 |
+| IMG_5837.PNG | 441.8 KB | — | 2026-09-02 09:24 |
+
+### tools/osint/results/crowder_sweep_20260902_090819/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 2.8 KB | 105 | 2026-09-02 09:08 |
+| results.md | 1.8 KB | 87 | 2026-09-02 09:08 |
+
+### tools/osint/results/deep_sweep_20260902_061803/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 93.9 KB | 2992 | 2026-09-02 06:18 |
+| results.md | 62.8 KB | 2235 | 2026-09-02 06:18 |
+
+### tools/osint/results/entity_sweep_20260902_061856/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 57.2 KB | 1770 | 2026-09-02 06:18 |
+| results.md | 39.9 KB | 1353 | 2026-09-02 06:18 |
+
+### tools/osint/results/full_sweep_20260902_061031/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 39.3 KB | 1277 | 2026-09-02 06:10 |
+| results.md | 27.1 KB | 1003 | 2026-09-02 06:10 |
+
+### tools/osint/results/full_sweep_20260902_064049/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 116.2 KB | 3794 | 2026-09-02 06:40 |
+| results.md | 77.8 KB | 2791 | 2026-09-02 06:40 |
+
+### tools/osint/results/full_sweep_entities_20260902_064128/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 115.0 KB | 3572 | 2026-09-02 06:41 |
+| results.md | 77.1 KB | 2166 | 2026-09-02 06:41 |
+
+### tools/osint/results/pacer/ (5 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| NAME_SWEEP_SEP3.md | 5.9 KB | 115 | 2026-09-04 06:20 |
+| PACER_PULL_GUIDE.md | 3.7 KB | 91 | 2026-09-04 07:02 |
+| SMITH_CL_SWEEP_SEP3.json | 379 B | 17 | 2026-09-03 07:06 |
+| SMITH_CL_SWEEP_SEP3.md | 2.6 KB | 107 | 2026-09-03 07:06 |
+| SMITH_DEEP_DIVE_SEP3.md | 12.9 KB | 237 | 2026-09-04 06:20 |
+
+### tools/osint/results/proxy_entity_test_20260902_065609/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 1.9 KB | 62 | 2026-09-02 06:56 |
+| results.md | 1.5 KB | 56 | 2026-09-02 06:56 |
+
+### tools/osint/results/proxy_sweep_20260902_065445/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 4.1 KB | 143 | 2026-09-02 06:54 |
+| results.md | 3.0 KB | 117 | 2026-09-02 06:54 |
+
+### tools/osint/results/proxy_test_20260902_065207/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 4.7 KB | 166 | 2026-09-02 06:52 |
+| results.md | 3.3 KB | 137 | 2026-09-02 06:52 |
+
+### tools/osint/results/smith_sisters_sweep_20260902_084713/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| results.json | 17.9 KB | 595 | 2026-09-02 08:47 |
+| results.md | 12.0 KB | 455 | 2026-09-02 08:47 |
+
+## 3. 02-evidence/ (915 files)
+
+### 02-evidence/ (1 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| EVIDENCE_INDEX.md | 12.5 KB | 300 | 2026-09-04 06:20 |
+
+### 02-evidence/banks-linkedin/ (24 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5794.PNG | 414.3 KB | — | 2026-08-30 04:22 |
+| IMG_5795.PNG | 470.3 KB | — | 2026-08-30 04:22 |
+| IMG_5796.PNG | 440.0 KB | — | 2026-08-30 04:22 |
+| IMG_5797.PNG | 438.4 KB | — | 2026-08-30 04:22 |
+| IMG_5798.PNG | 374.4 KB | — | 2026-08-30 04:22 |
+| IMG_5799.PNG | 426.3 KB | — | 2026-08-30 04:22 |
+| IMG_5800.PNG | 628.4 KB | — | 2026-08-30 04:22 |
+| IMG_5801.PNG | 338.3 KB | — | 2026-08-30 04:22 |
+| IMG_5802.PNG | 330.1 KB | — | 2026-08-30 04:22 |
+| IMG_5803.PNG | 317.9 KB | — | 2026-08-30 04:22 |
+| IMG_5804.PNG | 337.4 KB | — | 2026-08-30 04:22 |
+| IMG_5805.PNG | 371.8 KB | — | 2026-08-30 04:22 |
+| IMG_5806.PNG | 357.9 KB | — | 2026-08-30 04:22 |
+| IMG_5807.PNG | 369.5 KB | — | 2026-08-30 04:22 |
+| IMG_5808.PNG | 349.3 KB | — | 2026-08-30 04:22 |
+| IMG_5809.PNG | 238.0 KB | — | 2026-08-30 04:22 |
+| IMG_5810.PNG | 155.9 KB | — | 2026-08-30 04:22 |
+| IMG_5811.PNG | 276.8 KB | — | 2026-08-30 04:22 |
+| IMG_5812.PNG | 205.8 KB | — | 2026-08-30 04:22 |
+| IMG_5813.PNG | 265.2 KB | — | 2026-08-30 04:22 |
+| IMG_5814.PNG | 83.1 KB | — | 2026-08-30 04:22 |
+| IMG_5815.PNG | 247.8 KB | — | 2026-08-30 04:22 |
+| IMG_5816.PNG | 265.5 KB | — | 2026-08-30 04:22 |
+| IMG_5817.PNG | 603.2 KB | — | 2026-08-30 04:22 |
+
+### 02-evidence/case-docs/ (30 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_counterresponse_eavsdropping.pdf | 44.0 KB | — | 2026-08-27 05:27 |
+| 26-108221-DC_20260821_744202.pdf | 141.4 KB | — | 2026-08-27 20:44 |
+| BluegateLease_House 2.pdf | 100.8 KB | — | 2026-06-22 09:56 |
+| C0520-0492.pdf | 137.2 KB | — | 2026-08-30 19:46 |
+| DASEAN_PCA_AUTHORIZATION.pdf | 2.1 MB | — | 2026-08-31 11:12 |
+| ELRICK_EMAIL_THREAD_AUG31.png | 53.8 KB | — | 2026-08-31 11:11 |
+| ELRICK_MEETING_NOTES.md | 1.7 KB | 47 | 2026-09-04 06:20 |
+| FOC23_Verified_Statement.pdf | 174.2 KB | — | 2026-07-09 12:31 |
+| ICHAT_HOLLAND_P1_SEARCH.png | 129.4 KB | — | 2026-08-31 20:08 |
+| ICHAT_HOLLAND_P2_RECORD.png | 172.1 KB | — | 2026-08-31 20:08 |
+| ICHAT_HOLLAND_P3_CONT.png | 265.4 KB | — | 2026-08-31 20:08 |
+| ICHAT_JOSEPH_HOLLAND_JR.pdf | 305.2 KB | — | 2026-08-31 20:06 |
+| INGHAM_AMENDED_FILED_AUG31.pdf | 2.8 MB | — | 2026-08-31 16:18 |
+| INGHAM_SERVICE_NOTICE_AUG31.pdf | 264.4 KB | — | 2026-08-31 16:20 |
+| LLC file.pdf | 244.5 KB | — | 2025-05-28 19:36 |
+| MC01_BANKS_SUMMONS_FILLED.png | 178.3 KB | — | 2026-08-31 13:30 |
+| MC01_ORIGINAL_SUMMONS_SMITHS.png | 484.3 KB | — | 2026-08-31 12:33 |
+| MC302_PROOF_OF_MAILING_PREFILLED.png | 89.8 KB | — | 2026-08-31 16:43 |
+| MDOC_443789_JOSEPH_HOLLAND.png | 39.4 KB | — | 2026-08-31 19:56 |
+| MDOC_443789_JOSEPH_HOLLAND_FULL.png | 91.2 KB | — | 2026-08-31 20:00 |
+| MDOC_OTIS_SEARCH_ALL_HOLLANDS.png | 47.2 KB | — | 2026-08-31 19:54 |
+| UPL_FORM_FILLED_AUG31.png | 65.6 KB | — | 2026-08-31 11:33 |
+| birthapp.pdf | 234.6 KB | — | 2026-06-25 14:56 |
+| caseSummary.pdf | 139.0 KB | — | 2026-06-23 19:07 |
+| creditReport_6233574329.pdf | 153.0 KB | — | 2026-08-21 16:43 |
+| image0.jpeg | 86.0 KB | — | 2026-06-25 19:02 |
+| image1.jpeg | 154.7 KB | — | 2026-06-25 19:02 |
+| notarized_letter.doc | 218.0 KB | — | 2026-08-02 10:31 |
+| signing_official(1).doc | 218.0 KB | — | 2026-08-02 10:31 |
+| signing_official.doc | 218.0 KB | — | 2026-08-02 10:31 |
+
+### 02-evidence/court-filings/banks/ (4 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| PROCESS_SERVER_INSTRUCTIONS.md | 2.5 KB | 78 | 2026-09-04 06:20 |
+| SERVE_HOME_GPW_COMPLETE.pdf | 23.1 MB | — | 2026-09-01 09:44 |
+| SERVE_SCHOOL_PCA_COMPLETE.pdf | 6.0 MB | — | 2026-09-01 09:44 |
+| _build_serve_pdfs.py | 2.6 KB | 82 | 2026-09-04 06:20 |
+
+### 02-evidence/court-filings/banks/FILED_ORIGINALS/ (4 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| case2026-4349-CZ-commplaint20260901.pdf | 5.1 MB | — | 2026-09-01 09:20 |
+| case2026-4349-CZ-receipt20260901.pdf | 480.6 KB | — | 2026-09-01 09:24 |
+| case2026-4349-CZ-summonsBanksandPurpose20260901.pdf | 1.7 MB | — | 2026-09-01 09:24 |
+| case2026-4349-CZ-summonsPCA20260901.pdf | 900.2 KB | — | 2026-09-01 09:23 |
+
+### 02-evidence/court-filings/banks/SERVICE_HOME_GPW/ (9 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_SUMMONS_BANKS_AND_PURPOSE.pdf | 1.7 MB | — | 2026-09-01 09:24 |
+| 02_COMPLAINT.pdf | 5.1 MB | — | 2026-09-01 09:20 |
+| 03_IMAGE_EXHIBITS.pdf | 12.7 MB | — | 2026-09-01 07:31 |
+| 04_EXHIBIT_A_AUTHORIZATION.pdf | 2.1 MB | — | 2026-08-31 11:12 |
+| 05_EXHIBIT_I_UPL_RECEIPT.pdf | 78.8 KB | — | 2026-08-31 12:20 |
+| 06_EXHIBIT_JK_JTC_MAIL.pdf | 287.2 KB | — | 2026-08-31 12:19 |
+| 07_EXHIBIT_JK_JTC_NOTARY.pdf | 967.1 KB | — | 2026-08-31 12:16 |
+| 08_TEXT_EXHIBITS.md | 67.5 KB | 1761 | 2026-09-01 07:35 |
+| 08_TEXT_EXHIBITS.pdf | 53.2 KB | — | 2026-09-01 09:44 |
+
+### 02-evidence/court-filings/banks/SERVICE_SCHOOL_PCA/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_SUMMONS_PCA.pdf | 900.2 KB | — | 2026-09-01 09:23 |
+| 02_COMPLAINT.pdf | 5.1 MB | — | 2026-09-01 09:20 |
+
+### 02-evidence/court-filings/dasean/ (23 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| InghamServeFilled20260831.pdf | 321.0 KB | — | 2026-08-31 16:44 |
+| allPaid05.pdf | 19.9 KB | — | 2026-07-10 11:00 |
+| allPaidMotion.pdf | 20.5 KB | — | 2026-07-10 11:00 |
+| bluegateLease.pdf | 133.7 KB | — | 2026-07-09 17:29 |
+| childSupportIV-D.pdf | 64.7 KB | — | 2026-07-09 17:31 |
+| complaintResponse.pdf | 299.7 KB | — | 2026-07-09 17:33 |
+| dasean (1).pdf | 99.3 KB | — | 2026-06-22 09:35 |
+| dasean (2).pdf | 99.9 KB | — | 2026-06-22 09:47 |
+| dasean.pdf | 78.7 KB | — | 2026-06-18 12:33 |
+| dd214Mitchell.pdf | 194.1 KB | — | 2026-07-09 17:28 |
+| jurisdiictionAffidaviit.pdf | 74.4 KB | — | 2026-07-09 17:37 |
+| jurisdiictionAffidaviit0001.pdf | 8.7 KB | — | 2026-07-10 10:34 |
+| preservationRequests20260815.pdf | 211.5 KB | — | 2026-08-15 11:17 |
+| preservationRequestsServe20260815.pdf | 50.4 KB | — | 2026-08-15 11:18 |
+| preservationRequestsServeRecipts20260815.pdf | 141.0 KB | — | 2026-08-15 12:07 |
+| receipt.pdf | 34.7 KB | — | 2026-07-10 10:38 |
+| served.pdf | 16.9 KB | — | 2026-07-10 11:38 |
+| servedAdmissions20260814.pdf | 114.2 KB | — | 2026-08-14 11:20 |
+| servedDefault20260810.pdf | 113.0 KB | — | 2026-08-10 10:57 |
+| tempOrder.pdf | 116.2 KB | — | 2026-07-09 17:32 |
+| tempOrderResponse20260817.pdf | 153.3 KB | — | 2026-08-17 10:49 |
+| tempOrderResponseReciept20260817.pdf | 44.4 KB | — | 2026-08-17 11:27 |
+| verifiedStatement.pdf | 73.5 KB | — | 2026-07-09 17:34 |
+
+### 02-evidence/court-filings/shayla/ (55 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| shaylaCounterreponse.pdf | 468.4 KB | — | 2026-08-14 16:49 |
+| shaylaDefualtResponse.pdf | 78.8 KB | — | 2026-08-14 16:53 |
+| shaylaExhbits.pdf | 933.5 KB | — | 2026-08-14 16:58 |
+| shaylaGirlsMedical.pdf | 946.0 KB | — | 2026-08-14 16:55 |
+| shaylaOtherDocs.pdf | 1021.6 KB | — | 2026-08-14 16:57 |
+| shaylaSchoolDocs.pdf | 449.7 KB | — | 2026-08-14 16:54 |
+| shaylaTempOrder.pdf | 102.7 KB | — | 2026-08-14 16:51 |
+| shayla_exhibit_p01.png | 183.3 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p02.png | 146.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p03.png | 122.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p04.png | 17.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p05.png | 86.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p06.png | 86.0 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p07.png | 102.3 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p08.png | 84.3 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p09.png | 107.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p10.png | 75.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p11.png | 59.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p12.png | 79.2 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p13.png | 77.9 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p14.png | 55.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p15.png | 101.2 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p16.png | 93.5 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p17.png | 116.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p18.png | 130.4 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p19.png | 110.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p20.png | 108.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p21.png | 83.0 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p22.png | 120.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p23.png | 111.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p24.png | 110.9 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p25.png | 125.0 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p26.png | 107.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p27.png | 95.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p28.png | 105.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p29.png | 95.0 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p30.png | 131.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p31.png | 129.2 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p32.png | 90.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p33.png | 94.4 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p34.png | 68.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p35.png | 103.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p36.png | 92.0 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p37.png | 88.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p38.png | 87.6 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p39.png | 38.2 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p40.png | 121.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p41.png | 106.9 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p42.png | 113.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p43.png | 116.1 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p44.png | 124.8 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p45.png | 101.7 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p46.png | 103.4 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p47.png | 121.2 KB | — | 2026-08-14 17:00 |
+| shayla_exhibit_p48.png | 124.4 KB | — | 2026-08-14 17:00 |
+
+### 02-evidence/custody-docs/custody/ (8 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5393.jpeg | 116.6 KB | — | 2026-06-22 12:02 |
+| IMG_5394.jpeg | 107.0 KB | — | 2026-06-22 12:02 |
+| IMG_5395.jpeg | 91.1 KB | — | 2026-06-22 12:02 |
+| IMG_5396.jpeg | 152.5 KB | — | 2026-06-22 12:02 |
+| IMG_5397.jpeg | 121.4 KB | — | 2026-06-22 12:02 |
+| IMG_5398.jpeg | 93.2 KB | — | 2026-06-22 12:02 |
+| IMG_5399.jpeg | 66.8 KB | — | 2026-06-22 12:02 |
+| IMG_5400.jpeg | 116.9 KB | — | 2026-06-22 12:02 |
+
+### 02-evidence/custody-docs/custody623/ (8 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5407.jpeg | 117.6 KB | — | 2026-06-23 17:03 |
+| IMG_5408.jpeg | 252.1 KB | — | 2026-06-23 17:03 |
+| IMG_5409.jpeg | 185.9 KB | — | 2026-06-23 17:03 |
+| IMG_5410.jpeg | 188.1 KB | — | 2026-06-23 17:03 |
+| IMG_5412.jpeg | 198.2 KB | — | 2026-06-23 17:03 |
+| IMG_5413.jpeg | 157.8 KB | — | 2026-06-23 17:03 |
+| IMG_5415.jpeg | 181.8 KB | — | 2026-06-23 17:03 |
+| IMG_5418.PNG | 363.2 KB | — | 2026-06-23 17:03 |
+
+### 02-evidence/custody-docs/custodyposttext2/ (4 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5422.jpeg | 210.3 KB | — | 2026-06-23 18:28 |
+| IMG_5423.jpeg | 150.4 KB | — | 2026-06-23 18:28 |
+| IMG_5424.jpeg | 140.5 KB | — | 2026-06-23 18:28 |
+| IMG_5425.jpeg | 214.9 KB | — | 2026-06-23 18:28 |
+
+### 02-evidence/father-day-641/ (27 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5361.jpeg | 193.6 KB | — | 2026-06-22 10:00 |
+| IMG_5363.jpeg | 125.1 KB | — | 2026-06-22 10:00 |
+| IMG_5364.jpeg | 190.5 KB | — | 2026-06-22 10:00 |
+| IMG_5365.jpeg | 202.9 KB | — | 2026-06-22 10:00 |
+| IMG_5367.jpeg | 194.1 KB | — | 2026-06-22 10:00 |
+| IMG_5368.jpeg | 191.8 KB | — | 2026-06-22 10:00 |
+| IMG_5369.jpeg | 100.0 KB | — | 2026-06-22 10:00 |
+| IMG_5370.jpeg | 107.1 KB | — | 2026-06-22 10:00 |
+| IMG_5371.jpeg | 95.8 KB | — | 2026-06-22 10:00 |
+| IMG_5372.jpeg | 125.5 KB | — | 2026-06-22 10:00 |
+| IMG_5373.jpeg | 105.1 KB | — | 2026-06-22 10:00 |
+| IMG_5374.jpeg | 114.4 KB | — | 2026-06-22 10:00 |
+| IMG_5375.jpeg | 206.6 KB | — | 2026-06-22 10:00 |
+| IMG_5376.jpeg | 173.7 KB | — | 2026-06-22 10:00 |
+| IMG_5377.jpeg | 197.6 KB | — | 2026-06-22 10:00 |
+| IMG_5378.jpeg | 163.4 KB | — | 2026-06-22 10:00 |
+| IMG_5379.jpeg | 152.0 KB | — | 2026-06-22 10:00 |
+| IMG_5380.jpeg | 169.5 KB | — | 2026-06-22 10:00 |
+| IMG_5381.jpeg | 147.3 KB | — | 2026-06-22 10:00 |
+| IMG_5382.jpeg | 125.4 KB | — | 2026-06-22 10:00 |
+| IMG_5383.jpeg | 173.4 KB | — | 2026-06-22 10:00 |
+| IMG_5384.jpeg | 163.4 KB | — | 2026-06-22 10:00 |
+| IMG_5385.jpeg | 178.9 KB | — | 2026-06-22 10:00 |
+| IMG_5386.jpeg | 74.3 KB | — | 2026-06-22 10:00 |
+| IMG_5387.jpeg | 121.7 KB | — | 2026-06-22 10:00 |
+| IMG_5388.jpeg | 178.1 KB | — | 2026-06-22 10:00 |
+| IMG_5389.jpeg | 181.2 KB | — | 2026-06-22 10:00 |
+
+### 02-evidence/kendon/ (10 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5460.jpeg | 172.3 KB | — | 2026-06-26 21:54 |
+| IMG_5463.jpeg | 175.9 KB | — | 2026-06-26 21:54 |
+| IMG_5464.jpeg | 192.4 KB | — | 2026-06-26 21:54 |
+| IMG_5465.jpeg | 138.0 KB | — | 2026-06-26 21:54 |
+| IMG_5466.jpeg | 155.3 KB | — | 2026-06-26 21:54 |
+| IMG_5467.jpeg | 170.0 KB | — | 2026-06-26 21:54 |
+| IMG_5468.MOV | 17.1 MB | — | 2026-06-26 21:54 |
+| IMG_5469.jpeg | 152.9 KB | — | 2026-06-26 21:54 |
+| IMG_5470.jpeg | 156.3 KB | — | 2026-06-26 21:54 |
+| IMG_5472.jpeg | 146.8 KB | — | 2026-06-26 21:54 |
+
+### 02-evidence/mail-receipts/ (14 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| BF17973258-1.pdf | 275.0 KB | — | 2026-08-30 19:46 |
+| BF17973259-1.pdf | 169.9 KB | — | 2026-08-30 19:46 |
+| BF17973260-1.pdf | 169.9 KB | — | 2026-08-30 19:46 |
+| BF17973261-1.pdf | 274.9 KB | — | 2026-08-30 19:46 |
+| BF17973263-1.pdf | 275.0 KB | — | 2026-08-30 19:46 |
+| BF17973264-1.pdf | 87.8 KB | — | 2026-08-30 19:46 |
+| BF17973265-1.pdf | 274.9 KB | — | 2026-08-30 19:46 |
+| BF17973266-1.pdf | 275.0 KB | — | 2026-08-30 19:46 |
+| BF20725319-1.pdf | 276.4 KB | — | 2026-08-30 19:44 |
+| JTC_CERTIFIED_MAIL_AUG31.pdf | 287.2 KB | — | 2026-08-31 12:19 |
+| JTC_NOTARY_AUG31.pdf | 967.1 KB | — | 2026-08-31 12:16 |
+| UPL_DROPOFF_RECEIPT_AUG31.pdf | 78.8 KB | — | 2026-08-31 12:20 |
+| motionRecieptAug.pdf | 109.7 KB | — | 2026-08-10 09:22 |
+| motionRecieptAug10.pdf | 172.7 KB | — | 2026-08-10 11:10 |
+
+### 02-evidence/mail-receipts/aug31-filings/ (4 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5818.jpeg | 890.6 KB | — | 2026-08-31 17:57 |
+| IMG_5819.jpeg | 884.7 KB | — | 2026-08-31 17:57 |
+| IMG_5820.jpeg | 808.4 KB | — | 2026-08-31 17:57 |
+| IMG_5822.jpeg | 1.4 MB | — | 2026-08-31 17:57 |
+
+### 02-evidence/mail-receipts/receipts-batch/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5529.jpeg | 747.2 KB | — | 2026-07-10 08:36 |
+| IMG_5530.jpeg | 772.6 KB | — | 2026-07-10 08:36 |
+
+### 02-evidence/mailing-labels/ (6 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| Avery18163-ShippingLabels (1).pdf | 48.8 KB | — | 2026-08-27 18:58 |
+| Avery18163-ShippingLabels (2).pdf | 57.9 KB | — | 2026-08-27 18:58 |
+| Avery18163-ShippingLabels (3).pdf | 48.8 KB | — | 2026-08-27 18:58 |
+| Avery18163-ShippingLabels.pdf | 52.7 KB | — | 2026-08-27 18:58 |
+| Avery18262-AddressLabels (1).pdf | 52.8 KB | — | 2026-08-27 19:07 |
+| Avery18262-AddressLabels.pdf | 52.8 KB | — | 2026-08-27 19:04 |
+
+### 02-evidence/messenger/ (3 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| image0.png | 381.6 KB | — | 2026-06-26 17:02 |
+| image1.png | 458.2 KB | — | 2026-06-26 17:02 |
+| image2.png | 459.9 KB | — | 2026-06-26 17:02 |
+
+### 02-evidence/pca-orientation/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5792.jpeg | 1011.1 KB | — | 2026-08-30 04:43 |
+| IMG_5793.jpeg | 1.1 MB | — | 2026-08-30 04:43 |
+
+### 02-evidence/property-records/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| Property-Report-for-17370-Dresden-St-Detroit-MI-48205.pdf | 1.6 MB | — | 2026-06-22 15:28 |
+| eastpointeRecords.pdf | 364.0 KB | — | 2026-08-15 09:30 |
+
+### 02-evidence/ring_sep2/ (17 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| RING_VIDEO_ANALYSIS.md | 26.4 KB | 624 | 2026-09-04 06:20 |
+| ring_00m00s.png | 717.0 KB | — | 2026-09-03 09:45 |
+| ring_00m04s.png | 612.1 KB | — | 2026-09-03 09:45 |
+| ring_00m09s.png | 641.4 KB | — | 2026-09-03 09:45 |
+| ring_00m14s.png | 714.3 KB | — | 2026-09-03 09:45 |
+| ring_00m19s.png | 717.2 KB | — | 2026-09-03 09:45 |
+| ring_00m24s.png | 790.6 KB | — | 2026-09-03 09:45 |
+| ring_00m29s.png | 822.7 KB | — | 2026-09-03 09:45 |
+| ring_00m34s.png | 709.0 KB | — | 2026-09-03 09:45 |
+| ring_00m39s.png | 722.9 KB | — | 2026-09-03 09:45 |
+| ring_00m44s.png | 729.4 KB | — | 2026-09-03 09:45 |
+| ring_00m49s.png | 703.6 KB | — | 2026-09-03 09:45 |
+| ring_00m54s.png | 717.8 KB | — | 2026-09-03 09:45 |
+| ring_00m59s.png | 727.1 KB | — | 2026-09-03 09:45 |
+| ring_audio.wav | 1.8 MB | — | 2026-09-03 09:56 |
+| whisper_transcript.json | 6.2 KB | 274 | 2026-09-03 09:56 |
+| whisper_transcript_medium.json | 5.3 KB | 229 | 2026-09-03 09:58 |
+
+### 02-evidence/ring_sep2/dense_frames/ (61 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| ring_000s.png | 717.0 KB | — | 2026-09-03 09:56 |
+| ring_001s.png | 598.9 KB | — | 2026-09-03 09:56 |
+| ring_002s.png | 613.1 KB | — | 2026-09-03 09:56 |
+| ring_003s.png | 609.9 KB | — | 2026-09-03 09:56 |
+| ring_004s.png | 646.7 KB | — | 2026-09-03 09:56 |
+| ring_005s.png | 604.4 KB | — | 2026-09-03 09:56 |
+| ring_006s.png | 633.3 KB | — | 2026-09-03 09:56 |
+| ring_007s.png | 650.1 KB | — | 2026-09-03 09:56 |
+| ring_008s.png | 662.2 KB | — | 2026-09-03 09:56 |
+| ring_009s.png | 680.3 KB | — | 2026-09-03 09:56 |
+| ring_010s.png | 652.7 KB | — | 2026-09-03 09:56 |
+| ring_011s.png | 660.4 KB | — | 2026-09-03 09:56 |
+| ring_012s.png | 699.3 KB | — | 2026-09-03 09:56 |
+| ring_013s.png | 697.2 KB | — | 2026-09-03 09:56 |
+| ring_014s.png | 732.7 KB | — | 2026-09-03 09:56 |
+| ring_015s.png | 703.4 KB | — | 2026-09-03 09:56 |
+| ring_016s.png | 716.6 KB | — | 2026-09-03 09:56 |
+| ring_017s.png | 740.3 KB | — | 2026-09-03 09:56 |
+| ring_018s.png | 716.7 KB | — | 2026-09-03 09:56 |
+| ring_019s.png | 697.6 KB | — | 2026-09-03 09:56 |
+| ring_020s.png | 713.4 KB | — | 2026-09-03 09:56 |
+| ring_021s.png | 714.1 KB | — | 2026-09-03 09:56 |
+| ring_022s.png | 689.2 KB | — | 2026-09-03 09:56 |
+| ring_023s.png | 716.9 KB | — | 2026-09-03 09:56 |
+| ring_024s.png | 746.6 KB | — | 2026-09-03 09:56 |
+| ring_025s.png | 780.8 KB | — | 2026-09-03 09:56 |
+| ring_026s.png | 745.0 KB | — | 2026-09-03 09:56 |
+| ring_027s.png | 707.7 KB | — | 2026-09-03 09:56 |
+| ring_028s.png | 632.5 KB | — | 2026-09-03 09:56 |
+| ring_029s.png | 680.1 KB | — | 2026-09-03 09:56 |
+| ring_030s.png | 822.7 KB | — | 2026-09-03 09:56 |
+| ring_031s.png | 667.3 KB | — | 2026-09-03 09:56 |
+| ring_032s.png | 662.8 KB | — | 2026-09-03 09:56 |
+| ring_033s.png | 633.7 KB | — | 2026-09-03 09:56 |
+| ring_034s.png | 695.3 KB | — | 2026-09-03 09:56 |
+| ring_035s.png | 709.0 KB | — | 2026-09-03 09:56 |
+| ring_036s.png | 690.3 KB | — | 2026-09-03 09:56 |
+| ring_037s.png | 705.0 KB | — | 2026-09-03 09:56 |
+| ring_038s.png | 751.7 KB | — | 2026-09-03 09:56 |
+| ring_039s.png | 711.7 KB | — | 2026-09-03 09:56 |
+| ring_040s.png | 722.5 KB | — | 2026-09-03 09:56 |
+| ring_041s.png | 692.0 KB | — | 2026-09-03 09:56 |
+| ring_042s.png | 688.2 KB | — | 2026-09-03 09:56 |
+| ring_043s.png | 717.8 KB | — | 2026-09-03 09:56 |
+| ring_044s.png | 707.9 KB | — | 2026-09-03 09:56 |
+| ring_045s.png | 733.2 KB | — | 2026-09-03 09:56 |
+| ring_046s.png | 716.8 KB | — | 2026-09-03 09:56 |
+| ring_047s.png | 701.7 KB | — | 2026-09-03 09:56 |
+| ring_048s.png | 737.3 KB | — | 2026-09-03 09:56 |
+| ring_049s.png | 730.1 KB | — | 2026-09-03 09:56 |
+| ring_050s.png | 709.0 KB | — | 2026-09-03 09:56 |
+| ring_051s.png | 696.7 KB | — | 2026-09-03 09:56 |
+| ring_052s.png | 671.5 KB | — | 2026-09-03 09:56 |
+| ring_053s.png | 723.1 KB | — | 2026-09-03 09:56 |
+| ring_054s.png | 699.1 KB | — | 2026-09-03 09:56 |
+| ring_055s.png | 724.9 KB | — | 2026-09-03 09:56 |
+| ring_056s.png | 692.4 KB | — | 2026-09-03 09:56 |
+| ring_057s.png | 687.5 KB | — | 2026-09-03 09:56 |
+| ring_058s.png | 715.1 KB | — | 2026-09-03 09:56 |
+| ring_059s.png | 701.6 KB | — | 2026-09-03 09:56 |
+| ring_060s.png | 702.2 KB | — | 2026-09-03 09:56 |
+
+### 02-evidence/social-media/ (14 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5689.PNG | 1.4 MB | — | 2026-08-18 20:44 |
+| IMG_5690.PNG | 1.7 MB | — | 2026-08-18 20:44 |
+| IMG_5691.PNG | 1.7 MB | — | 2026-08-18 20:44 |
+| IMG_5692.PNG | 141.5 KB | — | 2026-08-18 20:44 |
+| IMG_5693.PNG | 862.4 KB | — | 2026-08-18 20:44 |
+| IMG_5694.PNG | 1.6 MB | — | 2026-08-18 20:44 |
+| IMG_5695.PNG | 2.2 MB | — | 2026-08-18 20:44 |
+| IMG_5696.PNG | 3.0 MB | — | 2026-08-18 20:44 |
+| IMG_5697.PNG | 2.3 MB | — | 2026-08-18 20:44 |
+| IMG_5698.PNG | 1.0 MB | — | 2026-08-18 20:44 |
+| IMG_5699.PNG | 132.3 KB | — | 2026-08-18 20:44 |
+| IMG_5700.PNG | 537.0 KB | — | 2026-08-18 20:44 |
+| IMG_5701.PNG | 1.7 MB | — | 2026-08-18 20:44 |
+| IMG_5702.PNG | 442.9 KB | — | 2026-08-18 20:44 |
+
+### 02-evidence/social-media/lansingpride/ (14 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5475.jpeg | 190.6 KB | — | 2026-06-28 09:26 |
+| IMG_5478.jpeg | 195.3 KB | — | 2026-06-28 09:26 |
+| IMG_5479.jpeg | 195.9 KB | — | 2026-06-28 09:26 |
+| IMG_5480.jpeg | 178.2 KB | — | 2026-06-28 09:26 |
+| IMG_5482.jpeg | 85.9 KB | — | 2026-06-28 09:26 |
+| IMG_5483.jpeg | 138.7 KB | — | 2026-06-28 09:26 |
+| IMG_5484.PNG | 660.7 KB | — | 2026-06-28 09:26 |
+| IMG_5485.PNG | 417.0 KB | — | 2026-06-28 09:26 |
+| IMG_5488.jpeg | 103.2 KB | — | 2026-06-28 09:26 |
+| IMG_5489.jpeg | 101.4 KB | — | 2026-06-28 09:26 |
+| IMG_5490.jpeg | 105.5 KB | — | 2026-06-28 09:26 |
+| IMG_5493.jpeg | 133.8 KB | — | 2026-06-28 09:26 |
+| IMG_5494.jpeg | 134.3 KB | — | 2026-06-28 09:26 |
+| IMG_5495.jpeg | 150.4 KB | — | 2026-06-28 09:26 |
+
+### 02-evidence/text-screenshots/ (170 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 80529942839__60FC7511-2D21-437F-B68D-710AC5484EC0.jpeg | 116.2 KB | — | 2026-07-09 10:21 |
+| IMG_5397.jpeg | 3.5 MB | — | 2026-08-28 09:38 |
+| IMG_5398.jpeg | 3.0 MB | — | 2026-08-28 09:38 |
+| IMG_5549.png | 13.1 MB | — | 2026-08-18 08:58 |
+| IMG_5550.png | 9.3 MB | — | 2026-08-18 08:59 |
+| IMG_5551.png | 8.7 MB | — | 2026-08-18 08:59 |
+| IMG_5552.png | 10.9 MB | — | 2026-08-18 08:59 |
+| IMG_5553.png | 10.4 MB | — | 2026-08-18 08:59 |
+| IMG_5554.png | 11.6 MB | — | 2026-08-18 08:59 |
+| IMG_5555.png | 10.5 MB | — | 2026-08-18 08:59 |
+| IMG_5556.png | 11.5 MB | — | 2026-08-18 08:59 |
+| IMG_5557.png | 9.6 MB | — | 2026-08-18 08:59 |
+| IMG_5558.png | 9.9 MB | — | 2026-08-18 08:59 |
+| IMG_5559.png | 12.8 MB | — | 2026-08-18 08:59 |
+| IMG_5560.png | 7.2 MB | — | 2026-08-18 08:59 |
+| IMG_5561.png | 9.9 MB | — | 2026-08-18 08:59 |
+| IMG_5562.png | 9.4 MB | — | 2026-08-18 08:59 |
+| IMG_5563.png | 9.3 MB | — | 2026-08-18 08:59 |
+| IMG_5564.PNG | 946.3 KB | — | 2026-08-04 17:12 |
+| IMG_5565.PNG | 1.7 MB | — | 2026-08-04 17:15 |
+| IMG_5566.PNG | 703.9 KB | — | 2026-08-05 20:52 |
+| IMG_5567.PNG | 3.8 MB | — | 2026-08-05 20:52 |
+| IMG_5568.png | 11.8 MB | — | 2026-08-18 08:59 |
+| IMG_5569.PNG | 205.9 KB | — | 2026-08-07 13:26 |
+| IMG_5570.png | 9.8 MB | — | 2026-08-18 08:59 |
+| IMG_5571.png | 9.5 MB | — | 2026-08-18 08:59 |
+| IMG_5572.png | 13.7 MB | — | 2026-08-18 08:59 |
+| IMG_5573.png | 10.7 MB | — | 2026-08-18 08:59 |
+| IMG_5574.png | 11.8 MB | — | 2026-08-18 08:59 |
+| IMG_5575.png | 11.3 MB | — | 2026-08-18 08:59 |
+| IMG_5576.png | 11.8 MB | — | 2026-08-18 08:59 |
+| IMG_5577.png | 12.6 MB | — | 2026-08-18 08:59 |
+| IMG_5578.png | 11.6 MB | — | 2026-08-18 08:59 |
+| IMG_5579.png | 11.7 MB | — | 2026-08-18 09:00 |
+| IMG_5580.png | 12.9 MB | — | 2026-08-18 09:00 |
+| IMG_5581.PNG | 762.5 KB | — | 2026-08-11 22:32 |
+| IMG_5582.PNG | 450.2 KB | — | 2026-08-12 10:48 |
+| IMG_5583.png | 20.8 MB | — | 2026-08-18 09:00 |
+| IMG_5584.PNG | 278.1 KB | — | 2026-08-12 10:48 |
+| IMG_5585.png | 10.5 MB | — | 2026-08-18 09:00 |
+| IMG_5586.PNG | 339.1 KB | — | 2026-08-12 15:12 |
+| IMG_5587.PNG | 355.3 KB | — | 2026-08-12 15:12 |
+| IMG_5588.png | 14.6 MB | — | 2026-08-18 09:00 |
+| IMG_5589.PNG | 401.8 KB | — | 2026-08-12 15:21 |
+| IMG_5590.PNG | 408.7 KB | — | 2026-08-12 15:25 |
+| IMG_5591.PNG | 391.2 KB | — | 2026-08-13 07:06 |
+| IMG_5592.png | 9.7 MB | — | 2026-08-18 09:00 |
+| IMG_5593.png | 11.6 MB | — | 2026-08-18 09:00 |
+| IMG_5594.png | 11.2 MB | — | 2026-08-18 09:00 |
+| IMG_5595.PNG | 1.2 MB | — | 2026-08-13 23:28 |
+| IMG_5596.png | 13.5 MB | — | 2026-08-18 09:00 |
+| IMG_5597.jpeg | 144.3 KB | — | 2026-08-14 11:48 |
+| IMG_5597.png | 13.5 MB | — | 2026-08-18 09:00 |
+| IMG_5598.png | 12.4 MB | — | 2026-08-18 09:00 |
+| IMG_5599.png | 11.8 MB | — | 2026-08-18 09:00 |
+| IMG_5600.png | 11.7 MB | — | 2026-08-18 09:00 |
+| IMG_5601.png | 13.9 MB | — | 2026-08-18 09:00 |
+| IMG_5602.png | 10.2 MB | — | 2026-08-18 09:00 |
+| IMG_5603.png | 9.1 MB | — | 2026-08-18 09:00 |
+| IMG_5604.png | 14.3 MB | — | 2026-08-18 09:00 |
+| IMG_5605.PNG | 801.6 KB | — | 2026-08-17 09:27 |
+| IMG_5606.PNG | 560.3 KB | — | 2026-08-17 17:24 |
+| IMG_5607.PNG | 824.3 KB | — | 2026-08-18 08:10 |
+| IMG_5608.PNG | 800.0 KB | — | 2026-08-18 08:11 |
+| IMG_5609.PNG | 690.8 KB | — | 2026-08-18 08:11 |
+| IMG_5610.PNG | 745.3 KB | — | 2026-08-18 08:11 |
+| IMG_5611.PNG | 688.7 KB | — | 2026-08-18 08:12 |
+| IMG_5612.PNG | 709.6 KB | — | 2026-08-18 08:12 |
+| IMG_5613.PNG | 645.5 KB | — | 2026-08-18 08:12 |
+| IMG_5614.PNG | 692.1 KB | — | 2026-08-18 08:12 |
+| IMG_5615.PNG | 747.5 KB | — | 2026-08-18 08:12 |
+| IMG_5616.PNG | 737.9 KB | — | 2026-08-18 08:12 |
+| IMG_5617.PNG | 737.4 KB | — | 2026-08-18 08:12 |
+| IMG_5618.PNG | 812.2 KB | — | 2026-08-18 08:12 |
+| IMG_5619.PNG | 880.7 KB | — | 2026-08-18 08:12 |
+| IMG_5620.PNG | 933.0 KB | — | 2026-08-18 08:12 |
+| IMG_5621.PNG | 832.0 KB | — | 2026-08-18 08:12 |
+| IMG_5622.PNG | 899.3 KB | — | 2026-08-18 08:12 |
+| IMG_5623.PNG | 734.0 KB | — | 2026-08-18 08:12 |
+| IMG_5624.PNG | 844.3 KB | — | 2026-08-18 08:12 |
+| IMG_5625.PNG | 831.7 KB | — | 2026-08-18 08:12 |
+| IMG_5626.PNG | 779.4 KB | — | 2026-08-18 08:13 |
+| IMG_5627.PNG | 744.4 KB | — | 2026-08-18 08:13 |
+| IMG_5628.PNG | 631.7 KB | — | 2026-08-18 08:13 |
+| IMG_5629.PNG | 736.5 KB | — | 2026-08-18 08:13 |
+| IMG_5630.PNG | 740.0 KB | — | 2026-08-18 08:13 |
+| IMG_5631.PNG | 854.3 KB | — | 2026-08-18 08:13 |
+| IMG_5632.PNG | 939.6 KB | — | 2026-08-18 08:13 |
+| IMG_5633.PNG | 638.7 KB | — | 2026-08-18 08:13 |
+| IMG_5634.PNG | 756.8 KB | — | 2026-08-18 08:13 |
+| IMG_5635.PNG | 771.1 KB | — | 2026-08-18 08:13 |
+| IMG_5636.PNG | 918.5 KB | — | 2026-08-18 08:13 |
+| IMG_5637.PNG | 833.4 KB | — | 2026-08-18 08:13 |
+| IMG_5638.PNG | 878.3 KB | — | 2026-08-18 08:13 |
+| IMG_5639.PNG | 867.5 KB | — | 2026-08-18 08:13 |
+| IMG_5640.PNG | 1.3 MB | — | 2026-08-18 08:13 |
+| IMG_5641.PNG | 4.0 MB | — | 2026-08-18 08:13 |
+| IMG_5642.PNG | 4.3 MB | — | 2026-08-18 08:14 |
+| IMG_5643.PNG | 4.6 MB | — | 2026-08-18 08:14 |
+| IMG_5644.PNG | 4.9 MB | — | 2026-08-18 08:14 |
+| IMG_5645.PNG | 4.8 MB | — | 2026-08-18 08:14 |
+| IMG_5646.PNG | 4.9 MB | — | 2026-08-18 08:14 |
+| IMG_5647.PNG | 5.9 MB | — | 2026-08-18 08:14 |
+| IMG_5648.PNG | 4.4 MB | — | 2026-08-18 08:14 |
+| IMG_5649.PNG | 1.0 MB | — | 2026-08-18 08:14 |
+| IMG_5650.PNG | 3.2 MB | — | 2026-08-18 08:14 |
+| IMG_5651.PNG | 1.2 MB | — | 2026-08-18 08:14 |
+| IMG_5652.PNG | 1.2 MB | — | 2026-08-18 08:14 |
+| IMG_5653.PNG | 814.5 KB | — | 2026-08-18 08:14 |
+| IMG_5654.PNG | 995.5 KB | — | 2026-08-18 08:14 |
+| IMG_5655.PNG | 897.5 KB | — | 2026-08-18 08:15 |
+| IMG_5656.PNG | 841.5 KB | — | 2026-08-18 08:15 |
+| IMG_5657.PNG | 940.5 KB | — | 2026-08-18 08:15 |
+| IMG_5658.PNG | 897.4 KB | — | 2026-08-18 08:15 |
+| IMG_5659.PNG | 1.6 MB | — | 2026-08-18 08:15 |
+| IMG_5660.PNG | 1.2 MB | — | 2026-08-18 08:15 |
+| IMG_5661.PNG | 2.2 MB | — | 2026-08-18 08:15 |
+| IMG_5662.PNG | 4.7 MB | — | 2026-08-18 08:16 |
+| IMG_5663.PNG | 3.2 MB | — | 2026-08-18 08:16 |
+| IMG_5664.PNG | 838.1 KB | — | 2026-08-18 08:16 |
+| IMG_5665.PNG | 915.6 KB | — | 2026-08-18 08:16 |
+| IMG_5666.PNG | 3.2 MB | — | 2026-08-18 08:16 |
+| IMG_5667.PNG | 953.9 KB | — | 2026-08-18 08:16 |
+| IMG_5668.PNG | 1.4 MB | — | 2026-08-18 08:16 |
+| IMG_5669.PNG | 3.0 MB | — | 2026-08-18 08:16 |
+| IMG_5670.PNG | 2.3 MB | — | 2026-08-18 08:16 |
+| IMG_5671.PNG | 974.0 KB | — | 2026-08-18 08:16 |
+| IMG_5672.PNG | 2.5 MB | — | 2026-08-18 08:16 |
+| IMG_5673.PNG | 2.0 MB | — | 2026-08-18 08:16 |
+| IMG_5674.PNG | 712.5 KB | — | 2026-08-18 08:16 |
+| IMG_5675.PNG | 659.5 KB | — | 2026-08-18 08:16 |
+| IMG_5676.PNG | 776.8 KB | — | 2026-08-18 08:16 |
+| IMG_5677.PNG | 846.1 KB | — | 2026-08-18 08:16 |
+| IMG_5678.PNG | 830.4 KB | — | 2026-08-18 08:17 |
+| IMG_5679.PNG | 904.3 KB | — | 2026-08-18 08:17 |
+| IMG_5680.PNG | 967.0 KB | — | 2026-08-18 08:17 |
+| IMG_5681.PNG | 1.2 MB | — | 2026-08-18 08:17 |
+| IMG_5682.PNG | 1.2 MB | — | 2026-08-18 08:17 |
+| IMG_5683.PNG | 1.0 MB | — | 2026-08-18 08:17 |
+| IMG_5684.PNG | 719.9 KB | — | 2026-08-18 08:17 |
+| IMG_5685.PNG | 751.0 KB | — | 2026-08-18 08:17 |
+| IMG_5686.PNG | 779.4 KB | — | 2026-08-18 08:17 |
+| IMG_5687.PNG | 788.1 KB | — | 2026-08-18 08:17 |
+| IMG_5688.PNG | 729.3 KB | — | 2026-08-18 08:17 |
+| IMG_5705.jpg | 95.0 KB | — | 2026-08-19 22:57 |
+| IMG_5751.jpeg | 1.1 MB | — | 2026-08-26 04:36 |
+| IMG_5753.jpeg | 1.1 MB | — | 2026-08-26 04:36 |
+| IMG_5754.jpeg | 1.2 MB | — | 2026-08-26 04:36 |
+| IMG_5755.PNG | 718.2 KB | — | 2026-08-26 04:36 |
+| IMG_5756.PNG | 1.6 MB | — | 2026-08-26 04:36 |
+| IMG_5757.PNG | 1.1 MB | — | 2026-08-26 04:36 |
+| IMG_5758.PNG | 1.4 MB | — | 2026-08-26 04:36 |
+| IMG_5759.PNG | 1.2 MB | — | 2026-08-26 04:36 |
+| IMG_5760.PNG | 1.3 MB | — | 2026-08-26 04:36 |
+| IMG_5761.PNG | 1.6 MB | — | 2026-08-26 04:36 |
+| IMG_5762.PNG | 2.0 MB | — | 2026-08-26 04:36 |
+| IMG_5763.PNG | 1.9 MB | — | 2026-08-26 04:36 |
+| IMG_5764.PNG | 1.7 MB | — | 2026-08-26 04:36 |
+| IMG_5765.PNG | 1.3 MB | — | 2026-08-26 04:36 |
+| IMG_5766.PNG | 1.6 MB | — | 2026-08-26 04:36 |
+| IMG_5767.PNG | 1.3 MB | — | 2026-08-26 04:36 |
+| IMG_5768.PNG | 1.3 MB | — | 2026-08-26 04:36 |
+| IMG_5769.PNG | 1004.4 KB | — | 2026-08-26 04:36 |
+| IMG_E5597.png | 1.5 MB | — | 2026-08-18 09:00 |
+| image0 (1).png | 428.0 KB | — | 2026-06-25 07:15 |
+| image0 (2).png | 337.7 KB | — | 2026-06-25 11:14 |
+| image0 (3).png | 491.0 KB | — | 2026-06-26 06:56 |
+| image0 (4).png | 426.9 KB | — | 2026-06-26 09:29 |
+| image0.jpeg | 131.1 KB | — | 2026-06-25 18:17 |
+| image0.png | 1.2 MB | — | 2026-06-24 07:17 |
+
+### 02-evidence/text-screenshots/thurs/ (4 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5442.jpeg | 124.3 KB | — | 2026-06-25 17:53 |
+| IMG_5443.jpeg | 84.1 KB | — | 2026-06-25 17:53 |
+| IMG_5444.jpeg | 201.8 KB | — | 2026-06-25 17:53 |
+| IMG_5445.jpeg | 153.9 KB | — | 2026-06-25 17:53 |
+
+### 02-evidence/text-screenshots/wednes/ (2 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5431.jpeg | 151.0 KB | — | 2026-06-24 18:27 |
+| IMG_5432.PNG | 377.1 KB | — | 2026-06-24 18:27 |
+
+### 02-evidence/wayne-rod-sep2/batch1/ (14 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 18599315_245242124_docimage_actual.pdf | 29.0 KB | — | 2026-09-02 16:56 |
+| 18599315_245564311_docimage_actual.pdf | 25.4 KB | — | 2026-09-02 16:56 |
+| 18599315_245688365_docimage_actual.pdf | 21.1 KB | — | 2026-09-02 16:56 |
+| 18599315_245713745_docimage_actual.pdf | 20.3 KB | — | 2026-09-02 16:56 |
+| 18599315_245749076_docimage_actual.pdf | 407.5 KB | — | 2026-09-02 16:56 |
+| 18599315_246956512_docimage_actual.pdf | 29.6 KB | — | 2026-09-02 16:56 |
+| 18599315_252236876_docimage_actual.pdf | 37.3 KB | — | 2026-09-02 16:56 |
+| 18599315_252319452_docimage_actual.pdf | 36.2 KB | — | 2026-09-02 16:56 |
+| 18599315_253965168_docimage_actual.pdf | 1.3 MB | — | 2026-09-02 16:56 |
+| 18599315_254586298_docimage_actual.pdf | 55.3 KB | — | 2026-09-02 16:56 |
+| 18599315_256075472_docimage_actual.pdf | 77.8 KB | — | 2026-09-02 16:56 |
+| 18599315_268838451_docimage_actual.pdf | 89.6 KB | — | 2026-09-02 16:56 |
+| 18599315_268838455_docimage_actual.pdf | 476.4 KB | — | 2026-09-02 16:56 |
+| 18599315_270405267_docimage_actual.pdf | 43.8 KB | — | 2026-09-02 16:56 |
+
+### 02-evidence/wayne-rod-sep2/batch2/ (19 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 18599425_247152694_docimage_actual.pdf | 33.8 KB | — | 2026-09-02 16:59 |
+| 18599425_247204344_docimage_actual.pdf | 34.2 KB | — | 2026-09-02 16:59 |
+| 18599425_247683350_docimage_actual.pdf | 32.5 KB | — | 2026-09-02 16:59 |
+| 18599425_248801446_docimage_actual.pdf | 34.7 KB | — | 2026-09-02 16:59 |
+| 18599425_249631255_docimage_actual.pdf | 32.7 KB | — | 2026-09-02 16:59 |
+| 18599425_249910923_docimage_actual.pdf | 32.8 KB | — | 2026-09-02 16:59 |
+| 18599425_251301873_docimage_actual.pdf | 47.0 KB | — | 2026-09-02 16:59 |
+| 18599425_251301876_docimage_actual.pdf | 47.3 KB | — | 2026-09-02 16:59 |
+| 18599425_251545359_docimage_actual.pdf | 58.1 KB | — | 2026-09-02 16:59 |
+| 18599425_251574661_docimage_actual.pdf | 99.0 KB | — | 2026-09-02 16:59 |
+| 18599425_256620431_docimage_actual.pdf | 84.2 KB | — | 2026-09-02 16:59 |
+| 18599425_257842169_docimage_actual.pdf | 153.1 KB | — | 2026-09-02 16:59 |
+| 18599425_258584824_docimage_actual.pdf | 61.6 KB | — | 2026-09-02 16:59 |
+| 18599425_258588897_docimage_actual.pdf | 72.5 KB | — | 2026-09-02 16:59 |
+| 18599425_259288580_docimage_actual.pdf | 23.4 KB | — | 2026-09-02 16:59 |
+| 18599425_259323793_docimage_actual.pdf | 70.4 KB | — | 2026-09-02 16:59 |
+| 18599425_259436173_docimage_actual.pdf | 74.4 KB | — | 2026-09-02 16:59 |
+| 18599425_261325731_docimage_actual.pdf | 42.5 KB | — | 2026-09-02 16:59 |
+| 18599425_264805359_docimage_actual.pdf | 162.9 KB | — | 2026-09-02 16:59 |
+
+### 02-evidence/wayne-rod-sep2/batch3/ (36 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 18599637_245593770_docimage_actual.pdf | 54.4 KB | — | 2026-09-02 17:07 |
+| 18599637_245975928_docimage_actual.pdf | 421.8 KB | — | 2026-09-02 17:07 |
+| 18599637_246105964_docimage_actual.pdf | 88.5 KB | — | 2026-09-02 17:07 |
+| 18599637_246926353_docimage_actual.pdf | 43.7 KB | — | 2026-09-02 17:07 |
+| 18599637_247141368_docimage_actual.pdf | 33.9 KB | — | 2026-09-02 17:07 |
+| 18599637_247373407_docimage_actual.pdf | 34.4 KB | — | 2026-09-02 17:07 |
+| 18599637_247646334_docimage_actual.pdf | 32.2 KB | — | 2026-09-02 17:07 |
+| 18599637_249299859_docimage_actual.pdf | 34.2 KB | — | 2026-09-02 17:07 |
+| 18599637_250199290_docimage_actual.pdf | 112.7 KB | — | 2026-09-02 17:07 |
+| 18599637_250366984_docimage_actual.pdf | 40.5 KB | — | 2026-09-02 17:07 |
+| 18599637_250661590_docimage_actual.pdf | 40.7 KB | — | 2026-09-02 17:07 |
+| 18599637_250796986_docimage_actual.pdf | 32.5 KB | — | 2026-09-02 17:07 |
+| 18599637_252599963_docimage_actual.pdf | 1.2 MB | — | 2026-09-02 17:07 |
+| 18599637_252635186_docimage_actual.pdf | 2.2 MB | — | 2026-09-02 17:07 |
+| 18599637_252697611_docimage_actual.pdf | 43.9 KB | — | 2026-09-02 17:07 |
+| 18599637_252726704_docimage_actual.pdf | 47.0 KB | — | 2026-09-02 17:07 |
+| 18599637_252766275_docimage_actual.pdf | 61.0 KB | — | 2026-09-02 17:07 |
+| 18599637_252795071_docimage_actual.pdf | 40.8 KB | — | 2026-09-02 17:07 |
+| 18599637_252994324_docimage_actual.pdf | 675.9 KB | — | 2026-09-02 17:07 |
+| 18599637_253276922_docimage_actual.pdf | 763.7 KB | — | 2026-09-02 17:07 |
+| 18599637_255186887_docimage_actual.pdf | 24.1 KB | — | 2026-09-02 17:07 |
+| 18599637_255637516_docimage_actual.pdf | 332.1 KB | — | 2026-09-02 17:07 |
+| 18599637_255645710_docimage_actual.pdf | 363.8 KB | — | 2026-09-02 17:07 |
+| 18599637_256203084_docimage_actual.pdf | 66.6 KB | — | 2026-09-02 17:07 |
+| 18599637_256218990_docimage_actual.pdf | 44.4 KB | — | 2026-09-02 17:07 |
+| 18599637_256218993_docimage_actual.pdf | 44.1 KB | — | 2026-09-02 17:07 |
+| 18599637_256219035_docimage_actual.pdf | 48.3 KB | — | 2026-09-02 17:07 |
+| 18599637_256233540_docimage_actual.pdf | 30.1 KB | — | 2026-09-02 17:07 |
+| 18599637_256324248_docimage_actual.pdf | 51.1 KB | — | 2026-09-02 17:07 |
+| 18599637_256346455_docimage_actual.pdf | 31.3 KB | — | 2026-09-02 17:07 |
+| 18599637_256538609_docimage_actual.pdf | 48.4 KB | — | 2026-09-02 17:07 |
+| 18599637_261180236_docimage_actual.pdf | 98.8 KB | — | 2026-09-02 17:07 |
+| 18599637_261629731_docimage_actual.pdf | 35.4 KB | — | 2026-09-02 17:07 |
+| 18599637_261738176_docimage_actual.pdf | 29.6 KB | — | 2026-09-02 17:07 |
+| 18599637_266181915_docimage_actual.pdf | 69.8 KB | — | 2026-09-02 17:07 |
+| 18599637_266229059_docimage_actual.pdf | 58.1 KB | — | 2026-09-02 17:07 |
+
+### 02-evidence/wayne-rod-sep2/batch4/ (32 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 18599590_245360599_docimage_actual.pdf | 34.1 KB | — | 2026-09-02 17:05 |
+| 18599590_245367247_docimage_actual.pdf | 32.1 KB | — | 2026-09-02 17:05 |
+| 18599590_246233045_docimage_actual.pdf | 47.4 KB | — | 2026-09-02 17:05 |
+| 18599590_246322392_docimage_actual.pdf | 39.4 KB | — | 2026-09-02 17:05 |
+| 18599590_246479996_docimage_actual.pdf | 39.3 KB | — | 2026-09-02 17:05 |
+| 18599590_246653748_docimage_actual.pdf | 32.3 KB | — | 2026-09-02 17:05 |
+| 18599590_246669801_docimage_actual.pdf | 32.3 KB | — | 2026-09-02 17:05 |
+| 18599590_246678935_docimage_actual.pdf | 32.4 KB | — | 2026-09-02 17:05 |
+| 18599590_246711096_docimage_actual.pdf | 32.2 KB | — | 2026-09-02 17:05 |
+| 18599590_247020051_docimage_actual.pdf | 33.0 KB | — | 2026-09-02 17:05 |
+| 18599590_247233466_docimage_actual.pdf | 34.5 KB | — | 2026-09-02 17:05 |
+| 18599590_247504804_docimage_actual.pdf | 31.0 KB | — | 2026-09-02 17:05 |
+| 18599590_247809547_docimage_actual.pdf | 32.1 KB | — | 2026-09-02 17:05 |
+| 18599590_248879861_docimage_actual.pdf | 35.0 KB | — | 2026-09-02 17:05 |
+| 18599590_249062974_docimage_actual.pdf | 33.8 KB | — | 2026-09-02 17:05 |
+| 18599590_249155955_docimage_actual.pdf | 34.5 KB | — | 2026-09-02 17:05 |
+| 18599590_249186982_docimage_actual.pdf | 35.2 KB | — | 2026-09-02 17:05 |
+| 18599590_249212125_docimage_actual.pdf | 31.6 KB | — | 2026-09-02 17:05 |
+| 18599590_249751319_docimage_actual.pdf | 32.1 KB | — | 2026-09-02 17:05 |
+| 18599590_249834981_docimage_actual.pdf | 31.1 KB | — | 2026-09-02 17:05 |
+| 18599590_250013916_docimage_actual.pdf | 32.5 KB | — | 2026-09-02 17:05 |
+| 18599590_250397878_docimage_actual.pdf | 43.5 KB | — | 2026-09-02 17:05 |
+| 18599590_251395140_docimage_actual.pdf | 112.9 KB | — | 2026-09-02 17:05 |
+| 18599590_251781890_docimage_actual.pdf | 44.8 KB | — | 2026-09-02 17:05 |
+| 18599590_251857688_docimage_actual.pdf | 44.9 KB | — | 2026-09-02 17:05 |
+| 18599590_255283107_docimage_actual.pdf | 29.8 KB | — | 2026-09-02 17:05 |
+| 18599590_258029722_docimage_actual.pdf | 45.5 KB | — | 2026-09-02 17:05 |
+| 18599590_260982832_docimage_actual.pdf | 39.0 KB | — | 2026-09-02 17:05 |
+| 18599590_266329311_docimage_actual.pdf | 39.2 KB | — | 2026-09-02 17:05 |
+| 18599590_287325415_docimage_actual.pdf | 39.6 KB | — | 2026-09-02 17:05 |
+| 18599590_290179127_docimage_actual.pdf | 38.8 KB | — | 2026-09-02 17:05 |
+| 18599590_296336673_docimage_actual.pdf | 32.8 KB | — | 2026-09-02 17:05 |
+
+### 02-evidence/wayne-rod-sep2/batch5/ (14 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 18599561_246144593_docimage_actual.pdf | 40.5 KB | — | 2026-09-02 17:04 |
+| 18599561_246325785_docimage_actual.pdf | 39.7 KB | — | 2026-09-02 17:04 |
+| 18599561_246684705_docimage_actual.pdf | 32.8 KB | — | 2026-09-02 17:04 |
+| 18599561_246727989_docimage_actual.pdf | 32.6 KB | — | 2026-09-02 17:04 |
+| 18599561_248078191_docimage_actual.pdf | 312.9 KB | — | 2026-09-02 17:04 |
+| 18599561_248406757_docimage_actual.pdf | 67.4 KB | — | 2026-09-02 17:04 |
+| 18599561_250215552_docimage_actual.pdf | 64.2 KB | — | 2026-09-02 17:04 |
+| 18599561_250506578_docimage_actual.pdf | 62.2 KB | — | 2026-09-02 17:04 |
+| 18599561_253243966_docimage_actual.pdf | 868.3 KB | — | 2026-09-02 17:04 |
+| 18599561_266150219_docimage_actual.pdf | 46.9 KB | — | 2026-09-02 17:04 |
+| 18599561_266192543_docimage_actual.pdf | 420.0 KB | — | 2026-09-02 17:04 |
+| 18599561_266352220_docimage_actual.pdf | 39.4 KB | — | 2026-09-02 17:04 |
+| 18599561_300223351_docimage_actual.pdf | 32.9 KB | — | 2026-09-02 17:04 |
+| 18599561_302253472_docimage_actual.pdf | 71.2 KB | — | 2026-09-02 17:04 |
+
+### 02-evidence/wayne-rod-sep2/batch6_miller/ (20 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 18608653_245455210_docimage_actual.pdf | 71.9 KB | — | 2026-09-02 22:50 |
+| 18608653_245550164_docimage_actual.pdf | 25.9 KB | — | 2026-09-02 22:50 |
+| 18608653_245577751_docimage_actual.pdf | 25.9 KB | — | 2026-09-02 22:50 |
+| 18608653_245747719_docimage_actual.pdf | 188.9 KB | — | 2026-09-02 22:50 |
+| 18608653_245882476_docimage_actual.pdf | 1.0 MB | — | 2026-09-02 22:50 |
+| 18608653_248421784_docimage_actual.pdf | 39.1 KB | — | 2026-09-02 22:50 |
+| 18608653_250279041_docimage_actual.pdf | 65.6 KB | — | 2026-09-02 22:50 |
+| 18608653_252921662_docimage_actual.pdf | 412.9 KB | — | 2026-09-02 22:50 |
+| 18608653_252921713_docimage_actual.pdf | 595.6 KB | — | 2026-09-02 22:50 |
+| 18608653_253724212_docimage_actual.pdf | 124.9 KB | — | 2026-09-02 22:50 |
+| 18608653_266150801_docimage_actual.pdf | 49.1 KB | — | 2026-09-02 22:50 |
+| 18608653_266164881_docimage_actual.pdf | 32.1 KB | — | 2026-09-02 22:50 |
+| 18608653_266180805_docimage_actual.pdf | 54.3 KB | — | 2026-09-02 22:50 |
+| 18608653_266228370_docimage_actual.pdf | 61.3 KB | — | 2026-09-02 22:50 |
+| 18608653_266246845_docimage_actual.pdf | 432.0 KB | — | 2026-09-02 22:50 |
+| 18608653_266357296_docimage_actual.pdf | 54.7 KB | — | 2026-09-02 22:50 |
+| 18608653_266366943_docimage_actual.pdf | 45.6 KB | — | 2026-09-02 22:50 |
+| 18608653_266392547_docimage_actual.pdf | 38.9 KB | — | 2026-09-02 22:50 |
+| 18608653_266416950_docimage_actual.pdf | 45.6 KB | — | 2026-09-02 22:50 |
+| 18608653_267504284_docimage_actual.pdf | 52.7 KB | — | 2026-09-02 22:50 |
+
+### 02-evidence/wayne-rod-sep2/batch7_yancey/ (21 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 18608663_245932406_docimage_actual.pdf | 239.8 KB | — | 2026-09-02 22:51 |
+| 18608663_246027480_docimage_actual.pdf | 60.7 KB | — | 2026-09-02 22:51 |
+| 18608663_246225854_docimage_actual.pdf | 50.4 KB | — | 2026-09-02 22:51 |
+| 18608663_246866760_docimage_actual.pdf | 69.1 KB | — | 2026-09-02 22:51 |
+| 18608663_246876422_docimage_actual.pdf | 84.3 KB | — | 2026-09-02 22:51 |
+| 18608663_247011212_docimage_actual.pdf | 36.3 KB | — | 2026-09-02 22:51 |
+| 18608663_247185599_docimage_actual.pdf | 34.2 KB | — | 2026-09-02 22:51 |
+| 18608663_247310097_docimage_actual.pdf | 35.3 KB | — | 2026-09-02 22:51 |
+| 18608663_247593216_docimage_actual.pdf | 34.2 KB | — | 2026-09-02 22:51 |
+| 18608663_247661820_docimage_actual.pdf | 33.6 KB | — | 2026-09-02 22:51 |
+| 18608663_248969137_docimage_actual.pdf | 35.6 KB | — | 2026-09-02 22:51 |
+| 18608663_249372979_docimage_actual.pdf | 36.5 KB | — | 2026-09-02 22:51 |
+| 18608663_249786200_docimage_actual.pdf | 32.3 KB | — | 2026-09-02 22:51 |
+| 18608663_249795084_docimage_actual.pdf | 33.2 KB | — | 2026-09-02 22:51 |
+| 18608663_249857338_docimage_actual.pdf | 32.4 KB | — | 2026-09-02 22:51 |
+| 18608663_249891928_docimage_actual.pdf | 33.1 KB | — | 2026-09-02 22:51 |
+| 18608663_249904608_docimage_actual.pdf | 32.3 KB | — | 2026-09-02 22:51 |
+| 18608663_252170061_docimage_actual.pdf | 26.0 KB | — | 2026-09-02 22:51 |
+| 18608663_252350631_docimage_actual.pdf | 25.0 KB | — | 2026-09-02 22:51 |
+| 18608663_253867653_docimage_actual.pdf | 1006.9 KB | — | 2026-09-02 22:51 |
+| 18608663_255786136_docimage_actual.pdf | 112.6 KB | — | 2026-09-02 22:51 |
+
+### 02-evidence/wayne-rod-sep2/images/ (235 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| batch1_18599315_245242124_docimage_actual_p1.png | 100.9 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_245564311_docimage_actual_p1.png | 240.6 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_245688365_docimage_actual_p1.png | 82.2 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_245713745_docimage_actual_p1.png | 80.7 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_245749076_docimage_actual_p1.png | 340.6 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_246956512_docimage_actual_p1.png | 90.9 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_252236876_docimage_actual_p1.png | 362.6 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_252319452_docimage_actual_p1.png | 346.8 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_253965168_docimage_actual_p1.png | 245.9 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_254586298_docimage_actual_p1.png | 324.2 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_256075472_docimage_actual_p1.png | 251.0 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_268838451_docimage_actual_p1.png | 586.8 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_268838455_docimage_actual_p1.png | 704.9 KB | — | 2026-09-02 13:02 |
+| batch1_18599315_270405267_docimage_actual_p1.png | 441.6 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_247152694_docimage_actual_p1.png | 204.0 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_247204344_docimage_actual_p1.png | 204.1 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_247683350_docimage_actual_p1.png | 191.3 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_248801446_docimage_actual_p1.png | 207.4 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_249631255_docimage_actual_p1.png | 190.6 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_249910923_docimage_actual_p1.png | 193.3 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_251301873_docimage_actual_p1.png | 315.6 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_251301876_docimage_actual_p1.png | 286.4 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_251545359_docimage_actual_p1.png | 334.2 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_251574661_docimage_actual_p1.png | 320.8 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_256620431_docimage_actual_p1.png | 141.6 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_257842169_docimage_actual_p1.png | 236.7 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_258584824_docimage_actual_p1.png | 112.5 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_258588897_docimage_actual_p1.png | 112.1 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_259288580_docimage_actual_p1.png | 98.6 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_259323793_docimage_actual_p1.png | 182.6 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_259436173_docimage_actual_p1.png | 211.9 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_261325731_docimage_actual_p1.png | 149.8 KB | — | 2026-09-02 13:02 |
+| batch2_18599425_264805359_docimage_actual_p1.png | 232.3 KB | — | 2026-09-02 13:02 |
+| batch3_18599637_245593770_docimage_actual_p1.png | 134.5 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_245975928_docimage_actual_p1.png | 320.1 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_246105964_docimage_actual_p1.png | 405.0 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_246926353_docimage_actual_p1.png | 90.5 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_247141368_docimage_actual_p1.png | 204.1 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_247373407_docimage_actual_p1.png | 206.1 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_247646334_docimage_actual_p1.png | 191.3 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_249299859_docimage_actual_p1.png | 205.2 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_250199290_docimage_actual_p1.png | 443.0 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_250366984_docimage_actual_p1.png | 131.2 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_250661590_docimage_actual_p1.png | 90.9 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_250796986_docimage_actual_p1.png | 112.0 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_252599963_docimage_actual_p1.png | 535.8 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_252635186_docimage_actual_p1.png | 448.6 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_252697611_docimage_actual_p1.png | 427.7 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_252726704_docimage_actual_p1.png | 240.4 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_252766275_docimage_actual_p1.png | 252.4 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_252795071_docimage_actual_p1.png | 130.3 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_252994324_docimage_actual_p1.png | 113.0 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_253276922_docimage_actual_p1.png | 70.2 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_255186887_docimage_actual_p1.png | 86.3 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_255637516_docimage_actual_p1.png | 950.8 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_255645710_docimage_actual_p1.png | 924.8 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_256203084_docimage_actual_p1.png | 445.2 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_256218990_docimage_actual_p1.png | 418.8 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_256218993_docimage_actual_p1.png | 295.2 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_256219035_docimage_actual_p1.png | 485.6 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_256233540_docimage_actual_p1.png | 109.1 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_256324248_docimage_actual_p1.png | 496.1 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_256346455_docimage_actual_p1.png | 111.6 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_256538609_docimage_actual_p1.png | 148.6 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_261180236_docimage_actual_p1.png | 129.7 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_261629731_docimage_actual_p1.png | 140.6 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_261738176_docimage_actual_p1.png | 110.6 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_266181915_docimage_actual_p1.png | 215.8 KB | — | 2026-09-02 13:13 |
+| batch3_18599637_266229059_docimage_actual_p1.png | 100.3 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_245360599_docimage_actual_p1.png | 202.3 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_245367247_docimage_actual_p1.png | 188.8 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_246233045_docimage_actual_p1.png | 263.2 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_246322392_docimage_actual_p1.png | 223.7 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_246479996_docimage_actual_p1.png | 224.5 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_246653748_docimage_actual_p1.png | 191.7 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_246669801_docimage_actual_p1.png | 189.5 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_246678935_docimage_actual_p1.png | 192.2 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_246711096_docimage_actual_p1.png | 189.1 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_247020051_docimage_actual_p1.png | 197.4 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_247233466_docimage_actual_p1.png | 205.5 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_247504804_docimage_actual_p1.png | 188.1 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_247809547_docimage_actual_p1.png | 188.9 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_248879861_docimage_actual_p1.png | 208.6 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_249062974_docimage_actual_p1.png | 200.9 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_249155955_docimage_actual_p1.png | 206.6 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_249186982_docimage_actual_p1.png | 209.3 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_249212125_docimage_actual_p1.png | 191.9 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_249751319_docimage_actual_p1.png | 188.8 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_249834981_docimage_actual_p1.png | 184.1 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_250013916_docimage_actual_p1.png | 190.4 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_250397878_docimage_actual_p1.png | 138.9 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_251395140_docimage_actual_p1.png | 500.1 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_251781890_docimage_actual_p1.png | 249.0 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_251857688_docimage_actual_p1.png | 251.7 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_255283107_docimage_actual_p1.png | 183.8 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_258029722_docimage_actual_p1.png | 159.1 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_260982832_docimage_actual_p1.png | 147.8 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_266329311_docimage_actual_p1.png | 224.9 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_287325415_docimage_actual_p1.png | 222.0 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_290179127_docimage_actual_p1.png | 215.8 KB | — | 2026-09-02 13:13 |
+| batch4_18599590_296336673_docimage_actual_p1.png | 188.9 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_246144593_docimage_actual_p1.png | 205.7 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_246325785_docimage_actual_p1.png | 225.4 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_246684705_docimage_actual_p1.png | 192.3 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_246727989_docimage_actual_p1.png | 193.2 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_248078191_docimage_actual_p1.png | 98.4 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_248406757_docimage_actual_p1.png | 381.0 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_250215552_docimage_actual_p1.png | 204.7 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_250506578_docimage_actual_p1.png | 348.0 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_253243966_docimage_actual_p1.png | 116.5 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_266150219_docimage_actual_p1.png | 180.1 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_266192543_docimage_actual_p1.png | 177.5 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_266352220_docimage_actual_p1.png | 225.9 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_300223351_docimage_actual_p1.png | 190.2 KB | — | 2026-09-02 13:13 |
+| batch5_18599561_302253472_docimage_actual_p1.png | 181.9 KB | — | 2026-09-02 13:13 |
+| batch6_miller_18608653_245455210_docimage_actual_p1.png | 104.0 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245455210_docimage_actual_p2.png | 59.5 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245455210_docimage_actual_p3.png | 87.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245455210_docimage_actual_p4.png | 26.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245550164_docimage_actual_p1.png | 89.1 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245577751_docimage_actual_p1.png | 89.1 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245747719_docimage_actual_p1.png | 87.3 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245747719_docimage_actual_p2.png | 137.8 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245747719_docimage_actual_p3.png | 141.8 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245747719_docimage_actual_p4.png | 143.3 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245747719_docimage_actual_p5.png | 92.8 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245747719_docimage_actual_p6.png | 48.1 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p1.png | 97.9 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p10.png | 162.0 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p11.png | 161.8 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p12.png | 151.8 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p13.png | 158.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p14.png | 157.2 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p15.png | 157.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p16.png | 139.2 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p17.png | 61.1 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p18.png | 44.0 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p19.png | 76.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p2.png | 139.5 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p20.png | 128.3 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p21.png | 77.3 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p22.png | 72.4 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p23.png | 129.8 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p24.png | 136.0 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p25.png | 127.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p26.png | 109.9 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p27.png | 40.7 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p3.png | 131.9 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p4.png | 145.1 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p5.png | 154.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p6.png | 154.8 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p7.png | 160.8 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p8.png | 160.3 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_245882476_docimage_actual_p9.png | 152.2 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_248421784_docimage_actual_p1.png | 139.0 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_250279041_docimage_actual_p1.png | 664.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921662_docimage_actual_p1.png | 643.7 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921662_docimage_actual_p2.png | 855.9 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921662_docimage_actual_p3.png | 404.0 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921662_docimage_actual_p4.png | 831.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921662_docimage_actual_p5.png | 450.4 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921662_docimage_actual_p6.png | 148.0 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921662_docimage_actual_p7.png | 68.0 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921713_docimage_actual_p1.png | 533.3 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921713_docimage_actual_p2.png | 1007.8 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921713_docimage_actual_p3.png | 1.3 MB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921713_docimage_actual_p4.png | 1.3 MB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921713_docimage_actual_p5.png | 568.1 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921713_docimage_actual_p6.png | 550.0 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921713_docimage_actual_p7.png | 100.2 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_252921713_docimage_actual_p8.png | 87.5 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_253724212_docimage_actual_p1.png | 89.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_253724212_docimage_actual_p2.png | 121.7 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_253724212_docimage_actual_p3.png | 135.4 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_253724212_docimage_actual_p4.png | 57.5 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266150801_docimage_actual_p1.png | 199.1 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266150801_docimage_actual_p2.png | 102.5 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266164881_docimage_actual_p1.png | 189.2 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266180805_docimage_actual_p1.png | 249.9 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266228370_docimage_actual_p1.png | 351.3 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266246845_docimage_actual_p1.png | 300.7 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266246845_docimage_actual_p2.png | 287.7 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266246845_docimage_actual_p3.png | 616.7 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266246845_docimage_actual_p4.png | 589.0 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266246845_docimage_actual_p5.png | 271.7 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266246845_docimage_actual_p6.png | 58.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266357296_docimage_actual_p1.png | 286.6 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266366943_docimage_actual_p1.png | 380.9 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266366943_docimage_actual_p2.png | 63.5 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266392547_docimage_actual_p1.png | 221.5 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266416950_docimage_actual_p1.png | 380.9 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_266416950_docimage_actual_p2.png | 63.5 KB | — | 2026-09-02 18:54 |
+| batch6_miller_18608653_267504284_docimage_actual_p1.png | 237.0 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_245932406_docimage_actual_p1.png | 104.2 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_245932406_docimage_actual_p2.png | 167.2 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_245932406_docimage_actual_p3.png | 153.3 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_245932406_docimage_actual_p4.png | 168.3 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_245932406_docimage_actual_p5.png | 115.3 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_245932406_docimage_actual_p6.png | 44.4 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_245932406_docimage_actual_p7.png | 34.2 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_246027480_docimage_actual_p1.png | 601.8 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_246225854_docimage_actual_p1.png | 279.1 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_246866760_docimage_actual_p1.png | 259.2 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_246866760_docimage_actual_p2.png | 119.2 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_246876422_docimage_actual_p1.png | 239.3 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_246876422_docimage_actual_p2.png | 216.0 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_247011212_docimage_actual_p1.png | 214.2 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_247185599_docimage_actual_p1.png | 202.7 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_247310097_docimage_actual_p1.png | 209.8 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_247593216_docimage_actual_p1.png | 203.0 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_247661820_docimage_actual_p1.png | 196.7 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_248969137_docimage_actual_p1.png | 210.9 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_249372979_docimage_actual_p1.png | 214.9 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_249786200_docimage_actual_p1.png | 189.9 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_249795084_docimage_actual_p1.png | 195.3 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_249857338_docimage_actual_p1.png | 190.5 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_249891928_docimage_actual_p1.png | 193.1 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_249904608_docimage_actual_p1.png | 189.9 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_252170061_docimage_actual_p1.png | 89.0 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_252350631_docimage_actual_p1.png | 86.2 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p1.png | 341.6 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p10.png | 858.6 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p11.png | 473.9 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p12.png | 323.8 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p13.png | 213.8 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p2.png | 543.2 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p3.png | 711.6 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p4.png | 890.0 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p5.png | 1011.4 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p6.png | 1007.1 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p7.png | 925.1 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p8.png | 900.6 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_253867653_docimage_actual_p9.png | 922.3 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_255786136_docimage_actual_p1.png | 590.4 KB | — | 2026-09-02 18:54 |
+| batch7_yancey_18608663_255786136_docimage_actual_p2.png | 444.5 KB | — | 2026-09-02 18:54 |
+
+## 4. 01-case/discord/ (6 files)
+
+### 01-case/discord/ (6 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 00_DISCORD_DROP_INDEX.md | 4.3 KB | 85 | 2026-09-04 06:20 |
+| BANKS_NETWORK_INTEL_SEP2.md | 12.8 KB | 252 | 2026-09-04 06:20 |
+| HOLLAND_PROPERTY_INTEL_SEP2.md | 5.6 KB | 117 | 2026-09-04 06:20 |
+| JUDGES_INTEL_SEP2.md | 11.1 KB | 290 | 2026-09-02 14:07 |
+| JUDGES_ROD_INTEL_SEP2.md | 6.9 KB | 151 | 2026-09-04 06:20 |
+| PACER_SEARCH_QUEUE.md | 3.8 KB | 86 | 2026-09-04 06:20 |
+
+## 5. 01-case/nolan_clean_drop/ (6 files)
+
+### 01-case/nolan_clean_drop/ (6 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| BANKS_NETWORK_FINANCIAL_MAP.md | 8.0 KB | 190 | 2026-09-04 06:20 |
+| BANKS_OSINT_BRIEF.md | 20.0 KB | 446 | 2026-09-04 06:20 |
+| BANKS_ROD_BRIEF.md | 21.1 KB | 409 | 2026-09-04 06:20 |
+| COVER_LETTER_SEP4.txt | 5.3 KB | 145 | 2026-09-04 06:20 |
+| JUDGES_OSINT_BRIEF.md | 11.1 KB | 290 | 2026-09-04 06:20 |
+| JUDGES_ROD_BRIEF.md | 6.9 KB | 151 | 2026-09-03 19:15 |
+
+## 6. 01-case/filing-ready/ (excluding exhibits/ and subpoenas/) (286 files)
+
+### 01-case/filing-ready/ (105 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 00_CALLING_CARD.txt | 1.4 KB | 43 | 2026-08-25 09:02 |
+| 00_CALLING_CARD_FILED.html | 2.2 KB | 106 | 2026-08-28 09:46 |
+| 00_CALLING_CARD_FILED.txt | 889 B | 48 | 2026-08-28 09:46 |
+| 00_COVERSHEET_TEMPLATE.txt | 5.4 KB | 147 | 2026-08-25 09:02 |
+| 01_ANSWER.pdf | 6.7 KB | — | 2026-06-26 10:57 |
+| 01_ANSWER_AND_COUNTERCLAIM.txt | 18.4 KB | 389 | 2026-08-25 09:02 |
+| 02_COUNTERCLAIM.pdf | 10.0 KB | — | 2026-06-26 10:57 |
+| 03_VENUE_MOTION.pdf | 4.3 KB | — | 2026-06-26 10:57 |
+| 04_TEMP_CUSTODY_MOTION.pdf | 5.0 KB | — | 2026-06-26 10:57 |
+| 04_TEMP_CUSTODY_MOTION.txt | 6.9 KB | 158 | 2026-07-09 15:20 |
+| 05_PROOF_OF_SERVICE.pdf | 1.7 KB | — | 2026-06-26 10:57 |
+| 05_PROOF_OF_SERVICE.txt | 993 B | 40 | 2026-07-16 11:02 |
+| 06_CONSENT_ORDER.txt | 6.3 KB | 171 | 2026-08-25 09:02 |
+| 06_FEE_WAIVER_CONTENT.pdf | 2.9 KB | — | 2026-06-26 10:57 |
+| 07_MOTION_DEFAULT_JUDGMENT.txt | 6.8 KB | 185 | 2026-08-25 09:02 |
+| 08_REQUEST_PRODUCTION.txt | 6.8 KB | 192 | 2026-08-16 12:29 |
+| 09B_INTERROGATORIES_SECOND_SET.txt | 37.2 KB | 766 | 2026-08-25 09:02 |
+| 09C_INTERROGATORIES_THIRD_SET.txt | 14.2 KB | 360 | 2026-08-25 09:02 |
+| 09_INTERROGATORIES.txt | 18.1 KB | 410 | 2026-08-25 09:02 |
+| 10_REQUEST_ADMISSIONS.txt | 7.1 KB | 214 | 2026-08-16 12:29 |
+| 11_REPLY_TEMP_ORDER.txt | 9.4 KB | 228 | 2026-08-18 10:52 |
+| 12_NOTICE_PRESERVATION_SERVED.txt | 3.1 KB | 85 | 2026-08-16 12:29 |
+| 12_PRESERVATION_CROWDER.txt | 2.3 KB | 70 | 2026-08-16 12:29 |
+| 12_PRESERVATION_LEON.txt | 2.6 KB | 71 | 2026-08-16 12:29 |
+| 12_PRESERVATION_MARQUITA.txt | 2.8 KB | 75 | 2026-08-16 12:29 |
+| 12_PRESERVATION_SHAYLA.txt | 3.2 KB | 90 | 2026-08-16 12:29 |
+| 12_PRESERVATION_SIMONE.txt | 2.0 KB | 62 | 2026-08-16 12:29 |
+| 13_MOTION_GAL.txt | 9.3 KB | 216 | 2026-08-25 09:02 |
+| 14_MOTION_COMPEL_VERIFIED.txt | 3.9 KB | 112 | 2026-08-17 13:23 |
+| 15_MOTION_NONPARTY_SUBPOENAS.txt | 15.3 KB | 347 | 2026-08-25 09:02 |
+| 16_MOTION_COMPEL_ADMISSIONS.txt | 3.5 KB | 107 | 2026-08-17 13:23 |
+| 17_MOTION_INTERIM_SUPPORT.txt | 13.4 KB | 325 | 2026-08-25 09:02 |
+| 18_PROPOSED_CONSENT_ORDER.txt | 10.2 KB | 282 | 2026-08-25 09:02 |
+| 18b_ESCALATED_CONSENT_ORDER.txt | 11.9 KB | 315 | 2026-08-25 09:02 |
+| 19_MOTION_INSTITUTIONAL_SUBPOENAS.txt | 16.6 KB | 389 | 2026-08-25 09:02 |
+| 20_MOTION_FINANCIAL_SUBPOENAS.txt | 10.3 KB | 252 | 2026-08-25 09:02 |
+| 21_NOTICE_WITHDRAW_DEFAULT.txt | 15.1 KB | 343 | 2026-08-25 09:02 |
+| 21_NOTICE_WITHDRAW_DEFAULT_SIGNED.pdf | 230.0 KB | — | 2026-08-20 02:32 |
+| 22_MOTION_DISCOVERY_SANCTIONS.txt | 4.1 KB | 126 | 2026-08-17 13:23 |
+| 23_MOTION_ADVERSE_INFERENCE.txt | 3.8 KB | 121 | 2026-08-17 13:23 |
+| 24_MOTION_SHOW_CAUSE.txt | 3.5 KB | 113 | 2026-08-17 13:23 |
+| 25_ESTOPPEL_COMPLAINT.txt | 35.4 KB | 792 | 2026-08-25 09:02 |
+| 26_EXHIBITS_COMBINED.txt | 4.3 KB | 115 | 2026-08-27 05:42 |
+| 26_EXHIBIT_A_COVER.txt | 1.3 KB | 39 | 2026-08-25 09:02 |
+| 26_GO_PACKET.md | 6.0 KB | 176 | 2026-08-25 09:03 |
+| 26_KEVIN_COVERSHEET.txt | 37.7 KB | 857 | 2026-08-25 09:02 |
+| 26_KEVIN_FILING_CHECKLIST.txt | 6.8 KB | 196 | 2026-08-25 09:02 |
+| 26_KEVIN_INTRO_LETTER.txt | 25.5 KB | 604 | 2026-08-25 09:03 |
+| 26_KEVIN_V_SHAYLA_COMPLAINT.txt | 42.1 KB | 955 | 2026-08-27 05:42 |
+| 26_LEON_INSERT.txt | 994 B | 31 | 2026-08-25 09:02 |
+| 26_LEON_LETTER.txt | 19.4 KB | 482 | 2026-08-25 09:02 |
+| 26_MARQUITA_INSERT.txt | 946 B | 37 | 2026-08-25 09:02 |
+| 26_MARQUITA_LETTER.txt | 12.2 KB | 333 | 2026-08-25 09:02 |
+| 26_MC01_GUIDE.txt | 7.2 KB | 236 | 2026-08-27 05:43 |
+| 27_HEATHER_V_SHAYLA_COMPLAINT.txt | 16.6 KB | 404 | 2026-08-25 09:02 |
+| 28_DASEAN_ESTOPPEL_MOTION.txt | 16.1 KB | 410 | 2026-08-28 09:46 |
+| 28_DASEAN_MARRIAGE_ESTOPPEL.txt | 15.1 KB | 386 | 2026-08-28 09:46 |
+| 28_DASEAN_V_SMITH_COMPLAINT.txt | 26.8 KB | 677 | 2026-08-28 09:46 |
+| 28_DEANNA_V_SHAYLA_COMPLAINT.txt | 30.9 KB | 734 | 2026-08-28 09:46 |
+| 28_MC01_WAYNE_GUIDE.txt | 5.4 KB | 169 | 2026-08-28 09:46 |
+| 29_CHILDREN_V_SHAYLA_COMPLAINT.txt | 19.9 KB | 491 | 2026-08-28 09:46 |
+| 30_CONSENT_ORDER_FULL_SURRENDER.txt | 11.0 KB | 290 | 2026-08-27 05:42 |
+| 31_OIG_FORM_NARRATIVE.txt | 1.5 KB | 15 | 2026-08-27 05:42 |
+| 31_USPS_OIG_COMPLAINT.txt | 17.1 KB | 412 | 2026-08-27 05:42 |
+| 32_MDHHS_FRAUD_REPORT.txt | 9.5 KB | 255 | 2026-08-27 05:42 |
+| 33_MOTION_MAIL_FRAUD_SUBPOENAS.txt | 14.7 KB | 335 | 2026-08-27 05:42 |
+| 35_EMERGENCY_TEMP_CUSTODY.txt | 18.9 KB | 436 | 2026-09-04 06:20 |
+| 36A_UPL_STATE_BAR.md | 6.6 KB | 171 | 2026-09-04 06:20 |
+| 36B_JTC_YANCEY.md | 4.3 KB | 103 | 2026-09-04 06:20 |
+| 36C_JTC_MILLER.md | 4.2 KB | 102 | 2026-09-04 06:20 |
+| 36D_MDE_CERT_VIOLATION.md | 4.7 KB | 127 | 2026-09-04 06:20 |
+| 36E_AG_UPL_PROSECUTION.md | 3.9 KB | 103 | 2026-09-04 06:20 |
+| 36F_DPSCD_EMAIL.md | 5.9 KB | 157 | 2026-09-04 06:20 |
+| 36_EMAIL_TRIPLETT_EMERGENCY.md | 3.7 KB | 105 | 2026-09-04 06:20 |
+| 36_EMERGENCY_EXPART_ASSAULT.txt | 12.6 KB | 301 | 2026-09-04 06:20 |
+| 36_EMERGENCY_MOTION_COMPLETE.pdf | 22.9 KB | — | 2026-09-03 18:41 |
+| 36_FINAL_EMERGENCY_MOTION.txt | 23.8 KB | 543 | 2026-09-04 06:20 |
+| 36_REGULATORY_COMPLAINTS_PACKAGE.txt | 34.4 KB | 897 | 2026-09-04 06:20 |
+| 37_FIRST_AMENDED_COMPLAINT_BANKS.txt | 30.8 KB | 700 | 2026-09-04 06:20 |
+| 37_FIRST_AMENDED_COMPLAINT_CONSPIRACY.txt | 11.0 KB | 264 | 2026-09-04 06:20 |
+| 37_PPO_FILING_GUIDE.md | 8.6 KB | 165 | 2026-09-04 06:20 |
+| 39_KEVIN_V_BANKS_COMPLAINT.txt | 28.3 KB | 655 | 2026-09-04 06:20 |
+| 40_FIRST_AMENDED_COMPLAINT_BANKS.txt | 21.3 KB | 531 | 2026-09-04 06:20 |
+| AGENCY_NOTIFICATIONS_TRACKER.md | 9.9 KB | 257 | 2026-09-04 06:20 |
+| AMENDED_COMPLAINT_HOLLAND_PURPOSE.md | 49.5 KB | 510 | 2026-09-04 06:20 |
+| BANKS_FIRST_AMENDED_COMPLAINT_FRAMEWORK.md | 16.2 KB | 322 | 2026-09-04 06:20 |
+| CROWDER_LARA_COMPLAINT_FRAMEWORK.md | 10.1 KB | 243 | 2026-09-04 06:20 |
+| DCH0569_Birth_Certificate_App.pdf | 234.6 KB | — | 2026-06-25 16:58 |
+| DHS1201D_IV-D_Application.pdf | 23.9 KB | — | 2026-06-25 16:58 |
+| DOE_OIG_COMPLAINT.md | 13.4 KB | 351 | 2026-09-04 06:20 |
+| EXPARTE_MOTION_FRAMEWORK_SEP3.md | 6.1 KB | 153 | 2026-09-04 06:20 |
+| FOC23_Verified_Statement.pdf | 97.3 KB | — | 2026-06-25 16:58 |
+| FOIA_DPSCD_CHECK_REGISTERS.md | 6.0 KB | 168 | 2026-09-04 06:20 |
+| FOIA_WAYNE_RESA_REGISTERS.md | 4.5 KB | 135 | 2026-09-04 06:20 |
+| JTC_SUPPLEMENT_MILLER.md | 12.1 KB | 304 | 2026-09-04 06:20 |
+| JTC_SUPPLEMENT_YANCEY.md | 12.3 KB | 315 | 2026-09-04 06:20 |
+| MC20_Fee_Waiver.pdf | 118.6 KB | — | 2026-06-25 16:58 |
+| MC416_UCCJEA_Affidavit.pdf | 93.8 KB | — | 2026-06-25 16:58 |
+| PRESERVATION_LETTERS_NAMED.md | 14.3 KB | 380 | 2026-09-04 06:20 |
+| PRESERVATION_TEMPLATE_GENERAL.md | 3.9 KB | 117 | 2026-09-04 06:20 |
+| SERVE_PACKET_AMENDMENT1_INSTRUCTIONS.txt | 4.7 KB | 117 | 2026-09-04 06:20 |
+| SPOLIATION_NOTICE_POST_SERVE.md | 12.2 KB | 215 | 2026-09-04 06:20 |
+| SPOLIATION_NOTICE_PRE_SERVE.md | 7.8 KB | 168 | 2026-09-04 06:20 |
+| SUBPOENA_MASTER_PLAN.md | 11.0 KB | 287 | 2026-09-04 06:20 |
+| SUMMONS_FILL_GUIDE.txt | 4.1 KB | 136 | 2026-09-04 06:20 |
+
+### 01-case/filing-ready/SUBMITTED_AUG31/ (6 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 36A_UPL_STATE_BAR.md | 6.6 KB | 171 | 2026-08-31 18:24 |
+| 36B_JTC_YANCEY.md | 4.3 KB | 103 | 2026-08-31 18:24 |
+| 36C_JTC_MILLER.md | 4.2 KB | 102 | 2026-08-31 18:24 |
+| 36F_DPSCD_EMAIL.md | 5.9 KB | 157 | 2026-08-31 18:24 |
+| 37_FIRST_AMENDED_COMPLAINT_CONSPIRACY.txt | 11.0 KB | 264 | 2026-08-31 18:24 |
+| ABC_SERVICE_ORDER_BANKS.md | 1.1 KB | 39 | 2026-08-31 18:24 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/PRINT_TOMORROW/AG_PACKET/ (3 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_AG_COMPLAINT.md | 3.9 KB | 103 | 2026-08-31 18:24 |
+| 02_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| 03_LINKEDIN_AND_EXHIBITS.pdf | 12.7 MB | — | 2026-08-31 18:33 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/PRINT_TOMORROW/BANKS_LAWSUIT/ (10 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_COMPLAINT.txt | 28.3 KB | 655 | 2026-08-31 18:32 |
+| 02_INDEX_AND_LM.md | 2.9 KB | 101 | 2026-09-01 07:36 |
+| 02_TEXT_EXHIBITS.md | 57.8 KB | 1441 | 2026-08-31 18:33 |
+| 03_IMAGE_EXHIBITS.pdf | 12.7 MB | — | 2026-08-31 18:33 |
+| 04_EXHIBIT_A.pdf | 2.1 MB | — | 2026-08-31 11:12 |
+| 05_EXHIBIT_I.pdf | 78.8 KB | — | 2026-08-31 12:20 |
+| 06_EXHIBIT_JK_CERT.pdf | 287.2 KB | — | 2026-08-31 12:19 |
+| 07_EXHIBIT_JK_NOTARY.pdf | 967.1 KB | — | 2026-08-31 12:16 |
+| L_MDE_COMPLAINT.md | 4.7 KB | 127 | 2026-08-31 20:24 |
+| M_AG_REFERRAL.md | 3.9 KB | 103 | 2026-08-31 20:24 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/PRINT_TOMORROW/MDE_PACKET/ (3 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_MDE_COMPLAINT.md | 4.7 KB | 127 | 2026-08-31 18:24 |
+| 02_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| 03_LINKEDIN_AND_EXHIBITS.pdf | 12.7 MB | — | 2026-08-31 18:33 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/ (7 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 36A_UPL_STATE_BAR.md | 5.8 KB | 158 | 2026-08-31 08:48 |
+| 36B_JTC_YANCEY.md | 3.4 KB | 88 | 2026-08-31 08:48 |
+| 36C_JTC_MILLER.md | 3.2 KB | 86 | 2026-08-31 08:48 |
+| PRINT_AND_ASSEMBLE_JTC_UPL.md | 7.0 KB | 203 | 2026-08-31 09:10 |
+| RFI Form 3.4.2026.pdf | 255.0 KB | — | 2026-08-30 19:31 |
+| UPLcomplaintform.pdf | 66.9 KB | — | 2026-08-30 19:30 |
+| build_pdfs.py | 2.7 KB | 75 | 2026-08-31 13:30 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/PACKET_A_UPL/ (11 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 00_UPL_FORM.pdf | 77.1 KB | — | 2026-08-31 11:33 |
+| 01_UPL_NARRATIVE.md | 6.6 KB | 171 | 2026-08-31 09:31 |
+| 02_BANKS_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| 03_ELRICK_FREEP_JULY2022.md | 3.3 KB | 103 | 2026-08-31 08:55 |
+| 04_EXHIBIT_D_PCA_FOUNDER_PAGE.md | 1.7 KB | 57 | 2026-08-31 11:11 |
+| 05_PCA_BASH_AUTHORIZATION.md | 5.5 KB | 164 | 2026-08-31 08:48 |
+| 06_PCA_AUTHORIZATION_ORIGINAL.pdf | 2.1 MB | — | 2026-08-31 11:12 |
+| 07_EXHIBIT_F_BALLOTPEDIA_YANCEY.md | 1.1 KB | 41 | 2026-08-31 11:11 |
+| 08_EXHIBIT_G_BALLOTPEDIA_MILLER.md | 1.5 KB | 56 | 2026-08-31 11:11 |
+| PRINT_ALL_DOCS.md | 95.6 KB | 2217 | 2026-08-31 09:31 |
+| PRINT_LINKEDIN_EXHIBITS.pdf | 8.7 MB | — | 2026-08-31 09:31 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/PACKET_A_UPL/linkedin/ (24 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5794.PNG | 414.3 KB | — | 2026-08-30 04:22 |
+| IMG_5795.PNG | 470.3 KB | — | 2026-08-30 04:22 |
+| IMG_5796.PNG | 440.0 KB | — | 2026-08-30 04:22 |
+| IMG_5797.PNG | 438.4 KB | — | 2026-08-30 04:22 |
+| IMG_5798.PNG | 374.4 KB | — | 2026-08-30 04:22 |
+| IMG_5799.PNG | 426.3 KB | — | 2026-08-30 04:22 |
+| IMG_5800.PNG | 628.4 KB | — | 2026-08-30 04:22 |
+| IMG_5801.PNG | 338.3 KB | — | 2026-08-30 04:22 |
+| IMG_5802.PNG | 330.1 KB | — | 2026-08-30 04:22 |
+| IMG_5803.PNG | 317.9 KB | — | 2026-08-30 04:22 |
+| IMG_5804.PNG | 337.4 KB | — | 2026-08-30 04:22 |
+| IMG_5805.PNG | 371.8 KB | — | 2026-08-30 04:22 |
+| IMG_5806.PNG | 357.9 KB | — | 2026-08-30 04:22 |
+| IMG_5807.PNG | 369.5 KB | — | 2026-08-30 04:22 |
+| IMG_5808.PNG | 349.3 KB | — | 2026-08-30 04:22 |
+| IMG_5809.PNG | 238.0 KB | — | 2026-08-30 04:22 |
+| IMG_5810.PNG | 155.9 KB | — | 2026-08-30 04:22 |
+| IMG_5811.PNG | 276.8 KB | — | 2026-08-30 04:22 |
+| IMG_5812.PNG | 205.8 KB | — | 2026-08-30 04:22 |
+| IMG_5813.PNG | 265.2 KB | — | 2026-08-30 04:22 |
+| IMG_5814.PNG | 83.1 KB | — | 2026-08-30 04:22 |
+| IMG_5815.PNG | 247.8 KB | — | 2026-08-30 04:22 |
+| IMG_5816.PNG | 265.5 KB | — | 2026-08-30 04:22 |
+| IMG_5817.PNG | 603.2 KB | — | 2026-08-30 04:22 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/PACKET_BC_JTC_COMBINED/ (12 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 00_JTC_FORM_print2copies.pdf | 255.0 KB | — | 2026-08-30 19:31 |
+| 01a_JTC_YANCEY_NARRATIVE.md | 4.3 KB | 103 | 2026-08-31 09:31 |
+| 01b_JTC_MILLER_NARRATIVE.md | 4.2 KB | 102 | 2026-08-31 09:31 |
+| 02_BANKS_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| 03_MACDOWELL_BOARD.md | 1.7 KB | 57 | 2026-08-31 09:27 |
+| 04_CHALKBEAT_SEPT2025.md | 2.7 KB | 74 | 2026-08-31 09:27 |
+| 05_KEEPJUDGEMILLER.md | 1.3 KB | 42 | 2026-08-31 09:27 |
+| 06_ELRICK_FREEP_JULY2022.md | 3.3 KB | 103 | 2026-08-31 09:27 |
+| 07_BALLOTPEDIA_MILLER.md | 1.5 KB | 56 | 2026-08-31 08:56 |
+| 08_BALLOTPEDIA_YANCEY.md | 1.1 KB | 41 | 2026-08-31 09:27 |
+| PRINT_ALL_DOCS.md | 148.7 KB | 3538 | 2026-08-31 09:31 |
+| PRINT_LINKEDIN_EXHIBITS.pdf | 8.7 MB | — | 2026-08-31 09:31 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/PACKET_BC_JTC_COMBINED/linkedin/ (24 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5794.PNG | 414.3 KB | — | 2026-08-30 04:22 |
+| IMG_5795.PNG | 470.3 KB | — | 2026-08-30 04:22 |
+| IMG_5796.PNG | 440.0 KB | — | 2026-08-30 04:22 |
+| IMG_5797.PNG | 438.4 KB | — | 2026-08-30 04:22 |
+| IMG_5798.PNG | 374.4 KB | — | 2026-08-30 04:22 |
+| IMG_5799.PNG | 426.3 KB | — | 2026-08-30 04:22 |
+| IMG_5800.PNG | 628.4 KB | — | 2026-08-30 04:22 |
+| IMG_5801.PNG | 338.3 KB | — | 2026-08-30 04:22 |
+| IMG_5802.PNG | 330.1 KB | — | 2026-08-30 04:22 |
+| IMG_5803.PNG | 317.9 KB | — | 2026-08-30 04:22 |
+| IMG_5804.PNG | 337.4 KB | — | 2026-08-30 04:22 |
+| IMG_5805.PNG | 371.8 KB | — | 2026-08-30 04:22 |
+| IMG_5806.PNG | 357.9 KB | — | 2026-08-30 04:22 |
+| IMG_5807.PNG | 369.5 KB | — | 2026-08-30 04:22 |
+| IMG_5808.PNG | 349.3 KB | — | 2026-08-30 04:22 |
+| IMG_5809.PNG | 238.0 KB | — | 2026-08-30 04:22 |
+| IMG_5810.PNG | 155.9 KB | — | 2026-08-30 04:22 |
+| IMG_5811.PNG | 276.8 KB | — | 2026-08-30 04:22 |
+| IMG_5812.PNG | 205.8 KB | — | 2026-08-30 04:22 |
+| IMG_5813.PNG | 265.2 KB | — | 2026-08-30 04:22 |
+| IMG_5814.PNG | 83.1 KB | — | 2026-08-30 04:22 |
+| IMG_5815.PNG | 247.8 KB | — | 2026-08-30 04:22 |
+| IMG_5816.PNG | 265.5 KB | — | 2026-08-30 04:22 |
+| IMG_5817.PNG | 603.2 KB | — | 2026-08-30 04:22 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/PACKET_D_SMITH_AMENDMENT/ (3 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 01_FIRST_AMENDED_COMPLAINT.txt | 11.8 KB | 279 | 2026-08-31 12:21 |
+| 02_SERVICE_STRATEGY.md | 9.7 KB | 275 | 2026-08-31 11:11 |
+| MC01_BANKS_SUMMONS.pdf | 238.4 KB | — | 2026-08-27 05:54 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/_ARCHIVE_SUBMITTED/banks-linkedin/ (24 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5794.PNG | 414.3 KB | — | 2026-08-30 04:22 |
+| IMG_5795.PNG | 470.3 KB | — | 2026-08-30 04:22 |
+| IMG_5796.PNG | 440.0 KB | — | 2026-08-30 04:22 |
+| IMG_5797.PNG | 438.4 KB | — | 2026-08-30 04:22 |
+| IMG_5798.PNG | 374.4 KB | — | 2026-08-30 04:22 |
+| IMG_5799.PNG | 426.3 KB | — | 2026-08-30 04:22 |
+| IMG_5800.PNG | 628.4 KB | — | 2026-08-30 04:22 |
+| IMG_5801.PNG | 338.3 KB | — | 2026-08-30 04:22 |
+| IMG_5802.PNG | 330.1 KB | — | 2026-08-30 04:22 |
+| IMG_5803.PNG | 317.9 KB | — | 2026-08-30 04:22 |
+| IMG_5804.PNG | 337.4 KB | — | 2026-08-30 04:22 |
+| IMG_5805.PNG | 371.8 KB | — | 2026-08-30 04:22 |
+| IMG_5806.PNG | 357.9 KB | — | 2026-08-30 04:22 |
+| IMG_5807.PNG | 369.5 KB | — | 2026-08-30 04:22 |
+| IMG_5808.PNG | 349.3 KB | — | 2026-08-30 04:22 |
+| IMG_5809.PNG | 238.0 KB | — | 2026-08-30 04:22 |
+| IMG_5810.PNG | 155.9 KB | — | 2026-08-30 04:22 |
+| IMG_5811.PNG | 276.8 KB | — | 2026-08-30 04:22 |
+| IMG_5812.PNG | 205.8 KB | — | 2026-08-30 04:22 |
+| IMG_5813.PNG | 265.2 KB | — | 2026-08-30 04:22 |
+| IMG_5814.PNG | 83.1 KB | — | 2026-08-30 04:22 |
+| IMG_5815.PNG | 247.8 KB | — | 2026-08-30 04:22 |
+| IMG_5816.PNG | 265.5 KB | — | 2026-08-30 04:22 |
+| IMG_5817.PNG | 603.2 KB | — | 2026-08-30 04:22 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/loose_exhibits/ (10 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| EXHIBIT_BALLOTPEDIA_MILLER.md | 1.5 KB | 56 | 2026-09-01 07:35 |
+| EXHIBIT_BALLOTPEDIA_YANCEY.md | 1.1 KB | 41 | 2026-09-01 07:35 |
+| EXHIBIT_BANKS_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-08-31 08:48 |
+| EXHIBIT_CHALKBEAT_SEPT2025.md | 2.7 KB | 74 | 2026-09-01 07:35 |
+| EXHIBIT_ELRICK_FREEP_JULY2022.md | 3.3 KB | 103 | 2026-09-01 07:35 |
+| EXHIBIT_KEEPJUDGEMILLER.md | 1.3 KB | 42 | 2026-09-01 07:35 |
+| EXHIBIT_MACDOWELL_BOARD.md | 1.7 KB | 57 | 2026-09-01 07:35 |
+| EXHIBIT_PCA_BASH_AUTHORIZATION.md | 5.5 KB | 164 | 2026-08-31 08:48 |
+| EXHIBIT_PCA_FOUNDER_PAGE.md | 1.7 KB | 57 | 2026-09-01 07:35 |
+| FORM_FILL_GUIDE.md | 9.1 KB | 276 | 2026-09-01 07:35 |
+
+### 01-case/filing-ready/_ARCHIVE_SEPT1/staging_and_guides/ (13 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| 38_SERVICE_STRATEGY_BANKS.md | 9.7 KB | 275 | 2026-09-01 07:35 |
+| ABC_SERVICE_ORDER_BANKS.md | 1.1 KB | 39 | 2026-09-01 07:35 |
+| EFILE_PACKET_MAP.md | 2.6 KB | 75 | 2026-07-09 17:44 |
+| FINAL_PUNCHLIST.md | 5.7 KB | 119 | 2026-07-09 10:24 |
+| FORM_FILL_GUIDE.md | 8.0 KB | 241 | 2026-09-01 07:35 |
+| PDF_FILL_CHEATSHEET.md | 9.9 KB | 266 | 2026-08-25 09:02 |
+| PRINT_AND_ASSEMBLE_JTC_UPL.md | 7.0 KB | 203 | 2026-09-01 07:35 |
+| RFI Form 3.4.2026.pdf | 255.0 KB | — | 2026-08-30 19:31 |
+| STAGING_MONDAY_SEPT1.md | 8.1 KB | 217 | 2026-09-01 07:35 |
+| UPLcomplaintform.pdf | 66.9 KB | — | 2026-08-30 19:30 |
+| build_efile_packets.py | 7.1 KB | 208 | 2026-07-09 17:45 |
+| restage.ps1 | 1.9 KB | 38 | 2026-09-01 07:35 |
+| stage_banks_packet.ps1 | 2.4 KB | 58 | 2026-09-01 07:35 |
+
+### 01-case/filing-ready/efile_uploads/ (7 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| SHAYLA_SERVICE_PACKET.pdf | 556.7 KB | — | 2026-07-09 17:55 |
+| UPLOAD_1_PLEADING.pdf | 505.4 KB | — | 2026-07-09 17:45 |
+| UPLOAD_2_MOTION.pdf | 876.8 KB | — | 2026-07-09 17:45 |
+| exhibit_B_dsdt_screenshot.pdf | 44.4 KB | — | 2026-07-09 17:45 |
+| exhibit_B_dsdt_text.pdf | 2.8 KB | — | 2026-07-09 17:45 |
+| exhibit_C_dsdt_enrollment.txt | 2.2 KB | 67 | 2026-07-09 09:30 |
+| exhibit_C_shayla_verified.pdf | 392.0 KB | — | 2026-07-09 17:45 |
+
+### 01-case/filing-ready/ppo_forms/ (7 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| CC375_domestic.pdf | 145.2 KB | — | 2026-09-03 08:54 |
+| CC376_stalking.pdf | 372.6 KB | — | 2026-09-03 08:54 |
+| CC377_stalking_PETITION.pdf | 125.8 KB | — | 2026-09-03 09:13 |
+| CC380_ppo_order_domestic.pdf | 303.4 KB | — | 2026-09-03 08:54 |
+| CC381_ppo_order_stalking.pdf | 350.9 KB | — | 2026-09-03 08:54 |
+| PPO_ATTACHMENT_ALL.txt | 8.2 KB | 188 | 2026-09-04 06:20 |
+| PPO_KEVIN_BANKS_ATTACHMENT.txt | 5.9 KB | 167 | 2026-09-04 06:20 |
+
+### 01-case/filing-ready/receipts/ (7 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| IMG_5529.jpeg | 747.2 KB | — | 2026-07-10 08:36 |
+| IMG_5529.pdf | 281.0 KB | — | 2026-07-10 08:41 |
+| IMG_5530.jpeg | 772.6 KB | — | 2026-07-10 08:36 |
+| IMG_5530.pdf | 291.9 KB | — | 2026-07-10 08:41 |
+| usps_certified_mail_receipt.pdf | 34.7 KB | — | 2026-07-10 10:38 |
+| usps_tracking_attempted_delivery_jul13.png | 95.5 KB | — | 2026-07-13 18:10 |
+| usps_tracking_delivered_jul14.png | 45.4 KB | — | 2026-07-15 11:00 |
+
+### 01-case/filing-ready/scans/ (9 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| bluegateLease.pdf | 133.7 KB | — | 2026-07-09 17:29 |
+| childSupportIV-D.pdf | 64.7 KB | — | 2026-07-09 17:31 |
+| complaintResponse.pdf | 299.7 KB | — | 2026-07-09 17:33 |
+| dd214Mitchell.pdf | 194.1 KB | — | 2026-07-09 17:28 |
+| dsdt_enrollment_email.png | 42.7 KB | — | 2026-07-09 17:43 |
+| jurisdiictionAffidaviit.pdf | 74.4 KB | — | 2026-07-09 17:37 |
+| proofOfService.pdf | 16.9 KB | — | 2026-07-10 11:38 |
+| tempOrder.pdf | 116.2 KB | — | 2026-07-09 17:32 |
+| verifiedStatement.pdf | 73.5 KB | — | 2026-07-09 17:34 |
+
+### 01-case/filing-ready/served/ (1 files)
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| servedAdmissions20260814.pdf | 114.2 KB | — | 2026-08-14 11:20 |
+
+## 6b. filing-ready/exhibits/ — filenames only (64 files)
+
+- 00_EXHIBIT_INDEX.txt
+- AA_LARA_CPA_SEARCH.txt
+- A_PARENTAL_AUTHORIZATION.pdf
+- BB_INCIDENT_LOG.txt
+- C1_SBAR_BRIAN_BANKS_ZERO_RESULTS.png
+- C2_SBAR_BANKS_RESULTS_PAGE1.png
+- C3_SBAR_BANKS_RESULTS_PAGE2.png
+- C_STATE_BAR_SEARCH_SUMMARY.md
+- D_ELRICK_FREEP_JULY2022.md
+- E_PCA_FOUNDER_PAGE.md
+- F_ELRICK_FREEP_AUG2023.md
+- G1_LARA_PURPOSE_GROUP_LLC.png
+- G2_LARA_BANKS_STRATEGY_LLC.png
+- G3_LARA_PURPOSE_FOUNDATION.png
+- G4_LARA_ALL_BANKS_ENTITIES.png
+- G_LARA_FILINGS_SUMMARY.md
+- H_BANKS_OSINT_BRIEF.md
+- H_BANKS_OSINT_BRIEF_V1_AUG30.md
+- IMG_5794.PNG
+- IMG_5795.PNG
+- IMG_5796.PNG
+- IMG_5797.PNG
+- IMG_5798.PNG
+- IMG_5799.PNG
+- IMG_5800.PNG
+- IMG_5801.PNG
+- IMG_5802.PNG
+- IMG_5803.PNG
+- IMG_5804.PNG
+- IMG_5805.PNG
+- IMG_5806.PNG
+- IMG_5807.PNG
+- IMG_5808.PNG
+- IMG_5809.PNG
+- IMG_5810.PNG
+- IMG_5811.PNG
+- IMG_5812.PNG
+- IMG_5813.PNG
+- IMG_5814.PNG
+- IMG_5815.PNG
+- IMG_5816.PNG
+- IMG_5817.PNG
+- I_UPL_RECEIPT_AUG31.pdf
+- JK_JTC_CERTIFIED_MAIL.pdf
+- JK_JTC_NOTARY.pdf
+- L_MDE_COMPLAINT.md
+- M_AG_REFERRAL.md
+- N_DPSCD_EMAIL_SENT.png
+- O1_PCA_ORIENTATION_ARRIVAL.jpeg
+- O2_PCA_ORIENTATION_UNIFORM.jpeg
+- PRINT_ALL_IMAGE_EXHIBITS.pdf
+- PRINT_ALL_TEXT_EXHIBITS.md
+- P_MACDOWELL_BOARD.md
+- Q_CHALKBEAT_SEPT2025.md
+- R_KEEPJUDGEMILLER.md
+- S1_BALLOTPEDIA_YANCEY.md
+- S2_BALLOTPEDIA_MILLER.md
+- U_COVER.txt
+- V_COVER.txt
+- W_COVER.txt
+- X_COVER.txt
+- Y_COVER.txt
+- Z_HOLLAND_BANKRUPTCIES.txt
+- build_banks_exhibits.py
+
+## 6c. filing-ready/subpoenas/ — filenames only (23 files)
+
+- MC11_FILL_GUIDE.txt
+- MC11_PREFILL_ALL.txt
+- SUBPOENA_01_SHAYLA_PHONE.txt
+- SUBPOENA_02_BANKS_PHONE.txt
+- SUBPOENA_03_LAKE_TRUST.txt
+- SUBPOENA_04_PCA_RECORDS.txt
+- SUBPOENA_05_LEON_PHONE.txt
+- SUBPOENA_06_PSCU.txt
+- SUBPOENA_07_USPS.txt
+- SUBPOENA_08_SIMONE_TRUSTEE.txt
+- SUBPOENA_09_DPSCD.txt
+- SUBPOENA_10_MDE.txt
+- SUBPOENA_11_PERKINS.txt
+- SUBPOENA_12_PERLMUTER.txt
+- SUBPOENA_13_ELLIS.txt
+- SUBPOENA_14_YANCEY_CAMPAIGN.txt
+- SUBPOENA_15_PSCU_YANCEY.txt
+- SUBPOENA_16_MACDOWELL.txt
+- SUBPOENA_17_WAYNE_CLERK.txt
+- SUBPOENA_18_CROWDER.txt
+- SUBPOENA_19_GUIDANCE_CENTER.txt
+- SUBPOENA_20_NHA.txt
+- SUBPOENA_BLITZ.txt
+
+## 7. Other top-level directories with .md, .txt, or .py files
+
+### (root)/
+
+| File | Size | Lines | Modified |
+|------|------|-------|----------|
+| CONTEXT_CHECKPOINT.md | 11.1 KB | 182 | 2026-08-25 09:02 |
+| README.md | 5.3 KB | 111 | 2026-08-16 12:29 |
+| _gen_inventory.py | 9.2 KB | 269 | 2026-09-04 07:04 |
+
+### 02-parenting/ (5 text files)
+
+| Path | Size | Lines | Modified |
+|------|------|-------|----------|
+| 02-parenting/CUSTODY_CALENDAR.md | 15.0 KB | 289 | 2026-06-26 15:45 |
+| 02-parenting/PARENTING_JOURNAL.md | 89.4 KB | 1833 | 2026-08-25 09:03 |
+| 02-parenting/SCHOOL_BRIEF.md | 11.7 KB | 240 | 2026-08-25 09:02 |
+| 02-parenting/SCHOOL_DASEAN.md | 21.5 KB | 495 | 2026-08-25 09:02 |
+| 02-parenting/TIMELINE.md | 49.7 KB | 489 | 2026-08-25 09:02 |
+
+### 03-housing/ (2 text files)
+
+| Path | Size | Lines | Modified |
+|------|------|-------|----------|
+| 03-housing/LEASE_House 2.md | 10.0 KB | 338 | 2026-06-25 21:05 |
+| 03-housing/ROUTES_AND_RESOURCES.md | 10.2 KB | 200 | 2026-06-23 07:12 |
+
+### 04-school/ (46 text files)
+
+| Path | Size | Lines | Modified |
+|------|------|-------|----------|
+| 04-school/BANKS_ACTIVE_VIOLATIONS.md | 13.4 KB | 325 | 2026-09-04 06:20 |
+| 04-school/BANKS_MONEY_TRAIL.md | 15.4 KB | 360 | 2026-09-04 06:20 |
+| 04-school/BANKS_NETWORK_INTEL_AUG31.md | 9.6 KB | 241 | 2026-09-04 06:20 |
+| 04-school/BANKS_NETWORK_INTEL_SEPT1.md | 15.8 KB | 420 | 2026-09-04 06:20 |
+| 04-school/BANKS_OSINT_BRIEF.md | 29.7 KB | 587 | 2026-09-04 06:20 |
+| 04-school/BANKS_PROFILE.md | 52.1 KB | 1183 | 2026-09-04 06:20 |
+| 04-school/DSDT_CLASS_PREP.md | 21.4 KB | 431 | 2026-08-25 09:02 |
+| 04-school/ELRICK_OUTREACH_DRAFT.md | 28.1 KB | 672 | 2026-09-04 06:20 |
+| 04-school/ELRICK_REPLY_SEPT_MEETING.md | 3.8 KB | 57 | 2026-09-04 06:20 |
+| 04-school/ELRICK_UPDATE_AUG31_EVENING.md | 3.6 KB | 96 | 2026-09-04 06:20 |
+| 04-school/HOLLAND_AMENDMENT_PLAN.md | 4.0 KB | 92 | 2026-09-04 06:20 |
+| 04-school/LARA_MONITOR_WEEKLY.md | 3.0 KB | 88 | 2026-09-04 06:20 |
+| 04-school/LEARNING_PATH.md | 36.2 KB | 757 | 2026-08-25 09:02 |
+| 04-school/MACDOWELL_CONTAMINATION.md | 18.7 KB | 457 | 2026-09-04 06:20 |
+| 04-school/NETWORK_MAP.md | 28.3 KB | 292 | 2026-09-04 06:20 |
+| 04-school/NHA_SCHOOL_PROFILE.md | 7.6 KB | 181 | 2026-09-04 06:20 |
+| 04-school/OUTREACH_EMAILS.md | 2.2 KB | 58 | 2026-09-04 06:20 |
+| 04-school/PCA_BASH_AUTHORIZATION.md | 5.5 KB | 164 | 2026-09-04 06:20 |
+| 04-school/PCA_BASH_REPORT_AUG29.md | 22.8 KB | 594 | 2026-09-04 06:20 |
+| 04-school/PCA_DASEAN_MEETING_SEP1.md | 9.6 KB | 222 | 2026-09-04 06:20 |
+| 04-school/PRINT_STUDY_GUIDE_WEEKS_1_2.md | 16.6 KB | 307 | 2026-08-12 10:36 |
+| 04-school/RESEARCH_PROFILES.md | 21.1 KB | 540 | 2026-09-04 06:20 |
+| 04-school/SCHOOL_OPTIONS.md | 8.7 KB | 218 | 2026-08-17 13:23 |
+| 04-school/SEARCH_MATRIX.md | 23.0 KB | 366 | 2026-09-04 06:20 |
+| 04-school/SOSSI_EMAIL_DRAFT.md | 6.2 KB | 149 | 2026-09-04 06:20 |
+| 04-school/STUDY_GUIDE.md | 16.0 KB | 430 | 2026-07-31 11:46 |
+| 04-school/TASKNODE_SETUP.md | 8.0 KB | 321 | 2026-07-31 11:46 |
+| 04-school/WARGAME_POWER_NETWORK.md | 16.1 KB | 398 | 2026-09-04 06:20 |
+| 04-school/WORKSHEET_BINARY_AND_DATA.md | 11.1 KB | 404 | 2026-07-31 12:11 |
+| 04-school/archive_sept1/ARCHIVE_INDEX.md | 2.9 KB | 66 | 2026-09-04 06:20 |
+| 04-school/archive_sept1/keepjudgemiller_com.md | 1.9 KB | 49 | 2026-09-04 06:20 |
+| 04-school/archive_sept1/macdowell_linkedin.md | 878 B | 30 | 2026-09-04 06:20 |
+| 04-school/archive_sept1/yancey_ballotpedia.md | 1.4 KB | 40 | 2026-09-04 06:20 |
+| 04-school/profiles/01_HOLLAND_JOSEPH_JR.md | 2.6 KB | 68 | 2026-09-04 06:20 |
+| 04-school/profiles/02_YANCEY_TENISHA.md | 6.4 KB | 156 | 2026-09-04 06:20 |
+| 04-school/profiles/03_MILLER_CYLENTHIA.md | 7.3 KB | 169 | 2026-09-04 06:20 |
+| 04-school/profiles/04_STALLWORTH_NICOLE_WELLS.md | 2.9 KB | 66 | 2026-09-04 06:20 |
+| 04-school/profiles/05_VAUGHN_CORLETTA.md | 2.7 KB | 63 | 2026-09-04 06:20 |
+| 04-school/profiles/06_DAGNOGO_SHERRY_GAY.md | 2.8 KB | 73 | 2026-09-04 06:20 |
+| 04-school/profiles/07_MONEY_TRAIL.md | 4.6 KB | 103 | 2026-09-04 06:20 |
+| 04-school/profiles/08_SECONDARY_NETWORK.md | 7.6 KB | 199 | 2026-09-04 06:20 |
+| 04-school/profiles/09_TRIPLETT_REGINA.md | 2.3 KB | 47 | 2026-09-04 06:20 |
+| 04-school/profiles/10_BANKS_ENTITY_MAP.md | 9.3 KB | 261 | 2026-09-04 06:20 |
+| 04-school/profiles/11_ENEMIES_CREDITORS_ALLIES.md | 12.6 KB | 289 | 2026-09-04 06:20 |
+| 04-school/profiles/12_PROFESSIONAL_HITTERS.md | 9.6 KB | 237 | 2026-09-04 06:20 |
+| 04-school/usb-pack/README.txt | 2.5 KB | 56 | 2026-07-31 11:46 |
+
+### 05-community/ (1 text files)
+
+| Path | Size | Lines | Modified |
+|------|------|-------|----------|
+| 05-community/PARENT_PACKET.md | 25.3 KB | 821 | 2026-09-04 06:20 |
+
+### 05-employment/ (4 text files)
+
+| Path | Size | Lines | Modified |
+|------|------|-------|----------|
+| 05-employment/RESUME_DASEAN_MITCHELL.md | 8.5 KB | 214 | 2026-08-25 09:02 |
+| 05-employment/RESUME_SOURCE.md | 13.8 KB | 375 | 2026-06-23 10:57 |
+| 05-employment/resume_source_original.txt | 6.0 KB | 181 | 2026-06-18 10:02 |
+| 05-employment/VEHICLE_PLAN.md | 5.9 KB | 180 | 2026-08-16 12:43 |
+
+### 06-life-build/ (10 text files)
+
+| Path | Size | Lines | Modified |
+|------|------|-------|----------|
+| 06-life-build/BANKING_ACTION_PLAN.md | 18.1 KB | 398 | 2026-08-25 09:02 |
+| 06-life-build/CREDIT_BUILD.md | 36.1 KB | 787 | 2026-08-25 09:02 |
+| 06-life-build/DASEAN_FINANCIAL_ARCHITECTURE.md | 13.3 KB | 300 | 2026-09-04 06:20 |
+| 06-life-build/DASEAN_ONBOARDING.md | 28.1 KB | 593 | 2026-08-25 09:02 |
+| 06-life-build/DOCUMENT_WAREHOUSE.md | 20.2 KB | 366 | 2026-08-25 09:02 |
+| 06-life-build/KEVIN_COST_LEDGER.md | 6.3 KB | 161 | 2026-08-25 09:02 |
+| 06-life-build/LANSING_VS_DETROIT_DATA.md | 7.1 KB | 185 | 2026-09-04 06:20 |
+| 06-life-build/PREFILLED_FORMS_GUIDE.md | 9.8 KB | 358 | 2026-08-25 09:02 |
+| 06-life-build/SCHOOL_COMPARISON_LANSING_V_DETROIT.md | 9.6 KB | 221 | 2026-09-04 06:20 |
+| 06-life-build/VEHICLE_SEARCH.md | 24.1 KB | 518 | 2026-06-23 07:12 |
+
+### 02-evidence/ — custody catalog (merged from 07-evidence/, Sep 5 2026)
+
+| Path | Size | Lines | Modified |
+|------|------|-------|----------|
+| 02-evidence/EVIDENCE_INDEX_CUSTODY.md | 40.8 KB | 517 | 2026-08-25 09:02 |
+| 02-evidence/PHOTO_GUIDE.md | 28.5 KB | 292 | 2026-06-28 12:57 |
+
+### 08-lansingPride/ (7 text files)
+
+| Path | Size | Lines | Modified |
+|------|------|-------|----------|
+| 08-lansingPride/CASE_RESUME.md | 4.5 KB | 134 | 2026-08-25 09:02 |
+| 08-lansingPride/CASE_TRACKER.md | 10.5 KB | 264 | 2026-08-25 09:02 |
+| 08-lansingPride/FOIA_REQUEST.md | 4.3 KB | 133 | 2026-08-25 09:02 |
+| 08-lansingPride/INCIDENT_REPORT.md | 12.1 KB | 297 | 2026-06-29 10:28 |
+| 08-lansingPride/INCIDENT_REPORT_PUBLIC.md | 7.3 KB | 200 | 2026-06-29 10:41 |
+| 08-lansingPride/MONDAY_CALL_SHEET.md | 9.0 KB | 252 | 2026-08-25 09:02 |
+| 08-lansingPride/PHOTO_GUIDE.md | 4.9 KB | 91 | 2026-06-28 09:35 |
+
+### 10-long-term/ (1 text files)
+
+| Path | Size | Lines | Modified |
+|------|------|-------|----------|
+| 10-long-term/SPOKANE_ASSESSMENT.md | 12.9 KB | 290 | 2026-06-23 07:12 |
+
+### 09-labor/ (1 text files)
+
+| Path | Size | Lines | Modified |
+|------|------|-------|----------|
+| 09-labor/HOMEGROWN_CONDITIONS.md | 5.8 KB | 146 | 2026-07-01 10:19 |
+
+

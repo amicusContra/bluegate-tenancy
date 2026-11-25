@@ -1,0 +1,12 @@
+{
+  "file": "banks_notice.pdf",
+  "total_pages": 4,
+  "processed_pages": 4,
+  "text_extracted_pages": 4,
+  "ocr_pages": 0,
+  "low_content_pages": 0,
+  "total_characters": 332,
+  "avg_chars_per_page": 83,
+  "text_file": "C:\\Users\\mokke\\Downloads\\banks_pacer\\extracted\\banks_notice_text.txt",
+  "rendered_pages": []
+}

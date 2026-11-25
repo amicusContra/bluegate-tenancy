@@ -1,0 +1,361 @@
+{
+  "people": [
+    {
+      "id": "brian_banks",
+      "name": "Brian Roderick Banks",
+      "aliases": ["Brian Banks", "Brian R. Banks", "Brian Banks J.D. Ph.D."],
+      "role": "primary_target",
+      "known_addresses": [
+        {"address": "1968 Severn Rd", "city": "Grosse Pointe Woods", "state": "MI", "zip": "48236", "type": "home", "county": "Wayne"}
+      ],
+      "known_entities": ["banks_strategy", "purpose_foundation", "purpose_group", "right_turn"],
+      "credential_claims": [
+        {"claim": "J.D.", "institution": "MSU College of Law", "verify_at": "state_bar"},
+        {"claim": "Ph.D.", "institution": "Walden University", "verify_at": "university"},
+        {"claim": "B.S.", "institution": "Wayne State University", "verify_at": "university"},
+        {"claim": "M.Ed.", "institution": "Wayne State University", "verify_at": "university"},
+        {"claim": "School Administrator Certification", "institution": "MDE", "verify_at": "mde"},
+        {"claim": "Attorney", "institution": "self-represented", "verify_at": "state_bar"}
+      ],
+      "searches": {
+        "lara": {"agent_name": true, "entity_ids": ["802070120", "803294855"]},
+        "state_bar": true,
+        "mde": true,
+        "property": {"counties": ["Wayne"]},
+        "court": {"counties": ["Wayne"], "courts": ["3rd_circuit", "36th_district"]},
+        "irs_teos": false,
+        "sba": true,
+        "mdoc": true
+      }
+    },
+    {
+      "id": "joseph_holland",
+      "name": "Joseph Holland Jr",
+      "aliases": ["Joseph Holland", "Joe Holland"],
+      "role": "purpose_foundation_secretary",
+      "known_addresses": [
+        {"address": "1968 Severn Rd", "city": "Grosse Pointe Woods", "state": "MI", "zip": "48236", "type": "lara_listed", "county": "Wayne", "note": "Banks home - suspicious"}
+      ],
+      "known_entities": ["purpose_foundation"],
+      "mdoc_number": "443789",
+      "searches": {
+        "lara": {"agent_name": true},
+        "property": {"counties": ["Wayne"]},
+        "court": {"counties": ["Wayne"]},
+        "mdoc": true
+      }
+    },
+    {
+      "id": "tenisha_yancey",
+      "name": "Tenisha R. Yancey",
+      "aliases": ["Tenisha Yancey", "Judge Tenisha Yancey"],
+      "role": "36th_district_judge_macdowell_board",
+      "known_addresses": [
+        {"address": "21406 Broadstone", "city": "Harper Woods", "state": "MI", "zip": "48225", "type": "law_firm", "county": "Wayne"}
+      ],
+      "known_entities": ["yancey_law_group"],
+      "searches": {
+        "lara": {"agent_name": true, "entity_name": "Yancey Law Group"},
+        "state_bar": true,
+        "property": {"counties": ["Wayne"], "cities": ["Harper Woods", "Detroit"]},
+        "campaign_finance": {"committee_name": "Committee to Elect Tenisha Yancey"},
+        "court": {"case_numbers": ["COC 22-000060-MM"]}
+      }
+    },
+    {
+      "id": "cylenthia_miller",
+      "name": "Cylenthia LaToye Miller",
+      "aliases": ["Cylenthia Miller", "Judge Cylenthia Miller", "Hon. Cylenthia L. Miller"],
+      "role": "3rd_circuit_judge_pca_board_chair",
+      "known_addresses": [],
+      "known_entities": ["workforce_asset"],
+      "searches": {
+        "lara": {"agent_name": true},
+        "state_bar": true,
+        "property": {"counties": ["Wayne", "Monroe"], "cities": ["Flat Rock"]},
+        "campaign_finance": true,
+        "court": {"case_numbers": [], "courts": ["34th_district_romulus", "54b_district"]}
+      }
+    },
+    {
+      "id": "todd_perkins",
+      "name": "Todd Perkins",
+      "aliases": [],
+      "role": "attorney_purpose_group",
+      "known_addresses": [],
+      "known_entities": ["perkins_law_group"],
+      "searches": {
+        "lara": {"entity_name": "Perkins Law Group"},
+        "state_bar": true
+      }
+    },
+    {
+      "id": "nicole_stallworth",
+      "name": "Nicole Wells Stallworth",
+      "aliases": ["Nicole Stallworth", "Nicole Wells"],
+      "role": "macdowell_board",
+      "known_addresses": [],
+      "known_entities": [],
+      "searches": {
+        "lara": {"agent_name": true},
+        "property": {"counties": ["Wayne"]},
+        "campaign_finance": {"related_name": "Tommy Stallworth"}
+      }
+    },
+    {
+      "id": "tracey_ellis",
+      "name": "Tracey D. Ellis",
+      "aliases": ["Tracey Ellis"],
+      "role": "cfo_yecart_accounting",
+      "known_addresses": [
+        {"address": "XXXXX George Washington Dr Ste 356", "city": "Southfield", "state": "MI", "zip": "48075", "type": "office", "county": "Oakland"}
+      ],
+      "known_entities": ["yecart_accounting", "yecart_llc"],
+      "searches": {
+        "lara": {"agent_name": true, "entity_ids": ["801438906"]},
+        "cpa_license": true
+      }
+    },
+    {
+      "id": "gary_perlmuter",
+      "name": "Gary Perlmuter",
+      "aliases": [],
+      "role": "attorney_organizer",
+      "known_addresses": [],
+      "known_entities": [],
+      "searches": {
+        "lara": {"agent_name": true},
+        "state_bar": true
+      }
+    },
+    {
+      "id": "sherry_dagnogo",
+      "name": "Sherry Gay-Dagnogo",
+      "aliases": ["Sherry Gay Dagnogo", "Sherry Dagnogo"],
+      "role": "dpscd_board_pac",
+      "known_addresses": [],
+      "known_entities": [],
+      "searches": {
+        "campaign_finance": {"committee_name": "Sherry Gay Dagnogo Strong Women Lead PAC"}
+      }
+    },
+    {
+      "id": "leon_smith",
+      "name": "Leon A. Smith",
+      "aliases": ["Leon Smith"],
+      "role": "shayla_father_usps",
+      "known_addresses": [
+        {"address": "XXXXX Dresden St", "city": "Detroit", "state": "MI", "zip": "48205", "type": "home", "county": "Wayne"}
+      ],
+      "known_entities": [],
+      "searches": {
+        "lara": {"agent_name": true},
+        "property": {"counties": ["Wayne"]},
+        "court": {"counties": ["Wayne"]}
+      }
+    },
+    {
+      "id": "marquita_smith",
+      "name": "Marquita L. Smith",
+      "aliases": ["Marquita Smith"],
+      "role": "shayla_mother_coowner",
+      "known_addresses": [
+        {"address": "XXXXX Dresden St", "city": "Detroit", "state": "MI", "zip": "48205", "type": "home", "county": "Wayne"}
+      ],
+      "known_entities": [],
+      "searches": {
+        "lara": {"agent_name": true},
+        "property": {"counties": ["Wayne"]},
+        "court": {"counties": ["Wayne"]}
+      }
+    },
+    {
+      "id": "shayla_smith",
+      "name": "Shayla Smith",
+      "aliases": [],
+      "role": "defendant_mother",
+      "known_addresses": [
+        {"address": "XXXXX Dresden St", "city": "Detroit", "state": "MI", "zip": "48205", "type": "current", "county": "Wayne"},
+        {"address": "XXXXX Virginia Ave", "city": "Eastpointe", "state": "MI", "zip": "48021", "type": "former", "county": "Macomb"},
+        {"address": "37055 Bradford Apt 214", "city": "Sterling Heights", "state": "MI", "zip": "", "type": "former", "county": "Macomb"}
+      ],
+      "known_entities": [],
+      "searches": {
+        "lara": {"agent_name": true},
+        "property": {"counties": ["Wayne", "Macomb"]},
+        "court": {"counties": ["Wayne"]},
+        "nmls": true
+      }
+    },
+    {
+      "id": "simone_smith",
+      "name": "Simone Smith",
+      "aliases": ["Simone L. Smith"],
+      "role": "defendant_shayla_sister",
+      "known_addresses": [
+        {"address": "XXXXX Dresden St", "city": "Detroit", "state": "MI", "zip": "48205", "type": "current", "county": "Wayne"}
+      ],
+      "known_entities": [],
+      "searches": {
+        "lara": {"agent_name": true},
+        "property": {"counties": ["Wayne", "Macomb"]},
+        "court": {"counties": ["Wayne"]},
+        "nmls": true
+      }
+    },
+    {
+      "id": "tunezha_crowder",
+      "name": "Tunezha Crowder",
+      "aliases": ["Tunezha L. Crowder"],
+      "role": "shayla_friend_eastpointe_host",
+      "known_addresses": [
+        {"address": "XXXXX Virginia Ave", "city": "Eastpointe", "state": "MI", "zip": "48021", "type": "home", "county": "Macomb"}
+      ],
+      "known_entities": [],
+      "searches": {
+        "lara": {"agent_name": true},
+        "property": {"counties": ["Wayne", "Macomb"]},
+        "court": {"counties": ["Wayne", "Macomb"]},
+        "nmls": true
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "banks_strategy",
+      "name": "Banks Strategy & Consultants, LLC",
+      "lara_id": "802070120",
+      "type": "domestic_llc",
+      "agent": "brian_banks",
+      "address": "1968 Severn Rd, Grosse Pointe Woods, MI 48236",
+      "status": "verify",
+      "sba_eidl": {"amount": 1000, "date": "2020-06-23"}
+    },
+    {
+      "id": "purpose_foundation",
+      "name": "Purpose Foundation",
+      "lara_id": "803294855",
+      "type": "domestic_nonprofit",
+      "agent": "brian_banks",
+      "address": "1968 Severn Rd, Grosse Pointe Woods, MI 48236",
+      "status": "active",
+      "formed": "2024-12-09",
+      "ein": "33-3537910",
+      "directors": 4,
+      "note": "All 4 directors listed at same address (Banks home)"
+    },
+    {
+      "id": "purpose_group",
+      "name": "The Purpose Group, LLC",
+      "lara_id": "803295082",
+      "type": "domestic_llc",
+      "agent": "brian_banks",
+      "address": "10101 E. Canfield St, Detroit, MI 48214",
+      "status": "active",
+      "formed": "2024-11-14",
+      "website": "thepurposegroupmichigan.com",
+      "note": "CMO operating from inside PCA school building"
+    },
+    {
+      "id": "right_turn",
+      "name": "The Right Turn Project",
+      "lara_id": null,
+      "type": "nonprofit",
+      "agent": "brian_banks",
+      "address": null,
+      "status": "irs_dissolved_2019",
+      "note": "IRS revoked tax-exempt status 2019"
+    },
+    {
+      "id": "yecart_accounting",
+      "name": "Yecart Accounting Services, LLC",
+      "lara_id": "801438906",
+      "type": "domestic_llc",
+      "agent": "tracey_ellis",
+      "address": "XXXXX George Washington Dr Ste 356, Southfield, MI 48075",
+      "status": "active",
+      "formed": "2007-12-12",
+      "phone": "313-310-8810"
+    },
+    {
+      "id": "yecart_llc",
+      "name": "Yecart L.L.C.",
+      "lara_id": null,
+      "type": "domestic_llc",
+      "agent": "tracey_ellis",
+      "address": null,
+      "status": "verify"
+    },
+    {
+      "id": "perkins_law_group",
+      "name": "Perkins Law Group, PLLC",
+      "lara_id": null,
+      "type": "domestic_pllc",
+      "agent": "todd_perkins",
+      "address": null,
+      "status": "verify"
+    },
+    {
+      "id": "yancey_law_group",
+      "name": "Yancey Law Group, PLLC",
+      "lara_id": "E4526W",
+      "type": "domestic_pllc",
+      "agent": "tenisha_yancey",
+      "address": "21406 Broadstone, Harper Woods, MI 48225",
+      "status": "active",
+      "formed": "2014-07-29"
+    },
+    {
+      "id": "workforce_asset",
+      "name": "Workforce Asset and Investment Agency",
+      "lara_id": "764376",
+      "type": "unknown",
+      "agent": "cylenthia_miller",
+      "address": "XXX W Milwaukee Ave, Detroit, MI 48202",
+      "status": "verify",
+      "note": "Miller was director - staffing/temp agency ~20 employees"
+    },
+    {
+      "id": "macdowell_prep",
+      "name": "MacDowell Preparatory Academy",
+      "lara_id": null,
+      "type": "charter_school",
+      "agent": null,
+      "address": "NW Detroit",
+      "status": "active"
+    },
+    {
+      "id": "purpose_charter",
+      "name": "Purpose Charter Academy",
+      "lara_id": null,
+      "type": "charter_school",
+      "agent": null,
+      "address": "10101 E. Canfield St, Detroit, MI 48214",
+      "status": "active",
+      "authorized_by": "DPSCD"
+    },
+    {
+      "id": "inner_link",
+      "name": "The-Inner-Link, LLC",
+      "lara_id": null,
+      "type": "domestic_llc",
+      "agent": "larry_thomas_jr",
+      "address": "17515 W 9 Mile Rd, Southfield, MI",
+      "status": "verify",
+      "note": "Banks campaign vendor ($39,315 in 2018)"
+    }
+  ],
+  "addresses": [
+    {"id": "severn_1968", "address": "1968 Severn Rd", "city": "Grosse Pointe Woods", "state": "MI", "zip": "48236", "county": "Wayne", "associated_with": ["brian_banks", "purpose_foundation", "purpose_group", "banks_strategy"]},
+    {"id": "broadstone_21406", "address": "21406 Broadstone", "city": "Harper Woods", "state": "MI", "zip": "48225", "county": "Wayne", "associated_with": ["tenisha_yancey", "yancey_law_group"]},
+    {"id": "canfield_10101", "address": "10101 E. Canfield St", "city": "Detroit", "state": "MI", "zip": "48214", "county": "Wayne", "associated_with": ["purpose_group", "purpose_charter"]},
+    {"id": "george_washington_18657", "address": "XXXXX George Washington Dr Ste 356", "city": "Southfield", "state": "MI", "zip": "48075", "county": "Oakland", "associated_with": ["yecart_accounting", "tracey_ellis"]},
+    {"id": "dresden_17370", "address": "XXXXX Dresden St", "city": "Detroit", "state": "MI", "zip": "48205", "county": "Wayne", "associated_with": ["leon_smith", "marquita_smith", "shayla_smith"]},
+    {"id": "virginia_22237", "address": "XXXXX Virginia Ave", "city": "Eastpointe", "state": "MI", "zip": "48021", "county": "Macomb", "associated_with": ["shayla_smith"], "note": "Tunezha Crowder address - Shayla hid here Feb-Jun 2026"},
+    {"id": "bradford_37055", "address": "37055 Bradford Apt 214", "city": "Sterling Heights", "state": "MI", "zip": "", "county": "Macomb", "associated_with": ["shayla_smith"], "note": "Former apartment"},
+    {"id": "berden_19239", "address": "19239 Berden", "city": "Harper Woods", "state": "MI", "zip": "", "county": "Wayne", "associated_with": [], "note": "Michele Wood - Banks ex-landlord"},
+    {"id": "fleetwood_20927", "address": "20927 Fleetwood", "city": "Harper Woods", "state": "MI", "zip": "", "county": "Wayne", "associated_with": [], "note": "Dan Sylvester - Banks ex-landlord, $3751 judgment"},
+    {"id": "milwaukee_707", "address": "XXX W Milwaukee Ave", "city": "Detroit", "state": "MI", "zip": "48202", "county": "Wayne", "associated_with": ["cylenthia_miller", "workforce_asset"]}
+  ]
+}
+
